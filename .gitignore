@@ -1,15 +1,42 @@
+# Built artifacts
+**/build
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Android Studio / IntelliJ
 *.iml
 .gradle
-/local.properties
+.idea
+local.properties
 /.idea/caches
 /.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
-.DS_Store
-/build
 /captures
 .externalNativeBuild
 .cxx
-local.properties
+
+# Kotlin
+.kotlin
+/lib
+
+# Keystore files
+*.jks
+*.keystore
+*.pk8
+*.p12
+google-services.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Crashlytics
+com_crashlytics_export_strings.xml
