@@ -2,6 +2,7 @@ package com.nyra.app.android.core.designsystem.theme
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.BoxScope
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
@@ -14,7 +15,7 @@ import androidx.compose.ui.unit.dp
 fun NyraCard(
     modifier: Modifier = Modifier,
     contentPadding: PaddingValues = PaddingValues(NyraSpacing.md),
-    content: @Composable () -> Unit
+    content: @Composable BoxScope.() -> Unit
 ) {
     Box(
         modifier = modifier

@@ -1,0 +1,1550 @@
+[
+  {
+    "id": "identity_symbolic",
+    "area": "identity",
+    "tier": "core",
+    "required_traits": [
+      "symbolic_thinking",
+      "meaning_seeking",
+      "authenticity_drive"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 70,
+    "dominant_dimensions": [
+      "depth",
+      "symbolism",
+      "autonomy"
+    ],
+    "emotional_tone": "meaning_anchored",
+    "title": "Symbolic Identity",
+    "short_summary": "Selfhood lives in meaning, metaphor, and the patterns beneath the surface.",
+    "summary": "Identity feels real to you when it carries meaning. You read yourself through symbols, themes, and the why behind what you do, not through job titles or surface categories.",
+    "shadow": "When the inner symbolic layer stays private, you can feel unseen even by people who know you well, like the most important part of you stays internal.",
+    "growth": "Small, concrete expressions of inner meaning \u2014 a word, a choice, a creation \u2014 let your symbolic self meet the outside world without losing its shape.",
+    "aesthetic_tags": [
+      "violet",
+      "moonlight",
+      "paper",
+      "mirror"
+    ],
+    "reflection_tags": [
+      "identity",
+      "purpose",
+      "self_expression"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_restless_discovery",
+    "area": "identity",
+    "tier": "core",
+    "required_traits": [
+      "novelty_seeking",
+      "transformative_identity",
+      "discovery_orientation"
+    ],
+    "minimum_match": 2,
+    "weight": 0.8,
+    "fallback_priority": 65,
+    "dominant_dimensions": [
+      "novelty",
+      "transformative_energy",
+      "autonomy"
+    ],
+    "emotional_tone": "restless_becoming",
+    "title": "Restless Self-Discovery",
+    "short_summary": "The self moves, and discovering who you're becoming is part of who you are.",
+    "summary": "You don't experience identity as a fixed thing. The version of you from a year ago feels distant; the version of next year already pulls. New contexts and new ideas keep you feeling alive.",
+    "shadow": "Constant motion can leave you without ground to stand on. Old commitments may feel constraining before they've actually finished.",
+    "growth": "Anchoring to one or two stable values, even while the rest of you reshapes, gives the restlessness somewhere to come home to.",
+    "aesthetic_tags": [
+      "spark",
+      "wind",
+      "horizon",
+      "silver"
+    ],
+    "reflection_tags": [
+      "identity",
+      "change",
+      "growth"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_quiet_selfhood",
+    "area": "identity",
+    "tier": "core",
+    "required_traits": [
+      "emotional_privacy",
+      "self_monitoring",
+      "identity_sensitivity"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 70,
+    "dominant_dimensions": [
+      "depth",
+      "sensitivity",
+      "autonomy"
+    ],
+    "emotional_tone": "quiet_inward",
+    "title": "Quiet Selfhood",
+    "short_summary": "Your sense of self is real, careful, and kept close.",
+    "summary": "Identity for you is internal first. You notice your own movements before sharing them, and the most important parts of who you are usually aren't on display.",
+    "shadow": "The same care that protects your sense of self can make you feel unseen, especially in spaces that don't make room for inwardness.",
+    "growth": "Trusted relationships and slow self-disclosure let the quiet self stay quiet while still being met.",
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "stillness",
+      "velvet"
+    ],
+    "reflection_tags": [
+      "identity",
+      "vulnerability",
+      "inner_world"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_strong_individuality",
+    "area": "identity",
+    "tier": "core",
+    "required_traits": [
+      "individuality_focus",
+      "autonomy_needing",
+      "nonconformity"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 65,
+    "dominant_dimensions": [
+      "autonomy",
+      "novelty",
+      "symbolism"
+    ],
+    "emotional_tone": "distinct_autonomous",
+    "title": "Strong Individuality",
+    "short_summary": "Your shape is your own, and adapting to expectations costs you energy.",
+    "summary": "You have a clear sense of being yourself \u2014 distinct, not a variation on anyone else's template. Pressure to conform reads as a kind of static you'd rather move away from.",
+    "shadow": "Difference held too defensively becomes its own conformity. Always being unlike can flatten subtler colors of who you are.",
+    "growth": "Letting some commonalities exist without threat \u2014 agreeing without dissolving \u2014 gives individuality room to breathe instead of constantly proving itself.",
+    "aesthetic_tags": [
+      "silver",
+      "horizon",
+      "spark",
+      "shadow"
+    ],
+    "reflection_tags": [
+      "identity",
+      "freedom",
+      "self_expression"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_quiet_gravity",
+    "area": "inner_world",
+    "tier": "core",
+    "required_traits": [
+      "emotional_depth",
+      "emotionally_guarded",
+      "introspective_processing"
+    ],
+    "minimum_match": 2,
+    "weight": 0.9,
+    "fallback_priority": 80,
+    "dominant_dimensions": [
+      "depth",
+      "sensitivity",
+      "intensity"
+    ],
+    "emotional_tone": "quiet_deep",
+    "title": "Quiet Emotional Gravity",
+    "short_summary": "Feelings run deep but rarely surface.",
+    "summary": "Emotions land with weight and stay with you. You process inward first, take time before sharing, and feel most yourself in private reflection rather than open expression.",
+    "shadow": "Depth that stays unspoken accumulates. Inner gravity, left alone too long, becomes heaviness.",
+    "growth": "Selective vulnerability \u2014 one trusted ear, one honest sentence \u2014 keeps the inner pressure moving without forcing you out of your natural inwardness.",
+    "aesthetic_tags": [
+      "night",
+      "water",
+      "fog",
+      "violet"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "vulnerability",
+      "emotional_regulation"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_symbolic_ocean",
+    "area": "inner_world",
+    "tier": "core",
+    "required_traits": [
+      "symbolic_thinking",
+      "imaginative_processing",
+      "meaning_seeking"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 70,
+    "dominant_dimensions": [
+      "symbolism",
+      "depth",
+      "novelty"
+    ],
+    "emotional_tone": "imaginative_deep",
+    "title": "Symbolic Inner Ocean",
+    "short_summary": "The inside is wide, image-rich, and patterned with meaning.",
+    "summary": "Your inner world isn't linear. It runs in symbols, recurring images, half-formed metaphors \u2014 a layer of imagination always running underneath the literal one.",
+    "shadow": "Living mostly in the symbolic can make ordinary life feel thin. The literal world starts to feel like something to translate into your real one.",
+    "growth": "Bringing the symbolic out \u2014 through writing, making, or naming \u2014 turns the inner ocean from a place you hide in into a place you share from.",
+    "aesthetic_tags": [
+      "moonlight",
+      "fog",
+      "water",
+      "violet"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "creativity",
+      "purpose"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_overprocessing",
+    "area": "inner_world",
+    "tier": "core",
+    "required_traits": [
+      "overthinking",
+      "mental_fixation",
+      "emotional_absorption"
+    ],
+    "minimum_match": 2,
+    "weight": 0.8,
+    "fallback_priority": 65,
+    "dominant_dimensions": [
+      "depth",
+      "intensity",
+      "sensitivity"
+    ],
+    "emotional_tone": "looping_inward",
+    "title": "Emotional Overprocessing",
+    "short_summary": "Feelings get analyzed before they finish being felt.",
+    "summary": "Your mind moves quickly when emotions arrive \u2014 looping over the meaning, the cause, the implications. Processing becomes a way of holding what feels uncontrollable.",
+    "shadow": "Overprocessing keeps you above the feeling instead of inside it. The loop can feel productive but rarely lets the emotion actually move through.",
+    "growth": "Short pauses \u2014 a breath, a walk, a body check \u2014 let the body finish what the mind keeps interrupting. Some feelings need to be felt before they're understood.",
+    "aesthetic_tags": [
+      "mirror",
+      "fog",
+      "shadow",
+      "silver"
+    ],
+    "reflection_tags": [
+      "emotional_regulation",
+      "inner_world",
+      "vulnerability"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_deep_sensitivity",
+    "area": "inner_world",
+    "tier": "core",
+    "required_traits": [
+      "emotional_sensitivity",
+      "emotional_absorption",
+      "psychological_insight"
+    ],
+    "minimum_match": 2,
+    "weight": 0.9,
+    "fallback_priority": 75,
+    "dominant_dimensions": [
+      "sensitivity",
+      "depth",
+      "symbolism"
+    ],
+    "emotional_tone": "porous_perceptive",
+    "title": "Deep Emotional Sensitivity",
+    "short_summary": "You read what's underneath, and feel it before others notice it's there.",
+    "summary": "You pick up emotional currents quickly: a shift in a room, an unspoken weight in a friend, an undercurrent in a sentence. Your inner life moves in close sympathy with what's around you.",
+    "shadow": "What's around you doesn't always belong to you. Without enough space to separate, other people's weather becomes your own.",
+    "growth": "Naming what's yours and what's borrowed \u2014 even silently \u2014 gives your sensitivity its edges back. Depth without overflow.",
+    "aesthetic_tags": [
+      "water",
+      "moonlight",
+      "soft_light",
+      "violet"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "inner_world",
+      "boundaries"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_soft_harmony",
+    "area": "relationships",
+    "tier": "core",
+    "required_traits": [
+      "harmony_seeking",
+      "emotionally_guarded",
+      "deep_connection_seeking"
+    ],
+    "minimum_match": 2,
+    "weight": 0.9,
+    "fallback_priority": 80,
+    "dominant_dimensions": [
+      "warmth",
+      "harmony",
+      "sensitivity"
+    ],
+    "emotional_tone": "guarded_tender",
+    "title": "Soft Harmony, Slow Trust",
+    "short_summary": "You want closeness, but it has to feel safe before it can feel deep.",
+    "summary": "You move toward warmth and ease in relationships, but you don't open quickly. Trust earns itself in small moments, and the connections that last for you are the ones that gave you time.",
+    "shadow": "Waiting too long for proof can keep people at the edge of you indefinitely. Some closeness only forms by being risked first.",
+    "growth": "Letting one trusted person see one slightly tender thing \u2014 earlier than feels comfortable \u2014 is often the bridge between gentleness and real intimacy.",
+    "aesthetic_tags": [
+      "soft_light",
+      "velvet",
+      "moonlight",
+      "garden"
+    ],
+    "reflection_tags": [
+      "trust",
+      "attachment",
+      "vulnerability"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_protective_warmth",
+    "area": "relationships",
+    "tier": "core",
+    "required_traits": [
+      "emotional_warmth",
+      "protective_care",
+      "attachment_security_needing"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 75,
+    "dominant_dimensions": [
+      "warmth",
+      "sensitivity",
+      "harmony"
+    ],
+    "emotional_tone": "warm_protective",
+    "title": "Protective Warmth",
+    "short_summary": "Care, for you, is something to keep safe and to keep people safe inside.",
+    "summary": "Your warmth comes with a protective edge. The people you love are people you watch out for, and the relationships that feel right are ones where care moves both directions.",
+    "shadow": "Protectiveness can quietly tilt into possessiveness or over-management. Keeping someone safe sometimes means not making decisions on their behalf.",
+    "growth": "Trusting the people you love to handle their own weather \u2014 even when it's hard to watch \u2014 strengthens care instead of straining it.",
+    "aesthetic_tags": [
+      "warm_glow",
+      "velvet",
+      "garden",
+      "gold"
+    ],
+    "reflection_tags": [
+      "attachment",
+      "trust",
+      "relationships"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_selective_closeness",
+    "area": "relationships",
+    "tier": "core",
+    "required_traits": [
+      "emotionally_selective",
+      "selective_trust",
+      "deep_connection_seeking"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 70,
+    "dominant_dimensions": [
+      "depth",
+      "sensitivity",
+      "autonomy"
+    ],
+    "emotional_tone": "selective_intimate",
+    "title": "Selective Emotional Closeness",
+    "short_summary": "Few people, deep terms.",
+    "summary": "You don't bond widely. You bond well. Your closest connections are deliberate, slowly chosen, and held with real weight.",
+    "shadow": "A very small circle can become a closed one. The criteria that protect intimacy can also keep new closeness from ever beginning.",
+    "growth": "Letting acquaintance be its own kind of relationship \u2014 not a failed attempt at deep friendship \u2014 gives more people room without diluting what's deep.",
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "violet",
+      "velvet"
+    ],
+    "reflection_tags": [
+      "trust",
+      "attachment",
+      "boundaries"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_gentle_silencing",
+    "area": "relationships",
+    "tier": "core",
+    "required_traits": [
+      "people_pleasing",
+      "conflict_avoidance",
+      "self_sacrifice"
+    ],
+    "minimum_match": 2,
+    "weight": 0.8,
+    "fallback_priority": 65,
+    "dominant_dimensions": [
+      "warmth",
+      "harmony",
+      "sensitivity"
+    ],
+    "emotional_tone": "yielding_soft",
+    "title": "Gentle Self-Silencing",
+    "short_summary": "Keeping the peace can quietly cost you the room to be there.",
+    "summary": "You read what other people need and tend to adjust toward it. Keeping things harmonious feels right, but the self that gets adjusted is often the one with the least voice in the conversation.",
+    "shadow": "Too much adjustment leaves resentment with nowhere to go. The peace you keep on the outside builds pressure on the inside.",
+    "growth": "Small, low-stakes disagreements \u2014 said kindly \u2014 are practice for honest closeness. Harmony without your real voice in it is only half harmony.",
+    "aesthetic_tags": [
+      "fog",
+      "soft_light",
+      "velvet",
+      "mirror"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "conflict",
+      "self_expression"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_transparency",
+    "area": "communication",
+    "tier": "core",
+    "required_traits": [
+      "emotional_openness",
+      "emotional_expressiveness",
+      "relational_attunement"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 75,
+    "dominant_dimensions": [
+      "warmth",
+      "social_energy",
+      "sensitivity"
+    ],
+    "emotional_tone": "transparent_warm",
+    "title": "Emotional Transparency",
+    "short_summary": "What you feel reaches the surface, and so does the room around you.",
+    "summary": "You communicate from where you actually are emotionally. Feelings don't get edited out; they shape how you speak, listen, and meet the people in front of you.",
+    "shadow": "Transparency without filter can land harder than intended. Some moments need a delay between feeling and speaking.",
+    "growth": "A small pause before high-charge expression \u2014 not silence, just space \u2014 keeps your honesty warm instead of overwhelming.",
+    "aesthetic_tags": [
+      "soft_light",
+      "warm_glow",
+      "spark",
+      "gold"
+    ],
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "relationships"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_diplomatic",
+    "area": "communication",
+    "tier": "core",
+    "required_traits": [
+      "diplomatic_communication",
+      "social_awareness",
+      "harmony_seeking"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 75,
+    "dominant_dimensions": [
+      "harmony",
+      "social_energy",
+      "sensitivity"
+    ],
+    "emotional_tone": "diplomatic_attuned",
+    "title": "Diplomatic Expression",
+    "short_summary": "You speak with the whole room in mind.",
+    "summary": "You feel the social weather before you speak. Your communication shapes itself to keep things workable \u2014 clear, considered, often more attuned to others than your own preference.",
+    "shadow": "Constant attunement to the room can leave your own position uncommunicated. Diplomacy turns into avoidance when nothing direct gets said.",
+    "growth": "Naming your own view inside the diplomatic frame \u2014 'and here's what I think' \u2014 keeps your honesty in the conversation without breaking the harmony.",
+    "aesthetic_tags": [
+      "silver",
+      "soft_light",
+      "mirror",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "communication",
+      "relationships",
+      "conflict"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_reserved",
+    "area": "communication",
+    "tier": "core",
+    "required_traits": [
+      "emotionally_reserved",
+      "emotional_self_protection",
+      "verbal_processing"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 75,
+    "dominant_dimensions": [
+      "depth",
+      "structure",
+      "autonomy"
+    ],
+    "emotional_tone": "reserved_thoughtful",
+    "title": "Reserved Communication",
+    "short_summary": "Words exist when they need to, and quiet is also an answer.",
+    "summary": "You don't perform expression. Your communication tends toward economy \u2014 saying what matters, leaving what doesn't, holding back when conditions don't feel right yet.",
+    "shadow": "Reserve can be read as distance. The signal you intend as careful sometimes reads as cold to the people around you.",
+    "growth": "A small piece of context \u2014 what you're sitting with, even briefly \u2014 helps the people close to you read the silence as presence, not absence.",
+    "aesthetic_tags": [
+      "stone",
+      "fog",
+      "silver",
+      "velvet"
+    ],
+    "reflection_tags": [
+      "communication",
+      "boundaries",
+      "vulnerability"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_playful_presence",
+    "area": "communication",
+    "tier": "core",
+    "required_traits": [
+      "intellectually_playful",
+      "idea_generation",
+      "charismatic_engagement"
+    ],
+    "minimum_match": 2,
+    "weight": 0.8,
+    "fallback_priority": 65,
+    "dominant_dimensions": [
+      "novelty",
+      "social_energy",
+      "intensity"
+    ],
+    "emotional_tone": "playful_bright",
+    "title": "Intellectually Playful Presence",
+    "short_summary": "Ideas, riffs, and quick wit are how you reach people.",
+    "summary": "You connect through movement: an idea picked up and turned, a joke that lands sideways, a conversation that doesn't sit still. Engagement, for you, has texture.",
+    "shadow": "Constant motion can sidestep slower, heavier moments. Playfulness sometimes shows up where presence is what's actually needed.",
+    "growth": "Letting one beat be still \u2014 a longer pause, a less clever answer \u2014 opens room for the kind of closeness that play alone can't reach.",
+    "aesthetic_tags": [
+      "spark",
+      "silver",
+      "movement",
+      "air"
+    ],
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "creativity"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_symbolic_flow",
+    "area": "creativity",
+    "tier": "core",
+    "required_traits": [
+      "symbolic_thinking",
+      "creative_expression",
+      "imaginative_processing"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 70,
+    "dominant_dimensions": [
+      "symbolism",
+      "novelty",
+      "depth"
+    ],
+    "emotional_tone": "imaginative_symbolic",
+    "title": "Symbolic Creative Flow",
+    "short_summary": "Making is how you translate the inner symbolic layer into something shareable.",
+    "summary": "Your creative work runs on meaning. You don't make to decorate \u2014 you make to externalize what's been moving symbolically inside, and the output carries layers most people only see on a second look.",
+    "shadow": "Standards rooted in private meaning can be hard to satisfy. The gap between inner symbol and outer result sometimes leaves work stalled.",
+    "growth": "Treating finished as enough \u2014 even when the symbolic depth feels incomplete \u2014 lets the work move outward and meet its actual audience.",
+    "aesthetic_tags": [
+      "violet",
+      "moonlight",
+      "paper",
+      "gold"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "inner_world",
+      "self_expression"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_experimental",
+    "area": "creativity",
+    "tier": "core",
+    "required_traits": [
+      "experimentation",
+      "novelty_seeking",
+      "unconventional_thinking"
+    ],
+    "minimum_match": 2,
+    "weight": 0.8,
+    "fallback_priority": 65,
+    "dominant_dimensions": [
+      "novelty",
+      "autonomy",
+      "transformative_energy"
+    ],
+    "emotional_tone": "experimental_curious",
+    "title": "Experimental Expression",
+    "short_summary": "You make by trying, and trying differently.",
+    "summary": "Your creativity moves through experimentation. You'd rather try something untested than refine something familiar, and the most interesting work usually shows up at the edge of what you already know how to do.",
+    "shadow": "Constant experimentation can become a way of avoiding finish. Trying is comfortable in a way completing isn't.",
+    "growth": "Pairing one experiment with one finished piece \u2014 letting both modes live \u2014 keeps novelty from eating mastery.",
+    "aesthetic_tags": [
+      "spark",
+      "silver",
+      "movement",
+      "violet"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "growth",
+      "change"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_aesthetic_emotion",
+    "area": "creativity",
+    "tier": "core",
+    "required_traits": [
+      "aesthetic_sensitivity",
+      "emotional_authenticity",
+      "sensory_emotionality"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 70,
+    "dominant_dimensions": [
+      "sensitivity",
+      "symbolism",
+      "warmth"
+    ],
+    "emotional_tone": "aesthetic_grounded",
+    "title": "Emotion Through Aesthetics",
+    "short_summary": "Beauty and atmosphere are how feeling gets said.",
+    "summary": "What surrounds you matters. Texture, color, sound, light \u2014 these aren't decoration for you, they're the medium your emotional life expresses itself through.",
+    "shadow": "When aesthetics aren't right, the emotional impact can land harder than it should. A jarring environment becomes an inner one.",
+    "growth": "Designing small pockets of atmosphere \u2014 a corner, a playlist, a routine \u2014 gives your emotional life reliable places to be itself.",
+    "aesthetic_tags": [
+      "velvet",
+      "soft_light",
+      "garden",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "premium": false
+  },
+  {
+    "id": "motivation_purposeful_momentum",
+    "area": "motivation",
+    "tier": "core",
+    "required_traits": [
+      "purpose_drive",
+      "action_orientation",
+      "mastery_drive"
+    ],
+    "minimum_match": 2,
+    "weight": 0.9,
+    "fallback_priority": 80,
+    "dominant_dimensions": [
+      "intensity",
+      "autonomy",
+      "structure"
+    ],
+    "emotional_tone": "driven_purposeful",
+    "title": "Purposeful Momentum",
+    "short_summary": "When direction is clear, motion takes care of itself.",
+    "summary": "You move best when you can feel why. Purpose isn't a slogan for you \u2014 it's the structure that lets your effort cohere into something.",
+    "shadow": "Without a clear why, even small tasks can feel pointless. Purpose dependency turns mundane stretches into stalls.",
+    "growth": "Building rhythms that don't require purpose every minute \u2014 small, repeated action \u2014 gives you fuel for the seasons when meaning is harder to feel.",
+    "aesthetic_tags": [
+      "gold",
+      "horizon",
+      "flame",
+      "metal"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "motivation",
+      "growth"
+    ],
+    "premium": false
+  },
+  {
+    "id": "motivation_structured_ambition",
+    "area": "motivation",
+    "tier": "core",
+    "required_traits": [
+      "discipline_orientation",
+      "responsibility_focus",
+      "delayed_gratification"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 75,
+    "dominant_dimensions": [
+      "structure",
+      "groundedness",
+      "autonomy"
+    ],
+    "emotional_tone": "structured_steady",
+    "title": "Structured Ambition",
+    "short_summary": "You build slowly, deliberately, and don't need fast wins to keep going.",
+    "summary": "Your motivation operates on a longer horizon. You can hold off, stay consistent, and let small steady moves accumulate into something serious over time.",
+    "shadow": "Discipline can quietly turn into self-denial. Always deferring satisfaction is not the same as never needing any.",
+    "growth": "Naming what you're working toward \u2014 and tasting some of it along the way \u2014 protects the long arc from becoming an endurance test.",
+    "aesthetic_tags": [
+      "stone",
+      "metal",
+      "horizon",
+      "wood"
+    ],
+    "reflection_tags": [
+      "motivation",
+      "purpose",
+      "stability"
+    ],
+    "premium": false
+  },
+  {
+    "id": "motivation_recognition_drive",
+    "area": "motivation",
+    "tier": "core",
+    "required_traits": [
+      "recognition_needing",
+      "achievement_drive",
+      "charismatic_engagement"
+    ],
+    "minimum_match": 2,
+    "weight": 0.8,
+    "fallback_priority": 65,
+    "dominant_dimensions": [
+      "intensity",
+      "social_energy",
+      "autonomy"
+    ],
+    "emotional_tone": "recognition_charged",
+    "title": "Recognition-Fueled Drive",
+    "short_summary": "Being seen for what you do is real fuel \u2014 and that's allowed.",
+    "summary": "You're not just doing the work; you're doing it visibly. Acknowledgment, audience, and the feeling of being met for the effort genuinely move you forward.",
+    "shadow": "When recognition becomes the metric, work without an audience can feel weightless. The internal signal stops registering.",
+    "growth": "Pairing visible work with quiet practice \u2014 work no one sees \u2014 keeps the drive durable when recognition is uneven.",
+    "aesthetic_tags": [
+      "gold",
+      "spark",
+      "flame",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "motivation",
+      "identity",
+      "self_expression"
+    ],
+    "premium": false
+  },
+  {
+    "id": "motivation_restless_achievement",
+    "area": "motivation",
+    "tier": "core",
+    "required_traits": [
+      "challenge_seeking",
+      "novelty_seeking",
+      "initiation_energy"
+    ],
+    "minimum_match": 2,
+    "weight": 0.8,
+    "fallback_priority": 65,
+    "dominant_dimensions": [
+      "intensity",
+      "novelty",
+      "autonomy"
+    ],
+    "emotional_tone": "restless_seeking",
+    "title": "Restless Achievement Energy",
+    "short_summary": "Starting is your strongest move. Finishing is the practice.",
+    "summary": "You're drawn to the beginnings of things. New challenges activate you fast, and you have the energy to launch what others find hard to start.",
+    "shadow": "Energy that's mostly about beginnings leaves a long trail of half-finished things. The novelty fades before the work is done.",
+    "growth": "A small completion ritual \u2014 closing one thing before opening the next \u2014 turns your starter's energy into a real track record.",
+    "aesthetic_tags": [
+      "spark",
+      "flame",
+      "wind",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "motivation",
+      "change",
+      "growth"
+    ],
+    "premium": false
+  },
+  {
+    "id": "growth_restless_transformation",
+    "area": "growth",
+    "tier": "core",
+    "required_traits": [
+      "transformative_drive",
+      "novelty_seeking",
+      "discovery_orientation"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 70,
+    "dominant_dimensions": [
+      "transformative_energy",
+      "novelty",
+      "depth"
+    ],
+    "emotional_tone": "transformative_open",
+    "title": "Restless Transformation",
+    "short_summary": "You keep becoming. Sitting still in one self feels like wearing the wrong size.",
+    "summary": "Growth isn't optional for you. You're drawn to versions of yourself you haven't been yet, and stagnation reads as a kind of low-grade alarm.",
+    "shadow": "Constant transformation can keep nothing finished. You may dissolve good patterns before they've had a chance to mature.",
+    "growth": "Letting one part of life stay stable \u2014 a relationship, a place, a practice \u2014 gives the rest somewhere to transform from.",
+    "aesthetic_tags": [
+      "spark",
+      "violet",
+      "horizon",
+      "flame"
+    ],
+    "reflection_tags": [
+      "growth",
+      "change",
+      "identity"
+    ],
+    "premium": false
+  },
+  {
+    "id": "growth_gentle_evolution",
+    "area": "growth",
+    "tier": "core",
+    "required_traits": [
+      "growth_orientation",
+      "adaptability",
+      "psychological_insight"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 75,
+    "dominant_dimensions": [
+      "transformative_energy",
+      "depth",
+      "sensitivity"
+    ],
+    "emotional_tone": "gentle_adaptive",
+    "title": "Gentle Evolution",
+    "short_summary": "You change slowly, on purpose, and you notice yourself doing it.",
+    "summary": "Your growth isn't dramatic. You move in small, deliberate adjustments \u2014 observing what's happening, learning what fits, reshaping by degrees.",
+    "shadow": "Gentleness can mask avoidance. Slow can become so slow that real change never quite arrives.",
+    "growth": "An occasional sharper move \u2014 a clearer decision, a faster boundary \u2014 sits inside the gentle arc and keeps it honest.",
+    "aesthetic_tags": [
+      "garden",
+      "moonlight",
+      "soft_light",
+      "water"
+    ],
+    "reflection_tags": [
+      "growth",
+      "inner_world",
+      "change"
+    ],
+    "premium": false
+  },
+  {
+    "id": "growth_change_resistance",
+    "area": "growth",
+    "tier": "core",
+    "required_traits": [
+      "change_hesitation",
+      "stability_seeking",
+      "emotional_self_protection"
+    ],
+    "minimum_match": 2,
+    "weight": 0.8,
+    "fallback_priority": 65,
+    "dominant_dimensions": [
+      "structure",
+      "groundedness",
+      "sensitivity"
+    ],
+    "emotional_tone": "protective_holding",
+    "title": "Change Resistance",
+    "short_summary": "What's stable feels worth protecting, and change has to earn its way in.",
+    "summary": "You hold ground when something works. Change is something to be checked carefully \u2014 not because you can't move, but because what you've built took real effort to settle.",
+    "shadow": "Protection of the familiar can stop motion that's actually needed. Stability that defends itself too long becomes stagnation.",
+    "growth": "Letting one small thing change while everything else stays steady is enough to keep the protective instinct from running the whole show.",
+    "aesthetic_tags": [
+      "stone",
+      "fog",
+      "wood",
+      "shadow"
+    ],
+    "reflection_tags": [
+      "change",
+      "stability",
+      "emotional_regulation"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_calm_grounding",
+    "area": "stability",
+    "tier": "core",
+    "required_traits": [
+      "emotionally_grounded",
+      "calm_under_pressure",
+      "consistency"
+    ],
+    "minimum_match": 2,
+    "weight": 0.9,
+    "fallback_priority": 80,
+    "dominant_dimensions": [
+      "groundedness",
+      "structure",
+      "harmony"
+    ],
+    "emotional_tone": "grounded_calm",
+    "title": "Calm Emotional Stability",
+    "short_summary": "You hold steady, and that steadiness is felt by everyone around you.",
+    "summary": "Your baseline runs calm. Pressure that scatters other people tends to settle in you, and the people around you often borrow your steadiness without quite naming it.",
+    "shadow": "Steady can be mistaken for unaffected. The same calm that holds others can keep your own internal weather invisible, even to you.",
+    "growth": "Checking inward as well as outward \u2014 what's actually happening inside the calm \u2014 keeps the steadiness real instead of performed.",
+    "aesthetic_tags": [
+      "stone",
+      "earth",
+      "warm_glow",
+      "wood"
+    ],
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "inner_world"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_protective_security",
+    "area": "stability",
+    "tier": "core",
+    "required_traits": [
+      "security_needing",
+      "attachment_security_needing",
+      "comfort_orientation"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 75,
+    "dominant_dimensions": [
+      "groundedness",
+      "structure",
+      "warmth"
+    ],
+    "emotional_tone": "protective_secure",
+    "title": "Protective Security Seeking",
+    "short_summary": "Safety isn't a luxury for you. It's the floor.",
+    "summary": "You need to feel grounded before you can move. Reliable people, familiar environments, and predictable rhythms aren't dependencies; they're conditions for your best self to show up.",
+    "shadow": "When security comes first, growth that requires discomfort can stall. The known starts to define what's possible.",
+    "growth": "Choosing one small unsafe-feeling thing at a time \u2014 supported by the rest of your stable structure \u2014 lets growth happen without trading away the floor.",
+    "aesthetic_tags": [
+      "warm_glow",
+      "velvet",
+      "wood",
+      "garden"
+    ],
+    "reflection_tags": [
+      "stability",
+      "trust",
+      "belonging"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_reliable_structure",
+    "area": "stability",
+    "tier": "core",
+    "required_traits": [
+      "responsibility_focus",
+      "dependable_attachment",
+      "methodical_execution"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 75,
+    "dominant_dimensions": [
+      "structure",
+      "groundedness",
+      "autonomy"
+    ],
+    "emotional_tone": "dependable_structured",
+    "title": "Reliable Structured Presence",
+    "short_summary": "People know what they get from you. That's not small.",
+    "summary": "You carry weight others can lean on. Responsibility isn't something you avoid; it's part of how you show up, and structure is how you keep promises you've made.",
+    "shadow": "Always being the reliable one can quietly become an unspoken contract. The strength becomes an expectation no one renegotiates.",
+    "growth": "Saying no occasionally \u2014 not as a stance, just as a sentence \u2014 keeps your reliability voluntary instead of automatic.",
+    "aesthetic_tags": [
+      "stone",
+      "metal",
+      "wood",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "stability",
+      "trust",
+      "purpose"
+    ],
+    "premium": false
+  },
+  {
+    "id": "healing_quiet_recovery",
+    "area": "healing",
+    "tier": "extended",
+    "required_traits": [
+      "emotional_exhaustion",
+      "protective_withdrawal",
+      "introspective_processing"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 70,
+    "dominant_dimensions": [
+      "depth",
+      "sensitivity",
+      "groundedness"
+    ],
+    "emotional_tone": "exhausted_quiet",
+    "title": "Quiet Emotional Recovery",
+    "short_summary": "When you've given too much, you pull inward. That's the recovery pattern, not the problem.",
+    "summary": "Your repair happens in retreat. Solitude, low stimulation, and slow internal processing are how the system resets after stretches that asked too much.",
+    "shadow": "Withdrawal that lasts too long stops being recovery and starts being avoidance. The protective move becomes its own pattern.",
+    "growth": "Naming the difference between rest and hiding \u2014 even gently to yourself \u2014 helps the retreat finish on time.",
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "stillness",
+      "velvet"
+    ],
+    "reflection_tags": [
+      "healing",
+      "vulnerability",
+      "boundaries"
+    ],
+    "premium": true
+  },
+  {
+    "id": "healing_boundary_dissolution",
+    "area": "healing",
+    "tier": "extended",
+    "required_traits": [
+      "boundary_softness",
+      "self_sacrifice",
+      "harmony_seeking"
+    ],
+    "minimum_match": 2,
+    "weight": 0.8,
+    "fallback_priority": 60,
+    "dominant_dimensions": [
+      "sensitivity",
+      "warmth",
+      "harmony"
+    ],
+    "emotional_tone": "yielding_porous",
+    "title": "Soft Boundary Dissolution",
+    "short_summary": "Your edges blur when other people's needs press against them.",
+    "summary": "You're porous in close relationships. Other people's emotions, requests, and weather pass into you more than you intend, and the line between caring and dissolving isn't always easy to hold.",
+    "shadow": "Without edges, care becomes self-erasure. The harmony you keep on the outside is funded by everything you don't say.",
+    "growth": "A soft, non-defensive boundary \u2014 'not right now,' 'I need a minute' \u2014 protects both the care and the person doing it.",
+    "aesthetic_tags": [
+      "water",
+      "fog",
+      "soft_light",
+      "velvet"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "vulnerability",
+      "attachment"
+    ],
+    "premium": true
+  },
+  {
+    "id": "healing_deep_repair",
+    "area": "healing",
+    "tier": "extended",
+    "required_traits": [
+      "psychological_insight",
+      "transformative_drive",
+      "emotional_suppression"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 65,
+    "dominant_dimensions": [
+      "depth",
+      "transformative_energy",
+      "sensitivity"
+    ],
+    "emotional_tone": "deep_restorative",
+    "title": "Deep Emotional Repair",
+    "short_summary": "What was held down can become what you grow through.",
+    "summary": "Your work happens at depth. Old material \u2014 what got held, deferred, or quietly carried \u2014 becomes the source of real change when it finally gets touched.",
+    "shadow": "Insight can substitute for movement. Knowing what's happening isn't the same as letting it shift.",
+    "growth": "Pairing the inner work with something embodied \u2014 small, regular, physical \u2014 gives the understanding somewhere to actually land.",
+    "aesthetic_tags": [
+      "violet",
+      "moonlight",
+      "water",
+      "garden"
+    ],
+    "reflection_tags": [
+      "healing",
+      "growth",
+      "inner_world"
+    ],
+    "premium": true
+  },
+  {
+    "id": "purpose_meaning_anchor",
+    "area": "purpose",
+    "tier": "extended",
+    "required_traits": [
+      "purpose_drive",
+      "meaning_seeking",
+      "value_centered_thinking"
+    ],
+    "minimum_match": 2,
+    "weight": 0.9,
+    "fallback_priority": 75,
+    "dominant_dimensions": [
+      "depth",
+      "symbolism",
+      "transformative_energy"
+    ],
+    "emotional_tone": "meaning_anchored",
+    "title": "Meaning-Anchored Direction",
+    "short_summary": "Direction follows meaning. Without one, the other goes flat.",
+    "summary": "Your motion depends on alignment. When what you're doing connects to what matters, the work has weight. When it doesn't, even productive days feel hollow.",
+    "shadow": "A constant meaning-check can become its own friction. Some seasons need execution more than they need clarity.",
+    "growth": "Holding meaning loosely \u2014 as direction, not a permission slip \u2014 keeps it powerful without making it a gate to every action.",
+    "aesthetic_tags": [
+      "horizon",
+      "gold",
+      "violet",
+      "paper"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "motivation"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_long_arc",
+    "area": "purpose",
+    "tier": "extended",
+    "required_traits": [
+      "future_orientation",
+      "philosophical_orientation",
+      "transformative_drive"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 70,
+    "dominant_dimensions": [
+      "depth",
+      "symbolism",
+      "transformative_energy"
+    ],
+    "emotional_tone": "visionary_expansive",
+    "title": "Long-Arc Vision",
+    "short_summary": "You see across years before you see across days.",
+    "summary": "You think in arcs. Where things are heading matters to you more than where they are right now, and your decisions tend to be made in conversation with a longer horizon.",
+    "shadow": "Living mostly in the long view can let the present pass underused. The future you're building for is also the present you're in.",
+    "growth": "Anchoring one small piece of today inside the long arc \u2014 a single concrete act \u2014 keeps vision from drifting into deferral.",
+    "aesthetic_tags": [
+      "horizon",
+      "silver",
+      "paper",
+      "violet"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "change"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_service_led",
+    "area": "purpose",
+    "tier": "extended",
+    "required_traits": [
+      "service_orientation",
+      "collective_growth",
+      "encouragement_drive"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 70,
+    "dominant_dimensions": [
+      "warmth",
+      "harmony",
+      "transformative_energy"
+    ],
+    "emotional_tone": "service_led",
+    "title": "Service-Led Purpose",
+    "short_summary": "What you do means more when it lifts something larger than yourself.",
+    "summary": "Purpose, for you, runs through other people. Your sense of direction sharpens when your work contributes to something beyond your individual frame.",
+    "shadow": "Always orienting outward can quietly displace your own needs. Service that doesn't include the server eventually depletes.",
+    "growth": "Naming what you also need from the work \u2014 not just what it gives \u2014 keeps the service generous and sustainable.",
+    "aesthetic_tags": [
+      "warm_glow",
+      "gold",
+      "garden",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "belonging",
+      "relationships"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_personal_calling",
+    "area": "purpose",
+    "tier": "extended",
+    "required_traits": [
+      "authenticity_drive",
+      "mastery_drive",
+      "inspiration_orientation"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 65,
+    "dominant_dimensions": [
+      "autonomy",
+      "depth",
+      "transformative_energy"
+    ],
+    "emotional_tone": "calling_pulled",
+    "title": "Personal Calling Pull",
+    "short_summary": "Something specific is asking to be done, and you can feel it.",
+    "summary": "You sense a thread. Not a job title, not a plan \u2014 a pull toward a particular kind of work or expression that feels like yours to do.",
+    "shadow": "Holding a calling above an actual practice can keep it stuck as potential. The pull doesn't materialize on its own.",
+    "growth": "Small, regular acts of the calling \u2014 well before it's ready to be public \u2014 let the pull become a practice.",
+    "aesthetic_tags": [
+      "gold",
+      "violet",
+      "spark",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "self_expression"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_community_anchor",
+    "area": "belonging",
+    "tier": "extended",
+    "required_traits": [
+      "belonging_needing",
+      "collective_orientation",
+      "people_focused"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 75,
+    "dominant_dimensions": [
+      "warmth",
+      "harmony",
+      "social_energy"
+    ],
+    "emotional_tone": "community_warm",
+    "title": "Community Anchor",
+    "short_summary": "Being part of something \u2014 really part \u2014 is non-negotiable for you.",
+    "summary": "You're shaped by the communities you belong to. Your sense of self carries the people around you, and your steadiness comes partly from feeling held inside a group.",
+    "shadow": "When belonging is critical, leaving a misaligned group is hard. The cost of going feels larger than the cost of staying.",
+    "growth": "Building belonging across more than one group \u2014 overlapping, not single \u2014 protects the need without making any one community load-bearing.",
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "gold",
+      "wood"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "attachment",
+      "identity"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_quiet_loyalty",
+    "area": "belonging",
+    "tier": "extended",
+    "required_traits": [
+      "emotional_loyalty",
+      "dependable_attachment",
+      "duty_orientation"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 70,
+    "dominant_dimensions": [
+      "structure",
+      "groundedness",
+      "harmony"
+    ],
+    "emotional_tone": "loyal_steady",
+    "title": "Quiet Loyalty",
+    "short_summary": "You stay. That, by itself, says a lot.",
+    "summary": "Your loyalty doesn't perform. The people and places in your circle can count on you to remain there, even when staying isn't easy and even when no one says thank you.",
+    "shadow": "Loyalty that doesn't ask anything back can quietly carry imbalance. Staying becomes a stance even when something should shift.",
+    "growth": "Naming what you'd want changed \u2014 without leaving \u2014 turns loyalty from endurance into participation.",
+    "aesthetic_tags": [
+      "wood",
+      "stone",
+      "warm_glow",
+      "velvet"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "trust",
+      "attachment"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_open_inclusion",
+    "area": "belonging",
+    "tier": "extended",
+    "required_traits": [
+      "nonjudgmental",
+      "relationship_nurturing",
+      "support_orientation"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 70,
+    "dominant_dimensions": [
+      "warmth",
+      "harmony",
+      "sensitivity"
+    ],
+    "emotional_tone": "inclusive_open",
+    "title": "Open-Hearted Inclusion",
+    "short_summary": "You make room, and people feel it.",
+    "summary": "Your default is welcome. You don't measure people by quick categories, and the spaces you build tend to feel safer to be honest in than the average room.",
+    "shadow": "Always opening the door can leave you without one. Room for others can quietly become absence of your own space.",
+    "growth": "Holding room for others and room for yourself \u2014 at the same time \u2014 is what keeps the welcome real instead of self-erasing.",
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "garden",
+      "gold"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "relationships",
+      "boundaries"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_open_horizons",
+    "area": "exploration",
+    "tier": "extended",
+    "required_traits": [
+      "adventurous_drive",
+      "discovery_orientation",
+      "novelty_seeking"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 75,
+    "dominant_dimensions": [
+      "novelty",
+      "autonomy",
+      "transformative_energy"
+    ],
+    "emotional_tone": "horizons_open",
+    "title": "Open Horizons",
+    "short_summary": "What's next pulls you. The known is interesting mostly as the edge of what isn't.",
+    "summary": "You orient toward new ground. Travel, ideas, contexts, perspectives \u2014 the unfamiliar isn't unsettling for you, it's where you feel awake.",
+    "shadow": "Always orienting toward the next horizon makes the current one feel like a waiting room. The present pays for the future.",
+    "growth": "Letting one current place \u2014 physical, emotional, intellectual \u2014 be enough for a season keeps the horizon from being the only place you live.",
+    "aesthetic_tags": [
+      "horizon",
+      "wind",
+      "spark",
+      "air"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "growth",
+      "change"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_experimental_mind",
+    "area": "exploration",
+    "tier": "extended",
+    "required_traits": [
+      "experimentation",
+      "unconventional_thinking",
+      "innovative_thinking"
+    ],
+    "minimum_match": 2,
+    "weight": 0.8,
+    "fallback_priority": 65,
+    "dominant_dimensions": [
+      "novelty",
+      "autonomy",
+      "symbolism"
+    ],
+    "emotional_tone": "experimental_curious",
+    "title": "Experimental Mind",
+    "short_summary": "Your default question is: what if we tried it differently?",
+    "summary": "You think by testing. The standard approach isn't a constraint for you, it's a starting point \u2014 and you find structure most useful when it bends.",
+    "shadow": "Permanent experimentation can mistake novelty for progress. Not every problem needs a new approach.",
+    "growth": "Knowing when to use the boring solution \u2014 and choosing it on purpose \u2014 sharpens the experimental moves that actually matter.",
+    "aesthetic_tags": [
+      "spark",
+      "silver",
+      "air",
+      "movement"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "change",
+      "growth"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_sensory_adventure",
+    "area": "exploration",
+    "tier": "extended",
+    "required_traits": [
+      "experiential_processing",
+      "thrill_seeking",
+      "risk_taking"
+    ],
+    "minimum_match": 2,
+    "weight": 0.8,
+    "fallback_priority": 60,
+    "dominant_dimensions": [
+      "intensity",
+      "novelty",
+      "groundedness"
+    ],
+    "emotional_tone": "sensory_alive",
+    "title": "Sensory Adventure",
+    "short_summary": "You learn through doing, and doing things at the louder end of the dial.",
+    "summary": "Your way in is the body. You'd rather try something and feel it than understand it from a distance, and you tolerate higher intensity than most people.",
+    "shadow": "High-intensity experience can outrun digestion. The next adventure starts before the last one has finished processing.",
+    "growth": "Building a quieter ritual around adventures \u2014 review, rest, integration \u2014 keeps the intensity meaningful instead of cumulative.",
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "wind",
+      "movement"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "change",
+      "self_expression"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_freedom_pull",
+    "area": "exploration",
+    "tier": "extended",
+    "required_traits": [
+      "freedom_needing",
+      "autonomy_needing",
+      "stimulation_seeking"
+    ],
+    "minimum_match": 2,
+    "weight": 0.85,
+    "fallback_priority": 70,
+    "dominant_dimensions": [
+      "autonomy",
+      "novelty",
+      "intensity"
+    ],
+    "emotional_tone": "freedom_pulled",
+    "title": "Freedom Pull",
+    "short_summary": "Anything that closes the room down gets felt fast.",
+    "summary": "Open space \u2014 physical, schedule, emotional, intellectual \u2014 is how you stay yourself. Constraints that other people barely notice tend to weigh on you quickly.",
+    "shadow": "Freedom held too tightly resists commitment that would actually be good for you. Independence can quietly become isolation.",
+    "growth": "Choosing one or two structures on purpose \u2014 owned, not imposed \u2014 gives freedom something stable to push from.",
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "air",
+      "silver"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "identity",
+      "boundaries"
+    ],
+    "premium": false
+  }
+]

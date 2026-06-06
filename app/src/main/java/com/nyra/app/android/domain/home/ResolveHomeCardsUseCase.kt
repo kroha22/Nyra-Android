@@ -1,5 +1,6 @@
 package com.nyra.app.android.domain.home
 
+import com.nyra.app.android.core.model.CardIds
 import com.nyra.app.android.core.model.CardTemplate
 import com.nyra.app.android.core.model.CardType
 import com.nyra.app.android.core.model.CheckInEntry
@@ -19,47 +20,47 @@ class ResolveHomeCardsUseCase @Inject constructor(
         val cards = mutableListOf<CardTemplate>()
 
         if (!hasCheckedInToday) {
-            cards += catalog.getByType(CardType.CheckIn)
+            cards += catalog.getById(CardIds.CheckInDefault)
         }
 
         when (lastCheckIn?.moodCode) {
             MoodCode.Tired,
             MoodCode.LowEnergy -> {
-                cards += catalog.getById("reflection_tired_evening")
-                cards += catalog.getById("action_rest_shoulders")
+                cards += catalog.getById(CardIds.ReflectionTired)
+                cards += catalog.getById(CardIds.GentleActionTired)
             }
 
             MoodCode.Anxious,
             MoodCode.Restless -> {
-                cards += catalog.getById("reflection_grounding")
-                cards += catalog.getById("breathing_soft_pause")
+                cards += catalog.getById(CardIds.ReflectionGrounding)
+                cards += catalog.getById(CardIds.BreathingDefault)
             }
 
             MoodCode.Calm,
             MoodCode.Clear -> {
-                cards += catalog.getById("reflection_calm")
-                cards += catalog.getById("journal_soft_prompt")
+                cards += catalog.getById(CardIds.ReflectionCalm)
+                cards += catalog.getById(CardIds.JournalPromptDefault)
             }
 
             MoodCode.Open -> {
-                cards += catalog.getById("reflection_open")
-                cards += catalog.getById("journal_intention")
+                cards += catalog.getById(CardIds.ReflectionOpen)
+                cards += catalog.getById(CardIds.JournalPromptDefault)
             }
 
             MoodCode.Quiet -> {
-                cards += catalog.getById("reflection_quiet")
-                cards += catalog.getById("action_slow_evening")
+                cards += catalog.getById(CardIds.ReflectionQuiet)
+                cards += catalog.getById(CardIds.JournalPromptQuiet)
             }
 
             null -> {
-                cards += catalog.getById("reflection_neutral")
-                cards += catalog.getById("breathing_soft_pause")
+                cards += catalog.getById(CardIds.ReflectionNeutral)
+                cards += catalog.getById(CardIds.BreathingDefault)
             }
             else -> {}
         }
 
         if (timeOfDay == TimeOfDay.Evening || timeOfDay == TimeOfDay.Night) {
-            cards += catalog.getById("evening_release")
+            cards += catalog.getById(CardIds.EveningRelease)
         }
 
         return cards

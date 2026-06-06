@@ -1,0 +1,1842 @@
+[
+  {
+    "id": "infj_like",
+    "code": "INFJ",
+    "technique_id": "mbti_v1",
+    "source_weight": 1.0,
+    "confidence": 0.75,
+    "title": "Quiet Architect of Meaning",
+    "short_summary": "Inward, symbolic, and emotionally precise \u2014 fluent in what doesn't get said.",
+    "core_traits": [
+      "emotional_depth",
+      "emotionally_guarded",
+      "symbolic_thinking",
+      "introspective_processing",
+      "empathic_responsiveness",
+      "meaning_seeking",
+      "purpose_drive",
+      "idealism",
+      "intuitive_processing",
+      "pattern_sensitivity",
+      "harmony_seeking"
+    ],
+    "shadow_traits": [
+      "emotional_overwhelm",
+      "self_sacrifice",
+      "protective_withdrawal",
+      "perfectionism",
+      "overthinking"
+    ],
+    "growth_traits": [
+      "direct_communication",
+      "emotional_openness",
+      "present_moment_attention",
+      "self_expression"
+    ],
+    "area_weights": {
+      "identity": 0.95,
+      "inner_world": 1.0,
+      "relationships": 0.75,
+      "communication": 0.55,
+      "motivation": 0.7,
+      "creativity": 0.8,
+      "growth": 0.85,
+      "stability": 0.5,
+      "healing": 0.85,
+      "purpose": 0.95,
+      "belonging": 0.55,
+      "exploration": 0.5
+    },
+    "trait_weights": {
+      "emotional_depth": 1.0,
+      "introspective_processing": 0.95,
+      "symbolic_thinking": 0.95,
+      "meaning_seeking": 0.95,
+      "empathic_responsiveness": 0.9,
+      "emotionally_guarded": 0.9,
+      "intuitive_processing": 0.9,
+      "purpose_drive": 0.85,
+      "idealism": 0.85,
+      "harmony_seeking": 0.8,
+      "emotional_privacy": 0.8,
+      "pattern_sensitivity": 0.8,
+      "value_centered_thinking": 0.75,
+      "transformative_drive": 0.7,
+      "emotional_sensitivity": 0.7
+    },
+    "dimension_profile": {
+      "depth": 0.9,
+      "intensity": 0.65,
+      "sensitivity": 0.85,
+      "warmth": 0.55,
+      "structure": 0.55,
+      "novelty": 0.35,
+      "autonomy": 0.55,
+      "harmony": 0.65,
+      "symbolism": 0.9,
+      "groundedness": 0.3,
+      "social_energy": 0.25,
+      "transformative_energy": 0.75
+    },
+    "summary": "You read the layer underneath: themes, patterns, the meaning a moment is actually about. Connection runs deep but slow; meaning runs deeper. Your inner world is wide, and most of what matters most stays there until it finds the right form to come out.",
+    "shadow": "Holding so much inwardly can turn into chronic over-absorption. The line between care for others and quiet depletion isn't always easy to spot from the inside.",
+    "growth": "Naming what you need \u2014 small, plain, before it's perfect \u2014 protects the depth without isolating it. Some directness costs less than the inner storage.",
+    "aesthetic_tags": [
+      "violet",
+      "moonlight",
+      "fog",
+      "night",
+      "paper"
+    ],
+    "reflection_tags": [
+      "identity",
+      "inner_world",
+      "purpose",
+      "vulnerability"
+    ],
+    "emotional_tone": {
+      "warmth": "cool",
+      "movement": "slow",
+      "density": "deep",
+      "social_texture": "private"
+    },
+    "visual_state_bias": [
+      "quiet_insight",
+      "night_reflection",
+      "mirror_pause"
+    ],
+    "preferred_home_modules": [
+      "reflection",
+      "identity",
+      "inner_world_journal",
+      "pattern_insights",
+      "purpose_arc"
+    ],
+    "premium": false
+  },
+  {
+    "id": "infp_like",
+    "code": "INFP",
+    "technique_id": "mbti_v1",
+    "source_weight": 1.0,
+    "confidence": 0.75,
+    "title": "Tender Idealist",
+    "short_summary": "Authentic, imaginative, value-led \u2014 quietly intense about what matters.",
+    "core_traits": [
+      "emotional_authenticity",
+      "emotional_sensitivity",
+      "imaginative_processing",
+      "authenticity_drive",
+      "idealism",
+      "value_centered_thinking",
+      "meaning_seeking",
+      "freedom_needing",
+      "identity_sensitivity",
+      "creative_expression",
+      "emotional_depth"
+    ],
+    "shadow_traits": [
+      "escapism",
+      "emotional_overwhelm",
+      "idealization",
+      "self_criticism",
+      "emotional_avoidance"
+    ],
+    "growth_traits": [
+      "action_orientation",
+      "direct_communication",
+      "methodical_execution",
+      "consistency"
+    ],
+    "area_weights": {
+      "identity": 0.95,
+      "inner_world": 1.0,
+      "relationships": 0.7,
+      "communication": 0.55,
+      "motivation": 0.55,
+      "creativity": 0.95,
+      "growth": 0.8,
+      "stability": 0.45,
+      "healing": 0.85,
+      "purpose": 0.85,
+      "belonging": 0.55,
+      "exploration": 0.6
+    },
+    "trait_weights": {
+      "emotional_authenticity": 1.0,
+      "emotional_sensitivity": 0.95,
+      "imaginative_processing": 0.95,
+      "authenticity_drive": 0.95,
+      "idealism": 0.9,
+      "value_centered_thinking": 0.9,
+      "meaning_seeking": 0.85,
+      "freedom_needing": 0.85,
+      "identity_sensitivity": 0.85,
+      "creative_expression": 0.8,
+      "symbolic_thinking": 0.8,
+      "emotional_depth": 0.8,
+      "emotionally_selective": 0.75,
+      "self_expression": 0.75,
+      "introspective_processing": 0.7
+    },
+    "dimension_profile": {
+      "depth": 0.85,
+      "intensity": 0.55,
+      "sensitivity": 0.9,
+      "warmth": 0.65,
+      "structure": 0.3,
+      "novelty": 0.65,
+      "autonomy": 0.75,
+      "harmony": 0.55,
+      "symbolism": 0.85,
+      "groundedness": 0.25,
+      "social_energy": 0.3,
+      "transformative_energy": 0.65
+    },
+    "summary": "Your inner life moves between feeling and imagination. Values aren't abstract for you; they're the floor everything sits on. When you find work, people, or ideas that align with what feels true, you give yourself fully. When they don't, withdrawal comes fast.",
+    "shadow": "Idealization sets a bar reality rarely meets. Disappointment can settle into a familiar weather, and small things sometimes get postponed by the wait for the right inner conditions.",
+    "growth": "Small acts that don't require feeling inspired \u2014 done anyway \u2014 build a base under the idealism. Real makes itself out of repeated motion, not only readiness.",
+    "aesthetic_tags": [
+      "moonlight",
+      "garden",
+      "soft_light",
+      "violet",
+      "water"
+    ],
+    "reflection_tags": [
+      "identity",
+      "creativity",
+      "inner_world",
+      "vulnerability"
+    ],
+    "emotional_tone": {
+      "warmth": "cool",
+      "movement": "flowing",
+      "density": "deep",
+      "social_texture": "selective"
+    },
+    "visual_state_bias": [
+      "soft_dawn",
+      "mirror_pause",
+      "studio_light"
+    ],
+    "preferred_home_modules": [
+      "identity",
+      "reflection",
+      "creativity_studio",
+      "inner_world_journal",
+      "healing_space"
+    ],
+    "premium": false
+  },
+  {
+    "id": "intj_like",
+    "code": "INTJ",
+    "technique_id": "mbti_v1",
+    "source_weight": 1.0,
+    "confidence": 0.75,
+    "title": "Long-Arc Strategist",
+    "short_summary": "Independent, structured, and oriented to what's coming next.",
+    "core_traits": [
+      "strategic_thinking",
+      "systems_thinking",
+      "autonomy_needing",
+      "mastery_drive",
+      "emotional_independence",
+      "analytical_processing",
+      "objective_analysis",
+      "future_orientation",
+      "individuality_focus",
+      "emotionally_guarded",
+      "competence_focus"
+    ],
+    "shadow_traits": [
+      "emotional_detachment",
+      "control_seeking",
+      "structural_holding",
+      "emotional_self_protection",
+      "emotional_suppression"
+    ],
+    "growth_traits": [
+      "emotional_openness",
+      "empathic_responsiveness",
+      "emotional_warmth",
+      "present_moment_attention"
+    ],
+    "area_weights": {
+      "identity": 0.85,
+      "inner_world": 0.8,
+      "relationships": 0.45,
+      "communication": 0.55,
+      "motivation": 0.95,
+      "creativity": 0.7,
+      "growth": 0.8,
+      "stability": 0.65,
+      "healing": 0.45,
+      "purpose": 0.9,
+      "belonging": 0.4,
+      "exploration": 0.65
+    },
+    "trait_weights": {
+      "strategic_thinking": 1.0,
+      "systems_thinking": 0.95,
+      "autonomy_needing": 0.95,
+      "mastery_drive": 0.9,
+      "emotional_independence": 0.9,
+      "analytical_processing": 0.9,
+      "future_orientation": 0.85,
+      "objective_analysis": 0.85,
+      "individuality_focus": 0.85,
+      "competence_focus": 0.8,
+      "emotionally_guarded": 0.8,
+      "conceptual_thinking": 0.8,
+      "purpose_drive": 0.75,
+      "selective_trust": 0.7,
+      "emotional_restraint": 0.65
+    },
+    "dimension_profile": {
+      "depth": 0.75,
+      "intensity": 0.65,
+      "sensitivity": 0.4,
+      "warmth": 0.25,
+      "structure": 0.85,
+      "novelty": 0.55,
+      "autonomy": 0.95,
+      "harmony": 0.3,
+      "symbolism": 0.55,
+      "groundedness": 0.55,
+      "social_energy": 0.2,
+      "transformative_energy": 0.55
+    },
+    "summary": "You build systems \u2014 for thought, for work, for life. Strategy comes naturally; you can see how pieces will connect months out, and you protect your autonomy because it's where your best thinking happens. Trust is earned slowly and held seriously.",
+    "shadow": "Strategy can become its own shield. Distance from softness keeps the system clean but can leave warmth as something you study rather than do.",
+    "growth": "Letting emotion be data \u2014 not noise to be optimized around \u2014 turns the strategist into someone people can actually be close to.",
+    "aesthetic_tags": [
+      "silver",
+      "metal",
+      "horizon",
+      "stone",
+      "night"
+    ],
+    "reflection_tags": [
+      "identity",
+      "purpose",
+      "growth",
+      "boundaries"
+    ],
+    "emotional_tone": {
+      "warmth": "cool",
+      "movement": "still",
+      "density": "deep",
+      "social_texture": "private"
+    },
+    "visual_state_bias": [
+      "crystal_clarity",
+      "horizon_motion",
+      "mountain_calm"
+    ],
+    "preferred_home_modules": [
+      "identity",
+      "motivation",
+      "purpose_arc",
+      "pattern_insights",
+      "growth_path"
+    ],
+    "premium": false
+  },
+  {
+    "id": "intp_like",
+    "code": "INTP",
+    "technique_id": "mbti_v1",
+    "source_weight": 1.0,
+    "confidence": 0.75,
+    "title": "Conceptual Wanderer",
+    "short_summary": "Curious, analytical, autonomous \u2014 moved by ideas more than agendas.",
+    "core_traits": [
+      "theoretical_thinking",
+      "analytical_processing",
+      "conceptual_thinking",
+      "intellectually_playful",
+      "emotional_independence",
+      "autonomy_needing",
+      "unconventional_thinking",
+      "idea_generation",
+      "observational_presence",
+      "objective_analysis",
+      "systems_thinking"
+    ],
+    "shadow_traits": [
+      "emotional_avoidance",
+      "overthinking",
+      "emotional_detachment",
+      "decision_hesitation",
+      "commitment_hesitation"
+    ],
+    "growth_traits": [
+      "emotional_openness",
+      "action_orientation",
+      "emotional_warmth",
+      "decisive_action"
+    ],
+    "area_weights": {
+      "identity": 0.75,
+      "inner_world": 0.8,
+      "relationships": 0.4,
+      "communication": 0.5,
+      "motivation": 0.65,
+      "creativity": 0.85,
+      "growth": 0.7,
+      "stability": 0.5,
+      "healing": 0.45,
+      "purpose": 0.65,
+      "belonging": 0.35,
+      "exploration": 0.85
+    },
+    "trait_weights": {
+      "theoretical_thinking": 1.0,
+      "analytical_processing": 0.95,
+      "conceptual_thinking": 0.95,
+      "emotional_independence": 0.9,
+      "autonomy_needing": 0.9,
+      "intellectually_playful": 0.85,
+      "unconventional_thinking": 0.85,
+      "idea_generation": 0.85,
+      "observational_presence": 0.8,
+      "objective_analysis": 0.8,
+      "emotional_detachment": 0.75,
+      "systems_thinking": 0.75,
+      "introspective_processing": 0.7,
+      "socially_independent": 0.65,
+      "imaginative_processing": 0.65
+    },
+    "dimension_profile": {
+      "depth": 0.75,
+      "intensity": 0.45,
+      "sensitivity": 0.45,
+      "warmth": 0.3,
+      "structure": 0.45,
+      "novelty": 0.85,
+      "autonomy": 0.95,
+      "harmony": 0.3,
+      "symbolism": 0.6,
+      "groundedness": 0.3,
+      "social_energy": 0.25,
+      "transformative_energy": 0.5
+    },
+    "summary": "You think for the texture of thinking. New frameworks, edge cases, unusual angles \u2014 they're not means to an end, they're the point. You need a lot of internal space, and you do your best work when no one is hurrying you toward a conclusion.",
+    "shadow": "Permanent exploration can defer commitment indefinitely. Ideas stay interesting partly because nothing has been chosen yet.",
+    "growth": "Finishing one small thing \u2014 choosing, completing, letting it leave your hands \u2014 moves the wanderer into someone whose ideas land in the world, not just in their head.",
+    "aesthetic_tags": [
+      "glass",
+      "silver",
+      "air",
+      "paper",
+      "fog"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "creativity",
+      "freedom",
+      "growth"
+    ],
+    "emotional_tone": {
+      "warmth": "cool",
+      "movement": "flowing",
+      "density": "airy",
+      "social_texture": "private"
+    },
+    "visual_state_bias": [
+      "crystal_clarity",
+      "studio_light",
+      "compass_drift"
+    ],
+    "preferred_home_modules": [
+      "pattern_insights",
+      "exploration_compass",
+      "creativity_studio",
+      "inner_world_journal",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "isfj_like",
+    "code": "ISFJ",
+    "technique_id": "mbti_v1",
+    "source_weight": 1.0,
+    "confidence": 0.75,
+    "title": "Steady Guardian",
+    "short_summary": "Caring, reliable, attentive \u2014 the quiet weight everyone borrows from.",
+    "core_traits": [
+      "caretaking",
+      "emotional_loyalty",
+      "dependable_attachment",
+      "harmony_seeking",
+      "protective_care",
+      "duty_orientation",
+      "consistency",
+      "emotional_gentleness",
+      "nurturing_identity",
+      "responsibility_focus",
+      "emotionally_grounded"
+    ],
+    "shadow_traits": [
+      "self_sacrifice",
+      "conflict_avoidance",
+      "resentment_buildup",
+      "people_pleasing",
+      "emotional_suppression"
+    ],
+    "growth_traits": [
+      "direct_communication",
+      "self_expression",
+      "autonomy_needing",
+      "emotional_openness"
+    ],
+    "area_weights": {
+      "identity": 0.65,
+      "inner_world": 0.65,
+      "relationships": 0.95,
+      "communication": 0.6,
+      "motivation": 0.65,
+      "creativity": 0.5,
+      "growth": 0.55,
+      "stability": 0.95,
+      "healing": 0.75,
+      "purpose": 0.65,
+      "belonging": 0.9,
+      "exploration": 0.35
+    },
+    "trait_weights": {
+      "caretaking": 1.0,
+      "emotional_loyalty": 0.95,
+      "dependable_attachment": 0.95,
+      "harmony_seeking": 0.9,
+      "protective_care": 0.9,
+      "duty_orientation": 0.85,
+      "consistency": 0.85,
+      "emotional_gentleness": 0.85,
+      "nurturing_identity": 0.85,
+      "emotionally_grounded": 0.8,
+      "responsibility_focus": 0.8,
+      "detail_focus": 0.75,
+      "service_orientation": 0.75,
+      "empathic_responsiveness": 0.7,
+      "relationship_nurturing": 0.7
+    },
+    "dimension_profile": {
+      "depth": 0.55,
+      "intensity": 0.4,
+      "sensitivity": 0.75,
+      "warmth": 0.85,
+      "structure": 0.8,
+      "novelty": 0.15,
+      "autonomy": 0.3,
+      "harmony": 0.85,
+      "symbolism": 0.3,
+      "groundedness": 0.8,
+      "social_energy": 0.5,
+      "transformative_energy": 0.2
+    },
+    "summary": "You show up. The people around you know they can count on you, and you organize a lot of life around taking care of what needs taking care of. Service feels right; visibility usually doesn't.",
+    "shadow": "Always being the one who keeps things together can become an unspoken contract. Resentment builds quietly when care goes in mostly one direction.",
+    "growth": "Letting yourself be cared for \u2014 not earning it first \u2014 completes the circuit. Receiving is also a kind of generosity.",
+    "aesthetic_tags": [
+      "warm_glow",
+      "wood",
+      "velvet",
+      "garden",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "belonging",
+      "stability",
+      "attachment"
+    ],
+    "emotional_tone": {
+      "warmth": "warm",
+      "movement": "slow",
+      "density": "light",
+      "social_texture": "selective"
+    },
+    "visual_state_bias": [
+      "garden_light",
+      "velvet_intimacy",
+      "ember_steady"
+    ],
+    "preferred_home_modules": [
+      "relationships",
+      "belonging_circle",
+      "stability_anchor",
+      "healing_space",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "isfp_like",
+    "code": "ISFP",
+    "technique_id": "mbti_v1",
+    "source_weight": 1.0,
+    "confidence": 0.75,
+    "title": "Quiet Aesthete",
+    "short_summary": "Atmospheric, authentic, gentle \u2014 present-tense in a way most people aren't.",
+    "core_traits": [
+      "aesthetic_sensitivity",
+      "emotional_gentleness",
+      "emotional_authenticity",
+      "sensory_emotionality",
+      "present_moment_attention",
+      "gentle_attachment",
+      "freedom_needing",
+      "creative_expression",
+      "emotional_sensitivity",
+      "experiential_processing",
+      "nonjudgmental"
+    ],
+    "shadow_traits": [
+      "conflict_avoidance",
+      "emotional_avoidance",
+      "change_hesitation",
+      "self_criticism",
+      "decision_hesitation"
+    ],
+    "growth_traits": [
+      "direct_communication",
+      "structured_thinking",
+      "purpose_drive",
+      "self_expression"
+    ],
+    "area_weights": {
+      "identity": 0.85,
+      "inner_world": 0.75,
+      "relationships": 0.7,
+      "communication": 0.5,
+      "motivation": 0.5,
+      "creativity": 0.95,
+      "growth": 0.65,
+      "stability": 0.6,
+      "healing": 0.75,
+      "purpose": 0.55,
+      "belonging": 0.55,
+      "exploration": 0.75
+    },
+    "trait_weights": {
+      "aesthetic_sensitivity": 1.0,
+      "emotional_gentleness": 0.95,
+      "emotional_authenticity": 0.95,
+      "sensory_emotionality": 0.95,
+      "present_moment_attention": 0.85,
+      "creative_expression": 0.85,
+      "gentle_attachment": 0.85,
+      "freedom_needing": 0.8,
+      "emotional_openness": 0.75,
+      "experiential_processing": 0.75,
+      "emotional_sensitivity": 0.75,
+      "nonjudgmental": 0.7,
+      "self_expression": 0.7,
+      "emotionally_reserved": 0.65,
+      "adaptability": 0.65
+    },
+    "dimension_profile": {
+      "depth": 0.65,
+      "intensity": 0.55,
+      "sensitivity": 0.85,
+      "warmth": 0.7,
+      "structure": 0.3,
+      "novelty": 0.55,
+      "autonomy": 0.65,
+      "harmony": 0.7,
+      "symbolism": 0.6,
+      "groundedness": 0.55,
+      "social_energy": 0.4,
+      "transformative_energy": 0.4
+    },
+    "summary": "Your emotional life moves through texture, sound, atmosphere, small living moments. You don't force expression; what you make and how you show up speak for you. Freedom matters more than recognition.",
+    "shadow": "Reserve can hide what others would gladly meet. Important things sometimes go unsaid because saying them feels like breaking the atmosphere.",
+    "growth": "A few honest, low-pressure words about what you actually feel keep your gentleness from becoming distance.",
+    "aesthetic_tags": [
+      "velvet",
+      "soft_light",
+      "garden",
+      "moonlight",
+      "paper"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "identity",
+      "self_expression",
+      "freedom"
+    ],
+    "emotional_tone": {
+      "warmth": "warm",
+      "movement": "flowing",
+      "density": "light",
+      "social_texture": "selective"
+    },
+    "visual_state_bias": [
+      "studio_light",
+      "soft_dawn",
+      "garden_light"
+    ],
+    "preferred_home_modules": [
+      "creativity_studio",
+      "atmosphere_player",
+      "identity",
+      "exploration_compass",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "istj_like",
+    "code": "ISTJ",
+    "technique_id": "mbti_v1",
+    "source_weight": 1.0,
+    "confidence": 0.75,
+    "title": "Steady Builder",
+    "short_summary": "Structured, reliable, methodical \u2014 the floor others stand on without noticing.",
+    "core_traits": [
+      "structured_thinking",
+      "discipline_orientation",
+      "duty_orientation",
+      "dependable_attachment",
+      "consistency",
+      "factual_precision",
+      "methodical_execution",
+      "responsibility_focus",
+      "emotionally_grounded",
+      "procedural_focus",
+      "emotional_restraint"
+    ],
+    "shadow_traits": [
+      "emotional_suppression",
+      "structural_holding",
+      "change_hesitation",
+      "excessive_structuring",
+      "emotional_avoidance"
+    ],
+    "growth_traits": [
+      "emotional_openness",
+      "adaptability",
+      "emotional_expressiveness",
+      "experimentation"
+    ],
+    "area_weights": {
+      "identity": 0.65,
+      "inner_world": 0.45,
+      "relationships": 0.55,
+      "communication": 0.55,
+      "motivation": 0.85,
+      "creativity": 0.4,
+      "growth": 0.45,
+      "stability": 1.0,
+      "healing": 0.4,
+      "purpose": 0.75,
+      "belonging": 0.7,
+      "exploration": 0.35
+    },
+    "trait_weights": {
+      "structured_thinking": 1.0,
+      "discipline_orientation": 0.95,
+      "duty_orientation": 0.95,
+      "dependable_attachment": 0.9,
+      "consistency": 0.9,
+      "factual_precision": 0.85,
+      "methodical_execution": 0.85,
+      "responsibility_focus": 0.85,
+      "emotionally_grounded": 0.8,
+      "procedural_focus": 0.8,
+      "emotional_restraint": 0.75,
+      "order_orientation": 0.75,
+      "stability_seeking": 0.75,
+      "endurance": 0.7,
+      "detail_focus": 0.7
+    },
+    "dimension_profile": {
+      "depth": 0.5,
+      "intensity": 0.4,
+      "sensitivity": 0.35,
+      "warmth": 0.4,
+      "structure": 0.95,
+      "novelty": 0.1,
+      "autonomy": 0.55,
+      "harmony": 0.55,
+      "symbolism": 0.15,
+      "groundedness": 0.95,
+      "social_energy": 0.3,
+      "transformative_energy": 0.15
+    },
+    "summary": "You do what you said you'd do. Routines, responsibilities, careful execution \u2014 these aren't burdens to you, they're how trust and stability get built over time. You prefer precision over improvisation.",
+    "shadow": "Structure becomes scaffolding becomes cage. Flexibility, when it's needed, can feel like a small violation.",
+    "growth": "Allowing one small thing to be done imperfectly \u2014 by you, on purpose \u2014 makes the rest of the structure breathe instead of stiffen.",
+    "aesthetic_tags": [
+      "stone",
+      "wood",
+      "metal",
+      "earth",
+      "paper"
+    ],
+    "reflection_tags": [
+      "stability",
+      "purpose",
+      "trust",
+      "emotional_regulation"
+    ],
+    "emotional_tone": {
+      "warmth": "tempered",
+      "movement": "still",
+      "density": "light",
+      "social_texture": "selective"
+    },
+    "visual_state_bias": [
+      "mountain_calm",
+      "ember_steady",
+      "mirror_pause"
+    ],
+    "preferred_home_modules": [
+      "stability_anchor",
+      "motivation",
+      "purpose_arc",
+      "belonging_circle",
+      "pattern_insights"
+    ],
+    "premium": false
+  },
+  {
+    "id": "istp_like",
+    "code": "ISTP",
+    "technique_id": "mbti_v1",
+    "source_weight": 1.0,
+    "confidence": 0.75,
+    "title": "Calm Operator",
+    "short_summary": "Practical, autonomous, composed \u2014 most yourself when there's space to work things out.",
+    "core_traits": [
+      "mechanical_reasoning",
+      "tactical_thinking",
+      "situational_awareness",
+      "autonomy_needing",
+      "calm_under_pressure",
+      "independent_attachment",
+      "emotional_independence",
+      "action_orientation",
+      "observational_presence",
+      "adaptability",
+      "rapid_response_thinking"
+    ],
+    "shadow_traits": [
+      "emotional_avoidance",
+      "emotional_detachment",
+      "impulse_following",
+      "commitment_hesitation",
+      "emotional_suppression"
+    ],
+    "growth_traits": [
+      "emotional_openness",
+      "empathic_responsiveness",
+      "emotional_warmth",
+      "introspective_processing"
+    ],
+    "area_weights": {
+      "identity": 0.65,
+      "inner_world": 0.5,
+      "relationships": 0.4,
+      "communication": 0.45,
+      "motivation": 0.75,
+      "creativity": 0.65,
+      "growth": 0.55,
+      "stability": 0.75,
+      "healing": 0.35,
+      "purpose": 0.5,
+      "belonging": 0.35,
+      "exploration": 0.95
+    },
+    "trait_weights": {
+      "mechanical_reasoning": 1.0,
+      "tactical_thinking": 0.95,
+      "situational_awareness": 0.9,
+      "autonomy_needing": 0.9,
+      "calm_under_pressure": 0.9,
+      "independent_attachment": 0.85,
+      "emotional_independence": 0.85,
+      "action_orientation": 0.8,
+      "observational_presence": 0.8,
+      "adaptability": 0.75,
+      "rapid_response_thinking": 0.75,
+      "experiential_processing": 0.75,
+      "emotional_detachment": 0.7,
+      "present_moment_attention": 0.7,
+      "socially_independent": 0.65
+    },
+    "dimension_profile": {
+      "depth": 0.45,
+      "intensity": 0.55,
+      "sensitivity": 0.4,
+      "warmth": 0.3,
+      "structure": 0.5,
+      "novelty": 0.65,
+      "autonomy": 0.9,
+      "harmony": 0.3,
+      "symbolism": 0.2,
+      "groundedness": 0.75,
+      "social_energy": 0.3,
+      "transformative_energy": 0.4
+    },
+    "summary": "You think with your hands and your situation. Mechanics, systems, real problems \u2014 you're at your best in motion, solving something concrete. You don't need much emotional discussion to function.",
+    "shadow": "Composure can be a closed door. The economy of expression sometimes reads, on the outside, as not caring.",
+    "growth": "A small piece of inner context \u2014 even one sentence about what's actually going on \u2014 keeps the calm available to other people, not only to you.",
+    "aesthetic_tags": [
+      "metal",
+      "stone",
+      "silver",
+      "horizon",
+      "shadow"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "change",
+      "self_expression",
+      "boundaries"
+    ],
+    "emotional_tone": {
+      "warmth": "cool",
+      "movement": "kinetic",
+      "density": "airy",
+      "social_texture": "private"
+    },
+    "visual_state_bias": [
+      "storm_clarity",
+      "compass_drift",
+      "horizon_motion"
+    ],
+    "preferred_home_modules": [
+      "exploration_compass",
+      "motivation",
+      "pattern_insights",
+      "atmosphere_player",
+      "growth_path"
+    ],
+    "premium": false
+  },
+  {
+    "id": "enfj_like",
+    "code": "ENFJ",
+    "technique_id": "mbti_v1",
+    "source_weight": 1.0,
+    "confidence": 0.75,
+    "title": "Generous Catalyst",
+    "short_summary": "Warm, attuned, leading \u2014 visible in how readily you meet other people.",
+    "core_traits": [
+      "empathic_responsiveness",
+      "emotional_warmth",
+      "leadership_orientation",
+      "relational_attunement",
+      "charismatic_engagement",
+      "harmony_seeking",
+      "encouragement_drive",
+      "people_focused",
+      "relationship_nurturing",
+      "inspiration_orientation",
+      "expressive_identity"
+    ],
+    "shadow_traits": [
+      "emotional_exhaustion",
+      "external_validation_seeking",
+      "self_sacrifice",
+      "relational_overextension",
+      "people_pleasing"
+    ],
+    "growth_traits": [
+      "emotional_independence",
+      "autonomy_needing",
+      "calm_under_pressure",
+      "selective_trust"
+    ],
+    "area_weights": {
+      "identity": 0.8,
+      "inner_world": 0.7,
+      "relationships": 0.95,
+      "communication": 0.95,
+      "motivation": 0.8,
+      "creativity": 0.7,
+      "growth": 0.8,
+      "stability": 0.55,
+      "healing": 0.65,
+      "purpose": 0.9,
+      "belonging": 0.85,
+      "exploration": 0.55
+    },
+    "trait_weights": {
+      "empathic_responsiveness": 1.0,
+      "relational_attunement": 0.95,
+      "emotional_warmth": 0.95,
+      "leadership_orientation": 0.9,
+      "charismatic_engagement": 0.9,
+      "harmony_seeking": 0.9,
+      "encouragement_drive": 0.85,
+      "people_focused": 0.85,
+      "relationship_nurturing": 0.85,
+      "inspiration_orientation": 0.8,
+      "expressive_identity": 0.8,
+      "social_awareness": 0.8,
+      "emotional_responsiveness": 0.75,
+      "purpose_drive": 0.75,
+      "collective_growth": 0.7
+    },
+    "dimension_profile": {
+      "depth": 0.65,
+      "intensity": 0.7,
+      "sensitivity": 0.85,
+      "warmth": 0.95,
+      "structure": 0.55,
+      "novelty": 0.45,
+      "autonomy": 0.4,
+      "harmony": 0.8,
+      "symbolism": 0.55,
+      "groundedness": 0.45,
+      "social_energy": 0.9,
+      "transformative_energy": 0.65
+    },
+    "summary": "You're built for connection. You read rooms quickly, draw out what's underneath, and orient toward what other people need to grow. Leadership, for you, is mostly attention and care made visible.",
+    "shadow": "Always reading others can leave you without time to read yourself. Burnout is the recurring risk of how much you give.",
+    "growth": "Protecting unscheduled, low-input time \u2014 for nothing in particular \u2014 keeps the warmth renewable instead of depleted.",
+    "aesthetic_tags": [
+      "gold",
+      "warm_glow",
+      "soft_light",
+      "garden",
+      "velvet"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "purpose",
+      "belonging",
+      "communication"
+    ],
+    "emotional_tone": {
+      "warmth": "radiant",
+      "movement": "flowing",
+      "density": "deep",
+      "social_texture": "outward"
+    },
+    "visual_state_bias": [
+      "gold_warmth",
+      "forest_clearing",
+      "soft_dawn"
+    ],
+    "preferred_home_modules": [
+      "relationships",
+      "communication",
+      "purpose_arc",
+      "belonging_circle",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "enfp_like",
+    "code": "ENFP",
+    "technique_id": "mbti_v1",
+    "source_weight": 1.0,
+    "confidence": 0.75,
+    "title": "Bright Improviser",
+    "short_summary": "Open, curious, generative \u2014 alive in possibility, less so in routine.",
+    "core_traits": [
+      "emotional_openness",
+      "idea_generation",
+      "novelty_seeking",
+      "freedom_needing",
+      "emotional_vitality",
+      "charismatic_engagement",
+      "imaginative_processing",
+      "emotionally_engaging",
+      "creative_expression",
+      "optimism",
+      "discovery_orientation"
+    ],
+    "shadow_traits": [
+      "inconsistency",
+      "impulse_following",
+      "emotional_restlessness",
+      "decision_hesitation",
+      "commitment_hesitation"
+    ],
+    "growth_traits": [
+      "discipline_orientation",
+      "methodical_execution",
+      "consistency",
+      "delayed_gratification"
+    ],
+    "area_weights": {
+      "identity": 0.85,
+      "inner_world": 0.7,
+      "relationships": 0.8,
+      "communication": 0.9,
+      "motivation": 0.65,
+      "creativity": 0.95,
+      "growth": 0.85,
+      "stability": 0.4,
+      "healing": 0.6,
+      "purpose": 0.75,
+      "belonging": 0.6,
+      "exploration": 0.95
+    },
+    "trait_weights": {
+      "emotional_openness": 1.0,
+      "idea_generation": 0.95,
+      "novelty_seeking": 0.95,
+      "freedom_needing": 0.9,
+      "emotional_vitality": 0.9,
+      "charismatic_engagement": 0.85,
+      "imaginative_processing": 0.85,
+      "emotionally_engaging": 0.85,
+      "creative_expression": 0.85,
+      "optimism": 0.8,
+      "associative_thinking": 0.75,
+      "emotional_spontaneity": 0.75,
+      "discovery_orientation": 0.75,
+      "self_expression": 0.75,
+      "authenticity_drive": 0.7
+    },
+    "dimension_profile": {
+      "depth": 0.55,
+      "intensity": 0.75,
+      "sensitivity": 0.75,
+      "warmth": 0.8,
+      "structure": 0.2,
+      "novelty": 0.95,
+      "autonomy": 0.7,
+      "harmony": 0.55,
+      "symbolism": 0.65,
+      "groundedness": 0.25,
+      "social_energy": 0.9,
+      "transformative_energy": 0.65
+    },
+    "summary": "You move through the world in ideas, people, and possibilities. You make connections others don't see and bring energy into rooms that needed it. Freedom and meaning matter more to you than structure.",
+    "shadow": "Constant openness can become its own avoidance. Closing on anything \u2014 a project, a person, a direction \u2014 sometimes feels like losing the others.",
+    "growth": "Finishing the things that actually matter to you \u2014 even the unfun parts \u2014 turns brightness into a real track record.",
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "warm_glow",
+      "garden",
+      "wind"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "freedom",
+      "relationships",
+      "self_expression"
+    ],
+    "emotional_tone": {
+      "warmth": "radiant",
+      "movement": "kinetic",
+      "density": "light",
+      "social_texture": "outward"
+    },
+    "visual_state_bias": [
+      "flame_kinetic",
+      "studio_light",
+      "gold_warmth"
+    ],
+    "preferred_home_modules": [
+      "creativity_studio",
+      "exploration_compass",
+      "relationships",
+      "communication",
+      "growth_path"
+    ],
+    "premium": false
+  },
+  {
+    "id": "entj_like",
+    "code": "ENTJ",
+    "technique_id": "mbti_v1",
+    "source_weight": 1.0,
+    "confidence": 0.75,
+    "title": "Decisive Architect",
+    "short_summary": "Strategic, driven, leading \u2014 built for momentum that moves people.",
+    "core_traits": [
+      "leadership_orientation",
+      "achievement_drive",
+      "strategic_thinking",
+      "decisive_action",
+      "mastery_drive",
+      "structured_thinking",
+      "direct_communication",
+      "action_orientation",
+      "authoritative_presence",
+      "control_needing",
+      "systems_thinking"
+    ],
+    "shadow_traits": [
+      "control_seeking",
+      "work_overinvestment",
+      "structural_holding",
+      "emotional_suppression",
+      "emotional_impatience"
+    ],
+    "growth_traits": [
+      "empathic_responsiveness",
+      "emotional_openness",
+      "calm_under_pressure",
+      "present_moment_attention"
+    ],
+    "area_weights": {
+      "identity": 0.85,
+      "inner_world": 0.55,
+      "relationships": 0.45,
+      "communication": 0.85,
+      "motivation": 1.0,
+      "creativity": 0.6,
+      "growth": 0.7,
+      "stability": 0.75,
+      "healing": 0.3,
+      "purpose": 0.9,
+      "belonging": 0.45,
+      "exploration": 0.7
+    },
+    "trait_weights": {
+      "leadership_orientation": 1.0,
+      "achievement_drive": 0.95,
+      "strategic_thinking": 0.95,
+      "decisive_action": 0.9,
+      "mastery_drive": 0.9,
+      "structured_thinking": 0.85,
+      "direct_communication": 0.85,
+      "action_orientation": 0.85,
+      "control_needing": 0.8,
+      "authoritative_presence": 0.8,
+      "systems_thinking": 0.8,
+      "objective_analysis": 0.75,
+      "responsibility_focus": 0.75,
+      "purpose_drive": 0.75,
+      "competence_focus": 0.7
+    },
+    "dimension_profile": {
+      "depth": 0.55,
+      "intensity": 0.85,
+      "sensitivity": 0.35,
+      "warmth": 0.35,
+      "structure": 0.9,
+      "novelty": 0.45,
+      "autonomy": 0.9,
+      "harmony": 0.3,
+      "symbolism": 0.45,
+      "groundedness": 0.7,
+      "social_energy": 0.7,
+      "transformative_energy": 0.55
+    },
+    "summary": "You see what needs to happen and start making it happen. Long horizons, clear plans, organized effort \u2014 these are how you naturally move. You expect competence in others because you bring it yourself.",
+    "shadow": "High standards can quietly erode patience. People around you sometimes feel measured before they feel met.",
+    "growth": "Slowing down for moments that don't require optimization \u2014 pure presence \u2014 adds dimension to leadership that strategy alone can't reach.",
+    "aesthetic_tags": [
+      "gold",
+      "metal",
+      "horizon",
+      "flame",
+      "stone"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "motivation",
+      "growth"
+    ],
+    "emotional_tone": {
+      "warmth": "tempered",
+      "movement": "kinetic",
+      "density": "deep",
+      "social_texture": "engaging"
+    },
+    "visual_state_bias": [
+      "storm_clarity",
+      "horizon_motion",
+      "flame_kinetic"
+    ],
+    "preferred_home_modules": [
+      "motivation",
+      "purpose_arc",
+      "identity",
+      "pattern_insights",
+      "communication"
+    ],
+    "premium": false
+  },
+  {
+    "id": "entp_like",
+    "code": "ENTP",
+    "technique_id": "mbti_v1",
+    "source_weight": 1.0,
+    "confidence": 0.75,
+    "title": "Inventive Mind",
+    "short_summary": "Quick, generative, debate-loving \u2014 fluent at turning things over until they're new.",
+    "core_traits": [
+      "idea_generation",
+      "intellectually_playful",
+      "provocative_interaction",
+      "novelty_seeking",
+      "conceptual_thinking",
+      "reframing_ability",
+      "unconventional_thinking",
+      "charismatic_engagement",
+      "innovative_thinking",
+      "experimentation",
+      "challenge_seeking"
+    ],
+    "shadow_traits": [
+      "emotional_avoidance",
+      "impulse_following",
+      "commitment_hesitation",
+      "inconsistency",
+      "emotional_impatience"
+    ],
+    "growth_traits": [
+      "methodical_execution",
+      "emotional_warmth",
+      "consistency",
+      "discipline_orientation"
+    ],
+    "area_weights": {
+      "identity": 0.75,
+      "inner_world": 0.55,
+      "relationships": 0.55,
+      "communication": 0.95,
+      "motivation": 0.75,
+      "creativity": 0.95,
+      "growth": 0.75,
+      "stability": 0.35,
+      "healing": 0.4,
+      "purpose": 0.65,
+      "belonging": 0.45,
+      "exploration": 0.95
+    },
+    "trait_weights": {
+      "idea_generation": 1.0,
+      "intellectually_playful": 0.95,
+      "provocative_interaction": 0.9,
+      "novelty_seeking": 0.9,
+      "conceptual_thinking": 0.85,
+      "reframing_ability": 0.85,
+      "unconventional_thinking": 0.85,
+      "charismatic_engagement": 0.85,
+      "innovative_thinking": 0.8,
+      "experimentation": 0.8,
+      "challenge_seeking": 0.75,
+      "socially_adaptable": 0.7,
+      "verbal_processing": 0.7,
+      "discovery_orientation": 0.7,
+      "adaptability": 0.65
+    },
+    "dimension_profile": {
+      "depth": 0.5,
+      "intensity": 0.75,
+      "sensitivity": 0.5,
+      "warmth": 0.5,
+      "structure": 0.25,
+      "novelty": 0.95,
+      "autonomy": 0.85,
+      "harmony": 0.3,
+      "symbolism": 0.55,
+      "groundedness": 0.25,
+      "social_energy": 0.85,
+      "transformative_energy": 0.65
+    },
+    "summary": "You think by talking, testing, reframing. Conventional wisdom is your starting material; your real contribution shows up at the edge of what someone else established. You need variety the way other people need stability.",
+    "shadow": "Always reframing can stall execution. The new angle can become a way of deferring the work the current angle still needs.",
+    "growth": "Choosing one project to finish boring \u2014 the unsexy completion \u2014 converts cleverness into real-world weight.",
+    "aesthetic_tags": [
+      "spark",
+      "silver",
+      "air",
+      "movement",
+      "gold"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "change",
+      "communication",
+      "growth"
+    ],
+    "emotional_tone": {
+      "warmth": "warm",
+      "movement": "kinetic",
+      "density": "airy",
+      "social_texture": "outward"
+    },
+    "visual_state_bias": [
+      "flame_kinetic",
+      "studio_light",
+      "compass_drift"
+    ],
+    "preferred_home_modules": [
+      "creativity_studio",
+      "exploration_compass",
+      "communication",
+      "pattern_insights",
+      "growth_path"
+    ],
+    "premium": false
+  },
+  {
+    "id": "esfj_like",
+    "code": "ESFJ",
+    "technique_id": "mbti_v1",
+    "source_weight": 1.0,
+    "confidence": 0.75,
+    "title": "Warm Connector",
+    "short_summary": "Caring, attuned, social \u2014 the one who keeps everyone connected.",
+    "core_traits": [
+      "emotional_warmth",
+      "caretaking",
+      "people_focused",
+      "harmony_seeking",
+      "relationship_nurturing",
+      "support_orientation",
+      "emotional_responsiveness",
+      "belonging_needing",
+      "emotional_expressiveness",
+      "empathic_responsiveness",
+      "service_orientation"
+    ],
+    "shadow_traits": [
+      "external_validation_seeking",
+      "self_sacrifice",
+      "conflict_avoidance",
+      "people_pleasing",
+      "resentment_buildup"
+    ],
+    "growth_traits": [
+      "emotional_independence",
+      "autonomy_needing",
+      "self_expression",
+      "direct_communication"
+    ],
+    "area_weights": {
+      "identity": 0.65,
+      "inner_world": 0.6,
+      "relationships": 0.95,
+      "communication": 0.85,
+      "motivation": 0.7,
+      "creativity": 0.55,
+      "growth": 0.55,
+      "stability": 0.8,
+      "healing": 0.7,
+      "purpose": 0.65,
+      "belonging": 0.95,
+      "exploration": 0.4
+    },
+    "trait_weights": {
+      "emotional_warmth": 1.0,
+      "caretaking": 0.95,
+      "people_focused": 0.95,
+      "harmony_seeking": 0.9,
+      "relationship_nurturing": 0.9,
+      "support_orientation": 0.85,
+      "emotional_responsiveness": 0.85,
+      "belonging_needing": 0.85,
+      "emotional_expressiveness": 0.8,
+      "empathic_responsiveness": 0.8,
+      "service_orientation": 0.8,
+      "social_awareness": 0.75,
+      "duty_orientation": 0.75,
+      "consistency": 0.7,
+      "appreciation_seeking": 0.7
+    },
+    "dimension_profile": {
+      "depth": 0.5,
+      "intensity": 0.5,
+      "sensitivity": 0.75,
+      "warmth": 0.95,
+      "structure": 0.7,
+      "novelty": 0.25,
+      "autonomy": 0.25,
+      "harmony": 0.85,
+      "symbolism": 0.3,
+      "groundedness": 0.65,
+      "social_energy": 0.9,
+      "transformative_energy": 0.3
+    },
+    "summary": "You organize warmth. Birthdays remembered, the awkward person included, the practical thing taken care of before it became a crisis. Belonging matters to you, and you build it on purpose for the people around you.",
+    "shadow": "When approval becomes oxygen, every relationship carries hidden weight. Saying no can feel like risking the belonging itself.",
+    "growth": "A small no, said warmly and survived, teaches the whole network that the relationships are real \u2014 not contingent on your accommodation.",
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "gold",
+      "velvet",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "belonging",
+      "attachment",
+      "communication"
+    ],
+    "emotional_tone": {
+      "warmth": "warm",
+      "movement": "flowing",
+      "density": "light",
+      "social_texture": "outward"
+    },
+    "visual_state_bias": [
+      "gold_warmth",
+      "forest_clearing",
+      "garden_light"
+    ],
+    "preferred_home_modules": [
+      "relationships",
+      "belonging_circle",
+      "communication",
+      "stability_anchor",
+      "healing_space"
+    ],
+    "premium": false
+  },
+  {
+    "id": "esfp_like",
+    "code": "ESFP",
+    "technique_id": "mbti_v1",
+    "source_weight": 1.0,
+    "confidence": 0.75,
+    "title": "Living Spark",
+    "short_summary": "Expressive, present, alive \u2014 gathering people into the moment.",
+    "core_traits": [
+      "emotional_vitality",
+      "emotional_expressiveness",
+      "emotional_spontaneity",
+      "sensory_engagement",
+      "charismatic_engagement",
+      "socially_playful",
+      "thrill_seeking",
+      "optimism",
+      "present_moment_attention",
+      "affectionate_presence",
+      "emotional_warmth"
+    ],
+    "shadow_traits": [
+      "impulse_following",
+      "emotional_avoidance",
+      "external_validation_seeking",
+      "decision_hesitation",
+      "inconsistency"
+    ],
+    "growth_traits": [
+      "discipline_orientation",
+      "introspective_processing",
+      "purpose_drive",
+      "structured_thinking"
+    ],
+    "area_weights": {
+      "identity": 0.7,
+      "inner_world": 0.45,
+      "relationships": 0.85,
+      "communication": 0.9,
+      "motivation": 0.55,
+      "creativity": 0.85,
+      "growth": 0.55,
+      "stability": 0.45,
+      "healing": 0.5,
+      "purpose": 0.5,
+      "belonging": 0.8,
+      "exploration": 0.9
+    },
+    "trait_weights": {
+      "emotional_vitality": 1.0,
+      "emotional_expressiveness": 0.95,
+      "emotional_spontaneity": 0.95,
+      "sensory_engagement": 0.9,
+      "charismatic_engagement": 0.9,
+      "socially_playful": 0.9,
+      "thrill_seeking": 0.85,
+      "optimism": 0.85,
+      "present_moment_attention": 0.85,
+      "affectionate_presence": 0.8,
+      "emotional_warmth": 0.8,
+      "experiential_processing": 0.75,
+      "adaptability": 0.75,
+      "self_expression": 0.7,
+      "stimulation_seeking": 0.7
+    },
+    "dimension_profile": {
+      "depth": 0.35,
+      "intensity": 0.8,
+      "sensitivity": 0.65,
+      "warmth": 0.85,
+      "structure": 0.2,
+      "novelty": 0.85,
+      "autonomy": 0.55,
+      "harmony": 0.55,
+      "symbolism": 0.3,
+      "groundedness": 0.45,
+      "social_energy": 0.95,
+      "transformative_energy": 0.4
+    },
+    "summary": "You bring the room with you. Energy, color, immediacy \u2014 these aren't performance for you, they're how you actually move through the day. You don't have to be doing much to be vivid.",
+    "shadow": "Constant immediacy can sidestep the longer work. Hard things sometimes get outrun rather than processed.",
+    "growth": "A few quiet minutes that don't require any audience \u2014 just being alone with what's there \u2014 keep the brightness anchored to something inside, not only outside.",
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "flame",
+      "warm_glow",
+      "movement"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "relationships",
+      "creativity",
+      "change"
+    ],
+    "emotional_tone": {
+      "warmth": "radiant",
+      "movement": "kinetic",
+      "density": "light",
+      "social_texture": "outward"
+    },
+    "visual_state_bias": [
+      "flame_kinetic",
+      "gold_warmth",
+      "studio_light"
+    ],
+    "preferred_home_modules": [
+      "relationships",
+      "atmosphere_player",
+      "creativity_studio",
+      "exploration_compass",
+      "communication"
+    ],
+    "premium": false
+  },
+  {
+    "id": "estj_like",
+    "code": "ESTJ",
+    "technique_id": "mbti_v1",
+    "source_weight": 1.0,
+    "confidence": 0.75,
+    "title": "Reliable Commander",
+    "short_summary": "Direct, organized, decisive \u2014 the one who gets the structure built.",
+    "core_traits": [
+      "leadership_orientation",
+      "decisive_action",
+      "structured_thinking",
+      "discipline_orientation",
+      "responsibility_focus",
+      "achievement_drive",
+      "direct_communication",
+      "authoritative_presence",
+      "duty_orientation",
+      "methodical_execution",
+      "order_orientation"
+    ],
+    "shadow_traits": [
+      "structural_holding",
+      "control_seeking",
+      "emotional_suppression",
+      "emotional_impatience",
+      "excessive_structuring"
+    ],
+    "growth_traits": [
+      "empathic_responsiveness",
+      "emotional_openness",
+      "adaptability",
+      "present_moment_attention"
+    ],
+    "area_weights": {
+      "identity": 0.7,
+      "inner_world": 0.4,
+      "relationships": 0.55,
+      "communication": 0.8,
+      "motivation": 0.95,
+      "creativity": 0.45,
+      "growth": 0.55,
+      "stability": 0.95,
+      "healing": 0.35,
+      "purpose": 0.8,
+      "belonging": 0.7,
+      "exploration": 0.45
+    },
+    "trait_weights": {
+      "leadership_orientation": 1.0,
+      "decisive_action": 0.95,
+      "structured_thinking": 0.95,
+      "discipline_orientation": 0.9,
+      "responsibility_focus": 0.9,
+      "achievement_drive": 0.9,
+      "direct_communication": 0.85,
+      "authoritative_presence": 0.85,
+      "duty_orientation": 0.85,
+      "methodical_execution": 0.8,
+      "order_orientation": 0.8,
+      "procedural_focus": 0.75,
+      "objective_analysis": 0.75,
+      "consistency": 0.75,
+      "factual_precision": 0.7
+    },
+    "dimension_profile": {
+      "depth": 0.4,
+      "intensity": 0.7,
+      "sensitivity": 0.3,
+      "warmth": 0.4,
+      "structure": 0.95,
+      "novelty": 0.15,
+      "autonomy": 0.65,
+      "harmony": 0.45,
+      "symbolism": 0.2,
+      "groundedness": 0.85,
+      "social_energy": 0.65,
+      "transformative_energy": 0.2
+    },
+    "summary": "You're built for execution. You take responsibility seriously, structure cleanly, and don't hesitate to make calls others avoid. The people who work with you usually know exactly where they stand.",
+    "shadow": "Directness without softness can land hard. Efficient communication sometimes shrinks emotional bandwidth other people needed.",
+    "growth": "A small pause before delivering the call \u2014 to register what's underneath \u2014 keeps the leadership trusted, not just followed.",
+    "aesthetic_tags": [
+      "metal",
+      "stone",
+      "horizon",
+      "gold",
+      "wood"
+    ],
+    "reflection_tags": [
+      "stability",
+      "purpose",
+      "motivation",
+      "communication"
+    ],
+    "emotional_tone": {
+      "warmth": "tempered",
+      "movement": "kinetic",
+      "density": "light",
+      "social_texture": "engaging"
+    },
+    "visual_state_bias": [
+      "horizon_motion",
+      "ember_steady",
+      "storm_clarity"
+    ],
+    "preferred_home_modules": [
+      "motivation",
+      "stability_anchor",
+      "purpose_arc",
+      "communication",
+      "pattern_insights"
+    ],
+    "premium": false
+  },
+  {
+    "id": "estp_like",
+    "code": "ESTP",
+    "technique_id": "mbti_v1",
+    "source_weight": 1.0,
+    "confidence": 0.75,
+    "title": "Charged Operator",
+    "short_summary": "Active, bold, in motion \u2014 most awake at the leading edge of a situation.",
+    "core_traits": [
+      "action_orientation",
+      "charismatic_engagement",
+      "socially_bold",
+      "tactical_thinking",
+      "thrill_seeking",
+      "decisive_action",
+      "situational_awareness",
+      "rapid_response_thinking",
+      "courage_based",
+      "risk_taking",
+      "adaptability"
+    ],
+    "shadow_traits": [
+      "impulse_following",
+      "emotional_avoidance",
+      "emotional_impatience",
+      "commitment_hesitation",
+      "inconsistency"
+    ],
+    "growth_traits": [
+      "introspective_processing",
+      "emotional_openness",
+      "structured_thinking",
+      "delayed_gratification"
+    ],
+    "area_weights": {
+      "identity": 0.65,
+      "inner_world": 0.35,
+      "relationships": 0.55,
+      "communication": 0.8,
+      "motivation": 0.85,
+      "creativity": 0.6,
+      "growth": 0.55,
+      "stability": 0.55,
+      "healing": 0.3,
+      "purpose": 0.5,
+      "belonging": 0.5,
+      "exploration": 0.95
+    },
+    "trait_weights": {
+      "action_orientation": 1.0,
+      "charismatic_engagement": 0.95,
+      "socially_bold": 0.95,
+      "tactical_thinking": 0.9,
+      "thrill_seeking": 0.9,
+      "decisive_action": 0.85,
+      "situational_awareness": 0.85,
+      "rapid_response_thinking": 0.85,
+      "courage_based": 0.85,
+      "risk_taking": 0.8,
+      "adaptability": 0.8,
+      "initiation_energy": 0.75,
+      "experiential_processing": 0.75,
+      "direct_communication": 0.7,
+      "stimulation_seeking": 0.7
+    },
+    "dimension_profile": {
+      "depth": 0.3,
+      "intensity": 0.9,
+      "sensitivity": 0.4,
+      "warmth": 0.5,
+      "structure": 0.3,
+      "novelty": 0.85,
+      "autonomy": 0.75,
+      "harmony": 0.3,
+      "symbolism": 0.2,
+      "groundedness": 0.55,
+      "social_energy": 0.9,
+      "transformative_energy": 0.4
+    },
+    "summary": "You live close to the moment. New stimulus, fast decisions, real-world problems \u2014 these are where you're sharpest. Sitting still and theorizing are not how you process most things.",
+    "shadow": "Speed can outrun reflection. Decisions taste right in the moment and look different the next morning.",
+    "growth": "A short habit of looking back at what just happened \u2014 without judgment, just notice \u2014 adds the missing layer that turns reactivity into mastery.",
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "movement",
+      "gold",
+      "wind"
+    ],
+    "reflection_tags": [
+      "change",
+      "self_expression",
+      "motivation",
+      "freedom"
+    ],
+    "emotional_tone": {
+      "warmth": "warm",
+      "movement": "kinetic",
+      "density": "airy",
+      "social_texture": "outward"
+    },
+    "visual_state_bias": [
+      "flame_kinetic",
+      "storm_clarity",
+      "compass_drift"
+    ],
+    "preferred_home_modules": [
+      "exploration_compass",
+      "motivation",
+      "communication",
+      "atmosphere_player",
+      "pattern_insights"
+    ],
+    "premium": false
+  }
+]

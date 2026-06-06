@@ -1,0 +1,8803 @@
+[
+  {
+    "id": "calm_under_pressure",
+    "category": "emotional",
+    "subcategory": "emotional_regulation",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.3,
+      "sensitivity": 0.3,
+      "warmth": 0.3,
+      "structure": 0.7,
+      "novelty": 0.1,
+      "autonomy": 0.7,
+      "harmony": 0.5,
+      "symbolism": 0.1,
+      "groundedness": 0.8,
+      "social_energy": 0.2,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "emotional_restraint",
+      "emotional_independence",
+      "emotionally_grounded"
+    ],
+    "opposite_traits": [
+      "emotional_reactivity",
+      "emotional_overwhelm"
+    ],
+    "aesthetic_tags": [
+      "stillness",
+      "stone",
+      "metal",
+      "horizon",
+      "fog"
+    ],
+    "reflection_tags": [
+      "emotional_regulation",
+      "stability",
+      "inner_world"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_absorption",
+    "category": "emotional",
+    "subcategory": "emotional_processing",
+    "dimensions": {
+      "depth": 0.8,
+      "intensity": 0.7,
+      "sensitivity": 0.95,
+      "warmth": 0.7,
+      "structure": 0.1,
+      "novelty": 0.2,
+      "autonomy": 0.1,
+      "harmony": 0.5,
+      "symbolism": 0.6,
+      "groundedness": 0.2,
+      "social_energy": 0.5,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "empathic_responsiveness",
+      "emotional_sensitivity",
+      "emotional_fluidity",
+      "emotional_depth"
+    ],
+    "opposite_traits": [
+      "emotional_detachment",
+      "emotional_independence"
+    ],
+    "aesthetic_tags": [
+      "water",
+      "fog",
+      "moonlight",
+      "soft_light",
+      "violet"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "attachment",
+      "inner_world",
+      "boundaries"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_authenticity",
+    "category": "emotional",
+    "subcategory": "self_expression",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.5,
+      "sensitivity": 0.6,
+      "warmth": 0.6,
+      "structure": 0.2,
+      "novelty": 0.3,
+      "autonomy": 0.7,
+      "harmony": 0.4,
+      "symbolism": 0.4,
+      "groundedness": 0.4,
+      "social_energy": 0.4,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "emotional_openness",
+      "emotional_depth",
+      "self_expression",
+      "emotional_expressiveness"
+    ],
+    "opposite_traits": [
+      "emotional_suppression",
+      "emotionally_guarded"
+    ],
+    "aesthetic_tags": [
+      "paper",
+      "garden",
+      "warm_glow",
+      "earth"
+    ],
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "vulnerability"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_control",
+    "category": "emotional",
+    "subcategory": "emotional_regulation",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.5,
+      "sensitivity": 0.3,
+      "warmth": 0.2,
+      "structure": 0.8,
+      "novelty": 0.1,
+      "autonomy": 0.7,
+      "harmony": 0.3,
+      "symbolism": 0.2,
+      "groundedness": 0.6,
+      "social_energy": 0.2,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "emotional_restraint",
+      "emotionally_guarded",
+      "emotional_independence"
+    ],
+    "opposite_traits": [
+      "emotional_expressiveness",
+      "emotional_fluidity"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "stone",
+      "shadow",
+      "glass"
+    ],
+    "reflection_tags": [
+      "emotional_regulation",
+      "vulnerability",
+      "boundaries"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_depth",
+    "category": "emotional",
+    "subcategory": "emotional_processing",
+    "dimensions": {
+      "depth": 0.95,
+      "intensity": 0.7,
+      "sensitivity": 0.8,
+      "warmth": 0.5,
+      "structure": 0.2,
+      "novelty": 0.1,
+      "autonomy": 0.3,
+      "harmony": 0.3,
+      "symbolism": 0.7,
+      "groundedness": 0.2,
+      "social_energy": 0.1,
+      "transformative_energy": 0.7
+    },
+    "related_traits": [
+      "emotional_intensity",
+      "meaning_seeking",
+      "psychological_insight",
+      "emotional_privacy"
+    ],
+    "opposite_traits": [
+      "emotional_detachment"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "water",
+      "silence",
+      "fog",
+      "violet"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "vulnerability",
+      "identity"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_detachment",
+    "category": "emotional",
+    "subcategory": "emotional_processing",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.24,
+      "sensitivity": 0.2,
+      "warmth": 0.1,
+      "structure": 0.56,
+      "novelty": 0.3,
+      "autonomy": 0.9,
+      "harmony": 0.26,
+      "symbolism": 0.3,
+      "groundedness": 0.46,
+      "social_energy": 0.2,
+      "transformative_energy": 0.1
+    },
+    "related_traits": [
+      "emotional_independence",
+      "objective_analysis",
+      "emotional_restraint",
+      "emotional_avoidance",
+      "emotionally_guarded",
+      "socially_independent"
+    ],
+    "opposite_traits": [
+      "emotional_absorption",
+      "emotional_warmth",
+      "empathic_responsiveness",
+      "emotional_depth"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "glass",
+      "horizon",
+      "metal",
+      "silver",
+      "fog",
+      "shadow"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "inner_world",
+      "emotional_regulation",
+      "relationships",
+      "vulnerability"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_expressiveness",
+    "category": "emotional",
+    "subcategory": "self_expression",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.7,
+      "sensitivity": 0.6,
+      "warmth": 0.8,
+      "structure": 0.2,
+      "novelty": 0.5,
+      "autonomy": 0.4,
+      "harmony": 0.5,
+      "symbolism": 0.3,
+      "groundedness": 0.3,
+      "social_energy": 0.9,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "emotional_warmth",
+      "emotional_openness",
+      "emotional_vitality",
+      "self_expression"
+    ],
+    "opposite_traits": [
+      "emotional_restraint",
+      "emotionally_reserved",
+      "emotional_suppression"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "flame",
+      "gold",
+      "spark",
+      "movement"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "communication",
+      "relationships"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_fluidity",
+    "category": "emotional",
+    "subcategory": "emotional_processing",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.5,
+      "sensitivity": 0.8,
+      "warmth": 0.6,
+      "structure": 0.1,
+      "novelty": 0.6,
+      "autonomy": 0.3,
+      "harmony": 0.4,
+      "symbolism": 0.7,
+      "groundedness": 0.1,
+      "social_energy": 0.4,
+      "transformative_energy": 0.6
+    },
+    "related_traits": [
+      "emotional_absorption",
+      "imaginative_processing",
+      "emotional_sensitivity"
+    ],
+    "opposite_traits": [
+      "emotional_restraint",
+      "emotionally_grounded",
+      "emotional_control"
+    ],
+    "aesthetic_tags": [
+      "water",
+      "fog",
+      "moonlight",
+      "violet",
+      "movement"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "creativity",
+      "emotional_regulation"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_gentleness",
+    "category": "emotional",
+    "subcategory": "emotional_expression",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.3,
+      "sensitivity": 0.8,
+      "warmth": 0.9,
+      "structure": 0.3,
+      "novelty": 0.2,
+      "autonomy": 0.3,
+      "harmony": 0.8,
+      "symbolism": 0.4,
+      "groundedness": 0.5,
+      "social_energy": 0.4,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "emotional_warmth",
+      "empathic_responsiveness",
+      "emotional_sensitivity",
+      "gentle_attachment"
+    ],
+    "opposite_traits": [
+      "emotional_intensity",
+      "emotional_control"
+    ],
+    "aesthetic_tags": [
+      "soft_light",
+      "velvet",
+      "paper",
+      "garden",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "relationships",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_independence",
+    "category": "emotional",
+    "subcategory": "emotional_regulation",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.4,
+      "sensitivity": 0.3,
+      "warmth": 0.3,
+      "structure": 0.5,
+      "novelty": 0.4,
+      "autonomy": 0.95,
+      "harmony": 0.3,
+      "symbolism": 0.3,
+      "groundedness": 0.6,
+      "social_energy": 0.3,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "autonomy_needing",
+      "emotional_restraint",
+      "emotional_detachment",
+      "calm_under_pressure"
+    ],
+    "opposite_traits": [
+      "attachment_security_needing",
+      "emotional_absorption"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "air",
+      "metal",
+      "silver",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "boundaries",
+      "identity"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_intensity",
+    "category": "emotional",
+    "subcategory": "emotional_processing",
+    "dimensions": {
+      "depth": 0.85,
+      "intensity": 0.95,
+      "sensitivity": 0.7,
+      "warmth": 0.5,
+      "structure": 0.3,
+      "novelty": 0.4,
+      "autonomy": 0.5,
+      "harmony": 0.2,
+      "symbolism": 0.6,
+      "groundedness": 0.3,
+      "social_energy": 0.5,
+      "transformative_energy": 0.8
+    },
+    "related_traits": [
+      "emotional_depth",
+      "transformative_drive",
+      "emotional_reactivity",
+      "thrill_seeking"
+    ],
+    "opposite_traits": [
+      "emotional_detachment",
+      "emotional_restraint"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "night",
+      "shadow",
+      "violet",
+      "spark"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "vulnerability",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_loyalty",
+    "category": "emotional",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.5,
+      "sensitivity": 0.6,
+      "warmth": 0.8,
+      "structure": 0.6,
+      "novelty": 0.1,
+      "autonomy": 0.3,
+      "harmony": 0.7,
+      "symbolism": 0.3,
+      "groundedness": 0.7,
+      "social_energy": 0.4,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "dependable_attachment",
+      "selective_trust",
+      "protective_care",
+      "consistency"
+    ],
+    "opposite_traits": [
+      "emotional_detachment",
+      "unconventional_relationship_style"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "wood",
+      "earth",
+      "velvet",
+      "garden"
+    ],
+    "reflection_tags": [
+      "attachment",
+      "trust",
+      "relationships"
+    ],
+    "source_systems": [
+      "mbti",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_openness",
+    "category": "emotional",
+    "subcategory": "vulnerability_style",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.6,
+      "sensitivity": 0.7,
+      "warmth": 0.8,
+      "structure": 0.2,
+      "novelty": 0.6,
+      "autonomy": 0.4,
+      "harmony": 0.6,
+      "symbolism": 0.4,
+      "groundedness": 0.3,
+      "social_energy": 0.7,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "emotional_authenticity",
+      "emotional_expressiveness",
+      "emotionally_engaging"
+    ],
+    "opposite_traits": [
+      "emotionally_guarded",
+      "emotional_privacy",
+      "emotionally_reserved"
+    ],
+    "aesthetic_tags": [
+      "soft_light",
+      "air",
+      "garden",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "trust",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_privacy",
+    "category": "emotional",
+    "subcategory": "vulnerability_style",
+    "dimensions": {
+      "depth": 0.8,
+      "intensity": 0.5,
+      "sensitivity": 0.7,
+      "warmth": 0.4,
+      "structure": 0.5,
+      "novelty": 0.1,
+      "autonomy": 0.8,
+      "harmony": 0.3,
+      "symbolism": 0.5,
+      "groundedness": 0.4,
+      "social_energy": 0.2,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "emotionally_guarded",
+      "emotional_restraint",
+      "selective_trust",
+      "emotional_depth"
+    ],
+    "opposite_traits": [
+      "emotional_openness",
+      "emotional_expressiveness"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "night",
+      "shadow",
+      "moonlight",
+      "velvet"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "boundaries",
+      "inner_world"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_reactivity",
+    "category": "emotional",
+    "subcategory": "emotional_regulation",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.85,
+      "sensitivity": 0.8,
+      "warmth": 0.5,
+      "structure": 0.1,
+      "novelty": 0.5,
+      "autonomy": 0.6,
+      "harmony": 0.2,
+      "symbolism": 0.3,
+      "groundedness": 0.2,
+      "social_energy": 0.6,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "emotional_intensity",
+      "emotional_spontaneity",
+      "impulse_following"
+    ],
+    "opposite_traits": [
+      "calm_under_pressure",
+      "emotional_restraint",
+      "emotionally_grounded"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "movement",
+      "storm"
+    ],
+    "reflection_tags": [
+      "emotional_regulation",
+      "conflict",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_responsiveness",
+    "category": "emotional",
+    "subcategory": "emotional_expression",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.5,
+      "sensitivity": 0.7,
+      "warmth": 0.85,
+      "structure": 0.3,
+      "novelty": 0.3,
+      "autonomy": 0.3,
+      "harmony": 0.7,
+      "symbolism": 0.3,
+      "groundedness": 0.4,
+      "social_energy": 0.8,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "empathic_responsiveness",
+      "emotional_warmth",
+      "emotionally_engaging",
+      "people_focused"
+    ],
+    "opposite_traits": [
+      "emotional_detachment",
+      "emotionally_reserved"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "gold",
+      "spark"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "communication",
+      "attachment"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_restlessness",
+    "category": "emotional",
+    "subcategory": "emotional_regulation",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.7,
+      "sensitivity": 0.6,
+      "warmth": 0.4,
+      "structure": 0.1,
+      "novelty": 0.9,
+      "autonomy": 0.7,
+      "harmony": 0.2,
+      "symbolism": 0.4,
+      "groundedness": 0.1,
+      "social_energy": 0.6,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "novelty_seeking",
+      "stimulation_seeking",
+      "emotional_spontaneity",
+      "freedom_needing"
+    ],
+    "opposite_traits": [
+      "emotionally_grounded",
+      "stability_seeking"
+    ],
+    "aesthetic_tags": [
+      "wind",
+      "movement",
+      "spark",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "change",
+      "emotional_regulation"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_restraint",
+    "category": "emotional",
+    "subcategory": "emotional_regulation",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.3,
+      "sensitivity": 0.4,
+      "warmth": 0.3,
+      "structure": 0.8,
+      "novelty": 0.1,
+      "autonomy": 0.7,
+      "harmony": 0.5,
+      "symbolism": 0.3,
+      "groundedness": 0.7,
+      "social_energy": 0.2,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "emotional_control",
+      "emotionally_reserved",
+      "calm_under_pressure",
+      "emotional_independence"
+    ],
+    "opposite_traits": [
+      "emotional_expressiveness",
+      "emotional_spontaneity",
+      "emotional_fluidity"
+    ],
+    "aesthetic_tags": [
+      "stone",
+      "metal",
+      "silence",
+      "shadow",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "emotional_regulation",
+      "vulnerability",
+      "boundaries"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_sensitivity",
+    "category": "emotional",
+    "subcategory": "emotional_processing",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.6,
+      "sensitivity": 0.95,
+      "warmth": 0.7,
+      "structure": 0.2,
+      "novelty": 0.3,
+      "autonomy": 0.2,
+      "harmony": 0.5,
+      "symbolism": 0.5,
+      "groundedness": 0.2,
+      "social_energy": 0.4,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "emotional_absorption",
+      "empathic_responsiveness",
+      "emotional_depth",
+      "aesthetic_sensitivity"
+    ],
+    "opposite_traits": [
+      "emotional_detachment",
+      "emotional_restraint"
+    ],
+    "aesthetic_tags": [
+      "water",
+      "soft_light",
+      "moonlight",
+      "fog",
+      "violet"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "inner_world",
+      "emotional_regulation"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_spontaneity",
+    "category": "emotional",
+    "subcategory": "self_expression",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.7,
+      "sensitivity": 0.6,
+      "warmth": 0.7,
+      "structure": 0.1,
+      "novelty": 0.85,
+      "autonomy": 0.6,
+      "harmony": 0.4,
+      "symbolism": 0.3,
+      "groundedness": 0.2,
+      "social_energy": 0.8,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "emotional_expressiveness",
+      "emotional_vitality",
+      "novelty_seeking",
+      "emotional_reactivity"
+    ],
+    "opposite_traits": [
+      "emotional_restraint",
+      "emotional_control"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "movement",
+      "flame",
+      "wind"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "freedom",
+      "creativity"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_vitality",
+    "category": "emotional",
+    "subcategory": "emotional_expression",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.8,
+      "sensitivity": 0.5,
+      "warmth": 0.8,
+      "structure": 0.2,
+      "novelty": 0.7,
+      "autonomy": 0.5,
+      "harmony": 0.5,
+      "symbolism": 0.2,
+      "groundedness": 0.3,
+      "social_energy": 0.9,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "optimism",
+      "emotional_warmth",
+      "emotional_expressiveness",
+      "thrill_seeking"
+    ],
+    "opposite_traits": [
+      "emotional_restraint",
+      "emotional_suppression"
+    ],
+    "aesthetic_tags": [
+      "gold",
+      "flame",
+      "spark",
+      "warm_glow",
+      "movement"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "creativity",
+      "relationships"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_warmth",
+    "category": "emotional",
+    "subcategory": "emotional_expression",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.5,
+      "sensitivity": 0.6,
+      "warmth": 0.95,
+      "structure": 0.3,
+      "novelty": 0.3,
+      "autonomy": 0.3,
+      "harmony": 0.7,
+      "symbolism": 0.3,
+      "groundedness": 0.5,
+      "social_energy": 0.8,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "empathic_responsiveness",
+      "emotional_responsiveness",
+      "caretaking",
+      "emotional_gentleness"
+    ],
+    "opposite_traits": [
+      "emotional_detachment",
+      "emotional_control"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "gold",
+      "velvet",
+      "garden",
+      "flame"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotionally_grounded",
+    "category": "emotional",
+    "subcategory": "emotional_regulation",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.3,
+      "sensitivity": 0.4,
+      "warmth": 0.6,
+      "structure": 0.7,
+      "novelty": 0.1,
+      "autonomy": 0.5,
+      "harmony": 0.6,
+      "symbolism": 0.2,
+      "groundedness": 0.95,
+      "social_energy": 0.3,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "calm_under_pressure",
+      "stability_seeking",
+      "consistency",
+      "sensory_engagement"
+    ],
+    "opposite_traits": [
+      "emotional_reactivity",
+      "emotional_fluidity",
+      "emotional_overwhelm"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "forest",
+      "wood",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "belonging"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotionally_guarded",
+    "category": "emotional",
+    "subcategory": "vulnerability_style",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.5,
+      "sensitivity": 0.6,
+      "warmth": 0.2,
+      "structure": 0.6,
+      "novelty": 0.1,
+      "autonomy": 0.8,
+      "harmony": 0.3,
+      "symbolism": 0.4,
+      "groundedness": 0.5,
+      "social_energy": 0.2,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "emotional_privacy",
+      "emotional_restraint",
+      "selective_trust",
+      "emotionally_reserved"
+    ],
+    "opposite_traits": [
+      "emotional_openness",
+      "emotional_expressiveness"
+    ],
+    "aesthetic_tags": [
+      "shadow",
+      "metal",
+      "fog",
+      "stone",
+      "night"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "trust",
+      "boundaries"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "empathic_responsiveness",
+    "category": "emotional",
+    "subcategory": "emotional_processing",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.6,
+      "sensitivity": 0.9,
+      "warmth": 0.85,
+      "structure": 0.3,
+      "novelty": 0.3,
+      "autonomy": 0.2,
+      "harmony": 0.7,
+      "symbolism": 0.5,
+      "groundedness": 0.4,
+      "social_energy": 0.7,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "emotional_absorption",
+      "emotional_sensitivity",
+      "emotional_responsiveness",
+      "relational_attunement"
+    ],
+    "opposite_traits": [
+      "emotional_detachment"
+    ],
+    "aesthetic_tags": [
+      "soft_light",
+      "water",
+      "warm_glow",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "vulnerability"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "optimism",
+    "category": "emotional",
+    "subcategory": "emotional_orientation",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.6,
+      "sensitivity": 0.4,
+      "warmth": 0.7,
+      "structure": 0.3,
+      "novelty": 0.6,
+      "autonomy": 0.5,
+      "harmony": 0.6,
+      "symbolism": 0.3,
+      "groundedness": 0.3,
+      "social_energy": 0.7,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "emotional_vitality",
+      "future_orientation",
+      "adventurous_drive",
+      "inspiration_orientation"
+    ],
+    "opposite_traits": [
+      "emotional_overwhelm"
+    ],
+    "aesthetic_tags": [
+      "gold",
+      "spark",
+      "warm_glow",
+      "horizon",
+      "garden"
+    ],
+    "reflection_tags": [
+      "growth",
+      "self_expression",
+      "purpose"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "sensory_emotionality",
+    "category": "emotional",
+    "subcategory": "emotional_processing",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.6,
+      "sensitivity": 0.8,
+      "warmth": 0.7,
+      "structure": 0.3,
+      "novelty": 0.4,
+      "autonomy": 0.3,
+      "harmony": 0.5,
+      "symbolism": 0.3,
+      "groundedness": 0.8,
+      "social_energy": 0.4,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "sensory_engagement",
+      "aesthetic_sensitivity",
+      "emotional_gentleness",
+      "present_moment_attention"
+    ],
+    "opposite_traits": [
+      "emotional_detachment",
+      "symbolic_thinking"
+    ],
+    "aesthetic_tags": [
+      "velvet",
+      "garden",
+      "soft_light",
+      "warm_glow",
+      "earth"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "self_expression",
+      "creativity"
+    ],
+    "source_systems": [
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "thrill_seeking",
+    "category": "emotional",
+    "subcategory": "emotional_orientation",
+    "dimensions": {
+      "depth": 0.3,
+      "intensity": 0.9,
+      "sensitivity": 0.5,
+      "warmth": 0.5,
+      "structure": 0.1,
+      "novelty": 0.95,
+      "autonomy": 0.7,
+      "harmony": 0.2,
+      "symbolism": 0.2,
+      "groundedness": 0.2,
+      "social_energy": 0.8,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "stimulation_seeking",
+      "novelty_seeking",
+      "risk_taking",
+      "emotional_vitality"
+    ],
+    "opposite_traits": [
+      "stability_seeking",
+      "comfort_orientation"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "flame",
+      "movement",
+      "wind",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "change",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "analytical_processing",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.5,
+      "sensitivity": 0.3,
+      "warmth": 0.1,
+      "structure": 0.9,
+      "novelty": 0.3,
+      "autonomy": 0.7,
+      "harmony": 0.3,
+      "symbolism": 0.3,
+      "groundedness": 0.6,
+      "social_energy": 0.2,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "objective_analysis",
+      "structured_thinking",
+      "detail_focus",
+      "systems_thinking"
+    ],
+    "opposite_traits": [
+      "intuitive_processing",
+      "imaginative_processing"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "glass",
+      "paper",
+      "silver"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "purpose",
+      "growth"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "associative_thinking",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.5,
+      "sensitivity": 0.6,
+      "warmth": 0.4,
+      "structure": 0.2,
+      "novelty": 0.8,
+      "autonomy": 0.6,
+      "harmony": 0.4,
+      "symbolism": 0.8,
+      "groundedness": 0.2,
+      "social_energy": 0.5,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "imaginative_processing",
+      "symbolic_thinking",
+      "idea_generation",
+      "intuitive_processing"
+    ],
+    "opposite_traits": [
+      "structured_thinking",
+      "factual_precision"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "violet",
+      "spark"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "inner_world",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "big_picture_focus",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.5,
+      "sensitivity": 0.4,
+      "warmth": 0.3,
+      "structure": 0.5,
+      "novelty": 0.6,
+      "autonomy": 0.7,
+      "harmony": 0.4,
+      "symbolism": 0.7,
+      "groundedness": 0.2,
+      "social_energy": 0.3,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "systems_thinking",
+      "philosophical_thinking",
+      "future_orientation",
+      "conceptual_thinking"
+    ],
+    "opposite_traits": [
+      "detail_focus",
+      "factual_precision"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "air",
+      "silver",
+      "fog"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "inner_world"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "conceptual_thinking",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.8,
+      "intensity": 0.5,
+      "sensitivity": 0.4,
+      "warmth": 0.2,
+      "structure": 0.6,
+      "novelty": 0.7,
+      "autonomy": 0.8,
+      "harmony": 0.3,
+      "symbolism": 0.8,
+      "groundedness": 0.2,
+      "social_energy": 0.2,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "theoretical_thinking",
+      "systems_thinking",
+      "symbolic_thinking",
+      "philosophical_thinking"
+    ],
+    "opposite_traits": [
+      "practical_reasoning",
+      "sensory_engagement"
+    ],
+    "aesthetic_tags": [
+      "glass",
+      "air",
+      "silver",
+      "paper"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "purpose",
+      "growth"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "detail_focus",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.5,
+      "sensitivity": 0.7,
+      "warmth": 0.3,
+      "structure": 0.9,
+      "novelty": 0.1,
+      "autonomy": 0.5,
+      "harmony": 0.4,
+      "symbolism": 0.1,
+      "groundedness": 0.8,
+      "social_energy": 0.2,
+      "transformative_energy": 0.1
+    },
+    "related_traits": [
+      "factual_precision",
+      "analytical_processing",
+      "structured_thinking",
+      "methodical_execution"
+    ],
+    "opposite_traits": [
+      "big_picture_focus",
+      "associative_thinking"
+    ],
+    "aesthetic_tags": [
+      "paper",
+      "metal",
+      "glass",
+      "stone"
+    ],
+    "reflection_tags": [
+      "stability",
+      "purpose",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "experiential_processing",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.6,
+      "sensitivity": 0.7,
+      "warmth": 0.5,
+      "structure": 0.3,
+      "novelty": 0.8,
+      "autonomy": 0.6,
+      "harmony": 0.4,
+      "symbolism": 0.3,
+      "groundedness": 0.7,
+      "social_energy": 0.6,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "sensory_engagement",
+      "present_moment_attention",
+      "situational_awareness",
+      "discovery_orientation"
+    ],
+    "opposite_traits": [
+      "theoretical_thinking",
+      "structured_thinking"
+    ],
+    "aesthetic_tags": [
+      "movement",
+      "earth",
+      "garden",
+      "wind"
+    ],
+    "reflection_tags": [
+      "growth",
+      "change",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "factual_precision",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.4,
+      "sensitivity": 0.5,
+      "warmth": 0.1,
+      "structure": 0.95,
+      "novelty": 0.1,
+      "autonomy": 0.6,
+      "harmony": 0.4,
+      "symbolism": 0.1,
+      "groundedness": 0.85,
+      "social_energy": 0.2,
+      "transformative_energy": 0.1
+    },
+    "related_traits": [
+      "detail_focus",
+      "analytical_processing",
+      "structured_thinking",
+      "consistency"
+    ],
+    "opposite_traits": [
+      "imaginative_processing",
+      "symbolic_thinking"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "paper",
+      "stone",
+      "glass"
+    ],
+    "reflection_tags": [
+      "stability",
+      "purpose",
+      "emotional_regulation"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "future_orientation",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.5,
+      "sensitivity": 0.5,
+      "warmth": 0.3,
+      "structure": 0.5,
+      "novelty": 0.8,
+      "autonomy": 0.6,
+      "harmony": 0.3,
+      "symbolism": 0.6,
+      "groundedness": 0.2,
+      "social_energy": 0.3,
+      "transformative_energy": 0.6
+    },
+    "related_traits": [
+      "strategic_thinking",
+      "big_picture_focus",
+      "imaginative_processing",
+      "innovative_thinking"
+    ],
+    "opposite_traits": [
+      "present_moment_attention"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "silver",
+      "air",
+      "spark"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "change"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "idea_generation",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.7,
+      "sensitivity": 0.5,
+      "warmth": 0.4,
+      "structure": 0.2,
+      "novelty": 0.95,
+      "autonomy": 0.7,
+      "harmony": 0.3,
+      "symbolism": 0.6,
+      "groundedness": 0.2,
+      "social_energy": 0.6,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "innovative_thinking",
+      "associative_thinking",
+      "imaginative_processing",
+      "reframing_ability"
+    ],
+    "opposite_traits": [
+      "procedural_focus",
+      "structured_thinking"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "air",
+      "movement",
+      "gold"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "growth"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "imaginative_processing",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.6,
+      "sensitivity": 0.8,
+      "warmth": 0.5,
+      "structure": 0.1,
+      "novelty": 0.8,
+      "autonomy": 0.6,
+      "harmony": 0.4,
+      "symbolism": 0.9,
+      "groundedness": 0.1,
+      "social_energy": 0.3,
+      "transformative_energy": 0.6
+    },
+    "related_traits": [
+      "symbolic_thinking",
+      "intuitive_processing",
+      "associative_thinking",
+      "idea_generation"
+    ],
+    "opposite_traits": [
+      "factual_precision",
+      "practical_reasoning"
+    ],
+    "aesthetic_tags": [
+      "moonlight",
+      "fog",
+      "violet",
+      "water"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "inner_world",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "innovative_thinking",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.6,
+      "sensitivity": 0.5,
+      "warmth": 0.3,
+      "structure": 0.4,
+      "novelty": 0.95,
+      "autonomy": 0.8,
+      "harmony": 0.2,
+      "symbolism": 0.6,
+      "groundedness": 0.3,
+      "social_energy": 0.5,
+      "transformative_energy": 0.6
+    },
+    "related_traits": [
+      "idea_generation",
+      "unconventional_thinking",
+      "reframing_ability",
+      "conceptual_thinking"
+    ],
+    "opposite_traits": [
+      "procedural_focus",
+      "consistency"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "silver",
+      "movement",
+      "air"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "change",
+      "purpose"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "introspective_processing",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.9,
+      "intensity": 0.5,
+      "sensitivity": 0.7,
+      "warmth": 0.4,
+      "structure": 0.4,
+      "novelty": 0.3,
+      "autonomy": 0.8,
+      "harmony": 0.4,
+      "symbolism": 0.7,
+      "groundedness": 0.4,
+      "social_energy": 0.1,
+      "transformative_energy": 0.6
+    },
+    "related_traits": [
+      "meaning_seeking",
+      "psychological_insight",
+      "emotional_depth",
+      "value_centered_thinking"
+    ],
+    "opposite_traits": [
+      "rapid_response_thinking",
+      "experiential_processing"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "fog",
+      "violet",
+      "silence"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "growth"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "intuitive_processing",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.5,
+      "sensitivity": 0.85,
+      "warmth": 0.5,
+      "structure": 0.1,
+      "novelty": 0.7,
+      "autonomy": 0.6,
+      "harmony": 0.4,
+      "symbolism": 0.85,
+      "groundedness": 0.2,
+      "social_energy": 0.3,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "symbolic_thinking",
+      "imaginative_processing",
+      "pattern_sensitivity",
+      "associative_thinking"
+    ],
+    "opposite_traits": [
+      "analytical_processing",
+      "factual_precision"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "water",
+      "violet"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "creativity",
+      "trust"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "meaning_seeking",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.9,
+      "intensity": 0.6,
+      "sensitivity": 0.7,
+      "warmth": 0.4,
+      "structure": 0.3,
+      "novelty": 0.5,
+      "autonomy": 0.6,
+      "harmony": 0.4,
+      "symbolism": 0.9,
+      "groundedness": 0.2,
+      "social_energy": 0.3,
+      "transformative_energy": 0.7
+    },
+    "related_traits": [
+      "philosophical_thinking",
+      "introspective_processing",
+      "symbolic_thinking",
+      "purpose_drive"
+    ],
+    "opposite_traits": [
+      "practical_reasoning"
+    ],
+    "aesthetic_tags": [
+      "violet",
+      "night",
+      "fog",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "inner_world"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "mechanical_reasoning",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.5,
+      "sensitivity": 0.4,
+      "warmth": 0.2,
+      "structure": 0.8,
+      "novelty": 0.4,
+      "autonomy": 0.7,
+      "harmony": 0.3,
+      "symbolism": 0.2,
+      "groundedness": 0.8,
+      "social_energy": 0.2,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "practical_reasoning",
+      "tactical_thinking",
+      "situational_awareness",
+      "analytical_processing"
+    ],
+    "opposite_traits": [
+      "imaginative_processing",
+      "symbolic_thinking"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "stone",
+      "glass",
+      "earth"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "purpose",
+      "stability"
+    ],
+    "source_systems": [
+      "mbti"
+    ],
+    "premium": false
+  },
+  {
+    "id": "objective_analysis",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.5,
+      "sensitivity": 0.3,
+      "warmth": 0.1,
+      "structure": 0.85,
+      "novelty": 0.3,
+      "autonomy": 0.85,
+      "harmony": 0.3,
+      "symbolism": 0.2,
+      "groundedness": 0.6,
+      "social_energy": 0.2,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "analytical_processing",
+      "strategic_thinking",
+      "systems_thinking",
+      "emotional_detachment"
+    ],
+    "opposite_traits": [
+      "emotional_absorption",
+      "intuitive_processing"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "glass",
+      "silver",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "purpose",
+      "boundaries"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "pattern_sensitivity",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.5,
+      "sensitivity": 0.85,
+      "warmth": 0.3,
+      "structure": 0.6,
+      "novelty": 0.5,
+      "autonomy": 0.6,
+      "harmony": 0.4,
+      "symbolism": 0.7,
+      "groundedness": 0.3,
+      "social_energy": 0.3,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "intuitive_processing",
+      "symbolic_thinking",
+      "systems_thinking",
+      "psychological_insight"
+    ],
+    "opposite_traits": [
+      "sensory_engagement"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "silver",
+      "fog",
+      "violet"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "purpose",
+      "growth"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "philosophical_thinking",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.85,
+      "intensity": 0.5,
+      "sensitivity": 0.5,
+      "warmth": 0.3,
+      "structure": 0.5,
+      "novelty": 0.7,
+      "autonomy": 0.7,
+      "harmony": 0.3,
+      "symbolism": 0.8,
+      "groundedness": 0.2,
+      "social_energy": 0.3,
+      "transformative_energy": 0.6
+    },
+    "related_traits": [
+      "meaning_seeking",
+      "conceptual_thinking",
+      "big_picture_focus",
+      "theoretical_thinking"
+    ],
+    "opposite_traits": [
+      "practical_reasoning",
+      "procedural_focus"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "violet",
+      "moonlight",
+      "paper"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "identity"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "practical_reasoning",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.4,
+      "sensitivity": 0.4,
+      "warmth": 0.3,
+      "structure": 0.8,
+      "novelty": 0.2,
+      "autonomy": 0.6,
+      "harmony": 0.5,
+      "symbolism": 0.1,
+      "groundedness": 0.9,
+      "social_energy": 0.4,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "analytical_processing",
+      "structured_thinking",
+      "factual_precision",
+      "methodical_execution"
+    ],
+    "opposite_traits": [
+      "symbolic_thinking",
+      "imaginative_processing",
+      "philosophical_thinking"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "wood",
+      "paper"
+    ],
+    "reflection_tags": [
+      "stability",
+      "purpose",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "present_moment_attention",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.5,
+      "sensitivity": 0.8,
+      "warmth": 0.5,
+      "structure": 0.3,
+      "novelty": 0.4,
+      "autonomy": 0.5,
+      "harmony": 0.6,
+      "symbolism": 0.3,
+      "groundedness": 0.9,
+      "social_energy": 0.5,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "sensory_engagement",
+      "experiential_processing",
+      "situational_awareness",
+      "emotionally_grounded"
+    ],
+    "opposite_traits": [
+      "future_orientation"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "garden",
+      "soft_light",
+      "wood"
+    ],
+    "reflection_tags": [
+      "stability",
+      "self_expression",
+      "growth"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "procedural_focus",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.3,
+      "sensitivity": 0.3,
+      "warmth": 0.2,
+      "structure": 0.9,
+      "novelty": 0.1,
+      "autonomy": 0.4,
+      "harmony": 0.4,
+      "symbolism": 0.1,
+      "groundedness": 0.85,
+      "social_energy": 0.2,
+      "transformative_energy": 0.1
+    },
+    "related_traits": [
+      "structured_thinking",
+      "methodical_execution",
+      "discipline_orientation",
+      "consistency"
+    ],
+    "opposite_traits": [
+      "idea_generation",
+      "unconventional_thinking",
+      "innovative_thinking"
+    ],
+    "aesthetic_tags": [
+      "paper",
+      "metal",
+      "stone",
+      "wood"
+    ],
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "purpose"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "psychological_insight",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.9,
+      "intensity": 0.6,
+      "sensitivity": 0.85,
+      "warmth": 0.4,
+      "structure": 0.5,
+      "novelty": 0.4,
+      "autonomy": 0.6,
+      "harmony": 0.3,
+      "symbolism": 0.7,
+      "groundedness": 0.3,
+      "social_energy": 0.3,
+      "transformative_energy": 0.7
+    },
+    "related_traits": [
+      "emotional_depth",
+      "introspective_processing",
+      "pattern_sensitivity",
+      "intuitive_processing"
+    ],
+    "opposite_traits": [
+      "emotional_detachment"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "violet",
+      "night",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "growth"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "rapid_response_thinking",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.8,
+      "sensitivity": 0.6,
+      "warmth": 0.3,
+      "structure": 0.4,
+      "novelty": 0.8,
+      "autonomy": 0.7,
+      "harmony": 0.2,
+      "symbolism": 0.2,
+      "groundedness": 0.4,
+      "social_energy": 0.6,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "situational_awareness",
+      "tactical_thinking",
+      "reframing_ability",
+      "decisive_action"
+    ],
+    "opposite_traits": [
+      "introspective_processing",
+      "structured_thinking"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "movement",
+      "wind",
+      "silver"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "change",
+      "purpose"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "reframing_ability",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.5,
+      "sensitivity": 0.6,
+      "warmth": 0.4,
+      "structure": 0.4,
+      "novelty": 0.85,
+      "autonomy": 0.7,
+      "harmony": 0.4,
+      "symbolism": 0.6,
+      "groundedness": 0.3,
+      "social_energy": 0.5,
+      "transformative_energy": 0.6
+    },
+    "related_traits": [
+      "innovative_thinking",
+      "idea_generation",
+      "unconventional_thinking",
+      "adaptability"
+    ],
+    "opposite_traits": [
+      "consistency",
+      "structural_holding"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "silver",
+      "spark",
+      "air"
+    ],
+    "reflection_tags": [
+      "growth",
+      "creativity",
+      "change"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "sensory_engagement",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.6,
+      "sensitivity": 0.9,
+      "warmth": 0.6,
+      "structure": 0.3,
+      "novelty": 0.6,
+      "autonomy": 0.4,
+      "harmony": 0.5,
+      "symbolism": 0.2,
+      "groundedness": 0.9,
+      "social_energy": 0.5,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "sensory_emotionality",
+      "present_moment_attention",
+      "experiential_processing",
+      "aesthetic_sensitivity"
+    ],
+    "opposite_traits": [
+      "conceptual_thinking",
+      "symbolic_thinking"
+    ],
+    "aesthetic_tags": [
+      "velvet",
+      "garden",
+      "wood",
+      "warm_glow",
+      "earth"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "creativity",
+      "stability"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "situational_awareness",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.6,
+      "sensitivity": 0.8,
+      "warmth": 0.3,
+      "structure": 0.5,
+      "novelty": 0.6,
+      "autonomy": 0.6,
+      "harmony": 0.4,
+      "symbolism": 0.2,
+      "groundedness": 0.7,
+      "social_energy": 0.5,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "tactical_thinking",
+      "rapid_response_thinking",
+      "adaptability",
+      "present_moment_attention"
+    ],
+    "opposite_traits": [
+      "introspective_processing"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "silver",
+      "movement",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "change",
+      "purpose"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "social_awareness",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.5,
+      "sensitivity": 0.85,
+      "warmth": 0.7,
+      "structure": 0.4,
+      "novelty": 0.4,
+      "autonomy": 0.3,
+      "harmony": 0.7,
+      "symbolism": 0.4,
+      "groundedness": 0.4,
+      "social_energy": 0.8,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "empathic_responsiveness",
+      "relational_attunement",
+      "diplomatic_communication",
+      "pattern_sensitivity"
+    ],
+    "opposite_traits": [
+      "emotional_detachment",
+      "socially_independent"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "soft_light",
+      "gold",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "communication",
+      "trust"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "strategic_thinking",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.8,
+      "intensity": 0.6,
+      "sensitivity": 0.4,
+      "warmth": 0.2,
+      "structure": 0.85,
+      "novelty": 0.4,
+      "autonomy": 0.8,
+      "harmony": 0.3,
+      "symbolism": 0.4,
+      "groundedness": 0.6,
+      "social_energy": 0.3,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "systems_thinking",
+      "analytical_processing",
+      "future_orientation",
+      "objective_analysis"
+    ],
+    "opposite_traits": [
+      "impulse_following",
+      "emotional_spontaneity"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "silver",
+      "horizon",
+      "stone"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "inner_world"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "structured_thinking",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.4,
+      "sensitivity": 0.4,
+      "warmth": 0.2,
+      "structure": 0.95,
+      "novelty": 0.1,
+      "autonomy": 0.6,
+      "harmony": 0.4,
+      "symbolism": 0.2,
+      "groundedness": 0.8,
+      "social_energy": 0.3,
+      "transformative_energy": 0.1
+    },
+    "related_traits": [
+      "analytical_processing",
+      "procedural_focus",
+      "discipline_orientation",
+      "methodical_execution"
+    ],
+    "opposite_traits": [
+      "associative_thinking",
+      "imaginative_processing"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "paper",
+      "stone",
+      "glass"
+    ],
+    "reflection_tags": [
+      "stability",
+      "purpose",
+      "emotional_regulation"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "symbolic_thinking",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.85,
+      "intensity": 0.6,
+      "sensitivity": 0.8,
+      "warmth": 0.4,
+      "structure": 0.3,
+      "novelty": 0.7,
+      "autonomy": 0.6,
+      "harmony": 0.4,
+      "symbolism": 0.95,
+      "groundedness": 0.1,
+      "social_energy": 0.3,
+      "transformative_energy": 0.6
+    },
+    "related_traits": [
+      "imaginative_processing",
+      "intuitive_processing",
+      "meaning_seeking",
+      "associative_thinking"
+    ],
+    "opposite_traits": [
+      "practical_reasoning",
+      "factual_precision",
+      "sensory_engagement"
+    ],
+    "aesthetic_tags": [
+      "violet",
+      "moonlight",
+      "fog",
+      "mirror",
+      "night"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "creativity",
+      "identity"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "systems_thinking",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.8,
+      "intensity": 0.5,
+      "sensitivity": 0.5,
+      "warmth": 0.2,
+      "structure": 0.8,
+      "novelty": 0.6,
+      "autonomy": 0.8,
+      "harmony": 0.4,
+      "symbolism": 0.5,
+      "groundedness": 0.5,
+      "social_energy": 0.3,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "strategic_thinking",
+      "conceptual_thinking",
+      "analytical_processing",
+      "big_picture_focus"
+    ],
+    "opposite_traits": [
+      "sensory_engagement"
+    ],
+    "aesthetic_tags": [
+      "silver",
+      "glass",
+      "horizon",
+      "metal"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "inner_world"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "tactical_thinking",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.7,
+      "sensitivity": 0.6,
+      "warmth": 0.2,
+      "structure": 0.6,
+      "novelty": 0.6,
+      "autonomy": 0.7,
+      "harmony": 0.3,
+      "symbolism": 0.2,
+      "groundedness": 0.7,
+      "social_energy": 0.4,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "situational_awareness",
+      "rapid_response_thinking",
+      "mechanical_reasoning",
+      "strategic_thinking"
+    ],
+    "opposite_traits": [
+      "philosophical_thinking",
+      "imaginative_processing"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "spark",
+      "silver",
+      "movement"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "purpose",
+      "change"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "theoretical_thinking",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.85,
+      "intensity": 0.4,
+      "sensitivity": 0.4,
+      "warmth": 0.1,
+      "structure": 0.7,
+      "novelty": 0.7,
+      "autonomy": 0.85,
+      "harmony": 0.2,
+      "symbolism": 0.7,
+      "groundedness": 0.2,
+      "social_energy": 0.2,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "conceptual_thinking",
+      "philosophical_thinking",
+      "systems_thinking",
+      "introspective_processing"
+    ],
+    "opposite_traits": [
+      "practical_reasoning",
+      "experiential_processing"
+    ],
+    "aesthetic_tags": [
+      "glass",
+      "air",
+      "paper",
+      "silver"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "purpose",
+      "growth"
+    ],
+    "source_systems": [
+      "mbti"
+    ],
+    "premium": false
+  },
+  {
+    "id": "unconventional_thinking",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.6,
+      "sensitivity": 0.5,
+      "warmth": 0.3,
+      "structure": 0.3,
+      "novelty": 0.95,
+      "autonomy": 0.9,
+      "harmony": 0.2,
+      "symbolism": 0.6,
+      "groundedness": 0.2,
+      "social_energy": 0.4,
+      "transformative_energy": 0.6
+    },
+    "related_traits": [
+      "innovative_thinking",
+      "reframing_ability",
+      "idea_generation",
+      "nonconformity"
+    ],
+    "opposite_traits": [
+      "procedural_focus",
+      "consistency",
+      "structural_holding"
+    ],
+    "aesthetic_tags": [
+      "silver",
+      "spark",
+      "violet",
+      "movement"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "freedom",
+      "identity"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "value_centered_thinking",
+    "category": "cognitive",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.8,
+      "intensity": 0.6,
+      "sensitivity": 0.7,
+      "warmth": 0.5,
+      "structure": 0.4,
+      "novelty": 0.3,
+      "autonomy": 0.6,
+      "harmony": 0.4,
+      "symbolism": 0.6,
+      "groundedness": 0.4,
+      "social_energy": 0.3,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "meaning_seeking",
+      "introspective_processing",
+      "authenticity_drive",
+      "purpose_drive"
+    ],
+    "opposite_traits": [
+      "objective_analysis"
+    ],
+    "aesthetic_tags": [
+      "violet",
+      "paper",
+      "moonlight",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "identity",
+      "purpose",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "verbal_processing",
+    "category": "cognitive",
+    "subcategory": "communication_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.6,
+      "sensitivity": 0.5,
+      "warmth": 0.5,
+      "structure": 0.4,
+      "novelty": 0.6,
+      "autonomy": 0.5,
+      "harmony": 0.4,
+      "symbolism": 0.4,
+      "groundedness": 0.3,
+      "social_energy": 0.85,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "idea_generation",
+      "direct_communication",
+      "rapid_response_thinking",
+      "intellectually_playful"
+    ],
+    "opposite_traits": [
+      "introspective_processing"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "spark",
+      "movement",
+      "silver"
+    ],
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "relationships"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "affectionate_presence",
+    "category": "relational",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.6,
+      "sensitivity": 0.7,
+      "warmth": 0.9,
+      "structure": 0.3,
+      "novelty": 0.4,
+      "autonomy": 0.2,
+      "harmony": 0.7,
+      "symbolism": 0.3,
+      "groundedness": 0.5,
+      "social_energy": 0.85,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "emotional_warmth",
+      "caretaking",
+      "relationship_nurturing",
+      "playful_attachment"
+    ],
+    "opposite_traits": [
+      "emotional_detachment",
+      "socially_independent"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "gold",
+      "velvet",
+      "garden",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "attachment_security_needing",
+    "category": "relational",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.6,
+      "sensitivity": 0.8,
+      "warmth": 0.7,
+      "structure": 0.5,
+      "novelty": 0.1,
+      "autonomy": 0.2,
+      "harmony": 0.7,
+      "symbolism": 0.3,
+      "groundedness": 0.6,
+      "social_energy": 0.5,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "dependable_attachment",
+      "emotional_loyalty",
+      "protective_care",
+      "stability_seeking"
+    ],
+    "opposite_traits": [
+      "emotional_independence",
+      "socially_independent",
+      "unconventional_relationship_style"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "velvet",
+      "wood",
+      "garden"
+    ],
+    "reflection_tags": [
+      "attachment",
+      "trust",
+      "belonging"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "caretaking",
+    "category": "relational",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.6,
+      "sensitivity": 0.85,
+      "warmth": 0.95,
+      "structure": 0.5,
+      "novelty": 0.2,
+      "autonomy": 0.2,
+      "harmony": 0.7,
+      "symbolism": 0.3,
+      "groundedness": 0.6,
+      "social_energy": 0.7,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "protective_care",
+      "relationship_nurturing",
+      "empathic_responsiveness",
+      "service_orientation"
+    ],
+    "opposite_traits": [
+      "socially_independent",
+      "emotional_detachment"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "velvet",
+      "garden",
+      "soft_light",
+      "gold"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "purpose"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "charismatic_engagement",
+    "category": "relational",
+    "subcategory": "social_style",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.8,
+      "sensitivity": 0.6,
+      "warmth": 0.8,
+      "structure": 0.3,
+      "novelty": 0.7,
+      "autonomy": 0.6,
+      "harmony": 0.5,
+      "symbolism": 0.3,
+      "groundedness": 0.3,
+      "social_energy": 0.95,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "emotionally_engaging",
+      "socially_bold",
+      "leadership_orientation",
+      "emotional_vitality"
+    ],
+    "opposite_traits": [
+      "observational_presence",
+      "socially_independent"
+    ],
+    "aesthetic_tags": [
+      "gold",
+      "flame",
+      "spark",
+      "warm_glow",
+      "movement"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "relationships",
+      "communication"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "cooperative_style",
+    "category": "relational",
+    "subcategory": "conflict_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.4,
+      "sensitivity": 0.7,
+      "warmth": 0.7,
+      "structure": 0.5,
+      "novelty": 0.3,
+      "autonomy": 0.3,
+      "harmony": 0.9,
+      "symbolism": 0.3,
+      "groundedness": 0.5,
+      "social_energy": 0.7,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "harmony_seeking",
+      "diplomatic_communication",
+      "partnership_orientation",
+      "relational_attunement"
+    ],
+    "opposite_traits": [
+      "direct_communication",
+      "provocative_interaction"
+    ],
+    "aesthetic_tags": [
+      "soft_light",
+      "warm_glow",
+      "garden",
+      "velvet"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "communication",
+      "conflict"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "deep_connection_seeking",
+    "category": "relational",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.9,
+      "intensity": 0.7,
+      "sensitivity": 0.8,
+      "warmth": 0.7,
+      "structure": 0.3,
+      "novelty": 0.3,
+      "autonomy": 0.3,
+      "harmony": 0.5,
+      "symbolism": 0.6,
+      "groundedness": 0.3,
+      "social_energy": 0.4,
+      "transformative_energy": 0.6
+    },
+    "related_traits": [
+      "emotional_depth",
+      "emotionally_selective",
+      "selective_trust",
+      "emotional_loyalty"
+    ],
+    "opposite_traits": [
+      "socially_playful",
+      "socially_independent"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "velvet",
+      "violet",
+      "water"
+    ],
+    "reflection_tags": [
+      "attachment",
+      "vulnerability",
+      "inner_world"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "dependable_attachment",
+    "category": "relational",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.4,
+      "sensitivity": 0.5,
+      "warmth": 0.7,
+      "structure": 0.8,
+      "novelty": 0.1,
+      "autonomy": 0.4,
+      "harmony": 0.7,
+      "symbolism": 0.2,
+      "groundedness": 0.85,
+      "social_energy": 0.5,
+      "transformative_energy": 0.1
+    },
+    "related_traits": [
+      "emotional_loyalty",
+      "consistency",
+      "protective_care",
+      "duty_orientation"
+    ],
+    "opposite_traits": [
+      "unconventional_relationship_style",
+      "playful_attachment"
+    ],
+    "aesthetic_tags": [
+      "wood",
+      "stone",
+      "warm_glow",
+      "earth"
+    ],
+    "reflection_tags": [
+      "attachment",
+      "trust",
+      "stability"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "diplomatic_communication",
+    "category": "relational",
+    "subcategory": "communication_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.4,
+      "sensitivity": 0.8,
+      "warmth": 0.6,
+      "structure": 0.6,
+      "novelty": 0.3,
+      "autonomy": 0.4,
+      "harmony": 0.85,
+      "symbolism": 0.3,
+      "groundedness": 0.5,
+      "social_energy": 0.7,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "harmony_seeking",
+      "cooperative_style",
+      "relational_attunement",
+      "social_awareness"
+    ],
+    "opposite_traits": [
+      "direct_communication",
+      "provocative_interaction"
+    ],
+    "aesthetic_tags": [
+      "silver",
+      "soft_light",
+      "mirror",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "communication",
+      "relationships",
+      "conflict"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "direct_communication",
+    "category": "relational",
+    "subcategory": "communication_style",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.7,
+      "sensitivity": 0.3,
+      "warmth": 0.4,
+      "structure": 0.6,
+      "novelty": 0.3,
+      "autonomy": 0.8,
+      "harmony": 0.2,
+      "symbolism": 0.1,
+      "groundedness": 0.7,
+      "social_energy": 0.7,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "verbal_processing",
+      "leadership_orientation",
+      "decisive_action",
+      "courage_based"
+    ],
+    "opposite_traits": [
+      "diplomatic_communication",
+      "cooperative_style"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "spark",
+      "horizon",
+      "silver"
+    ],
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "conflict"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotionally_engaging",
+    "category": "relational",
+    "subcategory": "social_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.7,
+      "sensitivity": 0.7,
+      "warmth": 0.8,
+      "structure": 0.3,
+      "novelty": 0.6,
+      "autonomy": 0.4,
+      "harmony": 0.5,
+      "symbolism": 0.3,
+      "groundedness": 0.3,
+      "social_energy": 0.9,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "emotional_expressiveness",
+      "charismatic_engagement",
+      "playful_attachment",
+      "emotional_warmth"
+    ],
+    "opposite_traits": [
+      "observational_presence",
+      "emotionally_reserved"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "warm_glow",
+      "gold",
+      "movement"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "self_expression",
+      "communication"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotionally_reserved",
+    "category": "relational",
+    "subcategory": "vulnerability_style",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.3,
+      "sensitivity": 0.6,
+      "warmth": 0.4,
+      "structure": 0.6,
+      "novelty": 0.1,
+      "autonomy": 0.7,
+      "harmony": 0.5,
+      "symbolism": 0.3,
+      "groundedness": 0.6,
+      "social_energy": 0.3,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "emotional_privacy",
+      "emotional_restraint",
+      "gentle_attachment",
+      "observational_presence"
+    ],
+    "opposite_traits": [
+      "emotional_expressiveness",
+      "emotionally_engaging"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "velvet",
+      "silver",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "boundaries",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotionally_selective",
+    "category": "relational",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.8,
+      "intensity": 0.5,
+      "sensitivity": 0.7,
+      "warmth": 0.5,
+      "structure": 0.5,
+      "novelty": 0.2,
+      "autonomy": 0.7,
+      "harmony": 0.4,
+      "symbolism": 0.5,
+      "groundedness": 0.4,
+      "social_energy": 0.3,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "selective_trust",
+      "deep_connection_seeking",
+      "emotional_privacy",
+      "emotional_depth"
+    ],
+    "opposite_traits": [
+      "socially_playful",
+      "socially_bold"
+    ],
+    "aesthetic_tags": [
+      "moonlight",
+      "night",
+      "violet",
+      "fog"
+    ],
+    "reflection_tags": [
+      "trust",
+      "attachment",
+      "boundaries"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "friendship_based_bonding",
+    "category": "relational",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.4,
+      "sensitivity": 0.5,
+      "warmth": 0.6,
+      "structure": 0.4,
+      "novelty": 0.6,
+      "autonomy": 0.85,
+      "harmony": 0.6,
+      "symbolism": 0.3,
+      "groundedness": 0.4,
+      "social_energy": 0.7,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "independent_attachment",
+      "intellectually_playful",
+      "unconventional_relationship_style",
+      "socially_independent"
+    ],
+    "opposite_traits": [
+      "attachment_security_needing",
+      "deep_connection_seeking"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "silver",
+      "horizon",
+      "garden"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "freedom",
+      "communication"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "gentle_attachment",
+    "category": "relational",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.3,
+      "sensitivity": 0.8,
+      "warmth": 0.85,
+      "structure": 0.4,
+      "novelty": 0.3,
+      "autonomy": 0.3,
+      "harmony": 0.8,
+      "symbolism": 0.4,
+      "groundedness": 0.5,
+      "social_energy": 0.4,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "emotional_gentleness",
+      "emotionally_reserved",
+      "nonjudgmental",
+      "affectionate_presence"
+    ],
+    "opposite_traits": [
+      "provocative_interaction",
+      "socially_bold"
+    ],
+    "aesthetic_tags": [
+      "soft_light",
+      "velvet",
+      "moonlight",
+      "garden"
+    ],
+    "reflection_tags": [
+      "attachment",
+      "vulnerability",
+      "relationships"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "harmony_seeking",
+    "category": "relational",
+    "subcategory": "conflict_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.4,
+      "sensitivity": 0.8,
+      "warmth": 0.7,
+      "structure": 0.4,
+      "novelty": 0.2,
+      "autonomy": 0.2,
+      "harmony": 0.95,
+      "symbolism": 0.4,
+      "groundedness": 0.5,
+      "social_energy": 0.6,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "cooperative_style",
+      "diplomatic_communication",
+      "relational_attunement",
+      "aesthetic_sensitivity"
+    ],
+    "opposite_traits": [
+      "provocative_interaction",
+      "direct_communication",
+      "courage_based"
+    ],
+    "aesthetic_tags": [
+      "soft_light",
+      "garden",
+      "warm_glow",
+      "mirror"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "conflict",
+      "communication"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "independent_attachment",
+    "category": "relational",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.4,
+      "sensitivity": 0.4,
+      "warmth": 0.4,
+      "structure": 0.5,
+      "novelty": 0.5,
+      "autonomy": 0.95,
+      "harmony": 0.4,
+      "symbolism": 0.3,
+      "groundedness": 0.6,
+      "social_energy": 0.4,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "emotional_independence",
+      "socially_independent",
+      "friendship_based_bonding",
+      "autonomy_needing"
+    ],
+    "opposite_traits": [
+      "attachment_security_needing",
+      "deep_connection_seeking"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "air",
+      "silver",
+      "metal"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "attachment",
+      "boundaries"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "intellectually_playful",
+    "category": "relational",
+    "subcategory": "social_style",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.6,
+      "sensitivity": 0.5,
+      "warmth": 0.5,
+      "structure": 0.3,
+      "novelty": 0.85,
+      "autonomy": 0.7,
+      "harmony": 0.3,
+      "symbolism": 0.4,
+      "groundedness": 0.2,
+      "social_energy": 0.8,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "verbal_processing",
+      "idea_generation",
+      "provocative_interaction",
+      "socially_playful"
+    ],
+    "opposite_traits": [
+      "emotionally_reserved",
+      "observational_presence"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "air",
+      "silver",
+      "movement"
+    ],
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "relationships"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "leadership_orientation",
+    "category": "relational",
+    "subcategory": "social_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.7,
+      "sensitivity": 0.4,
+      "warmth": 0.4,
+      "structure": 0.7,
+      "novelty": 0.4,
+      "autonomy": 0.85,
+      "harmony": 0.3,
+      "symbolism": 0.3,
+      "groundedness": 0.5,
+      "social_energy": 0.8,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "authoritative_presence",
+      "decisive_action",
+      "direct_communication",
+      "achievement_drive"
+    ],
+    "opposite_traits": [
+      "observational_presence",
+      "socially_independent"
+    ],
+    "aesthetic_tags": [
+      "gold",
+      "flame",
+      "metal",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "self_expression",
+      "relationships"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "nonjudgmental",
+    "category": "relational",
+    "subcategory": "social_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.3,
+      "sensitivity": 0.7,
+      "warmth": 0.7,
+      "structure": 0.3,
+      "novelty": 0.5,
+      "autonomy": 0.5,
+      "harmony": 0.8,
+      "symbolism": 0.3,
+      "groundedness": 0.5,
+      "social_energy": 0.6,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "nonconformity",
+      "empathic_responsiveness",
+      "gentle_attachment",
+      "emotional_openness"
+    ],
+    "opposite_traits": [
+      "self_criticism"
+    ],
+    "aesthetic_tags": [
+      "soft_light",
+      "air",
+      "garden",
+      "mirror"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "trust",
+      "vulnerability"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "observational_presence",
+    "category": "relational",
+    "subcategory": "social_style",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.3,
+      "sensitivity": 0.8,
+      "warmth": 0.3,
+      "structure": 0.5,
+      "novelty": 0.3,
+      "autonomy": 0.8,
+      "harmony": 0.4,
+      "symbolism": 0.5,
+      "groundedness": 0.5,
+      "social_energy": 0.2,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "introspective_processing",
+      "emotionally_reserved",
+      "pattern_sensitivity",
+      "socially_independent"
+    ],
+    "opposite_traits": [
+      "charismatic_engagement",
+      "emotionally_engaging",
+      "socially_bold"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "stillness",
+      "silver",
+      "mirror"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "boundaries",
+      "communication"
+    ],
+    "source_systems": [
+      "mbti",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "partnership_orientation",
+    "category": "relational",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.5,
+      "sensitivity": 0.7,
+      "warmth": 0.7,
+      "structure": 0.5,
+      "novelty": 0.3,
+      "autonomy": 0.3,
+      "harmony": 0.85,
+      "symbolism": 0.4,
+      "groundedness": 0.5,
+      "social_energy": 0.7,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "harmony_seeking",
+      "cooperative_style",
+      "relational_attunement",
+      "relationship_nurturing"
+    ],
+    "opposite_traits": [
+      "socially_independent"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "soft_light",
+      "garden",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "communication"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "people_focused",
+    "category": "relational",
+    "subcategory": "social_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.5,
+      "sensitivity": 0.8,
+      "warmth": 0.85,
+      "structure": 0.4,
+      "novelty": 0.3,
+      "autonomy": 0.2,
+      "harmony": 0.7,
+      "symbolism": 0.3,
+      "groundedness": 0.4,
+      "social_energy": 0.9,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "caretaking",
+      "relationship_nurturing",
+      "empathic_responsiveness",
+      "social_awareness"
+    ],
+    "opposite_traits": [
+      "socially_independent"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "gold",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "purpose"
+    ],
+    "source_systems": [
+      "mbti",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "playful_attachment",
+    "category": "relational",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.6,
+      "sensitivity": 0.5,
+      "warmth": 0.8,
+      "structure": 0.2,
+      "novelty": 0.8,
+      "autonomy": 0.4,
+      "harmony": 0.6,
+      "symbolism": 0.3,
+      "groundedness": 0.3,
+      "social_energy": 0.85,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "emotionally_engaging",
+      "socially_playful",
+      "emotional_vitality",
+      "emotional_spontaneity"
+    ],
+    "opposite_traits": [
+      "emotionally_reserved",
+      "emotional_restraint"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "warm_glow",
+      "movement",
+      "gold"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "creativity",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "protective_care",
+    "category": "relational",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.7,
+      "sensitivity": 0.7,
+      "warmth": 0.85,
+      "structure": 0.6,
+      "novelty": 0.1,
+      "autonomy": 0.4,
+      "harmony": 0.6,
+      "symbolism": 0.3,
+      "groundedness": 0.7,
+      "social_energy": 0.5,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "caretaking",
+      "emotional_loyalty",
+      "dependable_attachment",
+      "attachment_security_needing"
+    ],
+    "opposite_traits": [
+      "emotional_detachment",
+      "unconventional_relationship_style"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "stone",
+      "wood",
+      "velvet"
+    ],
+    "reflection_tags": [
+      "attachment",
+      "trust",
+      "relationships"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "provocative_interaction",
+    "category": "relational",
+    "subcategory": "communication_style",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.8,
+      "sensitivity": 0.4,
+      "warmth": 0.3,
+      "structure": 0.3,
+      "novelty": 0.85,
+      "autonomy": 0.8,
+      "harmony": 0.1,
+      "symbolism": 0.3,
+      "groundedness": 0.3,
+      "social_energy": 0.8,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "intellectually_playful",
+      "direct_communication",
+      "challenge_seeking",
+      "nonconformity"
+    ],
+    "opposite_traits": [
+      "harmony_seeking",
+      "diplomatic_communication",
+      "gentle_attachment"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "flame",
+      "movement",
+      "metal"
+    ],
+    "reflection_tags": [
+      "communication",
+      "conflict",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relational_attunement",
+    "category": "relational",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.5,
+      "sensitivity": 0.9,
+      "warmth": 0.7,
+      "structure": 0.4,
+      "novelty": 0.3,
+      "autonomy": 0.3,
+      "harmony": 0.85,
+      "symbolism": 0.5,
+      "groundedness": 0.4,
+      "social_energy": 0.7,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "empathic_responsiveness",
+      "social_awareness",
+      "harmony_seeking",
+      "diplomatic_communication"
+    ],
+    "opposite_traits": [
+      "emotional_detachment"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "soft_light",
+      "moonlight",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "communication",
+      "attachment"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationship_nurturing",
+    "category": "relational",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.6,
+      "sensitivity": 0.8,
+      "warmth": 0.9,
+      "structure": 0.5,
+      "novelty": 0.3,
+      "autonomy": 0.2,
+      "harmony": 0.8,
+      "symbolism": 0.3,
+      "groundedness": 0.5,
+      "social_energy": 0.8,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "caretaking",
+      "people_focused",
+      "encouragement_drive",
+      "affectionate_presence"
+    ],
+    "opposite_traits": [
+      "socially_independent",
+      "emotional_detachment"
+    ],
+    "aesthetic_tags": [
+      "garden",
+      "warm_glow",
+      "soft_light",
+      "gold"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "purpose"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "selective_trust",
+    "category": "relational",
+    "subcategory": "vulnerability_style",
+    "dimensions": {
+      "depth": 0.8,
+      "intensity": 0.5,
+      "sensitivity": 0.7,
+      "warmth": 0.4,
+      "structure": 0.6,
+      "novelty": 0.2,
+      "autonomy": 0.7,
+      "harmony": 0.4,
+      "symbolism": 0.5,
+      "groundedness": 0.5,
+      "social_energy": 0.3,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "emotionally_selective",
+      "emotional_privacy",
+      "emotionally_guarded",
+      "deep_connection_seeking"
+    ],
+    "opposite_traits": [
+      "emotional_openness",
+      "socially_bold"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "fog",
+      "moonlight",
+      "violet"
+    ],
+    "reflection_tags": [
+      "trust",
+      "boundaries",
+      "vulnerability"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "socially_adaptable",
+    "category": "relational",
+    "subcategory": "social_style",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.5,
+      "sensitivity": 0.7,
+      "warmth": 0.6,
+      "structure": 0.4,
+      "novelty": 0.7,
+      "autonomy": 0.5,
+      "harmony": 0.7,
+      "symbolism": 0.3,
+      "groundedness": 0.4,
+      "social_energy": 0.8,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "adaptability",
+      "social_awareness",
+      "diplomatic_communication",
+      "relational_attunement"
+    ],
+    "opposite_traits": [
+      "structural_holding",
+      "socially_independent"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "mirror",
+      "silver",
+      "movement"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "communication",
+      "change"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "socially_bold",
+    "category": "relational",
+    "subcategory": "social_style",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.85,
+      "sensitivity": 0.4,
+      "warmth": 0.6,
+      "structure": 0.3,
+      "novelty": 0.7,
+      "autonomy": 0.7,
+      "harmony": 0.3,
+      "symbolism": 0.2,
+      "groundedness": 0.4,
+      "social_energy": 0.9,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "charismatic_engagement",
+      "courage_based",
+      "leadership_orientation",
+      "direct_communication"
+    ],
+    "opposite_traits": [
+      "observational_presence",
+      "emotionally_reserved",
+      "gentle_attachment"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "flame",
+      "gold",
+      "movement"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "communication",
+      "relationships"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "socially_independent",
+    "category": "relational",
+    "subcategory": "social_style",
+    "dimensions": {
+      "depth": 0.56,
+      "intensity": 0.36,
+      "sensitivity": 0.36,
+      "warmth": 0.3,
+      "structure": 0.5,
+      "novelty": 0.46,
+      "autonomy": 0.92,
+      "harmony": 0.3,
+      "symbolism": 0.4,
+      "groundedness": 0.54,
+      "social_energy": 0.26,
+      "transformative_energy": 0.26
+    },
+    "related_traits": [
+      "independent_attachment",
+      "autonomy_needing",
+      "emotional_independence",
+      "observational_presence"
+    ],
+    "opposite_traits": [
+      "people_focused",
+      "partnership_orientation",
+      "attachment_security_needing",
+      "charismatic_engagement"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "air",
+      "silver",
+      "stillness",
+      "metal"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "inner_world",
+      "boundaries"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "socially_playful",
+    "category": "relational",
+    "subcategory": "social_style",
+    "dimensions": {
+      "depth": 0.3,
+      "intensity": 0.7,
+      "sensitivity": 0.5,
+      "warmth": 0.8,
+      "structure": 0.2,
+      "novelty": 0.85,
+      "autonomy": 0.5,
+      "harmony": 0.6,
+      "symbolism": 0.2,
+      "groundedness": 0.3,
+      "social_energy": 0.95,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "playful_attachment",
+      "emotional_vitality",
+      "intellectually_playful",
+      "charismatic_engagement"
+    ],
+    "opposite_traits": [
+      "emotionally_reserved",
+      "deep_connection_seeking"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "warm_glow",
+      "movement"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "self_expression",
+      "creativity"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "unconventional_relationship_style",
+    "category": "relational",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.5,
+      "sensitivity": 0.5,
+      "warmth": 0.4,
+      "structure": 0.2,
+      "novelty": 0.9,
+      "autonomy": 0.9,
+      "harmony": 0.4,
+      "symbolism": 0.5,
+      "groundedness": 0.3,
+      "social_energy": 0.5,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "nonconformity",
+      "friendship_based_bonding",
+      "independent_attachment",
+      "innovation_orientation"
+    ],
+    "opposite_traits": [
+      "dependable_attachment",
+      "attachment_security_needing"
+    ],
+    "aesthetic_tags": [
+      "silver",
+      "violet",
+      "air",
+      "spark"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "identity",
+      "relationships"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility"
+    ],
+    "premium": false
+  },
+  {
+    "id": "achievement_drive",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.85,
+      "sensitivity": 0.4,
+      "warmth": 0.3,
+      "structure": 0.8,
+      "novelty": 0.4,
+      "autonomy": 0.8,
+      "harmony": 0.3,
+      "symbolism": 0.3,
+      "groundedness": 0.6,
+      "social_energy": 0.5,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "mastery_drive",
+      "responsibility_focus",
+      "discipline_orientation",
+      "status_awareness"
+    ],
+    "opposite_traits": [
+      "comfort_orientation"
+    ],
+    "aesthetic_tags": [
+      "gold",
+      "metal",
+      "horizon",
+      "flame"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "identity"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "action_orientation",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.85,
+      "sensitivity": 0.4,
+      "warmth": 0.4,
+      "structure": 0.5,
+      "novelty": 0.6,
+      "autonomy": 0.7,
+      "harmony": 0.3,
+      "symbolism": 0.1,
+      "groundedness": 0.6,
+      "social_energy": 0.7,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "decisive_action",
+      "initiation_energy",
+      "courage_based",
+      "rapid_response_thinking"
+    ],
+    "opposite_traits": [
+      "introspective_processing"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "movement",
+      "flame",
+      "wind"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "purpose",
+      "change"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "adventurous_drive",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.8,
+      "sensitivity": 0.5,
+      "warmth": 0.5,
+      "structure": 0.2,
+      "novelty": 0.95,
+      "autonomy": 0.85,
+      "harmony": 0.3,
+      "symbolism": 0.4,
+      "groundedness": 0.2,
+      "social_energy": 0.7,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "freedom_needing",
+      "discovery_orientation",
+      "risk_taking",
+      "novelty_seeking"
+    ],
+    "opposite_traits": [
+      "stability_seeking",
+      "comfort_orientation"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "wind",
+      "spark",
+      "movement"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "growth",
+      "change"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "appreciation_seeking",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.6,
+      "sensitivity": 0.8,
+      "warmth": 0.7,
+      "structure": 0.4,
+      "novelty": 0.3,
+      "autonomy": 0.2,
+      "harmony": 0.7,
+      "symbolism": 0.3,
+      "groundedness": 0.4,
+      "social_energy": 0.8,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "recognition_needing",
+      "belonging_needing",
+      "people_focused",
+      "service_orientation"
+    ],
+    "opposite_traits": [
+      "emotional_independence",
+      "autonomy_needing"
+    ],
+    "aesthetic_tags": [
+      "gold",
+      "warm_glow",
+      "soft_light",
+      "garden"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "identity",
+      "belonging"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "authenticity_drive",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.8,
+      "intensity": 0.6,
+      "sensitivity": 0.7,
+      "warmth": 0.5,
+      "structure": 0.3,
+      "novelty": 0.5,
+      "autonomy": 0.85,
+      "harmony": 0.4,
+      "symbolism": 0.5,
+      "groundedness": 0.4,
+      "social_energy": 0.4,
+      "transformative_energy": 0.6
+    },
+    "related_traits": [
+      "emotional_authenticity",
+      "self_expression",
+      "value_centered_thinking",
+      "purpose_drive"
+    ],
+    "opposite_traits": [
+      "external_validation_seeking",
+      "people_pleasing"
+    ],
+    "aesthetic_tags": [
+      "paper",
+      "garden",
+      "violet",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "identity",
+      "purpose",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "autonomy_needing",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.6,
+      "sensitivity": 0.4,
+      "warmth": 0.3,
+      "structure": 0.5,
+      "novelty": 0.5,
+      "autonomy": 0.95,
+      "harmony": 0.3,
+      "symbolism": 0.4,
+      "groundedness": 0.5,
+      "social_energy": 0.3,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "freedom_needing",
+      "emotional_independence",
+      "independent_attachment",
+      "socially_independent"
+    ],
+    "opposite_traits": [
+      "attachment_security_needing",
+      "belonging_needing"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "air",
+      "silver",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "boundaries",
+      "identity"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_needing",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.6,
+      "sensitivity": 0.8,
+      "warmth": 0.8,
+      "structure": 0.5,
+      "novelty": 0.2,
+      "autonomy": 0.2,
+      "harmony": 0.8,
+      "symbolism": 0.4,
+      "groundedness": 0.6,
+      "social_energy": 0.8,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "attachment_security_needing",
+      "people_focused",
+      "appreciation_seeking",
+      "collective_orientation"
+    ],
+    "opposite_traits": [
+      "autonomy_needing",
+      "socially_independent"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "gold",
+      "velvet"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "attachment",
+      "identity"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "challenge_seeking",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.85,
+      "sensitivity": 0.4,
+      "warmth": 0.3,
+      "structure": 0.4,
+      "novelty": 0.85,
+      "autonomy": 0.7,
+      "harmony": 0.2,
+      "symbolism": 0.3,
+      "groundedness": 0.4,
+      "social_energy": 0.6,
+      "transformative_energy": 0.6
+    },
+    "related_traits": [
+      "novelty_seeking",
+      "stimulation_seeking",
+      "courage_based",
+      "achievement_drive"
+    ],
+    "opposite_traits": [
+      "comfort_orientation",
+      "stability_seeking"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "horizon",
+      "movement"
+    ],
+    "reflection_tags": [
+      "growth",
+      "change",
+      "purpose"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "collective_growth",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.5,
+      "sensitivity": 0.7,
+      "warmth": 0.7,
+      "structure": 0.4,
+      "novelty": 0.4,
+      "autonomy": 0.4,
+      "harmony": 0.8,
+      "symbolism": 0.5,
+      "groundedness": 0.4,
+      "social_energy": 0.8,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "service_orientation",
+      "encouragement_drive",
+      "support_orientation",
+      "collective_orientation"
+    ],
+    "opposite_traits": [
+      "autonomy_needing"
+    ],
+    "aesthetic_tags": [
+      "gold",
+      "warm_glow",
+      "garden",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "relationships",
+      "belonging"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "comfort_orientation",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.3,
+      "sensitivity": 0.7,
+      "warmth": 0.7,
+      "structure": 0.4,
+      "novelty": 0.1,
+      "autonomy": 0.3,
+      "harmony": 0.7,
+      "symbolism": 0.2,
+      "groundedness": 0.85,
+      "social_energy": 0.4,
+      "transformative_energy": 0.1
+    },
+    "related_traits": [
+      "stability_seeking",
+      "sensory_engagement",
+      "security_needing",
+      "emotionally_grounded"
+    ],
+    "opposite_traits": [
+      "thrill_seeking",
+      "challenge_seeking",
+      "adventurous_drive"
+    ],
+    "aesthetic_tags": [
+      "velvet",
+      "warm_glow",
+      "garden",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "belonging"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "competence_focus",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.6,
+      "sensitivity": 0.4,
+      "warmth": 0.2,
+      "structure": 0.85,
+      "novelty": 0.3,
+      "autonomy": 0.8,
+      "harmony": 0.3,
+      "symbolism": 0.3,
+      "groundedness": 0.7,
+      "social_energy": 0.3,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "mastery_drive",
+      "achievement_drive",
+      "discipline_orientation",
+      "analytical_processing"
+    ],
+    "opposite_traits": [
+      "emotional_openness"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "silver",
+      "stone",
+      "paper"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "growth"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "control_needing",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.7,
+      "sensitivity": 0.4,
+      "warmth": 0.2,
+      "structure": 0.9,
+      "novelty": 0.1,
+      "autonomy": 0.8,
+      "harmony": 0.3,
+      "symbolism": 0.2,
+      "groundedness": 0.7,
+      "social_energy": 0.4,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "order_orientation",
+      "discipline_orientation",
+      "emotional_control",
+      "responsibility_focus"
+    ],
+    "opposite_traits": [
+      "emotional_fluidity"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "stone",
+      "glass",
+      "shadow"
+    ],
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creative_expression",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.6,
+      "sensitivity": 0.7,
+      "warmth": 0.6,
+      "structure": 0.3,
+      "novelty": 0.85,
+      "autonomy": 0.7,
+      "harmony": 0.4,
+      "symbolism": 0.7,
+      "groundedness": 0.3,
+      "social_energy": 0.6,
+      "transformative_energy": 0.6
+    },
+    "related_traits": [
+      "self_expression",
+      "imaginative_processing",
+      "aesthetic_sensitivity",
+      "authenticity_drive"
+    ],
+    "opposite_traits": [
+      "procedural_focus"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "violet",
+      "garden"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "identity"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "discovery_orientation",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.6,
+      "sensitivity": 0.6,
+      "warmth": 0.4,
+      "structure": 0.3,
+      "novelty": 0.9,
+      "autonomy": 0.7,
+      "harmony": 0.3,
+      "symbolism": 0.5,
+      "groundedness": 0.3,
+      "social_energy": 0.5,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "adventurous_drive",
+      "novelty_seeking",
+      "experimentation",
+      "future_orientation"
+    ],
+    "opposite_traits": [
+      "comfort_orientation"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "air",
+      "spark",
+      "wind"
+    ],
+    "reflection_tags": [
+      "growth",
+      "change",
+      "purpose"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "encouragement_drive",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.6,
+      "sensitivity": 0.7,
+      "warmth": 0.85,
+      "structure": 0.4,
+      "novelty": 0.4,
+      "autonomy": 0.3,
+      "harmony": 0.7,
+      "symbolism": 0.3,
+      "groundedness": 0.4,
+      "social_energy": 0.85,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "inspiration_orientation",
+      "support_orientation",
+      "people_focused",
+      "relationship_nurturing"
+    ],
+    "opposite_traits": [
+      "emotional_detachment"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "gold",
+      "soft_light",
+      "garden"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "purpose",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "experimentation",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.6,
+      "sensitivity": 0.5,
+      "warmth": 0.3,
+      "structure": 0.3,
+      "novelty": 0.9,
+      "autonomy": 0.8,
+      "harmony": 0.3,
+      "symbolism": 0.4,
+      "groundedness": 0.3,
+      "social_energy": 0.5,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "discovery_orientation",
+      "innovative_thinking",
+      "unconventional_thinking",
+      "novelty_seeking"
+    ],
+    "opposite_traits": [
+      "consistency",
+      "procedural_focus"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "silver",
+      "air",
+      "movement"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "growth",
+      "change"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "freedom_needing",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.6,
+      "sensitivity": 0.5,
+      "warmth": 0.3,
+      "structure": 0.2,
+      "novelty": 0.85,
+      "autonomy": 0.95,
+      "harmony": 0.3,
+      "symbolism": 0.4,
+      "groundedness": 0.3,
+      "social_energy": 0.5,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "autonomy_needing",
+      "adventurous_drive",
+      "novelty_seeking",
+      "self_expression"
+    ],
+    "opposite_traits": [
+      "security_needing",
+      "stability_seeking",
+      "duty_orientation"
+    ],
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "air",
+      "spark"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "identity",
+      "change"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "growth_orientation",
+    "category": "motivational",
+    "subcategory": "growth_pattern",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.6,
+      "sensitivity": 0.6,
+      "warmth": 0.5,
+      "structure": 0.4,
+      "novelty": 0.7,
+      "autonomy": 0.6,
+      "harmony": 0.4,
+      "symbolism": 0.6,
+      "groundedness": 0.4,
+      "social_energy": 0.4,
+      "transformative_energy": 0.85
+    },
+    "related_traits": [
+      "transformative_drive",
+      "purpose_drive",
+      "meaning_seeking",
+      "discovery_orientation"
+    ],
+    "opposite_traits": [
+      "comfort_orientation"
+    ],
+    "aesthetic_tags": [
+      "garden",
+      "spark",
+      "horizon",
+      "violet"
+    ],
+    "reflection_tags": [
+      "growth",
+      "change",
+      "purpose"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inspiration_orientation",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.7,
+      "sensitivity": 0.7,
+      "warmth": 0.7,
+      "structure": 0.3,
+      "novelty": 0.7,
+      "autonomy": 0.5,
+      "harmony": 0.5,
+      "symbolism": 0.6,
+      "groundedness": 0.3,
+      "social_energy": 0.7,
+      "transformative_energy": 0.6
+    },
+    "related_traits": [
+      "encouragement_drive",
+      "emotional_vitality",
+      "purpose_drive",
+      "creative_expression"
+    ],
+    "opposite_traits": [
+      "emotional_detachment"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "warm_glow",
+      "violet"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "creativity",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "mastery_drive",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.8,
+      "intensity": 0.7,
+      "sensitivity": 0.4,
+      "warmth": 0.2,
+      "structure": 0.85,
+      "novelty": 0.4,
+      "autonomy": 0.85,
+      "harmony": 0.3,
+      "symbolism": 0.4,
+      "groundedness": 0.7,
+      "social_energy": 0.3,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "competence_focus",
+      "achievement_drive",
+      "discipline_orientation",
+      "endurance"
+    ],
+    "opposite_traits": [
+      "comfort_orientation"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "silver",
+      "stone",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "growth",
+      "purpose",
+      "identity"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "novelty_seeking",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.7,
+      "sensitivity": 0.6,
+      "warmth": 0.5,
+      "structure": 0.2,
+      "novelty": 0.95,
+      "autonomy": 0.7,
+      "harmony": 0.3,
+      "symbolism": 0.4,
+      "groundedness": 0.2,
+      "social_energy": 0.7,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "stimulation_seeking",
+      "adventurous_drive",
+      "discovery_orientation",
+      "experimentation"
+    ],
+    "opposite_traits": [
+      "stability_seeking",
+      "comfort_orientation",
+      "consistency"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "movement",
+      "wind",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "change",
+      "creativity",
+      "freedom"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "order_orientation",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.4,
+      "sensitivity": 0.4,
+      "warmth": 0.3,
+      "structure": 0.95,
+      "novelty": 0.1,
+      "autonomy": 0.5,
+      "harmony": 0.5,
+      "symbolism": 0.2,
+      "groundedness": 0.85,
+      "social_energy": 0.3,
+      "transformative_energy": 0.1
+    },
+    "related_traits": [
+      "discipline_orientation",
+      "structured_thinking",
+      "responsibility_focus",
+      "consistency"
+    ],
+    "opposite_traits": [
+      "emotional_spontaneity",
+      "novelty_seeking"
+    ],
+    "aesthetic_tags": [
+      "paper",
+      "metal",
+      "stone",
+      "glass"
+    ],
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "purpose"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_drive",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.9,
+      "intensity": 0.7,
+      "sensitivity": 0.6,
+      "warmth": 0.5,
+      "structure": 0.5,
+      "novelty": 0.4,
+      "autonomy": 0.7,
+      "harmony": 0.4,
+      "symbolism": 0.7,
+      "groundedness": 0.4,
+      "social_energy": 0.4,
+      "transformative_energy": 0.7
+    },
+    "related_traits": [
+      "meaning_seeking",
+      "value_centered_thinking",
+      "growth_orientation",
+      "authenticity_drive"
+    ],
+    "opposite_traits": [
+      "comfort_orientation"
+    ],
+    "aesthetic_tags": [
+      "violet",
+      "horizon",
+      "gold",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "growth"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "recognition_needing",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.7,
+      "sensitivity": 0.7,
+      "warmth": 0.6,
+      "structure": 0.3,
+      "novelty": 0.4,
+      "autonomy": 0.4,
+      "harmony": 0.4,
+      "symbolism": 0.3,
+      "groundedness": 0.3,
+      "social_energy": 0.85,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "appreciation_seeking",
+      "expressive_identity",
+      "self_expression",
+      "charismatic_engagement"
+    ],
+    "opposite_traits": [
+      "emotional_independence",
+      "socially_independent"
+    ],
+    "aesthetic_tags": [
+      "gold",
+      "spark",
+      "flame",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "belonging"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "responsibility_focus",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.6,
+      "sensitivity": 0.5,
+      "warmth": 0.5,
+      "structure": 0.9,
+      "novelty": 0.1,
+      "autonomy": 0.6,
+      "harmony": 0.5,
+      "symbolism": 0.2,
+      "groundedness": 0.85,
+      "social_energy": 0.4,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "duty_orientation",
+      "discipline_orientation",
+      "consistency",
+      "dependable_attachment"
+    ],
+    "opposite_traits": [
+      "freedom_needing"
+    ],
+    "aesthetic_tags": [
+      "stone",
+      "metal",
+      "wood",
+      "earth"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "stability",
+      "identity"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "security_needing",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.5,
+      "sensitivity": 0.7,
+      "warmth": 0.6,
+      "structure": 0.7,
+      "novelty": 0.1,
+      "autonomy": 0.3,
+      "harmony": 0.6,
+      "symbolism": 0.3,
+      "groundedness": 0.85,
+      "social_energy": 0.4,
+      "transformative_energy": 0.1
+    },
+    "related_traits": [
+      "stability_seeking",
+      "attachment_security_needing",
+      "comfort_orientation",
+      "consistency"
+    ],
+    "opposite_traits": [
+      "freedom_needing",
+      "thrill_seeking"
+    ],
+    "aesthetic_tags": [
+      "wood",
+      "warm_glow",
+      "earth",
+      "velvet"
+    ],
+    "reflection_tags": [
+      "stability",
+      "belonging",
+      "trust"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_expression",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.7,
+      "sensitivity": 0.7,
+      "warmth": 0.7,
+      "structure": 0.3,
+      "novelty": 0.7,
+      "autonomy": 0.8,
+      "harmony": 0.4,
+      "symbolism": 0.6,
+      "groundedness": 0.3,
+      "social_energy": 0.7,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "authenticity_drive",
+      "creative_expression",
+      "emotional_expressiveness",
+      "individuality_focus"
+    ],
+    "opposite_traits": [
+      "emotional_restraint",
+      "emotional_suppression"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "violet",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "identity",
+      "creativity"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "service_orientation",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.5,
+      "sensitivity": 0.7,
+      "warmth": 0.8,
+      "structure": 0.6,
+      "novelty": 0.2,
+      "autonomy": 0.3,
+      "harmony": 0.8,
+      "symbolism": 0.3,
+      "groundedness": 0.6,
+      "social_energy": 0.7,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "caretaking",
+      "support_orientation",
+      "responsibility_focus",
+      "duty_orientation"
+    ],
+    "opposite_traits": [
+      "autonomy_needing"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "wood",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "relationships",
+      "identity"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_seeking",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.3,
+      "sensitivity": 0.5,
+      "warmth": 0.5,
+      "structure": 0.85,
+      "novelty": 0.1,
+      "autonomy": 0.4,
+      "harmony": 0.7,
+      "symbolism": 0.2,
+      "groundedness": 0.95,
+      "social_energy": 0.4,
+      "transformative_energy": 0.1
+    },
+    "related_traits": [
+      "security_needing",
+      "consistency",
+      "emotionally_grounded",
+      "comfort_orientation"
+    ],
+    "opposite_traits": [
+      "novelty_seeking",
+      "thrill_seeking",
+      "adventurous_drive"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "wood",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "belonging"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "status_awareness",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.6,
+      "sensitivity": 0.6,
+      "warmth": 0.3,
+      "structure": 0.7,
+      "novelty": 0.3,
+      "autonomy": 0.6,
+      "harmony": 0.4,
+      "symbolism": 0.4,
+      "groundedness": 0.6,
+      "social_energy": 0.6,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "achievement_drive",
+      "recognition_needing",
+      "responsibility_focus",
+      "social_awareness"
+    ],
+    "opposite_traits": [
+      "nonconformity"
+    ],
+    "aesthetic_tags": [
+      "gold",
+      "metal",
+      "stone",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "identity",
+      "purpose",
+      "belonging"
+    ],
+    "source_systems": [
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stimulation_seeking",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.3,
+      "intensity": 0.85,
+      "sensitivity": 0.6,
+      "warmth": 0.5,
+      "structure": 0.2,
+      "novelty": 0.9,
+      "autonomy": 0.7,
+      "harmony": 0.2,
+      "symbolism": 0.3,
+      "groundedness": 0.2,
+      "social_energy": 0.85,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "thrill_seeking",
+      "novelty_seeking",
+      "challenge_seeking",
+      "emotional_restlessness"
+    ],
+    "opposite_traits": [
+      "stability_seeking",
+      "comfort_orientation"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "flame",
+      "movement",
+      "wind"
+    ],
+    "reflection_tags": [
+      "change",
+      "self_expression",
+      "freedom"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "support_orientation",
+    "category": "motivational",
+    "subcategory": "motivation_pattern",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.5,
+      "sensitivity": 0.8,
+      "warmth": 0.85,
+      "structure": 0.5,
+      "novelty": 0.2,
+      "autonomy": 0.3,
+      "harmony": 0.8,
+      "symbolism": 0.3,
+      "groundedness": 0.6,
+      "social_energy": 0.8,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "caretaking",
+      "encouragement_drive",
+      "service_orientation",
+      "people_focused"
+    ],
+    "opposite_traits": [
+      "emotional_detachment"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "velvet",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "purpose",
+      "attachment"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "transformative_drive",
+    "category": "motivational",
+    "subcategory": "growth_pattern",
+    "dimensions": {
+      "depth": 0.9,
+      "intensity": 0.8,
+      "sensitivity": 0.7,
+      "warmth": 0.4,
+      "structure": 0.5,
+      "novelty": 0.7,
+      "autonomy": 0.7,
+      "harmony": 0.3,
+      "symbolism": 0.8,
+      "groundedness": 0.4,
+      "social_energy": 0.4,
+      "transformative_energy": 0.95
+    },
+    "related_traits": [
+      "growth_orientation",
+      "psychological_insight",
+      "emotional_intensity",
+      "purpose_drive"
+    ],
+    "opposite_traits": [
+      "comfort_orientation",
+      "change_hesitation"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "violet",
+      "night",
+      "spark"
+    ],
+    "reflection_tags": [
+      "growth",
+      "change",
+      "identity"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "aesthetic_sensitivity",
+    "category": "identity",
+    "subcategory": "self_expression",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.5,
+      "sensitivity": 0.9,
+      "warmth": 0.6,
+      "structure": 0.4,
+      "novelty": 0.5,
+      "autonomy": 0.5,
+      "harmony": 0.8,
+      "symbolism": 0.7,
+      "groundedness": 0.4,
+      "social_energy": 0.4,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "sensory_emotionality",
+      "harmony_seeking",
+      "creative_expression",
+      "symbolic_thinking"
+    ],
+    "opposite_traits": [
+      "emotional_detachment"
+    ],
+    "aesthetic_tags": [
+      "soft_light",
+      "velvet",
+      "violet",
+      "garden",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "identity",
+      "self_expression"
+    ],
+    "source_systems": [
+      "astrology",
+      "reflection",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "analytical_identity",
+    "category": "identity",
+    "subcategory": "self_concept",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.5,
+      "sensitivity": 0.4,
+      "warmth": 0.2,
+      "structure": 0.85,
+      "novelty": 0.3,
+      "autonomy": 0.7,
+      "harmony": 0.3,
+      "symbolism": 0.3,
+      "groundedness": 0.7,
+      "social_energy": 0.3,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "analytical_processing",
+      "competence_focus",
+      "detail_focus",
+      "objective_analysis"
+    ],
+    "opposite_traits": [
+      "emotional_authenticity"
+    ],
+    "aesthetic_tags": [
+      "glass",
+      "metal",
+      "silver",
+      "paper"
+    ],
+    "reflection_tags": [
+      "identity",
+      "purpose",
+      "inner_world"
+    ],
+    "source_systems": [
+      "mbti",
+      "reflection",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "collective_orientation",
+    "category": "identity",
+    "subcategory": "self_concept",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.5,
+      "sensitivity": 0.6,
+      "warmth": 0.6,
+      "structure": 0.5,
+      "novelty": 0.5,
+      "autonomy": 0.4,
+      "harmony": 0.7,
+      "symbolism": 0.5,
+      "groundedness": 0.4,
+      "social_energy": 0.7,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "belonging_needing",
+      "collective_growth",
+      "service_orientation",
+      "idealism"
+    ],
+    "opposite_traits": [
+      "individuality_focus",
+      "socially_independent"
+    ],
+    "aesthetic_tags": [
+      "gold",
+      "garden",
+      "warm_glow",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "purpose",
+      "identity"
+    ],
+    "source_systems": [
+      "astrology",
+      "reflection",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "expressive_identity",
+    "category": "identity",
+    "subcategory": "self_expression",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.8,
+      "sensitivity": 0.6,
+      "warmth": 0.7,
+      "structure": 0.3,
+      "novelty": 0.7,
+      "autonomy": 0.7,
+      "harmony": 0.4,
+      "symbolism": 0.5,
+      "groundedness": 0.3,
+      "social_energy": 0.85,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "self_expression",
+      "creative_expression",
+      "emotional_expressiveness",
+      "individuality_focus"
+    ],
+    "opposite_traits": [
+      "emotional_restraint",
+      "emotional_suppression"
+    ],
+    "aesthetic_tags": [
+      "gold",
+      "flame",
+      "spark",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "creativity"
+    ],
+    "source_systems": [
+      "astrology",
+      "reflection",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "idealism",
+    "category": "identity",
+    "subcategory": "self_concept",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.6,
+      "sensitivity": 0.8,
+      "warmth": 0.7,
+      "structure": 0.3,
+      "novelty": 0.6,
+      "autonomy": 0.6,
+      "harmony": 0.6,
+      "symbolism": 0.8,
+      "groundedness": 0.2,
+      "social_energy": 0.5,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "meaning_seeking",
+      "purpose_drive",
+      "symbolic_thinking",
+      "imaginative_processing"
+    ],
+    "opposite_traits": [
+      "practical_reasoning"
+    ],
+    "aesthetic_tags": [
+      "violet",
+      "moonlight",
+      "garden",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "growth"
+    ],
+    "source_systems": [
+      "astrology",
+      "reflection",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_sensitivity",
+    "category": "identity",
+    "subcategory": "self_definition",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.5,
+      "sensitivity": 0.9,
+      "warmth": 0.3,
+      "structure": 0.3,
+      "novelty": 0.3,
+      "autonomy": 0.7,
+      "harmony": 0.3,
+      "symbolism": 0.7,
+      "groundedness": 0.3,
+      "social_energy": 0.3,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "authenticity_drive",
+      "individuality_focus",
+      "self_expression",
+      "value_centered_thinking",
+      "identity_reactivity",
+      "emotional_sensitivity"
+    ],
+    "opposite_traits": [
+      "socially_adaptable",
+      "emotional_detachment"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "moonlight",
+      "silver",
+      "violet",
+      "paper"
+    ],
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "vulnerability",
+      "inner_world"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "individuality_focus",
+    "category": "identity",
+    "subcategory": "self_concept",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.6,
+      "sensitivity": 0.5,
+      "warmth": 0.3,
+      "structure": 0.3,
+      "novelty": 0.8,
+      "autonomy": 0.9,
+      "harmony": 0.3,
+      "symbolism": 0.5,
+      "groundedness": 0.4,
+      "social_energy": 0.4,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "nonconformity",
+      "authenticity_drive",
+      "self_expression",
+      "autonomy_needing"
+    ],
+    "opposite_traits": [
+      "belonging_needing",
+      "collective_orientation"
+    ],
+    "aesthetic_tags": [
+      "silver",
+      "violet",
+      "horizon",
+      "spark"
+    ],
+    "reflection_tags": [
+      "identity",
+      "freedom",
+      "self_expression"
+    ],
+    "source_systems": [
+      "astrology",
+      "reflection",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "innovation_orientation",
+    "category": "identity",
+    "subcategory": "self_concept",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.6,
+      "sensitivity": 0.5,
+      "warmth": 0.3,
+      "structure": 0.4,
+      "novelty": 0.95,
+      "autonomy": 0.85,
+      "harmony": 0.2,
+      "symbolism": 0.6,
+      "groundedness": 0.3,
+      "social_energy": 0.5,
+      "transformative_energy": 0.7
+    },
+    "related_traits": [
+      "innovative_thinking",
+      "unconventional_thinking",
+      "nonconformity",
+      "future_orientation"
+    ],
+    "opposite_traits": [
+      "consistency",
+      "structural_holding"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "silver",
+      "air",
+      "movement"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "change",
+      "identity"
+    ],
+    "source_systems": [
+      "astrology",
+      "reflection",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "nonconformity",
+    "category": "identity",
+    "subcategory": "self_concept",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.7,
+      "sensitivity": 0.5,
+      "warmth": 0.3,
+      "structure": 0.2,
+      "novelty": 0.9,
+      "autonomy": 0.95,
+      "harmony": 0.2,
+      "symbolism": 0.5,
+      "groundedness": 0.3,
+      "social_energy": 0.5,
+      "transformative_energy": 0.6
+    },
+    "related_traits": [
+      "individuality_focus",
+      "unconventional_thinking",
+      "innovation_orientation",
+      "autonomy_needing"
+    ],
+    "opposite_traits": [
+      "belonging_needing",
+      "duty_orientation"
+    ],
+    "aesthetic_tags": [
+      "silver",
+      "violet",
+      "spark",
+      "shadow"
+    ],
+    "reflection_tags": [
+      "identity",
+      "freedom",
+      "self_expression"
+    ],
+    "source_systems": [
+      "astrology",
+      "reflection",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "nurturing_identity",
+    "category": "identity",
+    "subcategory": "self_concept",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.6,
+      "sensitivity": 0.85,
+      "warmth": 0.9,
+      "structure": 0.5,
+      "novelty": 0.2,
+      "autonomy": 0.3,
+      "harmony": 0.8,
+      "symbolism": 0.4,
+      "groundedness": 0.6,
+      "social_energy": 0.7,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "caretaking",
+      "relationship_nurturing",
+      "empathic_responsiveness",
+      "protective_care"
+    ],
+    "opposite_traits": [
+      "emotional_detachment"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "velvet",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "identity",
+      "relationships",
+      "purpose"
+    ],
+    "source_systems": [
+      "astrology",
+      "reflection",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "philosophical_orientation",
+    "category": "identity",
+    "subcategory": "self_concept",
+    "dimensions": {
+      "depth": 0.85,
+      "intensity": 0.5,
+      "sensitivity": 0.6,
+      "warmth": 0.4,
+      "structure": 0.5,
+      "novelty": 0.7,
+      "autonomy": 0.7,
+      "harmony": 0.4,
+      "symbolism": 0.85,
+      "groundedness": 0.2,
+      "social_energy": 0.3,
+      "transformative_energy": 0.6
+    },
+    "related_traits": [
+      "philosophical_thinking",
+      "meaning_seeking",
+      "idealism",
+      "spiritual_sensitivity"
+    ],
+    "opposite_traits": [
+      "practical_reasoning"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "moonlight",
+      "violet",
+      "paper"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "growth"
+    ],
+    "source_systems": [
+      "astrology",
+      "reflection",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relational_identity",
+    "category": "identity",
+    "subcategory": "self_concept",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.6,
+      "sensitivity": 0.8,
+      "warmth": 0.8,
+      "structure": 0.5,
+      "novelty": 0.3,
+      "autonomy": 0.2,
+      "harmony": 0.85,
+      "symbolism": 0.4,
+      "groundedness": 0.5,
+      "social_energy": 0.8,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "partnership_orientation",
+      "harmony_seeking",
+      "relational_attunement",
+      "belonging_needing"
+    ],
+    "opposite_traits": [
+      "socially_independent",
+      "autonomy_needing"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "warm_glow",
+      "soft_light",
+      "garden"
+    ],
+    "reflection_tags": [
+      "identity",
+      "relationships",
+      "belonging"
+    ],
+    "source_systems": [
+      "astrology",
+      "reflection",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "spiritual_sensitivity",
+    "category": "identity",
+    "subcategory": "self_concept",
+    "dimensions": {
+      "depth": 0.85,
+      "intensity": 0.5,
+      "sensitivity": 0.9,
+      "warmth": 0.6,
+      "structure": 0.2,
+      "novelty": 0.5,
+      "autonomy": 0.5,
+      "harmony": 0.6,
+      "symbolism": 0.95,
+      "groundedness": 0.2,
+      "social_energy": 0.3,
+      "transformative_energy": 0.6
+    },
+    "related_traits": [
+      "symbolic_thinking",
+      "intuitive_processing",
+      "emotional_absorption",
+      "philosophical_orientation"
+    ],
+    "opposite_traits": [
+      "practical_reasoning",
+      "factual_precision"
+    ],
+    "aesthetic_tags": [
+      "moonlight",
+      "violet",
+      "fog",
+      "night"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "purpose"
+    ],
+    "source_systems": [
+      "astrology",
+      "reflection",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "transformative_identity",
+    "category": "identity",
+    "subcategory": "self_concept",
+    "dimensions": {
+      "depth": 0.85,
+      "intensity": 0.8,
+      "sensitivity": 0.7,
+      "warmth": 0.4,
+      "structure": 0.4,
+      "novelty": 0.7,
+      "autonomy": 0.7,
+      "harmony": 0.3,
+      "symbolism": 0.8,
+      "groundedness": 0.4,
+      "social_energy": 0.4,
+      "transformative_energy": 0.95
+    },
+    "related_traits": [
+      "transformative_drive",
+      "growth_orientation",
+      "psychological_insight",
+      "emotional_intensity"
+    ],
+    "opposite_traits": [
+      "change_hesitation",
+      "structural_holding"
+    ],
+    "aesthetic_tags": [
+      "violet",
+      "flame",
+      "night",
+      "spark"
+    ],
+    "reflection_tags": [
+      "identity",
+      "change",
+      "growth"
+    ],
+    "source_systems": [
+      "astrology",
+      "reflection",
+      "archetype"
+    ],
+    "premium": false
+  },
+  {
+    "id": "adaptability",
+    "category": "behavioral",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.5,
+      "sensitivity": 0.7,
+      "warmth": 0.5,
+      "structure": 0.2,
+      "novelty": 0.85,
+      "autonomy": 0.6,
+      "harmony": 0.6,
+      "symbolism": 0.3,
+      "groundedness": 0.4,
+      "social_energy": 0.6,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "reframing_ability",
+      "situational_awareness",
+      "socially_adaptable",
+      "experimentation"
+    ],
+    "opposite_traits": [
+      "structural_holding",
+      "consistency"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "movement",
+      "wind",
+      "silver"
+    ],
+    "reflection_tags": [
+      "change",
+      "growth",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "authoritative_presence",
+    "category": "behavioral",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.8,
+      "sensitivity": 0.4,
+      "warmth": 0.4,
+      "structure": 0.8,
+      "novelty": 0.2,
+      "autonomy": 0.8,
+      "harmony": 0.3,
+      "symbolism": 0.3,
+      "groundedness": 0.7,
+      "social_energy": 0.7,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "leadership_orientation",
+      "decisive_action",
+      "direct_communication",
+      "discipline_orientation"
+    ],
+    "opposite_traits": [
+      "observational_presence",
+      "gentle_attachment"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "stone",
+      "gold",
+      "shadow"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "self_expression",
+      "identity"
+    ],
+    "source_systems": [
+      "mbti"
+    ],
+    "premium": false
+  },
+  {
+    "id": "consistency",
+    "category": "behavioral",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.4,
+      "sensitivity": 0.4,
+      "warmth": 0.4,
+      "structure": 0.9,
+      "novelty": 0.05,
+      "autonomy": 0.5,
+      "harmony": 0.6,
+      "symbolism": 0.2,
+      "groundedness": 0.9,
+      "social_energy": 0.4,
+      "transformative_energy": 0.1
+    },
+    "related_traits": [
+      "dependable_attachment",
+      "discipline_orientation",
+      "stability_seeking",
+      "duty_orientation"
+    ],
+    "opposite_traits": [
+      "adaptability",
+      "emotional_spontaneity",
+      "inconsistency"
+    ],
+    "aesthetic_tags": [
+      "stone",
+      "wood",
+      "metal",
+      "earth"
+    ],
+    "reflection_tags": [
+      "stability",
+      "trust",
+      "emotional_regulation"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "courage_based",
+    "category": "behavioral",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.85,
+      "sensitivity": 0.4,
+      "warmth": 0.5,
+      "structure": 0.4,
+      "novelty": 0.6,
+      "autonomy": 0.8,
+      "harmony": 0.3,
+      "symbolism": 0.3,
+      "groundedness": 0.6,
+      "social_energy": 0.6,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "initiation_energy",
+      "decisive_action",
+      "socially_bold",
+      "challenge_seeking"
+    ],
+    "opposite_traits": [
+      "change_hesitation"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "gold",
+      "metal"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "purpose",
+      "growth"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "decisive_action",
+    "category": "behavioral",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.8,
+      "sensitivity": 0.3,
+      "warmth": 0.3,
+      "structure": 0.7,
+      "novelty": 0.4,
+      "autonomy": 0.8,
+      "harmony": 0.3,
+      "symbolism": 0.1,
+      "groundedness": 0.7,
+      "social_energy": 0.5,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "action_orientation",
+      "courage_based",
+      "leadership_orientation",
+      "direct_communication"
+    ],
+    "opposite_traits": [
+      "decision_hesitation"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "spark",
+      "movement",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "purpose",
+      "stability"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "delayed_gratification",
+    "category": "behavioral",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.5,
+      "sensitivity": 0.4,
+      "warmth": 0.3,
+      "structure": 0.85,
+      "novelty": 0.1,
+      "autonomy": 0.7,
+      "harmony": 0.4,
+      "symbolism": 0.3,
+      "groundedness": 0.85,
+      "social_energy": 0.3,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "discipline_orientation",
+      "endurance",
+      "responsibility_focus",
+      "emotional_restraint"
+    ],
+    "opposite_traits": [
+      "impulse_following"
+    ],
+    "aesthetic_tags": [
+      "stone",
+      "metal",
+      "wood",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "stability",
+      "purpose",
+      "growth"
+    ],
+    "source_systems": [
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "discipline_orientation",
+    "category": "behavioral",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.6,
+      "sensitivity": 0.4,
+      "warmth": 0.2,
+      "structure": 0.95,
+      "novelty": 0.1,
+      "autonomy": 0.7,
+      "harmony": 0.4,
+      "symbolism": 0.2,
+      "groundedness": 0.85,
+      "social_energy": 0.3,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "responsibility_focus",
+      "endurance",
+      "structured_thinking",
+      "delayed_gratification"
+    ],
+    "opposite_traits": [
+      "impulse_following",
+      "emotional_spontaneity"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "stone",
+      "horizon",
+      "paper"
+    ],
+    "reflection_tags": [
+      "stability",
+      "purpose",
+      "emotional_regulation"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "duty_orientation",
+    "category": "behavioral",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.5,
+      "sensitivity": 0.5,
+      "warmth": 0.5,
+      "structure": 0.85,
+      "novelty": 0.05,
+      "autonomy": 0.4,
+      "harmony": 0.7,
+      "symbolism": 0.3,
+      "groundedness": 0.8,
+      "social_energy": 0.5,
+      "transformative_energy": 0.1
+    },
+    "related_traits": [
+      "responsibility_focus",
+      "dependable_attachment",
+      "consistency",
+      "service_orientation"
+    ],
+    "opposite_traits": [
+      "freedom_needing",
+      "nonconformity"
+    ],
+    "aesthetic_tags": [
+      "wood",
+      "stone",
+      "warm_glow",
+      "earth"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "stability",
+      "belonging"
+    ],
+    "source_systems": [
+      "mbti"
+    ],
+    "premium": false
+  },
+  {
+    "id": "endurance",
+    "category": "behavioral",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.6,
+      "sensitivity": 0.4,
+      "warmth": 0.4,
+      "structure": 0.8,
+      "novelty": 0.1,
+      "autonomy": 0.7,
+      "harmony": 0.5,
+      "symbolism": 0.2,
+      "groundedness": 0.9,
+      "social_energy": 0.3,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "discipline_orientation",
+      "consistency",
+      "stability_seeking",
+      "delayed_gratification"
+    ],
+    "opposite_traits": [
+      "emotional_overwhelm"
+    ],
+    "aesthetic_tags": [
+      "stone",
+      "earth",
+      "wood",
+      "metal"
+    ],
+    "reflection_tags": [
+      "stability",
+      "growth",
+      "purpose"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "initiation_energy",
+    "category": "behavioral",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.85,
+      "sensitivity": 0.4,
+      "warmth": 0.4,
+      "structure": 0.4,
+      "novelty": 0.8,
+      "autonomy": 0.8,
+      "harmony": 0.3,
+      "symbolism": 0.3,
+      "groundedness": 0.4,
+      "social_energy": 0.7,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "action_orientation",
+      "courage_based",
+      "decisive_action",
+      "idea_generation"
+    ],
+    "opposite_traits": [
+      "decision_hesitation"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "flame",
+      "movement",
+      "wind"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "change",
+      "purpose"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "methodical_execution",
+    "category": "behavioral",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.5,
+      "sensitivity": 0.4,
+      "warmth": 0.2,
+      "structure": 0.9,
+      "novelty": 0.1,
+      "autonomy": 0.5,
+      "harmony": 0.4,
+      "symbolism": 0.1,
+      "groundedness": 0.85,
+      "social_energy": 0.2,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "structured_thinking",
+      "procedural_focus",
+      "detail_focus",
+      "discipline_orientation"
+    ],
+    "opposite_traits": [
+      "impulse_following",
+      "emotional_spontaneity"
+    ],
+    "aesthetic_tags": [
+      "paper",
+      "metal",
+      "stone",
+      "glass"
+    ],
+    "reflection_tags": [
+      "stability",
+      "purpose",
+      "emotional_regulation"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "risk_taking",
+    "category": "behavioral",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.3,
+      "intensity": 0.85,
+      "sensitivity": 0.4,
+      "warmth": 0.4,
+      "structure": 0.2,
+      "novelty": 0.9,
+      "autonomy": 0.8,
+      "harmony": 0.2,
+      "symbolism": 0.3,
+      "groundedness": 0.3,
+      "social_energy": 0.7,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "thrill_seeking",
+      "adventurous_drive",
+      "courage_based",
+      "challenge_seeking"
+    ],
+    "opposite_traits": [
+      "stability_seeking",
+      "comfort_orientation",
+      "change_hesitation"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "flame",
+      "wind",
+      "movement"
+    ],
+    "reflection_tags": [
+      "change",
+      "freedom",
+      "growth"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_monitoring",
+    "category": "behavioral",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.5,
+      "sensitivity": 0.8,
+      "warmth": 0.4,
+      "structure": 0.7,
+      "novelty": 0.2,
+      "autonomy": 0.6,
+      "harmony": 0.5,
+      "symbolism": 0.4,
+      "groundedness": 0.5,
+      "social_energy": 0.4,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "introspective_processing",
+      "emotional_restraint",
+      "self_criticism",
+      "discipline_orientation"
+    ],
+    "opposite_traits": [
+      "emotional_spontaneity",
+      "impulse_following"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "silver",
+      "fog",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "growth",
+      "identity"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology"
+    ],
+    "premium": false
+  },
+  {
+    "id": "attachment_protectiveness",
+    "category": "shadow",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.85,
+      "sensitivity": 0.8,
+      "warmth": 0.3,
+      "structure": 0.4,
+      "novelty": 0.1,
+      "autonomy": 0.3,
+      "harmony": 0.1,
+      "symbolism": 0.4,
+      "groundedness": 0.3,
+      "social_energy": 0.5,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "holding_attachment",
+      "mental_fixation",
+      "emotional_intensity",
+      "protective_skepticism"
+    ],
+    "opposite_traits": [
+      "emotional_independence"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "shadow",
+      "violet",
+      "night"
+    ],
+    "reflection_tags": [
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "source_systems": [
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "boundary_softness",
+    "category": "shadow",
+    "subcategory": "vulnerability_style",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.6,
+      "sensitivity": 0.9,
+      "warmth": 0.6,
+      "structure": 0.1,
+      "novelty": 0.3,
+      "autonomy": 0.1,
+      "harmony": 0.5,
+      "symbolism": 0.6,
+      "groundedness": 0.2,
+      "social_energy": 0.5,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "emotional_absorption",
+      "self_sacrifice",
+      "emotional_overwhelm",
+      "idealization"
+    ],
+    "opposite_traits": [
+      "emotional_independence",
+      "emotionally_guarded"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "water",
+      "moonlight",
+      "violet"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "vulnerability",
+      "attachment"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "change_hesitation",
+    "category": "shadow",
+    "subcategory": "vulnerability_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.5,
+      "sensitivity": 0.7,
+      "warmth": 0.4,
+      "structure": 0.8,
+      "novelty": 0.05,
+      "autonomy": 0.3,
+      "harmony": 0.5,
+      "symbolism": 0.3,
+      "groundedness": 0.7,
+      "social_energy": 0.3,
+      "transformative_energy": 0.1
+    },
+    "related_traits": [
+      "structural_holding",
+      "security_needing",
+      "comfort_orientation",
+      "stability_seeking"
+    ],
+    "opposite_traits": [
+      "transformative_drive",
+      "adventurous_drive",
+      "courage_based"
+    ],
+    "aesthetic_tags": [
+      "stone",
+      "shadow",
+      "fog",
+      "wood"
+    ],
+    "reflection_tags": [
+      "change",
+      "stability",
+      "vulnerability"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "commitment_hesitation",
+    "category": "shadow",
+    "subcategory": "vulnerability_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.5,
+      "sensitivity": 0.5,
+      "warmth": 0.3,
+      "structure": 0.2,
+      "novelty": 0.7,
+      "autonomy": 0.85,
+      "harmony": 0.3,
+      "symbolism": 0.3,
+      "groundedness": 0.2,
+      "social_energy": 0.5,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "freedom_needing",
+      "emotional_avoidance",
+      "change_hesitation",
+      "nonlinear_rhythm"
+    ],
+    "opposite_traits": [
+      "dependable_attachment",
+      "duty_orientation"
+    ],
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "fog",
+      "shadow"
+    ],
+    "reflection_tags": [
+      "attachment",
+      "vulnerability",
+      "freedom"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "conflict_avoidance",
+    "category": "shadow",
+    "subcategory": "conflict_style",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.3,
+      "sensitivity": 0.8,
+      "warmth": 0.6,
+      "structure": 0.4,
+      "novelty": 0.1,
+      "autonomy": 0.2,
+      "harmony": 0.85,
+      "symbolism": 0.3,
+      "groundedness": 0.4,
+      "social_energy": 0.5,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "harmony_seeking",
+      "people_pleasing",
+      "decision_hesitation",
+      "protective_withdrawal"
+    ],
+    "opposite_traits": [
+      "direct_communication",
+      "provocative_interaction",
+      "courage_based"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "soft_light",
+      "shadow",
+      "velvet"
+    ],
+    "reflection_tags": [
+      "conflict",
+      "vulnerability",
+      "boundaries"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "control_seeking",
+    "category": "shadow",
+    "subcategory": "conflict_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.8,
+      "sensitivity": 0.4,
+      "warmth": 0.2,
+      "structure": 0.9,
+      "novelty": 0.1,
+      "autonomy": 0.7,
+      "harmony": 0.2,
+      "symbolism": 0.2,
+      "groundedness": 0.5,
+      "social_energy": 0.5,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "control_needing",
+      "excessive_structuring",
+      "structural_holding",
+      "mental_fixation"
+    ],
+    "opposite_traits": [
+      "emotional_openness",
+      "adaptability"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "shadow",
+      "stone",
+      "glass"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "conflict",
+      "emotional_regulation"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "decision_hesitation",
+    "category": "shadow",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.3,
+      "sensitivity": 0.8,
+      "warmth": 0.4,
+      "structure": 0.2,
+      "novelty": 0.3,
+      "autonomy": 0.2,
+      "harmony": 0.7,
+      "symbolism": 0.4,
+      "groundedness": 0.2,
+      "social_energy": 0.3,
+      "transformative_energy": 0.1
+    },
+    "related_traits": [
+      "conflict_avoidance",
+      "people_pleasing",
+      "overthinking",
+      "external_validation_seeking"
+    ],
+    "opposite_traits": [
+      "decisive_action",
+      "courage_based",
+      "initiation_energy"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "mirror",
+      "soft_light",
+      "shadow"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "conflict",
+      "boundaries"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_avoidance",
+    "category": "shadow",
+    "subcategory": "vulnerability_style",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.3,
+      "sensitivity": 0.3,
+      "warmth": 0.2,
+      "structure": 0.5,
+      "novelty": 0.4,
+      "autonomy": 0.8,
+      "harmony": 0.3,
+      "symbolism": 0.3,
+      "groundedness": 0.4,
+      "social_energy": 0.3,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "emotional_detachment",
+      "protective_withdrawal",
+      "escapism"
+    ],
+    "opposite_traits": [
+      "emotional_openness",
+      "emotional_authenticity"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "shadow",
+      "air",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "boundaries",
+      "emotional_regulation"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_exhaustion",
+    "category": "shadow",
+    "subcategory": "emotional_regulation",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.6,
+      "sensitivity": 0.8,
+      "warmth": 0.4,
+      "structure": 0.2,
+      "novelty": 0.1,
+      "autonomy": 0.3,
+      "harmony": 0.3,
+      "symbolism": 0.3,
+      "groundedness": 0.2,
+      "social_energy": 0.2,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "emotional_overwhelm",
+      "self_sacrifice",
+      "relational_overextension",
+      "protective_withdrawal"
+    ],
+    "opposite_traits": [
+      "emotional_vitality"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "shadow",
+      "stillness",
+      "ash"
+    ],
+    "reflection_tags": [
+      "emotional_regulation",
+      "boundaries",
+      "stability"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_impatience",
+    "category": "shadow",
+    "subcategory": "emotional_regulation",
+    "dimensions": {
+      "depth": 0.3,
+      "intensity": 0.85,
+      "sensitivity": 0.6,
+      "warmth": 0.2,
+      "structure": 0.4,
+      "novelty": 0.6,
+      "autonomy": 0.7,
+      "harmony": 0.2,
+      "symbolism": 0.2,
+      "groundedness": 0.3,
+      "social_energy": 0.6,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "emotional_reactivity",
+      "impulse_following",
+      "identity_reactivity",
+      "emotional_intensity"
+    ],
+    "opposite_traits": [
+      "calm_under_pressure",
+      "delayed_gratification"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "movement",
+      "metal"
+    ],
+    "reflection_tags": [
+      "emotional_regulation",
+      "conflict",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_overwhelm",
+    "category": "shadow",
+    "subcategory": "emotional_regulation",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.85,
+      "sensitivity": 0.9,
+      "warmth": 0.5,
+      "structure": 0.1,
+      "novelty": 0.2,
+      "autonomy": 0.2,
+      "harmony": 0.2,
+      "symbolism": 0.4,
+      "groundedness": 0.1,
+      "social_energy": 0.3,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "emotional_absorption",
+      "emotional_sensitivity",
+      "emotional_exhaustion",
+      "boundary_softness"
+    ],
+    "opposite_traits": [
+      "calm_under_pressure",
+      "emotionally_grounded"
+    ],
+    "aesthetic_tags": [
+      "water",
+      "fog",
+      "storm",
+      "shadow"
+    ],
+    "reflection_tags": [
+      "emotional_regulation",
+      "vulnerability",
+      "boundaries"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_self_protection",
+    "category": "shadow",
+    "subcategory": "vulnerability_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.7,
+      "sensitivity": 0.8,
+      "warmth": 0.2,
+      "structure": 0.5,
+      "novelty": 0.1,
+      "autonomy": 0.7,
+      "harmony": 0.2,
+      "symbolism": 0.3,
+      "groundedness": 0.4,
+      "social_energy": 0.4,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "emotionally_guarded",
+      "protective_skepticism",
+      "emotional_reactivity",
+      "identity_reactivity"
+    ],
+    "opposite_traits": [
+      "emotional_openness",
+      "nonjudgmental"
+    ],
+    "aesthetic_tags": [
+      "shadow",
+      "metal",
+      "fog",
+      "stone"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "trust",
+      "boundaries"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_suppression",
+    "category": "shadow",
+    "subcategory": "emotional_regulation",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.4,
+      "sensitivity": 0.5,
+      "warmth": 0.2,
+      "structure": 0.85,
+      "novelty": 0.1,
+      "autonomy": 0.7,
+      "harmony": 0.3,
+      "symbolism": 0.3,
+      "groundedness": 0.6,
+      "social_energy": 0.2,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "emotional_control",
+      "emotional_restraint",
+      "emotional_avoidance",
+      "excessive_structuring"
+    ],
+    "opposite_traits": [
+      "emotional_expressiveness",
+      "emotional_authenticity"
+    ],
+    "aesthetic_tags": [
+      "stone",
+      "metal",
+      "shadow",
+      "silence"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "emotional_regulation",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "escapism",
+    "category": "shadow",
+    "subcategory": "vulnerability_style",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.4,
+      "sensitivity": 0.7,
+      "warmth": 0.4,
+      "structure": 0.1,
+      "novelty": 0.6,
+      "autonomy": 0.5,
+      "harmony": 0.4,
+      "symbolism": 0.7,
+      "groundedness": 0.1,
+      "social_energy": 0.3,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "emotional_avoidance",
+      "imaginative_processing",
+      "protective_withdrawal",
+      "idealization"
+    ],
+    "opposite_traits": [
+      "present_moment_attention",
+      "emotionally_grounded"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "violet",
+      "shadow"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "boundaries",
+      "emotional_regulation"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "excessive_structuring",
+    "category": "shadow",
+    "subcategory": "emotional_regulation",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.7,
+      "sensitivity": 0.5,
+      "warmth": 0.2,
+      "structure": 0.95,
+      "novelty": 0.05,
+      "autonomy": 0.7,
+      "harmony": 0.3,
+      "symbolism": 0.2,
+      "groundedness": 0.6,
+      "social_energy": 0.3,
+      "transformative_energy": 0.1
+    },
+    "related_traits": [
+      "control_seeking",
+      "structural_holding",
+      "emotional_suppression",
+      "perfectionism"
+    ],
+    "opposite_traits": [
+      "emotional_fluidity",
+      "adaptability"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "stone",
+      "shadow",
+      "glass"
+    ],
+    "reflection_tags": [
+      "emotional_regulation",
+      "boundaries",
+      "stability"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "external_validation_seeking",
+    "category": "shadow",
+    "subcategory": "vulnerability_style",
+    "dimensions": {
+      "depth": 0.44,
+      "intensity": 0.64,
+      "sensitivity": 0.85,
+      "warmth": 0.5,
+      "structure": 0.4,
+      "novelty": 0.24,
+      "autonomy": 0.08,
+      "harmony": 0.56,
+      "symbolism": 0.3,
+      "groundedness": 0.26,
+      "social_energy": 0.74,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "people_pleasing",
+      "appreciation_seeking",
+      "belonging_needing",
+      "recognition_needing"
+    ],
+    "opposite_traits": [
+      "autonomy_needing",
+      "emotional_independence",
+      "authenticity_drive"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "shadow",
+      "fog",
+      "soft_light",
+      "gold"
+    ],
+    "reflection_tags": [
+      "identity",
+      "vulnerability",
+      "boundaries"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "holding_attachment",
+    "category": "shadow",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.8,
+      "sensitivity": 0.7,
+      "warmth": 0.4,
+      "structure": 0.6,
+      "novelty": 0.05,
+      "autonomy": 0.4,
+      "harmony": 0.2,
+      "symbolism": 0.3,
+      "groundedness": 0.5,
+      "social_energy": 0.4,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "attachment_protectiveness",
+      "control_seeking",
+      "mental_fixation",
+      "change_hesitation"
+    ],
+    "opposite_traits": [
+      "emotional_independence",
+      "freedom_needing"
+    ],
+    "aesthetic_tags": [
+      "shadow",
+      "velvet",
+      "metal",
+      "night"
+    ],
+    "reflection_tags": [
+      "attachment",
+      "boundaries",
+      "trust"
+    ],
+    "source_systems": [
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "idealization",
+    "category": "shadow",
+    "subcategory": "vulnerability_style",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.6,
+      "sensitivity": 0.8,
+      "warmth": 0.7,
+      "structure": 0.2,
+      "novelty": 0.5,
+      "autonomy": 0.3,
+      "harmony": 0.6,
+      "symbolism": 0.8,
+      "groundedness": 0.1,
+      "social_energy": 0.4,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "idealism",
+      "imaginative_processing",
+      "boundary_softness",
+      "escapism"
+    ],
+    "opposite_traits": [
+      "practical_reasoning"
+    ],
+    "aesthetic_tags": [
+      "moonlight",
+      "violet",
+      "fog",
+      "garden"
+    ],
+    "reflection_tags": [
+      "attachment",
+      "vulnerability",
+      "trust"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_reactivity",
+    "category": "shadow",
+    "subcategory": "vulnerability_style",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.85,
+      "sensitivity": 0.8,
+      "warmth": 0.3,
+      "structure": 0.3,
+      "novelty": 0.4,
+      "autonomy": 0.7,
+      "harmony": 0.2,
+      "symbolism": 0.3,
+      "groundedness": 0.3,
+      "social_energy": 0.6,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "emotional_self_protection",
+      "emotional_reactivity",
+      "emotional_impatience",
+      "external_validation_seeking"
+    ],
+    "opposite_traits": [
+      "calm_under_pressure"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "shadow",
+      "metal"
+    ],
+    "reflection_tags": [
+      "identity",
+      "conflict",
+      "emotional_regulation"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "impulse_following",
+    "category": "shadow",
+    "subcategory": "emotional_regulation",
+    "dimensions": {
+      "depth": 0.2,
+      "intensity": 0.85,
+      "sensitivity": 0.5,
+      "warmth": 0.4,
+      "structure": 0.1,
+      "novelty": 0.85,
+      "autonomy": 0.7,
+      "harmony": 0.2,
+      "symbolism": 0.2,
+      "groundedness": 0.2,
+      "social_energy": 0.6,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "emotional_spontaneity",
+      "emotional_reactivity",
+      "thrill_seeking",
+      "risk_taking"
+    ],
+    "opposite_traits": [
+      "delayed_gratification",
+      "discipline_orientation",
+      "methodical_execution"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "flame",
+      "movement",
+      "wind"
+    ],
+    "reflection_tags": [
+      "emotional_regulation",
+      "change",
+      "self_expression"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inconsistency",
+    "category": "shadow",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.3,
+      "intensity": 0.5,
+      "sensitivity": 0.5,
+      "warmth": 0.4,
+      "structure": 0.1,
+      "novelty": 0.85,
+      "autonomy": 0.7,
+      "harmony": 0.2,
+      "symbolism": 0.3,
+      "groundedness": 0.2,
+      "social_energy": 0.5,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "emotional_restlessness",
+      "nonlinear_rhythm",
+      "novelty_seeking",
+      "impulse_following"
+    ],
+    "opposite_traits": [
+      "consistency",
+      "dependable_attachment",
+      "discipline_orientation"
+    ],
+    "aesthetic_tags": [
+      "wind",
+      "spark",
+      "movement",
+      "fog"
+    ],
+    "reflection_tags": [
+      "change",
+      "trust",
+      "emotional_regulation"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "independence_assertion",
+    "category": "shadow",
+    "subcategory": "conflict_style",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.8,
+      "sensitivity": 0.5,
+      "warmth": 0.3,
+      "structure": 0.2,
+      "novelty": 0.85,
+      "autonomy": 0.95,
+      "harmony": 0.1,
+      "symbolism": 0.4,
+      "groundedness": 0.3,
+      "social_energy": 0.5,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "nonconformity",
+      "provocative_interaction",
+      "unconventional_thinking",
+      "freedom_needing"
+    ],
+    "opposite_traits": [
+      "duty_orientation",
+      "consistency"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "shadow",
+      "metal",
+      "flame"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "identity",
+      "conflict"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "mental_fixation",
+    "category": "shadow",
+    "subcategory": "emotional_regulation",
+    "dimensions": {
+      "depth": 0.85,
+      "intensity": 0.95,
+      "sensitivity": 0.7,
+      "warmth": 0.3,
+      "structure": 0.6,
+      "novelty": 0.2,
+      "autonomy": 0.5,
+      "harmony": 0.1,
+      "symbolism": 0.5,
+      "groundedness": 0.3,
+      "social_energy": 0.3,
+      "transformative_energy": 0.5
+    },
+    "related_traits": [
+      "emotional_intensity",
+      "control_seeking",
+      "overthinking",
+      "attachment_protectiveness"
+    ],
+    "opposite_traits": [
+      "adaptability",
+      "calm_under_pressure"
+    ],
+    "aesthetic_tags": [
+      "shadow",
+      "flame",
+      "night",
+      "violet"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "nonlinear_rhythm",
+    "category": "shadow",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.4,
+      "intensity": 0.7,
+      "sensitivity": 0.5,
+      "warmth": 0.3,
+      "structure": 0.1,
+      "novelty": 0.9,
+      "autonomy": 0.85,
+      "harmony": 0.1,
+      "symbolism": 0.4,
+      "groundedness": 0.2,
+      "social_energy": 0.5,
+      "transformative_energy": 0.4
+    },
+    "related_traits": [
+      "inconsistency",
+      "emotional_restlessness",
+      "independence_assertion",
+      "commitment_hesitation"
+    ],
+    "opposite_traits": [
+      "consistency",
+      "dependable_attachment"
+    ],
+    "aesthetic_tags": [
+      "wind",
+      "spark",
+      "shadow",
+      "movement"
+    ],
+    "reflection_tags": [
+      "trust",
+      "change",
+      "freedom"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "overthinking",
+    "category": "shadow",
+    "subcategory": "cognitive_processing",
+    "dimensions": {
+      "depth": 0.8,
+      "intensity": 0.7,
+      "sensitivity": 0.8,
+      "warmth": 0.2,
+      "structure": 0.6,
+      "novelty": 0.4,
+      "autonomy": 0.6,
+      "harmony": 0.2,
+      "symbolism": 0.4,
+      "groundedness": 0.2,
+      "social_energy": 0.2,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "analytical_processing",
+      "introspective_processing",
+      "self_criticism",
+      "decision_hesitation"
+    ],
+    "opposite_traits": [
+      "decisive_action",
+      "present_moment_attention"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "fog",
+      "shadow",
+      "silver"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "emotional_regulation",
+      "growth"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "people_pleasing",
+    "category": "shadow",
+    "subcategory": "vulnerability_style",
+    "dimensions": {
+      "depth": 0.3,
+      "intensity": 0.5,
+      "sensitivity": 0.85,
+      "warmth": 0.7,
+      "structure": 0.4,
+      "novelty": 0.2,
+      "autonomy": 0.1,
+      "harmony": 0.85,
+      "symbolism": 0.2,
+      "groundedness": 0.3,
+      "social_energy": 0.7,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "external_validation_seeking",
+      "conflict_avoidance",
+      "self_sacrifice"
+    ],
+    "opposite_traits": [
+      "autonomy_needing",
+      "direct_communication",
+      "authenticity_drive"
+    ],
+    "aesthetic_tags": [
+      "soft_light",
+      "fog",
+      "mirror",
+      "velvet"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "identity",
+      "relationships"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "perfectionism",
+    "category": "shadow",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.7,
+      "sensitivity": 0.7,
+      "warmth": 0.2,
+      "structure": 0.95,
+      "novelty": 0.2,
+      "autonomy": 0.6,
+      "harmony": 0.3,
+      "symbolism": 0.3,
+      "groundedness": 0.5,
+      "social_energy": 0.3,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "self_criticism",
+      "excessive_structuring",
+      "discipline_orientation",
+      "idealism"
+    ],
+    "opposite_traits": [
+      "emotional_authenticity",
+      "adaptability"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "glass",
+      "paper",
+      "silver"
+    ],
+    "reflection_tags": [
+      "identity",
+      "growth",
+      "emotional_regulation"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "protective_skepticism",
+    "category": "shadow",
+    "subcategory": "vulnerability_style",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.6,
+      "sensitivity": 0.85,
+      "warmth": 0.1,
+      "structure": 0.5,
+      "novelty": 0.1,
+      "autonomy": 0.8,
+      "harmony": 0.1,
+      "symbolism": 0.4,
+      "groundedness": 0.4,
+      "social_energy": 0.3,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "emotional_self_protection",
+      "emotionally_guarded",
+      "selective_trust",
+      "attachment_protectiveness"
+    ],
+    "opposite_traits": [
+      "emotional_openness",
+      "nonjudgmental"
+    ],
+    "aesthetic_tags": [
+      "shadow",
+      "night",
+      "fog",
+      "metal"
+    ],
+    "reflection_tags": [
+      "trust",
+      "vulnerability",
+      "boundaries"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "protective_withdrawal",
+    "category": "shadow",
+    "subcategory": "vulnerability_style",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.5,
+      "sensitivity": 0.85,
+      "warmth": 0.3,
+      "structure": 0.3,
+      "novelty": 0.1,
+      "autonomy": 0.7,
+      "harmony": 0.3,
+      "symbolism": 0.4,
+      "groundedness": 0.3,
+      "social_energy": 0.1,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "emotional_avoidance",
+      "introspective_processing",
+      "emotional_overwhelm",
+      "conflict_avoidance"
+    ],
+    "opposite_traits": [
+      "emotional_expressiveness",
+      "socially_bold"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "shadow",
+      "night",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "vulnerability",
+      "emotional_regulation"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relational_overextension",
+    "category": "shadow",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.7,
+      "sensitivity": 0.85,
+      "warmth": 0.85,
+      "structure": 0.4,
+      "novelty": 0.2,
+      "autonomy": 0.1,
+      "harmony": 0.6,
+      "symbolism": 0.3,
+      "groundedness": 0.3,
+      "social_energy": 0.8,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "self_sacrifice",
+      "boundary_softness",
+      "caretaking",
+      "emotional_exhaustion"
+    ],
+    "opposite_traits": [
+      "emotional_independence",
+      "socially_independent"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "fog",
+      "shadow"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "relationships",
+      "attachment"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "resentment_buildup",
+    "category": "shadow",
+    "subcategory": "emotional_regulation",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.7,
+      "sensitivity": 0.8,
+      "warmth": 0.2,
+      "structure": 0.5,
+      "novelty": 0.1,
+      "autonomy": 0.4,
+      "harmony": 0.1,
+      "symbolism": 0.4,
+      "groundedness": 0.4,
+      "social_energy": 0.3,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "emotional_suppression",
+      "self_sacrifice",
+      "conflict_avoidance",
+      "people_pleasing"
+    ],
+    "opposite_traits": [
+      "emotional_authenticity",
+      "direct_communication"
+    ],
+    "aesthetic_tags": [
+      "shadow",
+      "fog",
+      "night",
+      "ash"
+    ],
+    "reflection_tags": [
+      "emotional_regulation",
+      "boundaries",
+      "conflict"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_criticism",
+    "category": "shadow",
+    "subcategory": "vulnerability_style",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.6,
+      "sensitivity": 0.85,
+      "warmth": 0.2,
+      "structure": 0.6,
+      "novelty": 0.1,
+      "autonomy": 0.5,
+      "harmony": 0.2,
+      "symbolism": 0.3,
+      "groundedness": 0.3,
+      "social_energy": 0.2,
+      "transformative_energy": 0.2
+    },
+    "related_traits": [
+      "perfectionism",
+      "overthinking",
+      "self_monitoring",
+      "introspective_processing"
+    ],
+    "opposite_traits": [
+      "nonjudgmental",
+      "emotional_authenticity"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "fog",
+      "shadow",
+      "ash"
+    ],
+    "reflection_tags": [
+      "identity",
+      "inner_world",
+      "growth"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_sacrifice",
+    "category": "shadow",
+    "subcategory": "attachment_style",
+    "dimensions": {
+      "depth": 0.7,
+      "intensity": 0.6,
+      "sensitivity": 0.85,
+      "warmth": 0.85,
+      "structure": 0.5,
+      "novelty": 0.1,
+      "autonomy": 0.05,
+      "harmony": 0.7,
+      "symbolism": 0.4,
+      "groundedness": 0.3,
+      "social_energy": 0.6,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "relational_overextension",
+      "people_pleasing",
+      "boundary_softness",
+      "caretaking"
+    ],
+    "opposite_traits": [
+      "autonomy_needing",
+      "emotional_independence"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "soft_light",
+      "shadow",
+      "velvet"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "attachment",
+      "identity"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "compatibility",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "structural_holding",
+    "category": "shadow",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.5,
+      "intensity": 0.5,
+      "sensitivity": 0.3,
+      "warmth": 0.2,
+      "structure": 0.95,
+      "novelty": 0.05,
+      "autonomy": 0.6,
+      "harmony": 0.3,
+      "symbolism": 0.2,
+      "groundedness": 0.8,
+      "social_energy": 0.3,
+      "transformative_energy": 0.05
+    },
+    "related_traits": [
+      "change_hesitation",
+      "excessive_structuring",
+      "consistency",
+      "discipline_orientation"
+    ],
+    "opposite_traits": [
+      "adaptability",
+      "reframing_ability",
+      "emotional_fluidity"
+    ],
+    "aesthetic_tags": [
+      "stone",
+      "metal",
+      "shadow",
+      "glass"
+    ],
+    "reflection_tags": [
+      "change",
+      "emotional_regulation",
+      "stability"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  },
+  {
+    "id": "work_overinvestment",
+    "category": "shadow",
+    "subcategory": "behavioral_style",
+    "dimensions": {
+      "depth": 0.6,
+      "intensity": 0.8,
+      "sensitivity": 0.4,
+      "warmth": 0.2,
+      "structure": 0.9,
+      "novelty": 0.2,
+      "autonomy": 0.7,
+      "harmony": 0.2,
+      "symbolism": 0.2,
+      "groundedness": 0.6,
+      "social_energy": 0.4,
+      "transformative_energy": 0.3
+    },
+    "related_traits": [
+      "achievement_drive",
+      "excessive_structuring",
+      "emotional_avoidance",
+      "discipline_orientation"
+    ],
+    "opposite_traits": [
+      "comfort_orientation",
+      "emotional_authenticity"
+    ],
+    "aesthetic_tags": [
+      "metal",
+      "shadow",
+      "stone",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "identity",
+      "boundaries",
+      "emotional_regulation"
+    ],
+    "source_systems": [
+      "mbti",
+      "astrology",
+      "reflection"
+    ],
+    "premium": false
+  }
+]

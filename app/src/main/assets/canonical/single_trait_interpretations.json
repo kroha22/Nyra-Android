@@ -1,0 +1,5331 @@
+[
+  {
+    "id": "inner_world_emotional_depth",
+    "trait": "emotional_depth",
+    "area": "inner_world",
+    "priority": 96,
+    "title": {
+      "en": "Rooms Beneath the Feeling",
+      "ru": "Комнаты под чувством"
+    },
+    "short_summary": {
+      "en": "One feeling can hold several different truths at once.",
+      "ru": "Одно чувство может удерживать в себе сразу несколько разных правд."
+    },
+    "summary": {
+      "en": "What appears first is often only the surface layer. Beneath it are memory, longing, fear, tenderness, or a truth still looking for words. Some inner states take time because they open in stages.",
+      "ru": "То, что появляется первым, часто оказывается только верхним слоем. Под ним могут быть память, тоска, страх, нежность или правда, для которой ещё не нашлось слов. Некоторым внутренним состояниям нужно время, потому что они раскрываются постепенно."
+    },
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "emotional_processing",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "fog",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_deep_connection_seeking",
+    "trait": "deep_connection_seeking",
+    "area": "relationships",
+    "priority": 96,
+    "title": {
+      "en": "Meaningful Closeness",
+      "ru": "Значимая близость"
+    },
+    "short_summary": {
+      "en": "Surface-level closeness can start to feel empty surprisingly quickly.",
+      "ru": "Поверхностная близость может довольно быстро начать ощущаться пустой."
+    },
+    "summary": {
+      "en": "Closeness matters most when another person is actually with you, not just nearby. You usually sense the difference quickly: the half-listening answer, the distracted silence, the moment attention really lands.",
+      "ru": "Близость становится важнее всего, когда человек действительно с тобой, а не просто рядом. Разница обычно чувствуется быстро: ответ вполуха, рассеянная тишина, момент, когда внимание наконец становится настоящим."
+    },
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "velvet",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_emotional_loyalty",
+    "trait": "emotional_loyalty",
+    "area": "relationships",
+    "priority": 96,
+    "title": {
+      "en": "Loyal Emotional Holding",
+      "ru": "Верное эмоциональное удержание"
+    },
+    "short_summary": {
+      "en": "Some connections may continue feeling active long after the moment itself has passed.",
+      "ru": "Некоторые связи могут оставаться внутренне активными ещё долго после самого момента."
+    },
+    "summary": {
+      "en": "Once a bond matters, it remains present in memory, timing, and the way you keep returning to it. Loyalty shows less through declarations and more through continuity over time.",
+      "ru": "Когда связь становится важной, она остаётся в памяти, темпе и том, как ты к ней возвращаешься. Верность проявляется меньше через заявления и больше через непрерывность во времени."
+    },
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "velvet",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_emotional_warmth",
+    "trait": "emotional_warmth",
+    "area": "relationships",
+    "priority": 96,
+    "title": {
+      "en": "Warmth That Reaches",
+      "ru": "Тепло, которое доходит"
+    },
+    "short_summary": {
+      "en": "Care may reveal itself through subtle consistency rather than dramatic expression.",
+      "ru": "Забота может проявляться через тонкую последовательность, а не через драматичное выражение."
+    },
+    "summary": {
+      "en": "Warmth here is usually quiet rather than intense: the softened tone, the well-timed message, the small sign that someone is still reachable.",
+      "ru": "Тепло здесь обычно тихое, а не интенсивное: смягчённый тон, вовремя отправленное сообщение, маленький знак, что человек всё ещё доступен."
+    },
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "velvet",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_empathic_responsiveness",
+    "trait": "empathic_responsiveness",
+    "area": "relationships",
+    "priority": 96,
+    "title": {
+      "en": "Attuned Response",
+      "ru": "Настроенная отзывчивость"
+    },
+    "short_summary": {
+      "en": "Small relational shifts may be noticed quickly and answered with care.",
+      "ru": "Маленькие сдвиги в отношениях могут быстро замечаться и встречаться заботой."
+    },
+    "summary": {
+      "en": "You may respond to relational shifts almost immediately: a change in tone, a pause, a brightness leaving someone’s face. Care often begins with noticing.",
+      "ru": "Ты можешь почти сразу откликаться на изменения в отношениях: тон, паузу, исчезнувшую яркость на лице. Забота часто начинается с замечания."
+    },
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "velvet",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_selective_trust",
+    "trait": "selective_trust",
+    "area": "relationships",
+    "priority": 96,
+    "title": {
+      "en": "Trust Before Closeness",
+      "ru": "Доверие до близости"
+    },
+    "short_summary": {
+      "en": "Trust usually builds over time rather than appearing quickly.",
+      "ru": "Доверие обычно появляется постепенно, а не сразу."
+    },
+    "summary": {
+      "en": "Repeated consistency may matter more than intensity. Tone, timing, and follow-through slowly decide whether guarded parts can stop preparing for disappointment.",
+      "ru": "Повторяющаяся надёжность может значить больше, чем интенсивность. Тон, темп и действия постепенно решают, смогут ли защищённые части перестать готовиться к разочарованию."
+    },
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "velvet",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_emotional_sensitivity",
+    "trait": "emotional_sensitivity",
+    "area": "inner_world",
+    "priority": 95,
+    "title": {
+      "en": "A Weather of Small Signals",
+      "ru": "Погода маленьких сигналов"
+    },
+    "short_summary": {
+      "en": "Subtle changes may reach you before they become obvious.",
+      "ru": "Тонкие изменения могут доходить до тебя раньше, чем становятся очевидными."
+    },
+    "summary": {
+      "en": "A pause, a shift in light, a different tone in someone’s message: small things may enter with surprising force. Sensitivity gives the inner world high resolution, though it can also make ordinary days feel crowded.",
+      "ru": "Пауза, сдвиг света, другой тон в сообщении: маленькие вещи могут входить с неожиданной силой. Чувствительность даёт внутреннему миру высокое разрешение, хотя иногда делает обычные дни слишком плотными."
+    },
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "emotional_processing",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "fog",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_emotional_absorption",
+    "trait": "emotional_absorption",
+    "area": "inner_world",
+    "priority": 94,
+    "title": {
+      "en": "The Room Gets In",
+      "ru": "Комната проникает внутрь"
+    },
+    "short_summary": {
+      "en": "Tension in a room can register before anyone names it.",
+      "ru": "Напряжение в комнате может считываться раньше, чем кто-то его назовёт."
+    },
+    "summary": {
+      "en": "Voices, silence, weather, and other people’s strain can follow you into the day. After a while, even small comments may sound sharper than intended.",
+      "ru": "Голоса, тишина, погода и чужое напряжение могут уходить вместе с тобой в день. Через какое-то время даже небольшие замечания начинают звучать резче, чем должны были."
+    },
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "emotional_processing",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "fog",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_authenticity_drive",
+    "trait": "authenticity_drive",
+    "area": "identity",
+    "priority": 93,
+    "title": {
+      "en": "Identity Without Costume",
+      "ru": "Идентичность без костюма"
+    },
+    "short_summary": {
+      "en": "A false fit can feel heavier than being difficult to explain.",
+      "ru": "Чужая посадка может ощущаться тяжелее, чем трудность быть объяснённым."
+    },
+    "summary": {
+      "en": "Authenticity here is not a declaration. It is the quiet discomfort that appears when your life starts sounding like someone else wrote it, and the relief that follows when a choice finally uses your own voice.",
+      "ru": "Подлинность здесь не похожа на громкое заявление. Это тихой дискомфорт, который появляется, когда жизнь начинает звучать так, будто её написал кто-то другой, и облегчение, когда выбор наконец говорит твоим собственным голосом."
+    },
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "moonlight",
+      "paper",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_emotional_authenticity",
+    "trait": "emotional_authenticity",
+    "area": "identity",
+    "priority": 92,
+    "title": {
+      "en": "Feeling as Evidence",
+      "ru": "Чувство как доказательство"
+    },
+    "short_summary": {
+      "en": "The emotional truth of a moment may matter before it becomes explainable.",
+      "ru": "Эмоциональная правда момента может быть важной ещё до объяснения."
+    },
+    "summary": {
+      "en": "You may recognize yourself most clearly in the feelings you cannot easily edit. A reaction, a hesitation, a sudden softness can reveal the shape of the self before the mind has organized a story around it.",
+      "ru": "Ты можешь яснее всего узнавать себя в чувствах, которые трудно отредактировать. Реакция, заминка, внезапная мягкость могут показывать форму «я» раньше, чем разум успеет собрать вокруг этого историю."
+    },
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "moonlight",
+      "paper",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_self_expression",
+    "trait": "self_expression",
+    "area": "identity",
+    "priority": 92,
+    "title": {
+      "en": "A Voice Taking Form",
+      "ru": "Голос, обретающий форму"
+    },
+    "short_summary": {
+      "en": "The self becomes easier to recognize when it leaves visible traces.",
+      "ru": "Себя легче узнать, когда остаются видимые следы."
+    },
+    "summary": {
+      "en": "Expression may begin in small visible choices: the sentence you do not smooth over, the color you keep choosing, the thing you make because silence feels too narrow. Identity becomes less abstract when it leaves a mark.",
+      "ru": "Самовыражение может начинаться с маленьких видимых выборов: фразы, которую ты не сглаживаешь, цвета, к которому возвращаешься, вещи, которую создаёшь, потому что молчание слишком тесно. Идентичность становится менее абстрактной, когда оставляет след."
+    },
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "moonlight",
+      "paper",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_overthinking",
+    "trait": "overthinking",
+    "area": "inner_world",
+    "priority": 92,
+    "title": {
+      "en": "The Mind Returning Again",
+      "ru": "Разум, который возвращается снова"
+    },
+    "short_summary": {
+      "en": "A thought may keep circling because something in it still feels unresolved.",
+      "ru": "Мысль может кружить потому, что в ней всё ещё есть нерешённое."
+    },
+    "summary": {
+      "en": "The loop is not always empty. Sometimes the mind returns because one detail refuses to settle, or because feeling has disguised itself as analysis. The difficulty is knowing when repetition is discovery and when it has become a room with no door.",
+      "ru": "Петля не всегда пуста. Иногда разум возвращается, потому что одна деталь не оседает, или потому что чувство замаскировалось под анализ. Трудность в том, чтобы понять, где повторение становится открытием, а где — комнатой без двери."
+    },
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "emotional_processing",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "fog",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "healing_emotional_exhaustion",
+    "trait": "emotional_exhaustion",
+    "area": "healing",
+    "priority": 91,
+    "title": {
+      "en": "Spent Emotional Reserves",
+      "ru": "Истощённые эмоциональные запасы"
+    },
+    "short_summary": {
+      "en": "Stress may stay unnoticed until even small requests begin to feel heavy.",
+      "ru": "Напряжение может долго оставаться незаметным, пока даже мелкие просьбы не начинают ощущаться тяжёлыми."
+    },
+    "summary": {
+      "en": "Emotional depletion does not always announce itself dramatically. It may show up when a simple message, decision, or favor suddenly feels like more than the system can carry.",
+      "ru": "Эмоциональное истощение не всегда заявляет о себе драматично. Оно может проявиться, когда простое сообщение, решение или просьба внезапно ощущаются тяжелее, чем система способна нести."
+    },
+    "reflection_tags": [
+      "healing",
+      "vulnerability",
+      "self_compassion",
+      "boundaries"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "soft_light",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "healing_emotional_overwhelm",
+    "trait": "emotional_overwhelm",
+    "area": "healing",
+    "priority": 91,
+    "title": {
+      "en": "Too Much at Once",
+      "ru": "Слишком многое одновременно"
+    },
+    "short_summary": {
+      "en": "The nervous system may sometimes ask for less before it can ask for more.",
+      "ru": "Нервная система иногда может сначала просить меньшего, прежде чем снова быть готовой к большему."
+    },
+    "summary": {
+      "en": "Overwhelm often comes from carrying too many signals at once. Relief can begin when the day becomes smaller: fewer inputs, slower timing, a room where the body can breathe again.",
+      "ru": "Переполнение часто возникает от слишком большого количества сигналов одновременно. Облегчение может начинаться там, где день становится меньше: меньше входящего, медленнее темп, комната, в которой тело снова может дышать."
+    },
+    "reflection_tags": [
+      "healing",
+      "vulnerability",
+      "self_compassion",
+      "boundaries"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "soft_light",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "healing_emotionally_grounded",
+    "trait": "emotionally_grounded",
+    "area": "healing",
+    "priority": 90,
+    "title": {
+      "en": "A Calmer Inner Floor",
+      "ru": "Более спокойная внутренняя опора"
+    },
+    "short_summary": {
+      "en": "Recovery begins to feel possible when there is somewhere inside to land.",
+      "ru": "Восстановление начинает казаться возможным, когда внутри есть куда приземлиться."
+    },
+    "summary": {
+      "en": "Grounding may appear in ordinary ways: a slower breath, a familiar room, a sentence that does not rush to fix anything. The inner world begins to repair when it has a floor again.",
+      "ru": "Заземление может появляться обычными способами: более медленное дыхание, знакомая комната, предложение, которое не спешит ничего чинить. Внутренний мир начинает восстанавливаться, когда у него снова есть пол."
+    },
+    "reflection_tags": [
+      "healing",
+      "vulnerability",
+      "self_compassion",
+      "boundaries"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "soft_light",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "healing_self_criticism",
+    "trait": "self_criticism",
+    "area": "healing",
+    "priority": 90,
+    "title": {
+      "en": "The Strict Inner Voice",
+      "ru": "Строгий внутренний голос"
+    },
+    "short_summary": {
+      "en": "The strict inner voice may be protecting something tender.",
+      "ru": "Строгий внутренний голос может защищать что-то уязвимое."
+    },
+    "summary": {
+      "en": "The inner voice often grows stricter around something tender. Healing starts by hearing the criticism without letting it become the whole truth.",
+      "ru": "Внутренний голос часто становится строже вокруг чего-то уязвимого. Восстановление начинается с того, чтобы услышать критику, не позволяя ей стать всей правдой."
+    },
+    "reflection_tags": [
+      "healing",
+      "vulnerability",
+      "self_compassion",
+      "boundaries"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "soft_light",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_identity_sensitivity",
+    "trait": "identity_sensitivity",
+    "area": "identity",
+    "priority": 90,
+    "title": {
+      "en": "Easily Misnamed",
+      "ru": "Легко назвать неверно"
+    },
+    "short_summary": {
+      "en": "Being defined from the outside can touch something unusually tender.",
+      "ru": "Когда тебя определяют извне, это может задевать что-то особенно чувствительное."
+    },
+    "summary": {
+      "en": "A label, role, or expectation can land wrong before you know how to explain why. The reaction is not always defensiveness. Sometimes the self is simply refusing an inaccurate description.",
+      "ru": "Ярлык, роль или ожидание могут лечь неправильно ещё до того, как ты понимаешь почему. Это не всегда защита. Иногда личность просто отказывается от неточного описания."
+    },
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "moonlight",
+      "paper",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_affectionate_presence",
+    "trait": "affectionate_presence",
+    "area": "relationships",
+    "priority": 90,
+    "title": {
+      "en": "Affection in Small Details",
+      "ru": "Нежность в мелочах"
+    },
+    "short_summary": {
+      "en": "Tenderness often works best when it is simple and unforced.",
+      "ru": "Нежность часто сильнее всего там, где она простая и ненавязчивая."
+    },
+    "summary": {
+      "en": "Affection arrives in small physical details: a softened voice, a hand near yours, being remembered without asking. Its force is not in display. The body recognizes welcome before the mind explains it.",
+      "ru": "Нежность приходит через маленькие телесные детали: смягчившийся голос, руку рядом, память о тебе без просьбы. Её сила не в демонстрации. Тело узнаёт принятие раньше, чем ум успевает это объяснить."
+    },
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "velvet",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_attachment_protectiveness",
+    "trait": "attachment_protectiveness",
+    "area": "relationships",
+    "priority": 90,
+    "title": {
+      "en": "Protecting What Matters",
+      "ru": "Защита важной связи"
+    },
+    "short_summary": {
+      "en": "Important connections can be handled with quiet vigilance.",
+      "ru": "Важные связи могут оберегаться с тихой настороженностью."
+    },
+    "summary": {
+      "en": "When a bond matters, careless words or sudden distance register fast. Protectiveness is sometimes tenderness reacting before it can bear being handled casually.",
+      "ru": "Когда связь важна, небрежные слова или резкая дистанция замечаются быстро. Иногда защитность — это нежность, которая реагирует раньше, чем может вынести чужую неосторожность."
+    },
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "velvet",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_attachment_security_needing",
+    "trait": "attachment_security_needing",
+    "area": "relationships",
+    "priority": 90,
+    "title": {
+      "en": "A Place the Bond Can Rest",
+      "ru": "Место, где связь может отдыхать"
+    },
+    "short_summary": {
+      "en": "The bond needs reliability before deeper openness feels possible.",
+      "ru": "Связи нужна надёжность, прежде чем более глубокая открытость становится возможной."
+    },
+    "summary": {
+      "en": "Emotional safety may begin where constant interpretation is no longer necessary. Some guarded parts may finally relax once connection stops feeling temporary.",
+      "ru": "Эмоциональная безопасность может начинаться там, где больше не нужно постоянно интерпретировать происходящее. Некоторые защищённые части могут наконец расслабиться, когда связь перестаёт ощущаться временной."
+    },
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "velvet",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_emotional_openness",
+    "trait": "emotional_openness",
+    "area": "relationships",
+    "priority": 90,
+    "title": {
+      "en": "Open Without Performing",
+      "ru": "Открытость без роли"
+    },
+    "short_summary": {
+      "en": "Availability may show in unforced honesty rather than intensity.",
+      "ru": "Доступность может проявляться в ненасильственной честности, а не в интенсивности."
+    },
+    "summary": {
+      "en": "Letting people close often happens through ordinary truth: saying what affected you, admitting warmth, allowing uncertainty to show. No dramatic scene is needed. Just enough safety not to disappear.",
+      "ru": "Подпускать людей ближе часто получается через обычную правду: сказать, что тебя задело, признать тепло, позволить неопределённости быть видимой. Драматичная сцена не нужна. Нужна только безопасность, в которой не исчезаешь."
+    },
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "velvet",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_emotionally_guarded",
+    "trait": "emotionally_guarded",
+    "area": "relationships",
+    "priority": 90,
+    "title": {
+      "en": "The Door Opens Carefully",
+      "ru": "Дверь открывается осторожно"
+    },
+    "short_summary": {
+      "en": "Too much emotional closeness without pause may start to feel mentally crowded.",
+      "ru": "Слишком большая эмоциональная близость без пауз может начать ощущаться внутренне тесной."
+    },
+    "summary": {
+      "en": "Guardedness can appear when contact becomes faster than the inner system can sort. A pause, some privacy, or a clearer boundary may restore the ability to stay connected.",
+      "ru": "Закрытость может появляться, когда контакт движется быстрее, чем внутренняя система успевает разобраться. Пауза, приватность или более ясная граница могут вернуть способность оставаться в связи."
+    },
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "velvet",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_emotionally_selective",
+    "trait": "emotionally_selective",
+    "area": "relationships",
+    "priority": 90,
+    "title": {
+      "en": "Not Every Door Opens",
+      "ru": "Не каждая дверь открывается"
+    },
+    "short_summary": {
+      "en": "Your availability becomes precise rather than broad.",
+      "ru": "Твоя доступность становится точной, а не широкой."
+    },
+    "summary": {
+      "en": "You may not want many people close; you may want the right closeness to feel real. Selectivity protects the depth of a bond from being diluted by constant access.",
+      "ru": "Тебе может быть не нужно много близких людей; может быть нужна правильная близость, которая ощущается настоящей. Избирательность защищает глубину связи от размывания постоянной доступностью."
+    },
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "velvet",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_gentle_attachment",
+    "trait": "gentle_attachment",
+    "area": "relationships",
+    "priority": 90,
+    "title": {
+      "en": "Soft Holding",
+      "ru": "Мягкое удержание"
+    },
+    "short_summary": {
+      "en": "Attachment feels strongest when it is not forced to prove itself.",
+      "ru": "Привязанность сильнее всего там, где ей не нужно доказывать себя."
+    },
+    "summary": {
+      "en": "Some bonds grow in quiet gestures: returning, remembering, staying kind in the small places. The gentleness is not weakness; it is a way of letting closeness remain breathable.",
+      "ru": "Некоторые связи растут в тихих жестах: возвращаться, помнить, оставаться добрым в малом. Эта мягкость не слабость; это способ позволить близости дышать."
+    },
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "velvet",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_harmony_seeking",
+    "trait": "harmony_seeking",
+    "area": "relationships",
+    "priority": 90,
+    "title": {
+      "en": "Keeping the Room Soft",
+      "ru": "Сохранять мягкость пространства"
+    },
+    "short_summary": {
+      "en": "Long unresolved tension between people can grow hard to ignore.",
+      "ru": "Долгое неразрешённое напряжение между людьми может становиться почти невыносимым."
+    },
+    "summary": {
+      "en": "Coldness, strained politeness, or the thing no one names can stay active long after the conversation moves on. You may answer too quickly when you want the room to soften.",
+      "ru": "Холодность, натянутая вежливость или то, что никто не называет, могут оставаться активными уже после разговора. Иногда ты отвечаешь слишком быстро, когда хочешь, чтобы всё стало мягче."
+    },
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "velvet",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_partnership_orientation",
+    "trait": "partnership_orientation",
+    "area": "relationships",
+    "priority": 90,
+    "title": {
+      "en": "Life in Shared Rhythm",
+      "ru": "Жизнь в общем ритме"
+    },
+    "short_summary": {
+      "en": "Closeness becomes real when it enters daily life.",
+      "ru": "Близость становится настоящей, когда входит в повседневность."
+    },
+    "summary": {
+      "en": "Partnership shows up in rhythm: checking in, building around each other, making room in ordinary hours. The bond becomes visible in how life is arranged.",
+      "ru": "Партнёрство проявляется в ритме: сверяться, строить жизнь вокруг друг друга, оставлять место в обычных часах. Связь становится видимой в том, как устроена жизнь."
+    },
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "velvet",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_protective_care",
+    "trait": "protective_care",
+    "area": "relationships",
+    "priority": 90,
+    "title": {
+      "en": "Care With a Shield",
+      "ru": "Забота со щитом"
+    },
+    "short_summary": {
+      "en": "Love often arrives with an instinct to protect what feels fragile.",
+      "ru": "Любовь часто приходит вместе с инстинктом защищать хрупкое."
+    },
+    "summary": {
+      "en": "You may care by noticing risk early, holding the vulnerable part of a bond, or standing near what others might overlook. Protection can be tender when it does not become control.",
+      "ru": "Ты можешь заботиться, рано замечая риск, удерживая уязвимую часть связи или оставаясь рядом с тем, что другие могли бы не заметить. Защита может быть нежной, если не превращается в контроль."
+    },
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "velvet",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_relational_attunement",
+    "trait": "relational_attunement",
+    "area": "relationships",
+    "priority": 90,
+    "title": {
+      "en": "Changes in Tone",
+      "ru": "Смена тона"
+    },
+    "short_summary": {
+      "en": "You can hear changes in closeness before they are spoken.",
+      "ru": "Изменение близости может слышаться раньше, чем о нём говорят."
+    },
+    "summary": {
+      "en": "A pause, a delayed answer, a different kind of brightness: small details tell you what has shifted. This makes relationships vivid, though sometimes the signal comes in too loud.",
+      "ru": "Пауза, запоздалый ответ, другая яркость в голосе — мелочи показывают, что что-то изменилось. Это делает отношения живыми, хотя иногда сигнал звучит слишком громко."
+    },
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "velvet",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_relationship_nurturing",
+    "trait": "relationship_nurturing",
+    "area": "relationships",
+    "priority": 90,
+    "title": {
+      "en": "What Is Tended Stays Alive",
+      "ru": "То, о чём заботятся, остаётся живым"
+    },
+    "short_summary": {
+      "en": "Care is often shown through consistency, attention, and remembering details.",
+      "ru": "Забота часто проявляется через стабильность, внимание и память о мелочах."
+    },
+    "summary": {
+      "en": "A bond can stay alive because someone keeps tending it: checking in, repairing after distance, remembering what was said once in passing. Small maintenance can carry more love than a dramatic gesture.",
+      "ru": "Связь может оставаться живой, потому что кто-то продолжает её поддерживать: пишет, возвращается после дистанции, помнит сказанное однажды вскользь. Такая маленькая забота иногда несёт больше любви, чем яркий жест."
+    },
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "velvet",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "healing_calm_under_pressure",
+    "trait": "calm_under_pressure",
+    "area": "healing",
+    "priority": 89,
+    "title": {
+      "en": "Stillness Under Strain",
+      "ru": "Неподвижность под давлением"
+    },
+    "short_summary": {
+      "en": "A hard moment is easier to meet when the first reaction is not treated as the whole story.",
+      "ru": "С тяжёлым моментом легче быть, когда первая реакция не считается всей историей."
+    },
+    "summary": {
+      "en": "Composure can give you a few extra seconds: enough to hear your own voice, choose the next word, or keep the moment from taking over the whole body.",
+      "ru": "Собранность может дать несколько дополнительных секунд: услышать свой голос, выбрать следующее слово или не позволить моменту захватить всё тело."
+    },
+    "reflection_tags": [
+      "healing",
+      "vulnerability",
+      "self_compassion",
+      "boundaries"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "soft_light",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "healing_emotional_self_protection",
+    "trait": "emotional_self_protection",
+    "area": "healing",
+    "priority": 89,
+    "title": {
+      "en": "Protection Without Disappearing",
+      "ru": "Защита без исчезновения"
+    },
+    "short_summary": {
+      "en": "A guarded response may be trying to keep the self intact.",
+      "ru": "Защитная реакция может пытаться сохранить целостность «я»."
+    },
+    "summary": {
+      "en": "Self-protection is not always avoidance. Sometimes it is the inner system saying: not this fast, not this much, not without a safer place to stand.",
+      "ru": "Самозащита не всегда является избеганием. Иногда это внутренняя система говорит: не так быстро, не так много, не без более безопасной опоры."
+    },
+    "reflection_tags": [
+      "healing",
+      "vulnerability",
+      "self_compassion",
+      "boundaries"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "soft_light",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_mental_fixation",
+    "trait": "mental_fixation",
+    "area": "inner_world",
+    "priority": 89,
+    "title": {
+      "en": "Held by One Thread",
+      "ru": "Удержанность одной нитью"
+    },
+    "short_summary": {
+      "en": "Attention can attach to one detail and keep pulling you back.",
+      "ru": "Внимание может зацепиться за одну деталь и снова возвращать к ней."
+    },
+    "summary": {
+      "en": "A phrase, possibility, mistake, or unfinished exchange can turn strangely magnetic. It is frustrating, but the pull often points to something charged: repair, control, completion, or a truth that has not settled.",
+      "ru": "Фраза, возможность, ошибка или незавершённый разговор могут странно притягивать. Это утомляет, но притяжение часто указывает на что-то заряженное: исправление, контроль, завершение или правду, которая ещё не улеглась."
+    },
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "emotional_processing",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "fog",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_emotionally_grounded",
+    "trait": "emotionally_grounded",
+    "area": "stability",
+    "priority": 89,
+    "title": {
+      "en": "Steady Emotional Ground",
+      "ru": "Устойчивая эмоциональная опора"
+    },
+    "short_summary": {
+      "en": "A calm inner floor may help the day feel more holdable.",
+      "ru": "Спокойная внутренняя опора может делать день более выдерживаемым."
+    },
+    "summary": {
+      "en": "Stability may come through a calm inner floor: a way of returning to yourself before reacting to the room around you.",
+      "ru": "Устойчивость может приходить через спокойную внутреннюю опору: способ вернуться к себе до реакции на пространство вокруг."
+    },
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "grounding",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "warm_glow",
+      "horizon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_security_needing",
+    "trait": "security_needing",
+    "area": "stability",
+    "priority": 89,
+    "title": {
+      "en": "Somewhere the Body Believes",
+      "ru": "Место, которому верит тело"
+    },
+    "short_summary": {
+      "en": "Safety may need to be felt physically before the mind accepts it.",
+      "ru": "Безопасность может нуждаться в телесном ощущении раньше, чем разум её признает."
+    },
+    "summary": {
+      "en": "Security may appear through locks, routines, reliable people, enough money, or a room where nothing sudden is expected. The form matters less than the way the body finally stops bracing.",
+      "ru": "Безопасность может появляться через замки, ритмы, надёжных людей, достаточные деньги или комнату, где не ждут внезапного. Форма менее важна, чем момент, когда тело наконец перестаёт напрягаться."
+    },
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "grounding",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "warm_glow",
+      "horizon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_stability_seeking",
+    "trait": "stability_seeking",
+    "area": "stability",
+    "priority": 89,
+    "title": {
+      "en": "Seeking Reliable Ground",
+      "ru": "Поиск надёжной почвы"
+    },
+    "short_summary": {
+      "en": "Unexpected changes may stay mentally active long after the situation ends.",
+      "ru": "Неожиданные изменения могут ещё долго прокручиваться в голове."
+    },
+    "summary": {
+      "en": "Predictability can calm the mind because fewer things need to be reinterpreted at once. A reliable rhythm gives the day fewer sharp corners.",
+      "ru": "Предсказуемость может успокаивать разум, потому что меньше вещей нужно заново интерпретировать одновременно. Надёжный ритм даёт дню меньше острых углов."
+    },
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "grounding",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "warm_glow",
+      "horizon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_emotional_intensity",
+    "trait": "emotional_intensity",
+    "area": "inner_world",
+    "priority": 88,
+    "title": {
+      "en": "Brightness Under the Surface",
+      "ru": "Яркость под поверхностью"
+    },
+    "short_summary": {
+      "en": "Even quiet moments may carry a strong internal current.",
+      "ru": "Даже тихие моменты могут нести сильный внутренний ток."
+    },
+    "summary": {
+      "en": "You can look composed while feeling moves vividly underneath. Joy, hurt, desire, anger, and hope arrive with color and force. The inner weather is rarely flat.",
+      "ru": "Ты можешь выглядеть собранно, пока внутри ярко движется чувство. Радость, боль, желание, злость и надежда приходят с цветом и силой. Внутренняя погода редко бывает плоской."
+    },
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "emotional_processing",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "fog",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_emotional_privacy",
+    "trait": "emotional_privacy",
+    "area": "inner_world",
+    "priority": 88,
+    "title": {
+      "en": "A Room Before Speech",
+      "ru": "Комната до речи"
+    },
+    "short_summary": {
+      "en": "Some feelings may need privacy before they can meet another person.",
+      "ru": "Некоторым чувствам может быть нужна приватность до встречи с другим человеком."
+    },
+    "summary": {
+      "en": "Privacy here is not necessarily hiding. It may be the condition that lets an emotion become stable enough to share. First it needs a room, a name, a shape that will not collapse under someone else’s gaze.",
+      "ru": "Приватность здесь не обязательно про скрытность. Она может быть условием, в котором эмоция становится достаточно устойчивой, чтобы ею делиться. Сначала ей нужны комната, имя, форма, которая не рухнет под чужим взглядом."
+    },
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "emotional_processing",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "fog",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_imaginative_processing",
+    "trait": "imaginative_processing",
+    "area": "inner_world",
+    "priority": 88,
+    "title": {
+      "en": "Inner Cinema",
+      "ru": "Внутреннее кино"
+    },
+    "short_summary": {
+      "en": "Emotion may arrange itself through image, scene, and imagination.",
+      "ru": "Эмоция может складываться через образ, сцену и воображение."
+    },
+    "summary": {
+      "en": "Thought and feeling may blend into scenes, symbols, imagined conversations, or visual fragments. Imagination here is not escape; it is another way the mind makes experience understandable.",
+      "ru": "Мысли и чувства могут складываться в сцены, символы, воображаемые разговоры или зрительные фрагменты. Воображение здесь не уход, а ещё один способ, которым разум делает опыт понятным."
+    },
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "emotional_processing",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "fog",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_introspective_processing",
+    "trait": "introspective_processing",
+    "area": "inner_world",
+    "priority": 88,
+    "title": {
+      "en": "The Long Look Inward",
+      "ru": "Долгий взгляд внутрь"
+    },
+    "short_summary": {
+      "en": "Some feelings only become understandable hours later, in silence.",
+      "ru": "Некоторые чувства становятся понятны только спустя часы — в тишине."
+    },
+    "summary": {
+      "en": "Experience may need to echo for a while before its meaning appears. Later, away from the moment itself, the motive, the ache, or the small internal change becomes easier to see.",
+      "ru": "Опыту может быть нужно какое-то время звучать эхом, прежде чем проявится смысл. Позже, вдали от самого момента, мотив, боль или маленькое внутреннее изменение становится легче увидеть."
+    },
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "emotional_processing",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "fog",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_intuitive_processing",
+    "trait": "intuitive_processing",
+    "area": "inner_world",
+    "priority": 88,
+    "title": {
+      "en": "Knowing Before Explanation",
+      "ru": "Знание раньше объяснения"
+    },
+    "short_summary": {
+      "en": "Some truths are felt long before they can be explained.",
+      "ru": "Некоторые истины чувствуются задолго до того, как их удаётся объяснить."
+    },
+    "summary": {
+      "en": "Understanding can arrive all at once: a bodily hesitation, a sudden clarity, a sense that something is off. Meaning appears first. Language follows later, sometimes much later.",
+      "ru": "Понимание может прийти сразу целиком: телесной заминкой, внезапной ясностью, ощущением, что что-то не так. Смысл появляется первым. Язык приходит позже, иногда намного позже."
+    },
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "emotional_processing",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "fog",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_meaning_seeking",
+    "trait": "meaning_seeking",
+    "area": "inner_world",
+    "priority": 88,
+    "title": {
+      "en": "The Feeling Wants a Why",
+      "ru": "Чувству нужно «зачем»"
+    },
+    "short_summary": {
+      "en": "Mood becomes easier to hold when its meaning begins to appear.",
+      "ru": "Настроение легче удерживать, когда начинает проявляться его смысл."
+    },
+    "summary": {
+      "en": "A feeling may not satisfy you as a feeling alone. You may listen for what it points toward: a value, a loss, a hidden wish, a pattern in the life around it. Meaning gives the emotion a horizon.",
+      "ru": "Одного чувства как чувства тебе может быть недостаточно. Ты можешь прислушиваться к тому, куда оно указывает: к ценности, потере, скрытому желанию, паттерну жизни вокруг него. Смысл даёт эмоции горизонт."
+    },
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "emotional_processing",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "fog",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_pattern_sensitivity",
+    "trait": "pattern_sensitivity",
+    "area": "inner_world",
+    "priority": 88,
+    "title": {
+      "en": "The Thread Beneath Events",
+      "ru": "Нить под событиями"
+    },
+    "short_summary": {
+      "en": "Repetition and emotional structure may stand out quickly.",
+      "ru": "Повторения и эмоциональные структуры могут замечаться очень быстро."
+    },
+    "summary": {
+      "en": "You may naturally notice recurring emotional dynamics, hidden similarities, or repeating cycles between people and experiences. Sometimes the pattern becomes visible before the individual details fully do.",
+      "ru": "Ты можешь естественно замечать повторяющиеся эмоциональные динамики, скрытые сходства или циклы между людьми и событиями. Иногда паттерн становится видимым раньше, чем отдельные детали."
+    },
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "emotional_processing",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "fog",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_philosophical_thinking",
+    "trait": "philosophical_thinking",
+    "area": "inner_world",
+    "priority": 88,
+    "title": {
+      "en": "Large Questions in a Small Room",
+      "ru": "Большие вопросы в маленькой комнате"
+    },
+    "short_summary": {
+      "en": "Emotions may first appear as thoughts, patterns, or questions.",
+      "ru": "Эмоции могут сначала ощущаться как мысли, паттерны или вопросы."
+    },
+    "summary": {
+      "en": "A mood can widen into a larger question before it becomes a simple feeling. What happened may matter less than what it reveals about meaning, time, choice, or the kind of life being built.",
+      "ru": "Настроение может расширяться до большого вопроса раньше, чем становится простым чувством. Само событие может быть менее важным, чем то, что оно раскрывает о смысле, времени, выборе или жизни, которая строится."
+    },
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "emotional_processing",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "fog",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_psychological_insight",
+    "trait": "psychological_insight",
+    "area": "inner_world",
+    "priority": 88,
+    "title": {
+      "en": "Reading the Inner Pattern",
+      "ru": "Считывание внутреннего паттерна"
+    },
+    "short_summary": {
+      "en": "Feelings may get analyzed long before they are fully experienced.",
+      "ru": "Чувства могут начать анализироваться раньше, чем проживаться."
+    },
+    "summary": {
+      "en": "A reaction may quickly turn into a question: where did this come from, why now, what pattern is repeating? Insight can clarify, though sometimes the feeling still needs to be felt without being solved.",
+      "ru": "Реакция может быстро превращаться в вопрос: откуда это, почему сейчас, какой паттерн повторяется? Инсайт может прояснять, хотя иногда чувству всё равно нужно быть прожитым, а не решённым."
+    },
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "emotional_processing",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "fog",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_spiritual_sensitivity",
+    "trait": "spiritual_sensitivity",
+    "area": "inner_world",
+    "priority": 88,
+    "title": {
+      "en": "Meaning Without Proof",
+      "ru": "Смысл без доказательства"
+    },
+    "short_summary": {
+      "en": "Some moments feel significant before you know why.",
+      "ru": "Некоторые моменты кажутся значимыми раньше, чем ты понимаешь почему."
+    },
+    "summary": {
+      "en": "There are moments when silence, timing, beauty, or coincidence changes the inside of the day. It does not have to become certainty; the effect is already real.",
+      "ru": "Бывают моменты, когда тишина, время, красота или совпадение меняют внутренность дня. Этому не обязательно становиться уверенностью; эффект уже реален."
+    },
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "emotional_processing",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "fog",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "inner_world_symbolic_thinking",
+    "trait": "symbolic_thinking",
+    "area": "inner_world",
+    "priority": 88,
+    "title": {
+      "en": "Symbols Inside Feeling",
+      "ru": "Символы внутри чувства"
+    },
+    "short_summary": {
+      "en": "Images and metaphors often arrive before direct language does.",
+      "ru": "Образы и метафоры часто приходят раньше прямого языка."
+    },
+    "summary": {
+      "en": "Emotion may organize itself through image and metaphor before direct language arrives. A symbol can hold what would feel too crowded as explanation.",
+      "ru": "Эмоция может организовываться через образ и метафору раньше, чем приходит прямой язык. Символ может удержать то, что в объяснении было бы слишком тесным."
+    },
+    "reflection_tags": [
+      "inner_world",
+      "identity",
+      "emotional_processing",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "night",
+      "moonlight",
+      "fog",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_purpose_drive",
+    "trait": "purpose_drive",
+    "area": "purpose",
+    "priority": 88,
+    "title": {
+      "en": "A Direction With Weight",
+      "ru": "Направление с весом"
+    },
+    "short_summary": {
+      "en": "Effort may last longer when it belongs to a real why.",
+      "ru": "Усилие может держаться дольше, когда принадлежит настоящему «зачем»."
+    },
+    "summary": {
+      "en": "Purpose may not arrive as a grand mission. It may appear as the thing you keep caring about after distraction fades, the work that still has weight in the quiet.",
+      "ru": "Смысл может приходить не как большая миссия. Он может проявляться как то, о чём ты продолжаешь заботиться после исчезновения отвлечений, работа, которая сохраняет вес в тишине."
+    },
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "growth"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "gold",
+      "paper",
+      "violet"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_meaning_seeking",
+    "trait": "meaning_seeking",
+    "area": "purpose",
+    "priority": 87,
+    "title": {
+      "en": "Following the Deeper Reason",
+      "ru": "Следуя глубокой причине"
+    },
+    "short_summary": {
+      "en": "A path can feel empty when it cannot answer why it matters.",
+      "ru": "Путь может ощущаться пустым, если не отвечает, почему он важен."
+    },
+    "summary": {
+      "en": "You may be less moved by success than by significance. A direction begins to feel livable when it touches the deeper reason underneath the task.",
+      "ru": "Тебя может меньше двигать успех, чем значимость. Направление начинает ощущаться пригодным для жизни, когда касается глубокой причины под задачей."
+    },
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "growth"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "gold",
+      "paper",
+      "violet"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_consistency",
+    "trait": "consistency",
+    "area": "stability",
+    "priority": 87,
+    "title": {
+      "en": "Rhythm You Can Trust",
+      "ru": "Ритм, которому можно доверять"
+    },
+    "short_summary": {
+      "en": "Repeated steadiness can be more convincing than intensity.",
+      "ru": "Повторяющаяся устойчивость может убеждать сильнее, чем интенсивность."
+    },
+    "summary": {
+      "en": "Reliability leaves evidence. The returned message, the kept promise, the rhythm that does not collapse after one difficult day: these details make life feel less like guessing.",
+      "ru": "Надёжность оставляет доказательства. Ответное сообщение, сдержанное обещание, ритм, который не рушится после одного трудного дня, — такие детали делают жизнь менее похожей на угадывание."
+    },
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "grounding",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "warm_glow",
+      "horizon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_analytical_identity",
+    "trait": "analytical_identity",
+    "area": "identity",
+    "priority": 86,
+    "title": {
+      "en": "A Mind That Maps Itself",
+      "ru": "Ум, который изучает себя"
+    },
+    "short_summary": {
+      "en": "Understanding yourself may happen through noticing patterns, contradictions, and internal logic.",
+      "ru": "Понимание себя может происходить через замечание паттернов, противоречий и внутренней логики."
+    },
+    "summary": {
+      "en": "Self-understanding often begins with analysis before certainty. Motives, patterns, and inconsistencies get examined until something inside starts to feel structurally true.",
+      "ru": "Понимание себя часто начинается с анализа раньше, чем с уверенности. Мотивы, паттерны и внутренние противоречия исследуются до тех пор, пока что-то внутри не начинает ощущаться структурно правдивым."
+    },
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "moonlight",
+      "paper",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_expressive_identity",
+    "trait": "expressive_identity",
+    "area": "identity",
+    "priority": 86,
+    "title": {
+      "en": "Visible Inner Shape",
+      "ru": "Видимая внутренняя форма"
+    },
+    "short_summary": {
+      "en": "Expression can feel less like performance and more like recognition.",
+      "ru": "Самовыражение может ощущаться не как демонстрация, а как узнавание себя."
+    },
+    "summary": {
+      "en": "The way you speak, create, dress, or react may carry emotional fingerprints of who you are becoming. Expression can feel important when it allows the inner self to become more visible to itself.",
+      "ru": "То, как ты говоришь, создаёшь, одеваешься или реагируешь, может нести эмоциональные отпечатки того, кем ты становишься. Самовыражение может быть важным, когда помогает внутреннему «я» становиться более видимым для самого себя."
+    },
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "moonlight",
+      "paper",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_idealism",
+    "trait": "idealism",
+    "area": "identity",
+    "priority": 86,
+    "title": {
+      "en": "The Shape of What Could Be",
+      "ru": "Форма того, чем всё могло бы стать"
+    },
+    "short_summary": {
+      "en": "Reality is often compared with a more complete inner version of what could be.",
+      "ru": "Реальность часто сравнивается с более цельной внутренней версией того, чем всё могло бы стать."
+    },
+    "summary": {
+      "en": "Part of you keeps looking for experiences that feel fully lived: in love, work, art, or ordinary conversation. Idealism gets tiring when nothing reaches the imagined version, but it also keeps you from accepting a life that has gone flat.",
+      "ru": "Часть тебя продолжает искать переживания, которые ощущаются прожитыми полностью: в любви, работе, искусстве или обычном разговоре. Идеализм утомляет, когда ничто не дотягивает до воображаемой версии, но он же не даёт согласиться на жизнь, которая стала плоской."
+    },
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "moonlight",
+      "paper",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_identity_reactivity",
+    "trait": "identity_reactivity",
+    "area": "identity",
+    "priority": 86,
+    "title": {
+      "en": "When the Self Pushes Back",
+      "ru": "Когда «я» сопротивляется"
+    },
+    "short_summary": {
+      "en": "A wrong reading of you may create immediate inner friction.",
+      "ru": "Неверное прочтение тебя может сразу создавать внутреннее трение."
+    },
+    "summary": {
+      "en": "Certain moments make the self tense before you understand why: being simplified, spoken for, or placed inside a story that feels too small. The reaction may be sharp because the boundary is real.",
+      "ru": "В некоторые моменты «я» напрягается раньше, чем ты понимаешь почему: когда тебя упрощают, говорят за тебя или помещают в историю, которая слишком мала. Реакция может быть острой, потому что граница настоящая."
+    },
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "moonlight",
+      "paper",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_individuality_focus",
+    "trait": "individuality_focus",
+    "area": "identity",
+    "priority": 86,
+    "title": {
+      "en": "The Need for a Distinct Shape",
+      "ru": "Потребность в собственной форме"
+    },
+    "short_summary": {
+      "en": "Sameness can feel less peaceful than it looks from the outside.",
+      "ru": "Одинаковость может ощущаться менее спокойной, чем выглядит со стороны."
+    },
+    "summary": {
+      "en": "You may need to feel the outline of your own life clearly: not as performance, but as orientation. Borrowed forms can work for a while, until something in you asks for a more exact shape.",
+      "ru": "Тебе может быть нужно ясно чувствовать контур собственной жизни: не как демонстрацию, а как ориентацию. Заимствованные формы могут какое-то время работать, пока что-то внутри не попросит более точной формы."
+    },
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "moonlight",
+      "paper",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_nonconformity",
+    "trait": "nonconformity",
+    "area": "identity",
+    "priority": 86,
+    "title": {
+      "en": "Refusing the Wrong Shape",
+      "ru": "Отказ от чужой формы"
+    },
+    "short_summary": {
+      "en": "Certain expectations can feel unlivable from the inside.",
+      "ru": "Некоторые ожидания могут ощущаться внутренне невыносимыми."
+    },
+    "summary": {
+      "en": "External structures create tension when they ask you to become smaller, flatter, or easier to explain. Individuality here is not rebellion for display. It is protection of psychological integrity.",
+      "ru": "Внешние структуры создают напряжение, когда требуют стать меньше, проще или удобнее для объяснения. Индивидуальность здесь не бунт напоказ. Это защита внутренней целостности."
+    },
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "moonlight",
+      "paper",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_nurturing_identity",
+    "trait": "nurturing_identity",
+    "area": "identity",
+    "priority": 86,
+    "title": {
+      "en": "Care as Self-Recognition",
+      "ru": "Забота как узнавание себя"
+    },
+    "short_summary": {
+      "en": "You may understand yourself by noticing what you keep tending.",
+      "ru": "Ты можешь узнавать себя по тому, о чём продолжаешь заботиться."
+    },
+    "summary": {
+      "en": "Care becomes a mirror. The people, routines, unfinished tasks, and fragile things you keep returning to reveal more than a self-description would.",
+      "ru": "Забота становится зеркалом. Люди, привычки, незавершённые дела и хрупкие вещи, к которым ты снова возвращаешься, говорят о тебе больше, чем любое описание себя."
+    },
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "moonlight",
+      "paper",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_philosophical_orientation",
+    "trait": "philosophical_orientation",
+    "area": "identity",
+    "priority": 86,
+    "title": {
+      "en": "A Life That Needs a Why",
+      "ru": "Жизнь, которой нужно «зачем»"
+    },
+    "short_summary": {
+      "en": "Selfhood may be shaped by the questions you keep living inside.",
+      "ru": "Идентичность может формироваться вопросами, внутри которых ты продолжаешь жить."
+    },
+    "summary": {
+      "en": "For you, identity may not settle around simple categories. It may gather around principles, questions, contradictions, and the private attempt to understand what kind of life feels worthy of being lived.",
+      "ru": "Для тебя идентичность может не складываться вокруг простых категорий. Она может собираться вокруг принципов, вопросов, противоречий и личной попытки понять, какая жизнь ощущается достойной проживания."
+    },
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "moonlight",
+      "paper",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_relational_identity",
+    "trait": "relational_identity",
+    "area": "identity",
+    "priority": 86,
+    "title": {
+      "en": "Known in Connection",
+      "ru": "Узнавать себя в связи"
+    },
+    "short_summary": {
+      "en": "Some parts of you become visible only in relationship.",
+      "ru": "Некоторые части тебя становятся видимыми только в отношениях."
+    },
+    "summary": {
+      "en": "Connection may reveal identities that solitude cannot: the loyal self, the playful self, the self that softens when trusted. Other people do not define you here, but they may illuminate what already lives inside.",
+      "ru": "Связь может раскрывать такие части личности, которые одиночество не показывает: верную, игривую, смягчающуюся рядом с доверием. Другие люди здесь не определяют тебя, но могут освещать то, что уже живёт внутри."
+    },
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "moonlight",
+      "paper",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_spiritual_sensitivity",
+    "trait": "spiritual_sensitivity",
+    "area": "identity",
+    "priority": 86,
+    "title": {
+      "en": "Sensitivity to the Unsaid",
+      "ru": "Чувствительность к несказанному"
+    },
+    "short_summary": {
+      "en": "Identity may be influenced by subtle meanings that are hard to prove.",
+      "ru": "На идентичность могут влиять тонкие смыслы, которые трудно доказать."
+    },
+    "summary": {
+      "en": "You may recognize yourself through silence, coincidence, beauty, or the feeling that a moment carries more than its surface. The important part is not certainty. It is how subtle meaning changes your position inside the day.",
+      "ru": "Ты можешь узнавать себя через тишину, совпадение, красоту или ощущение, что момент несёт больше, чем видно. Важно не доказательство. Важно то, как тонкий смысл меняет твоё положение внутри дня."
+    },
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "moonlight",
+      "paper",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_transformative_identity",
+    "trait": "transformative_identity",
+    "area": "identity",
+    "priority": 86,
+    "title": {
+      "en": "A Self That Keeps Evolving",
+      "ru": "Личность, которая продолжает меняться"
+    },
+    "short_summary": {
+      "en": "Identity feels most alive where growth remains possible.",
+      "ru": "Идентичность живее всего там, где остаётся возможность роста."
+    },
+    "summary": {
+      "en": "Identity can feel unfinished and continuously reshaped by insight, loss, relationships, and meaning. Staying inwardly alive may matter more than staying consistent.",
+      "ru": "Идентичность может ощущаться незавершённой и постоянно меняющейся под влиянием инсайтов, потерь, отношений и смысла. Оставаться внутренне живым может быть важнее, чем оставаться неизменным."
+    },
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "moonlight",
+      "paper",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_value_centered_thinking",
+    "trait": "value_centered_thinking",
+    "area": "identity",
+    "priority": 86,
+    "title": {
+      "en": "Values With a Pulse",
+      "ru": "Ценности с живым пульсом"
+    },
+    "short_summary": {
+      "en": "Choices feel wrong when they lose contact with your deeper values.",
+      "ru": "Выборы ощущаются неверными, когда теряют связь с глубокими ценностями."
+    },
+    "summary": {
+      "en": "Decisions can feel wrong when they require too much inner compromise. Values show up in the moment you cannot keep explaining something away, even when the practical answer looks easier.",
+      "ru": "Решение может ощущаться неправильным, если требует слишком большого внутреннего компромисса. Ценности проявляются в тот момент, когда уже невозможно продолжать всё объяснять и сглаживать, даже если практичный ответ кажется проще."
+    },
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "mirror",
+      "moonlight",
+      "paper",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_conflict_avoidance",
+    "trait": "conflict_avoidance",
+    "area": "relationships",
+    "priority": 86,
+    "title": {
+      "en": "Softness Around Tension",
+      "ru": "Мягкость вокруг напряжения"
+    },
+    "short_summary": {
+      "en": "An argument can continue inside you long after the conversation ends.",
+      "ru": "Спор может продолжаться внутри ещё долго после разговора."
+    },
+    "summary": {
+      "en": "Even after the room goes quiet, the tone, unfinished sentence, or possible reply can keep moving through you. Avoiding conflict often starts as an attempt to stop that aftershock from growing.",
+      "ru": "Даже когда в комнате становится тихо, тон, незаконченная фраза или возможный ответ могут продолжать двигаться внутри. Избегание конфликта часто начинается как попытка не дать этому послевкусию разрастись."
+    },
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust",
+      "vulnerability"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "soft_light",
+      "velvet",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_belonging_needing",
+    "trait": "belonging_needing",
+    "area": "belonging",
+    "priority": 85,
+    "title": {
+      "en": "A Place That Does Not Ask You to Shrink",
+      "ru": "Место, где не нужно становиться меньше"
+    },
+    "short_summary": {
+      "en": "Belonging feels real when it leaves the self intact.",
+      "ru": "Принадлежность ощущается настоящей, когда «я» остаётся целым."
+    },
+    "summary": {
+      "en": "Belonging is felt in small permissions: speaking without editing every sentence, staying silent without being misread, returning without having to perform warmth on command.",
+      "ru": "Принадлежность чувствуется в маленьких разрешениях: говорить, не редактируя каждую фразу, молчать без страха быть неправильно понятым, возвращаться без необходимости изображать тепло по требованию."
+    },
+    "reflection_tags": [
+      "belonging",
+      "attachment",
+      "community",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "paper",
+      "soft_light"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_transformative_drive",
+    "trait": "transformative_drive",
+    "area": "purpose",
+    "priority": 85,
+    "title": {
+      "en": "Purpose That Changes You",
+      "ru": "Смысл, который меняет тебя"
+    },
+    "short_summary": {
+      "en": "The right direction may alter the person walking it.",
+      "ru": "Правильное направление может менять того, кто по нему идёт."
+    },
+    "summary": {
+      "en": "For you, purpose may be inseparable from becoming. The path matters when it changes your relationship to fear, honesty, desire, or the life you are willing to keep building.",
+      "ru": "Для тебя смысл может быть неотделим от становления. Путь важен, когда меняет отношение к страху, честности, желанию или жизни, которую ты готов продолжать строить."
+    },
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "growth"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "gold",
+      "paper",
+      "violet"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_value_centered_thinking",
+    "trait": "value_centered_thinking",
+    "area": "purpose",
+    "priority": 85,
+    "title": {
+      "en": "Values as Navigation",
+      "ru": "Ценности как навигация"
+    },
+    "short_summary": {
+      "en": "Choices become clearer when they answer to something inwardly nonnegotiable.",
+      "ru": "Выборы становятся яснее, когда отвечают чему-то внутренне непреложному."
+    },
+    "summary": {
+      "en": "Values may work less like rules and more like a private instrument. When a direction sounds wrong inside, you may know before the argument is complete.",
+      "ru": "Ценности могут работать не как правила, а как личный инструмент. Когда направление внутри звучит неверно, ты можешь знать это ещё до завершения аргумента."
+    },
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "growth"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "gold",
+      "paper",
+      "violet"
+    ],
+    "premium": false
+  },
+  {
+    "id": "growth_growth_orientation",
+    "trait": "growth_orientation",
+    "area": "growth",
+    "priority": 84,
+    "title": {
+      "en": "The Self Still Opening",
+      "ru": "«Я», которое ещё открывается"
+    },
+    "short_summary": {
+      "en": "Growth feels less like improvement and more like becoming available to life.",
+      "ru": "Рост ощущается не как улучшение, а как готовность быть доступнее жизни."
+    },
+    "summary": {
+      "en": "You may be drawn to the version of yourself that has not arrived yet. The current self is not wrong; something inside still has air, appetite, and unfinished motion.",
+      "ru": "Тебя может тянуть к версии себя, которая ещё не пришла. Нынешнее «я» не неверное; просто внутри ещё есть воздух, желание и незавершённое движение."
+    },
+    "reflection_tags": [
+      "growth",
+      "change",
+      "identity"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "horizon",
+      "green",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "growth_transformative_drive",
+    "trait": "transformative_drive",
+    "area": "growth",
+    "priority": 84,
+    "title": {
+      "en": "Changed by What Matters",
+      "ru": "Изменённый тем, что важно"
+    },
+    "short_summary": {
+      "en": "Some experiences may ask for a different inner shape.",
+      "ru": "Некоторые переживания могут просить другой внутренней формы."
+    },
+    "summary": {
+      "en": "Transformation may happen when an old way of surviving no longer fits the life you are trying to inhabit. The change is not decorative; it rearranges what feels possible.",
+      "ru": "Трансформация может происходить, когда старый способ выживать больше не подходит жизни, в которую ты пытаешься войти. Изменение не декоративно; оно перестраивает ощущение возможного."
+    },
+    "reflection_tags": [
+      "growth",
+      "change",
+      "identity"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "horizon",
+      "green",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "healing_boundary_softness",
+    "trait": "boundary_softness",
+    "area": "healing",
+    "priority": 84,
+    "title": {
+      "en": "Edges That Stay Open",
+      "ru": "Границы, которые остаются открытыми"
+    },
+    "short_summary": {
+      "en": "Other people’s emotional states may enter more deeply than intended.",
+      "ru": "Чужие эмоциональные состояния могут проникать глубже, чем хотелось бы."
+    },
+    "summary": {
+      "en": "Sensitivity may blur the line between empathy and emotional overexposure. Healing can involve learning that boundaries do not have to become cold in order to become visible.",
+      "ru": "Чувствительность может размывать границу между эмпатией и эмоциональной перегрузкой. Восстановление может включать понимание, что границы не обязаны становиться холодными, чтобы стать заметными."
+    },
+    "reflection_tags": [
+      "healing",
+      "vulnerability",
+      "self_compassion",
+      "boundaries"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "soft_light",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "healing_emotional_authenticity",
+    "trait": "emotional_authenticity",
+    "area": "healing",
+    "priority": 84,
+    "title": {
+      "en": "Honesty That Softens",
+      "ru": "Честность, которая смягчает"
+    },
+    "short_summary": {
+      "en": "Recovery gets easier when the real feeling is allowed into the room.",
+      "ru": "Восстановлению становится легче, когда настоящее чувство допускают в пространство."
+    },
+    "summary": {
+      "en": "A carefully named truth can change the whole inner climate. It does not solve everything. It simply stops the self from spending all its strength pretending the feeling is something else.",
+      "ru": "Осторожно названная правда может менять весь внутренний климат. Она не решает всё. Она просто перестаёт заставлять «я» тратить все силы на притворство, будто чувство является чем-то другим."
+    },
+    "reflection_tags": [
+      "healing",
+      "vulnerability",
+      "self_compassion",
+      "boundaries"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "soft_light",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "healing_emotional_avoidance",
+    "trait": "emotional_avoidance",
+    "area": "healing",
+    "priority": 84,
+    "title": {
+      "en": "Distance From Feeling",
+      "ru": "Дистанция от чувства"
+    },
+    "short_summary": {
+      "en": "Some feelings stay at a distance until they become impossible to ignore.",
+      "ru": "Некоторые чувства остаются на расстоянии, пока их уже невозможно игнорировать."
+    },
+    "summary": {
+      "en": "Avoidance can begin as a practical way to keep functioning. A feeling waits at the edge of the day, not gone, just postponed until there is enough room to meet it.",
+      "ru": "Избегание может начинаться как практический способ продолжать функционировать. Чувство ждёт на краю дня — не исчезнувшее, а отложенное до момента, когда появится достаточно места для встречи с ним."
+    },
+    "reflection_tags": [
+      "healing",
+      "vulnerability",
+      "self_compassion",
+      "boundaries"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "soft_light",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "healing_emotional_suppression",
+    "trait": "emotional_suppression",
+    "area": "healing",
+    "priority": 84,
+    "title": {
+      "en": "What Stays Held Back",
+      "ru": "То, что остаётся сдержанным"
+    },
+    "short_summary": {
+      "en": "Some feelings remain contained because release once felt unsafe.",
+      "ru": "Некоторые чувства остаются сдержанными, потому что высвобождение когда-то казалось небезопасным."
+    },
+    "summary": {
+      "en": "Suppression can look like control, but inside it may be a long practice of keeping things manageable. Healing may begin when one feeling is allowed to exist without flooding the whole room.",
+      "ru": "Подавление может выглядеть как контроль, но внутри быть долгой практикой удерживать всё переносимым. Восстановление может начаться, когда одному чувству разрешают существовать, не заливая всё пространство."
+    },
+    "reflection_tags": [
+      "healing",
+      "vulnerability",
+      "self_compassion",
+      "boundaries"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "soft_light",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "healing_introspective_processing",
+    "trait": "introspective_processing",
+    "area": "healing",
+    "priority": 84,
+    "title": {
+      "en": "Repair in the Afterward",
+      "ru": "Восстановление после события"
+    },
+    "short_summary": {
+      "en": "Understanding may come after the moment has passed.",
+      "ru": "Понимание может приходить уже после того, как момент прошёл."
+    },
+    "summary": {
+      "en": "You may heal by returning later: to the conversation, the reaction, the ache that made no sense at first. Reflection gives the experience another chance to be held differently.",
+      "ru": "Ты можешь восстанавливаться, возвращаясь позже: к разговору, реакции, боли, которая сначала не имела смысла. Рефлексия даёт опыту ещё один шанс быть удержанным иначе."
+    },
+    "reflection_tags": [
+      "healing",
+      "vulnerability",
+      "self_compassion",
+      "boundaries"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "soft_light",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "healing_nonjudgmental",
+    "trait": "nonjudgmental",
+    "area": "healing",
+    "priority": 84,
+    "title": {
+      "en": "Staying Beside Yourself",
+      "ru": "Оставаться рядом с собой"
+    },
+    "short_summary": {
+      "en": "A room feels safe when it does not rush to correct you.",
+      "ru": "Комната ощущается безопасной, когда не спешит тебя исправлять."
+    },
+    "summary": {
+      "en": "Not every emotion needs to be solved in order to be held with care. Sometimes repair begins when the inner world is allowed to exist without immediately being judged, optimized, or explained away.",
+      "ru": "Не каждую эмоцию нужно «починить», чтобы с ней можно было обращаться бережно. Иногда восстановление начинается там, где внутреннему миру позволяют существовать без немедленного осуждения, оптимизации или обесценивания."
+    },
+    "reflection_tags": [
+      "healing",
+      "vulnerability",
+      "self_compassion",
+      "boundaries"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "soft_light",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "healing_protective_withdrawal",
+    "trait": "protective_withdrawal",
+    "area": "healing",
+    "priority": 84,
+    "title": {
+      "en": "Stepping Back to Breathe",
+      "ru": "Шаг назад, чтобы дышать"
+    },
+    "short_summary": {
+      "en": "Too much emotional noise can suddenly make solitude feel necessary.",
+      "ru": "Иногда эмоционального шума становится так много, что одиночество начинает ощущаться необходимым."
+    },
+    "summary": {
+      "en": "Distance can be less about rejection than about reducing the number of signals at once. A quieter room may be the first place where the body stops bracing.",
+      "ru": "Дистанция может быть не про отвержение, а про уменьшение количества сигналов одновременно. Более тихая комната может стать первым местом, где тело перестаёт напрягаться."
+    },
+    "reflection_tags": [
+      "healing",
+      "vulnerability",
+      "self_compassion",
+      "boundaries"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "soft_light",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "healing_psychological_insight",
+    "trait": "psychological_insight",
+    "area": "healing",
+    "priority": 84,
+    "title": {
+      "en": "The Tender Pattern",
+      "ru": "Уязвимый паттерн"
+    },
+    "short_summary": {
+      "en": "A painful reaction becomes clearer when its older shape is seen.",
+      "ru": "Болезненная реакция становится яснее, когда видна её старая форма."
+    },
+    "summary": {
+      "en": "Insight often arrives as recognition: this is not only about now. A present feeling can carry an old defense, a familiar fear, or a need that never learned to speak plainly.",
+      "ru": "Инсайт часто приходит как узнавание: это не только про сейчас. Настоящее чувство может нести старую защиту, знакомый страх или потребность, которая так и не научилась говорить прямо."
+    },
+    "reflection_tags": [
+      "healing",
+      "vulnerability",
+      "self_compassion",
+      "boundaries"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "soft_light",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "healing_resentment_buildup",
+    "trait": "resentment_buildup",
+    "area": "healing",
+    "priority": 84,
+    "title": {
+      "en": "The Hurt That Was Polite",
+      "ru": "Обида, которая была вежливой"
+    },
+    "short_summary": {
+      "en": "Unspoken pain may gather where care kept making room.",
+      "ru": "Невысказанная боль может собираться там, где забота всё время уступала место."
+    },
+    "summary": {
+      "en": "Resentment often grows after the first hurt was softened, explained away, or made convenient for someone else. It points to a boundary that arrived late.",
+      "ru": "Обида часто растёт после того, как первую боль смягчили, объяснили или сделали удобной для другого человека. Она указывает на границу, которая пришла поздно."
+    },
+    "reflection_tags": [
+      "healing",
+      "vulnerability",
+      "self_compassion",
+      "boundaries"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "soft_light",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "healing_self_sacrifice",
+    "trait": "self_sacrifice",
+    "area": "healing",
+    "priority": 84,
+    "title": {
+      "en": "Giving Past the Edge",
+      "ru": "Отдача за пределом"
+    },
+    "short_summary": {
+      "en": "Boundaries may blur when closeness feels too important to risk.",
+      "ru": "Границы могут размываться, когда близость ощущается слишком важной, чтобы ею рисковать."
+    },
+    "summary": {
+      "en": "Giving can continue long after the body has started asking for less. The difficult moment is noticing when care stops feeling warm and begins to feel like disappearance.",
+      "ru": "Отдача может продолжаться долго после того, как тело уже просит меньшего. Трудный момент — заметить, когда забота перестаёт быть тёплой и начинает ощущаться исчезновением."
+    },
+    "reflection_tags": [
+      "healing",
+      "vulnerability",
+      "self_compassion",
+      "boundaries"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "soft_light",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "healing_transformative_drive",
+    "trait": "transformative_drive",
+    "area": "healing",
+    "priority": 84,
+    "title": {
+      "en": "Repair That Changes the Shape",
+      "ru": "Восстановление, меняющее форму"
+    },
+    "short_summary": {
+      "en": "Some healing may not restore the old self; it may reveal a different one.",
+      "ru": "Некоторое восстановление может не возвращать прежнее «я», а открывать другое."
+    },
+    "summary": {
+      "en": "There are repairs that do not take you back. They change the structure: what you tolerate, what you name, what you no longer mistake for love, duty, or safety.",
+      "ru": "Есть восстановления, которые не возвращают назад. Они меняют структуру: что ты терпишь, что называешь, что больше не принимаешь за любовь, долг или безопасность."
+    },
+    "reflection_tags": [
+      "healing",
+      "vulnerability",
+      "self_compassion",
+      "boundaries"
+    ],
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "soft_light",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_nonjudgmental",
+    "trait": "nonjudgmental",
+    "area": "belonging",
+    "priority": 83,
+    "title": {
+      "en": "Allowed to Arrive Unfinished",
+      "ru": "Можно приходить незавершённым"
+    },
+    "short_summary": {
+      "en": "A room feels safe when it does not rush to correct you.",
+      "ru": "Комната ощущается безопасной, когда не спешит тебя исправлять."
+    },
+    "summary": {
+      "en": "Belonging deepens around people who can let a feeling exist before interpreting it. Their acceptance is not loud; it is the absence of a flinch when something human appears.",
+      "ru": "Принадлежность углубляется рядом с людьми, которые позволяют чувству существовать до интерпретации. Их принятие не громкое; это отсутствие вздрагивания, когда появляется что-то человеческое."
+    },
+    "reflection_tags": [
+      "belonging",
+      "attachment",
+      "community",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "paper",
+      "soft_light"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_relationship_nurturing",
+    "trait": "relationship_nurturing",
+    "area": "belonging",
+    "priority": 83,
+    "title": {
+      "en": "Keeping the Circle Alive",
+      "ru": "Сохранять круг живым"
+    },
+    "short_summary": {
+      "en": "Belonging may depend on small acts of maintenance.",
+      "ru": "Принадлежность может держаться на маленьких актах поддержания."
+    },
+    "summary": {
+      "en": "You can often tell whether a bond is being fed or simply assumed. Check-ins, repair, and remembered details make belonging feel less accidental.",
+      "ru": "Обычно чувствуется, питается ли связь или её просто считают само собой разумеющейся. Сообщения, восстановление после дистанции и память о деталях делают принадлежность менее случайной."
+    },
+    "reflection_tags": [
+      "belonging",
+      "attachment",
+      "community",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "paper",
+      "soft_light"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_creative_expression",
+    "trait": "creative_expression",
+    "area": "creativity",
+    "priority": 82,
+    "title": {
+      "en": "Making the Inner World Visible",
+      "ru": "Сделать внутренний мир видимым"
+    },
+    "short_summary": {
+      "en": "Creation may give feeling a shape it could not find in speech.",
+      "ru": "Творчество может давать чувству форму, которой оно не находило в речи."
+    },
+    "summary": {
+      "en": "A line, image, melody, room, or gesture can hold what explanation would flatten. Creative expression turns inner material into something the world can meet.",
+      "ru": "Строка, образ, мелодия, комната или жест могут удержать то, что объяснение сгладило бы. Творческое выражение превращает внутренний материал во что-то, с чем мир может встретиться."
+    },
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "violet",
+      "paper",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "growth_psychological_insight",
+    "trait": "psychological_insight",
+    "area": "growth",
+    "priority": 82,
+    "title": {
+      "en": "Seeing the Pattern Change",
+      "ru": "Видеть, как меняется паттерн"
+    },
+    "short_summary": {
+      "en": "Growth may begin when an old reaction is recognized in real time.",
+      "ru": "Рост может начинаться, когда старая реакция узнаётся прямо в моменте."
+    },
+    "summary": {
+      "en": "Insight becomes growth when it interrupts the familiar script: the defense appears, the fear speaks, and something in you has enough room to choose differently.",
+      "ru": "Инсайт становится ростом, когда прерывает знакомый сценарий: появляется защита, говорит страх, и внутри хватает места выбрать иначе."
+    },
+    "reflection_tags": [
+      "growth",
+      "change",
+      "identity"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "horizon",
+      "green",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "motivation_purpose_drive",
+    "trait": "purpose_drive",
+    "area": "motivation",
+    "priority": 82,
+    "title": {
+      "en": "Meaning Through Direction",
+      "ru": "Смысл через направление"
+    },
+    "short_summary": {
+      "en": "Effort may last longer when it has a recognizable why.",
+      "ru": "Усилие может держаться дольше, когда у него есть узнаваемое зачем."
+    },
+    "summary": {
+      "en": "Motivation may gather when effort has a recognizable why. You may move more steadily when the task feels connected to an inner direction, not just an external metric.",
+      "ru": "Мотивация может собираться, когда у усилия есть узнаваемое зачем. Тебе может быть легче двигаться устойчиво, когда задача связана с внутренним направлением, а не только с внешней метрикой."
+    },
+    "reflection_tags": [
+      "motivation",
+      "purpose",
+      "discipline"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "gold",
+      "stone"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_calm_under_pressure",
+    "trait": "calm_under_pressure",
+    "area": "stability",
+    "priority": 82,
+    "title": {
+      "en": "Calm in the Holding",
+      "ru": "Спокойствие в удержании"
+    },
+    "short_summary": {
+      "en": "A steady response can keep a hard moment from spreading everywhere.",
+      "ru": "Спокойная реакция может не дать тяжёлому моменту расползтись повсюду."
+    },
+    "summary": {
+      "en": "Strain can be felt without being allowed to take the whole room. A calm center gives the situation edges, so the next small choice becomes easier to find.",
+      "ru": "Напряжение можно чувствовать, не позволяя ему занять всю комнату. Спокойный центр задаёт ситуации границы, и следующий маленький выбор становится легче найти."
+    },
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "grounding",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "warm_glow",
+      "horizon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_comfort_orientation",
+    "trait": "comfort_orientation",
+    "area": "stability",
+    "priority": 82,
+    "title": {
+      "en": "Soft Predictability",
+      "ru": "Мягкая предсказуемость"
+    },
+    "short_summary": {
+      "en": "Familiar comforts may help the inner world unclench.",
+      "ru": "Знакомый комфорт может помогать внутреннему миру разжиматься."
+    },
+    "summary": {
+      "en": "Comfort may live in ordinary details: warm light, repeated meals, the same route home, a room arranged to be kind to the body. Stability sometimes begins with what feels gently known.",
+      "ru": "Комфорт может жить в обычных деталях: тёплом свете, повторяющейся еде, той же дороге домой, комнате, устроенной бережно к телу. Устойчивость иногда начинается с того, что мягко знакомо."
+    },
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "grounding",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "warm_glow",
+      "horizon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_delayed_gratification",
+    "trait": "delayed_gratification",
+    "area": "stability",
+    "priority": 82,
+    "title": {
+      "en": "The Patience of Building",
+      "ru": "Терпение строить"
+    },
+    "short_summary": {
+      "en": "Waiting gets easier when the future has emotional weight.",
+      "ru": "Ждать легче, когда у будущего есть эмоциональный вес."
+    },
+    "summary": {
+      "en": "Delayed gratification is not only discipline. It can be devotion to something not yet visible: a result, a relationship, a life that needs repeated ordinary choices to become real.",
+      "ru": "Отложенное вознаграждение — не только дисциплина. Это может быть верность чему-то ещё невидимому: результату, связи, жизни, которой нужны повторяющиеся обычные выборы, чтобы стать реальной."
+    },
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "grounding",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "warm_glow",
+      "horizon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_dependable_attachment",
+    "trait": "dependable_attachment",
+    "area": "stability",
+    "priority": 82,
+    "title": {
+      "en": "A Bond That Keeps Arriving",
+      "ru": "Связь, которая продолжает приходить"
+    },
+    "short_summary": {
+      "en": "Trust usually grows through repeated consistency rather than emotional intensity.",
+      "ru": "Доверие обычно растёт через повторяющуюся надёжность, а не через эмоциональную интенсивность."
+    },
+    "summary": {
+      "en": "A dependable bond proves itself in ordinary returns: the kept promise, the answered message, the person who does not vanish when the moment becomes inconvenient.",
+      "ru": "Надёжная связь подтверждается обычными возвращениями: сдержанным обещанием, отвеченным сообщением, человеком, который не исчезает, когда момент становится неудобным."
+    },
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "grounding",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "warm_glow",
+      "horizon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_discipline_orientation",
+    "trait": "discipline_orientation",
+    "area": "stability",
+    "priority": 82,
+    "title": {
+      "en": "Practice That Holds the Day",
+      "ru": "Практика, удерживающая день"
+    },
+    "short_summary": {
+      "en": "A repeated practice may create steadiness before motivation appears.",
+      "ru": "Повторяющаяся практика может создавать устойчивость раньше мотивации."
+    },
+    "summary": {
+      "en": "Discipline may be the rhythm that carries you when emotion is uneven. The task returns, the body remembers, and the day has one less thing to renegotiate.",
+      "ru": "Дисциплина может быть ритмом, который несёт тебя, когда эмоции неровные. Задача возвращается, тело помнит, и у дня становится на одну вещь меньше для постоянных переговоров."
+    },
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "grounding",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "warm_glow",
+      "horizon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_duty_orientation",
+    "trait": "duty_orientation",
+    "area": "stability",
+    "priority": 82,
+    "title": {
+      "en": "The Weight of What Is Kept",
+      "ru": "Вес того, что удержано"
+    },
+    "short_summary": {
+      "en": "Duty may stabilize when it is connected to care rather than fear.",
+      "ru": "Долг может стабилизировать, когда связан с заботой, а не со страхом."
+    },
+    "summary": {
+      "en": "Responsibility can turn into a kind of shelter: bills paid, plans kept, people not left guessing. The risk is staying useful so long that your own fatigue becomes invisible.",
+      "ru": "Ответственность может становиться укрытием: счета оплачены, планы сохранены, люди не остаются в неопределённости. Риск в том, что можно слишком долго оставаться полезным, пока собственная усталость не станет незаметной."
+    },
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "grounding",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "warm_glow",
+      "horizon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_emotional_loyalty",
+    "trait": "emotional_loyalty",
+    "area": "stability",
+    "priority": 82,
+    "title": {
+      "en": "Steadiness in Bonds",
+      "ru": "Устойчивость в связях"
+    },
+    "short_summary": {
+      "en": "Reliability becomes a quieter form of affection.",
+      "ru": "Надёжность становится более тихой формой заботы."
+    },
+    "summary": {
+      "en": "Loyalty can make stability relational: showing up again, remembering what matters, not letting distance erase care too easily. The bond becomes believable through repetition.",
+      "ru": "Верность может делать устойчивость отношенческой: снова приходить, помнить важное, не позволять дистанции слишком легко стирать заботу. Связь становится убедительной через повторение."
+    },
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "grounding",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "warm_glow",
+      "horizon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_endurance",
+    "trait": "endurance",
+    "area": "stability",
+    "priority": 82,
+    "title": {
+      "en": "The Quiet Capacity to Stay",
+      "ru": "Тихая способность оставаться"
+    },
+    "short_summary": {
+      "en": "Some strength appears only after the difficult stretch has lasted.",
+      "ru": "Некоторая сила проявляется только после того, как трудный отрезок длится долго."
+    },
+    "summary": {
+      "en": "Endurance may not feel heroic while it is happening. It can look like continuing gently, doing the next plain thing, refusing to let one hard season define the whole inner life.",
+      "ru": "Выносливость может не ощущаться героической, пока происходит. Она может выглядеть как мягкое продолжение, следующий простой шаг, отказ позволить одному трудному сезону определить всю внутреннюю жизнь."
+    },
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "grounding",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "warm_glow",
+      "horizon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_methodical_execution",
+    "trait": "methodical_execution",
+    "area": "stability",
+    "priority": 82,
+    "title": {
+      "en": "One Careful Step After Another",
+      "ru": "Один аккуратный шаг за другим"
+    },
+    "short_summary": {
+      "en": "Order may return through small completed actions.",
+      "ru": "Порядок может возвращаться через маленькие завершённые действия."
+    },
+    "summary": {
+      "en": "Methodical follow-through can quiet the mind because the unfinished field becomes less crowded. Each completed step gives the day a little more ground.",
+      "ru": "Методичное доведение может успокаивать разум, потому что поле незавершённого становится менее тесным. Каждый завершённый шаг даёт дню чуть больше почвы."
+    },
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "grounding",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "warm_glow",
+      "horizon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_order_orientation",
+    "trait": "order_orientation",
+    "area": "stability",
+    "priority": 82,
+    "title": {
+      "en": "A Room With Edges",
+      "ru": "Комната с краями"
+    },
+    "short_summary": {
+      "en": "Order may make emotion easier to locate.",
+      "ru": "Порядок может помогать находить эмоцию точнее."
+    },
+    "summary": {
+      "en": "When the outer world has too much disorder, the inner world may start carrying extra noise. A clear surface, a known place, a simple sequence can make feeling less diffuse.",
+      "ru": "Когда во внешнем мире слишком много беспорядка, внутренний мир может начинать нести лишний шум. Чистая поверхность, известное место, простая последовательность могут делать чувство менее расплывчатым."
+    },
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "grounding",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "warm_glow",
+      "horizon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_responsibility_focus",
+    "trait": "responsibility_focus",
+    "area": "stability",
+    "priority": 82,
+    "title": {
+      "en": "Held Commitments",
+      "ru": "Удержанные обязательства"
+    },
+    "short_summary": {
+      "en": "Reliability becomes a private measure of care.",
+      "ru": "Надёжность становится личной мерой заботы."
+    },
+    "summary": {
+      "en": "Responsibility may steady you when it is connected to something real: a person, a promise, a standard you would still respect in an empty room.",
+      "ru": "Ответственность может стабилизировать, когда связана с чем-то настоящим: человеком, обещанием, стандартом, который ты уважал бы даже в пустой комнате."
+    },
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "grounding",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "warm_glow",
+      "horizon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_structured_thinking",
+    "trait": "structured_thinking",
+    "area": "stability",
+    "priority": 82,
+    "title": {
+      "en": "Clarity With Edges",
+      "ru": "Ясность с краями"
+    },
+    "short_summary": {
+      "en": "Structure may give emotion somewhere to land.",
+      "ru": "Структура может давать эмоции место, куда приземлиться."
+    },
+    "summary": {
+      "en": "Structure lowers the number of things demanding attention at once. Lists, plans, and clear order do not remove feeling, but they stop the day from becoming one large unfinished thought.",
+      "ru": "Структура уменьшает количество вещей, которые одновременно требуют внимания. Списки, планы и ясный порядок не отменяют чувства, но не дают дню превратиться в одну большую незавершённую мысль."
+    },
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "grounding",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "earth",
+      "stone",
+      "warm_glow",
+      "horizon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_diplomatic_communication",
+    "trait": "diplomatic_communication",
+    "area": "communication",
+    "priority": 81,
+    "title": {
+      "en": "Careful Words, Real Meaning",
+      "ru": "Осторожные слова, настоящий смысл"
+    },
+    "short_summary": {
+      "en": "Tone may carry as much information as the sentence itself.",
+      "ru": "Тон может нести столько же информации, сколько само предложение."
+    },
+    "summary": {
+      "en": "You may choose words with an awareness of where they will land. Diplomacy here is not avoidance; it is the attempt to let truth arrive without unnecessary bruising.",
+      "ru": "Ты можешь выбирать слова, чувствуя, куда они попадут. Дипломатичность здесь не избегание, а попытка позволить правде прийти без лишних ушибов."
+    },
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "clarity"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "spark",
+      "paper",
+      "glass"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_direct_communication",
+    "trait": "direct_communication",
+    "area": "communication",
+    "priority": 81,
+    "title": {
+      "en": "The Relief of Saying It Clearly",
+      "ru": "Облегчение сказать ясно"
+    },
+    "short_summary": {
+      "en": "Heavy conversations can tire you out surprisingly quickly.",
+      "ru": "Тяжёлые разговоры могут утомлять неожиданно быстро."
+    },
+    "summary": {
+      "en": "Directness reduces the fog in a conversation. Clear language can feel like relief when there has been too much guessing, softening, or waiting for someone else to say the real thing.",
+      "ru": "Прямота убирает туман из разговора. Ясные слова могут приносить облегчение, когда слишком долго приходилось угадывать, смягчать или ждать, пока кто-то другой скажет главное."
+    },
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "clarity"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "spark",
+      "paper",
+      "glass"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_verbal_processing",
+    "trait": "verbal_processing",
+    "area": "communication",
+    "priority": 81,
+    "title": {
+      "en": "Thinking Out Loud",
+      "ru": "Думать вслух"
+    },
+    "short_summary": {
+      "en": "Words often arrive before the feeling is fully organized.",
+      "ru": "Слова часто приходят раньше, чем чувство полностью организовано."
+    },
+    "summary": {
+      "en": "Conversation may help you hear what you actually think. A sentence starts unfinished, changes shape midair, and only then reveals the emotional logic underneath it.",
+      "ru": "Разговор может помогать услышать, что ты на самом деле думаешь. Предложение начинается незавершённым, меняет форму в воздухе и только потом раскрывает эмоциональную логику под ним."
+    },
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "clarity"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "spark",
+      "paper",
+      "glass"
+    ],
+    "premium": false
+  },
+  {
+    "id": "motivation_achievement_drive",
+    "trait": "achievement_drive",
+    "area": "motivation",
+    "priority": 81,
+    "title": {
+      "en": "Progress That Shows",
+      "ru": "Прогресс, который виден"
+    },
+    "short_summary": {
+      "en": "Visible progress helps emotion settle into confidence.",
+      "ru": "Видимый прогресс помогает эмоции оседать в уверенность."
+    },
+    "summary": {
+      "en": "Achievement can soothe when it proves that effort is becoming real. The finished task, crossed-off line, or visible result makes inner strain less abstract.",
+      "ru": "Достижение может успокаивать, когда доказывает, что усилие становится реальным. Завершённая задача, зачёркнутая строка или видимый результат делают внутреннее напряжение менее абстрактным."
+    },
+    "reflection_tags": [
+      "motivation",
+      "purpose",
+      "discipline"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "gold",
+      "stone"
+    ],
+    "premium": false
+  },
+  {
+    "id": "motivation_mastery_drive",
+    "trait": "mastery_drive",
+    "area": "motivation",
+    "priority": 81,
+    "title": {
+      "en": "The Pull Toward Mastery",
+      "ru": "Тяга к мастерству"
+    },
+    "short_summary": {
+      "en": "Refinement can feel like becoming more trustworthy to yourself.",
+      "ru": "Уточнение может ощущаться как становление более надёжным для себя."
+    },
+    "summary": {
+      "en": "You may be drawn to the quiet satisfaction of getting more precise. Mastery often feels emotional here: less like status, more like becoming trustworthy to yourself.",
+      "ru": "Тебя может тянуть к тихому удовлетворению от большей точности. Мастерство здесь часто ощущается эмоционально: меньше как статус, больше как надёжность перед собой."
+    },
+    "reflection_tags": [
+      "motivation",
+      "purpose",
+      "discipline"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "gold",
+      "stone"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_emotional_openness",
+    "trait": "emotional_openness",
+    "area": "communication",
+    "priority": 80,
+    "title": {
+      "en": "Letting the Feeling Be Audible",
+      "ru": "Позволить чувству звучать"
+    },
+    "short_summary": {
+      "en": "Honesty may show first in tone, not confession.",
+      "ru": "Честность может сначала проявляться в тоне, а не в признании."
+    },
+    "summary": {
+      "en": "Openness can be as small as letting the voice carry a little more truth than usual. Not everything needs an explanation; sometimes the feeling becomes audible enough.",
+      "ru": "Открытость может быть такой маленькой, как позволить голосу нести чуть больше правды, чем обычно. Не всё нуждается в объяснении; иногда чувство становится достаточно слышимым."
+    },
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "clarity"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "spark",
+      "paper",
+      "glass"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_aesthetic_sensitivity",
+    "trait": "aesthetic_sensitivity",
+    "area": "creativity",
+    "priority": 80,
+    "title": {
+      "en": "Beauty as a Signal",
+      "ru": "Красота как сигнал"
+    },
+    "short_summary": {
+      "en": "Certain textures, colors, or sounds can change the whole inner temperature.",
+      "ru": "Некоторые текстуры, цвета или звуки могут менять всю внутреннюю температуру."
+    },
+    "summary": {
+      "en": "A color, texture, sound, or wrong detail can change the whole work for you. Taste is not just preference here; it is how the piece tells you whether it has become honest enough.",
+      "ru": "Цвет, фактура, звук или неверная деталь могут изменить для тебя всю работу. Вкус здесь не просто предпочтение; так работа показывает, стала ли она достаточно честной."
+    },
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "violet",
+      "paper",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_imaginative_processing",
+    "trait": "imaginative_processing",
+    "area": "creativity",
+    "priority": 80,
+    "title": {
+      "en": "Scenes Before Structure",
+      "ru": "Сцены до структуры"
+    },
+    "short_summary": {
+      "en": "Ideas often arrive first as image, scene, or imagined dialogue.",
+      "ru": "Идеи часто сначала приходят как образ, сцена или воображаемый диалог."
+    },
+    "summary": {
+      "en": "Imagination may show you the emotional truth before the practical outline appears. A scene begins to glow, and only later does it become something you can build.",
+      "ru": "Воображение может показывать эмоциональную правду раньше практического контура. Сцена начинает светиться, и только позже становится чем-то, что можно построить."
+    },
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "violet",
+      "paper",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "growth_change_hesitation",
+    "trait": "change_hesitation",
+    "area": "growth",
+    "priority": 80,
+    "title": {
+      "en": "The Pause Before Becoming",
+      "ru": "Пауза перед становлением"
+    },
+    "short_summary": {
+      "en": "Hesitation may hold information that speed would miss.",
+      "ru": "Осторожность может удерживать информацию, которую скорость пропустила бы."
+    },
+    "summary": {
+      "en": "Not all reluctance is resistance. Sometimes the self pauses because it knows a change will ask for more than logistics; it will ask for grief, trust, and a new sense of ground.",
+      "ru": "Не всякая нерешительность является сопротивлением. Иногда «я» делает паузу, потому что знает: изменение потребует не только действий, но и грусти, доверия и новой опоры."
+    },
+    "reflection_tags": [
+      "growth",
+      "change",
+      "identity"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "horizon",
+      "green",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "motivation_action_orientation",
+    "trait": "action_orientation",
+    "area": "motivation",
+    "priority": 80,
+    "title": {
+      "en": "Action Before Certainty",
+      "ru": "Действие раньше уверенности"
+    },
+    "short_summary": {
+      "en": "Doing the first thing can clarify what thinking alone could not.",
+      "ru": "Первое действие может прояснить то, что одними мыслями не решалось."
+    },
+    "summary": {
+      "en": "Action gives the mind something real to answer. The first step does not need to solve the whole path; it only needs to make contact with the direction.",
+      "ru": "Действие даёт уму что-то реальное, на что можно ответить. Первый шаг не обязан решать весь путь; ему достаточно создать контакт с направлением."
+    },
+    "reflection_tags": [
+      "motivation",
+      "purpose",
+      "discipline"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "gold",
+      "stone"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_authenticity_drive",
+    "trait": "authenticity_drive",
+    "area": "purpose",
+    "priority": 80,
+    "title": {
+      "en": "The Path That Sounds Like You",
+      "ru": "Путь, который звучит как ты"
+    },
+    "short_summary": {
+      "en": "A path may slowly lose meaning when it demands too much performance.",
+      "ru": "Путь может постепенно терять смысл, если требует слишком много игры роли."
+    },
+    "summary": {
+      "en": "Purpose feels real only when your inner voice stays recognizable. A path can be impressive and still feel wrong if success requires too much disguise.",
+      "ru": "Смысл ощущается настоящим только там, где внутренний голос остаётся узнаваемым. Путь может быть впечатляющим и всё равно неверным, если успех требует слишком сильной маскировки."
+    },
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "growth"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "gold",
+      "paper",
+      "violet"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_collective_growth",
+    "trait": "collective_growth",
+    "area": "purpose",
+    "priority": 80,
+    "title": {
+      "en": "Growing With Others",
+      "ru": "Расти вместе с другими"
+    },
+    "short_summary": {
+      "en": "Meaning may strengthen when change is shared rather than private.",
+      "ru": "Смысл может крепнуть, когда изменения разделяются, а не остаются личными."
+    },
+    "summary": {
+      "en": "Purpose appears where your own development touches someone else’s possibility. The direction grows larger without turning abstract.",
+      "ru": "Смысл появляется там, где твоё развитие касается чужой возможности. Направление становится больше, не превращаясь в абстракцию."
+    },
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "growth"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "gold",
+      "paper",
+      "violet"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_growth_orientation",
+    "trait": "growth_orientation",
+    "area": "purpose",
+    "priority": 80,
+    "title": {
+      "en": "The Life That Keeps Opening",
+      "ru": "Жизнь, которая продолжает открываться"
+    },
+    "short_summary": {
+      "en": "A living path needs room for revision.",
+      "ru": "Живому пути нужно место для пересмотра."
+    },
+    "summary": {
+      "en": "Purpose stays alive when it can change shape. Paths that only preserve the self you have already outgrown start to feel airless.",
+      "ru": "Смысл остаётся живым, когда может менять форму. Пути, которые только сохраняют версию тебя, уже перерастанную тобой, начинают ощущаться безвоздушными."
+    },
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "growth"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "gold",
+      "paper",
+      "violet"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_idealism",
+    "trait": "idealism",
+    "area": "purpose",
+    "priority": 80,
+    "title": {
+      "en": "Refusing a Smaller Future",
+      "ru": "Отказ от меньшего будущего"
+    },
+    "short_summary": {
+      "en": "The world as it is may be measured against what could be more alive.",
+      "ru": "Мир таким, как он есть, может сравниваться с тем, что могло бы быть живее."
+    },
+    "summary": {
+      "en": "Idealism may make purpose both luminous and tiring. You may keep sensing better forms of work, love, community, or beauty, even when reality moves more slowly than the vision.",
+      "ru": "Идеализм может делать смысл светлым и утомительным одновременно. Ты можешь продолжать чувствовать лучшие формы работы, любви, сообщества или красоты, даже когда реальность движется медленнее видения."
+    },
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "growth"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "gold",
+      "paper",
+      "violet"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_inspiration_orientation",
+    "trait": "inspiration_orientation",
+    "area": "purpose",
+    "priority": 80,
+    "title": {
+      "en": "The Spark That Carries Forward",
+      "ru": "Искра, которая ведёт дальше"
+    },
+    "short_summary": {
+      "en": "Meaning may appear where possibility becomes contagious.",
+      "ru": "Смысл может появляться там, где возможность становится заразительной."
+    },
+    "summary": {
+      "en": "Purpose often returns after a small spark: a conversation, a scene, a line that stays with you. The direction begins to matter again when it gives energy back instead of only demanding it.",
+      "ru": "Смысл часто возвращается после маленькой искры: разговора, сцены, строки, которая остаётся в памяти. Направление снова начинает иметь значение, когда оно возвращает энергию, а не только требует её."
+    },
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "growth"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "gold",
+      "paper",
+      "violet"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_mastery_drive",
+    "trait": "mastery_drive",
+    "area": "purpose",
+    "priority": 80,
+    "title": {
+      "en": "Devotion to Refinement",
+      "ru": "Верность уточнению"
+    },
+    "short_summary": {
+      "en": "Attention naturally moves toward what could work more smoothly.",
+      "ru": "Внимание естественным образом цепляется за то, что можно сделать лучше или спокойнее."
+    },
+    "summary": {
+      "en": "Mastery may live in repeated adjustment: one cleaner line, one quieter process, one skill becoming less effortful in the hands. Purpose gathers through refinement.",
+      "ru": "Мастерство может жить в повторяющейся настройке: более чистая линия, более спокойный процесс, навык, который в руках становится менее усилием. Смысл собирается через уточнение."
+    },
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "growth"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "gold",
+      "paper",
+      "violet"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_philosophical_orientation",
+    "trait": "philosophical_orientation",
+    "area": "purpose",
+    "priority": 80,
+    "title": {
+      "en": "A Reason Large Enough",
+      "ru": "Причина достаточной глубины"
+    },
+    "short_summary": {
+      "en": "A path may need to belong to a larger understanding of life.",
+      "ru": "Путь может нуждаться в принадлежности к более широкому пониманию жизни."
+    },
+    "summary": {
+      "en": "You may look for purpose that can survive questioning. It is not enough for a direction to work; it has to make sense inside the worldview you are slowly building.",
+      "ru": "Ты можешь искать смысл, который выдерживает вопросы. Недостаточно, чтобы направление работало; оно должно иметь смысл внутри мировоззрения, которое ты постепенно строишь."
+    },
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "growth"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "gold",
+      "paper",
+      "violet"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_service_orientation",
+    "trait": "service_orientation",
+    "area": "purpose",
+    "priority": 80,
+    "title": {
+      "en": "Usefulness With Heart",
+      "ru": "Польза с сердцем"
+    },
+    "short_summary": {
+      "en": "Meaning gathers where being useful still leaves you intact.",
+      "ru": "Смысл собирается там, где полезность не стирает тебя."
+    },
+    "summary": {
+      "en": "Service matters when it is not self-erasure: seeing what is needed, offering what is real, and noticing when help has started to cost more than it should.",
+      "ru": "Служение важно там, где оно не становится самостиранием: видеть, что нужно, давать настоящее и замечать, когда помощь начинает стоить дороже, чем должна."
+    },
+    "reflection_tags": [
+      "purpose",
+      "identity",
+      "growth"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "gold",
+      "paper",
+      "violet"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_emotional_authenticity",
+    "trait": "emotional_authenticity",
+    "area": "creativity",
+    "priority": 79,
+    "title": {
+      "en": "The Work Knows When It Is True",
+      "ru": "Работа знает, когда она правдива"
+    },
+    "short_summary": {
+      "en": "A creation feels wrong when it loses contact with the real feeling.",
+      "ru": "Созданное ощущается неверным, когда теряет связь с настоящим чувством."
+    },
+    "summary": {
+      "en": "The work usually changes once it stops trying to sound impressive. A rougher line, a strange choice, or an unpolished detail can carry the part that actually matters.",
+      "ru": "Работа обычно меняется, когда перестаёт пытаться звучать впечатляюще. Более грубая строка, странный выбор или несовершенная деталь могут нести именно то, что в ней важно."
+    },
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "violet",
+      "paper",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_collective_growth",
+    "trait": "collective_growth",
+    "area": "belonging",
+    "priority": 78,
+    "title": {
+      "en": "Growing in the Same Direction",
+      "ru": "Расти в одном направлении"
+    },
+    "short_summary": {
+      "en": "Shared development can make a group feel more alive than simple similarity.",
+      "ru": "Общее развитие может делать группу живее, чем простое сходство."
+    },
+    "summary": {
+      "en": "A community matters when people are not only gathered, but changing in view of one another. Effort, honesty, and repair become part of the shared air.",
+      "ru": "Сообщество важно там, где люди не просто собраны вместе, а меняются на виду друг у друга. Усилие, честность и восстановление становятся частью общего воздуха."
+    },
+    "reflection_tags": [
+      "belonging",
+      "attachment",
+      "community",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "paper",
+      "soft_light"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_collective_orientation",
+    "trait": "collective_orientation",
+    "area": "belonging",
+    "priority": 78,
+    "title": {
+      "en": "The Self Inside a Larger We",
+      "ru": "Себя внутри большего «мы»"
+    },
+    "short_summary": {
+      "en": "Group mood can influence your sense of emotional place.",
+      "ru": "Настроение группы может влиять на ощущение твоего эмоционального места."
+    },
+    "summary": {
+      "en": "You may read the mood of a collective almost physically: who is included, who tightens, where warmth gathers, where silence becomes heavy. Belonging is felt in the whole field, not only in one person’s approval.",
+      "ru": "Ты можешь почти телесно считывать настроение группы: кого включают, кто напрягается, где собирается тепло, где молчание тяжелеет. Принадлежность чувствуется во всём поле, а не только в одобрении одного человека."
+    },
+    "reflection_tags": [
+      "belonging",
+      "attachment",
+      "community",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "paper",
+      "soft_light"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_duty_orientation",
+    "trait": "duty_orientation",
+    "area": "belonging",
+    "priority": 78,
+    "title": {
+      "en": "Showing Up as Belonging",
+      "ru": "Присутствовать как принадлежать"
+    },
+    "short_summary": {
+      "en": "Responsibility becomes a quiet way of staying connected.",
+      "ru": "Ответственность становится тихим способом оставаться связанным."
+    },
+    "summary": {
+      "en": "You may show belonging by staying reliable: answering, helping, remembering, showing up when the situation stops being easy. The danger is being valued for steadiness while your own needs remain unread.",
+      "ru": "Принадлежность может выражаться через надёжность: отвечать, помогать, помнить, появляться, когда ситуация перестаёт быть лёгкой. Опасность в том, что тебя ценят за устойчивость, но твои собственные потребности остаются непрочитанными."
+    },
+    "reflection_tags": [
+      "belonging",
+      "attachment",
+      "community",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "paper",
+      "soft_light"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_friendship_based_bonding",
+    "trait": "friendship_based_bonding",
+    "area": "belonging",
+    "priority": 78,
+    "title": {
+      "en": "Closeness Without Ceremony",
+      "ru": "Близость без церемонии"
+    },
+    "short_summary": {
+      "en": "Friendship may make belonging feel natural rather than declared.",
+      "ru": "Дружба может делать принадлежность естественной, а не заявленной."
+    },
+    "summary": {
+      "en": "Friendship-based bonds often grow through repetition: familiar jokes, ordinary errands, the comfort of not having to make the connection dramatic. The closeness becomes believable because it keeps returning.",
+      "ru": "Связи на основе дружбы часто растут через повторение: знакомые шутки, обычные дела, комфорт от того, что близость не нужно драматизировать. Она становится убедительной, потому что продолжает возвращаться."
+    },
+    "reflection_tags": [
+      "belonging",
+      "attachment",
+      "community",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "paper",
+      "soft_light"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_harmony_seeking",
+    "trait": "harmony_seeking",
+    "area": "belonging",
+    "priority": 78,
+    "title": {
+      "en": "A Softer Room to Belong In",
+      "ru": "Более мягкая комната для принадлежности"
+    },
+    "short_summary": {
+      "en": "Discord in a group quickly becomes difficult to ignore.",
+      "ru": "Разлад в группе быстро становится трудно игнорировать."
+    },
+    "summary": {
+      "en": "Belonging works best where the room has enough ease. Not perfect agreement; just the sense that tension can be named without turning everything cold.",
+      "ru": "Принадлежность лучше всего работает там, где в комнате достаточно лёгкости. Не идеальное согласие; просто ощущение, что напряжение можно назвать, не превращая всё в холод."
+    },
+    "reflection_tags": [
+      "belonging",
+      "attachment",
+      "community",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "paper",
+      "soft_light"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_nurturing_identity",
+    "trait": "nurturing_identity",
+    "area": "belonging",
+    "priority": 78,
+    "title": {
+      "en": "Care Woven Into Place",
+      "ru": "Забота, вплетённая в место"
+    },
+    "short_summary": {
+      "en": "Belonging may grow where care is allowed to be ordinary.",
+      "ru": "Принадлежность может расти там, где заботе можно быть обычной."
+    },
+    "summary": {
+      "en": "Home can appear where people care for one another without making a performance of it. Warmth shows up in repeated details: food, reminders, patience, a chair left open.",
+      "ru": "Дом может появляться там, где люди заботятся друг о друге без спектакля. Тепло проявляется в повторяющихся деталях: еде, напоминаниях, терпении, оставленном свободным месте."
+    },
+    "reflection_tags": [
+      "belonging",
+      "attachment",
+      "community",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "paper",
+      "soft_light"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_people_focused",
+    "trait": "people_focused",
+    "area": "belonging",
+    "priority": 78,
+    "title": {
+      "en": "The Room Around People",
+      "ru": "Комната вокруг людей"
+    },
+    "short_summary": {
+      "en": "Other people’s mood can shape the entire day before you notice it.",
+      "ru": "Настроение других людей может незаметно определять атмосферу всего дня."
+    },
+    "summary": {
+      "en": "Other people’s moods can shape the day before you notice it happening. A cold reply, a softened face, someone going quiet at the table, these details change how safe the room feels.",
+      "ru": "Настроение других людей может менять день раньше, чем ты это замечаешь. Холодный ответ, смягчившееся лицо, человек, который затих за столом, такие детали меняют ощущение безопасности в комнате."
+    },
+    "reflection_tags": [
+      "belonging",
+      "attachment",
+      "community",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "paper",
+      "soft_light"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_relational_identity",
+    "trait": "relational_identity",
+    "area": "belonging",
+    "priority": 78,
+    "title": {
+      "en": "A Self Reflected by Others",
+      "ru": "«Я», отражённое другими"
+    },
+    "short_summary": {
+      "en": "Some identity becomes visible only inside shared life.",
+      "ru": "Часть идентичности становится видимой только внутри общей жизни."
+    },
+    "summary": {
+      "en": "Belonging may show you versions of yourself solitude cannot reach: the one who protects, jokes, listens, stays, leaves. Other people are not the source of the self, but they can reveal its relational light.",
+      "ru": "Принадлежность может показывать версии тебя, до которых одиночество не добирается: ту, что защищает, шутит, слушает, остаётся, уходит. Другие люди не источник «я», но они могут раскрывать его отношенческий свет."
+    },
+    "reflection_tags": [
+      "belonging",
+      "attachment",
+      "community",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "paper",
+      "soft_light"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_support_orientation",
+    "trait": "support_orientation",
+    "area": "belonging",
+    "priority": 78,
+    "title": {
+      "en": "Support as a Shared Language",
+      "ru": "Поддержка как общий язык"
+    },
+    "short_summary": {
+      "en": "A group feels real when people know how to hold one another.",
+      "ru": "Группа ощущается настоящей, когда люди умеют друг друга удерживать."
+    },
+    "summary": {
+      "en": "Support does not have to be dramatic. Someone notices the weight, makes room, adjusts without making you feel like a burden.",
+      "ru": "Поддержке не обязательно быть драматичной. Кто-то замечает тяжесть, освобождает место, подстраивается, не заставляя тебя чувствовать себя обузой."
+    },
+    "reflection_tags": [
+      "belonging",
+      "attachment",
+      "community",
+      "trust"
+    ],
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "paper",
+      "soft_light"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_discovery_orientation",
+    "trait": "discovery_orientation",
+    "area": "exploration",
+    "priority": 78,
+    "title": {
+      "en": "The World as an Opening",
+      "ru": "Мир как открытие"
+    },
+    "short_summary": {
+      "en": "A new context may reveal a self that routine keeps hidden.",
+      "ru": "Новый контекст может раскрывать «я», которое рутина скрывает."
+    },
+    "summary": {
+      "en": "Discovery may begin as a small change in surroundings: a street, a question, a person unlike the usual circle. The self learns by meeting what it could not have predicted.",
+      "ru": "Открытие может начинаться с маленькой смены окружения: улицы, вопроса, человека не из привычного круга. «Я» учится, встречая то, что не могло заранее предсказать."
+    },
+    "reflection_tags": [
+      "freedom",
+      "growth",
+      "change"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "wind",
+      "spark",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_novelty_seeking",
+    "trait": "novelty_seeking",
+    "area": "exploration",
+    "priority": 78,
+    "title": {
+      "en": "Fresh Air in the System",
+      "ru": "Свежий воздух в системе"
+    },
+    "short_summary": {
+      "en": "Too much routine can slowly begin to feel physically dull.",
+      "ru": "Слишком много рутины может постепенно начать ощущаться физически тускло."
+    },
+    "summary": {
+      "en": "A different route, a new conversation, a plan that has not been rehearsed too many times can return color to the day. Novelty works best when it wakes attention instead of scattering it.",
+      "ru": "Другой маршрут, новый разговор, план, который не был слишком много раз отрепетирован, могут возвращать дню цвет. Новизна работает лучше всего, когда будит внимание, а не рассеивает его."
+    },
+    "reflection_tags": [
+      "freedom",
+      "growth",
+      "change"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "wind",
+      "spark",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_adventurous_drive",
+    "trait": "adventurous_drive",
+    "area": "exploration",
+    "priority": 77,
+    "title": {
+      "en": "Past the Familiar Edge",
+      "ru": "За знакомый край"
+    },
+    "short_summary": {
+      "en": "The unfamiliar can feel like a place where energy comes back.",
+      "ru": "Незнакомое может ощущаться как место, где возвращается энергия."
+    },
+    "summary": {
+      "en": "Adventure does not have to be dramatic. Sometimes it is choosing the less rehearsed option and feeling the body remember that life still has edges.",
+      "ru": "Приключение не обязано быть драматичным. Иногда это выбор менее отрепетированного варианта и ощущение, как тело вспоминает: у жизни всё ещё есть края."
+    },
+    "reflection_tags": [
+      "freedom",
+      "growth",
+      "change"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "wind",
+      "spark",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_freedom_needing",
+    "trait": "freedom_needing",
+    "area": "exploration",
+    "priority": 77,
+    "title": {
+      "en": "Air Around the Self",
+      "ru": "Воздух вокруг себя"
+    },
+    "short_summary": {
+      "en": "Highly controlled environments can start to feel airless.",
+      "ru": "Слишком контролируемая среда может начать ощущаться безвоздушной."
+    },
+    "summary": {
+      "en": "Freedom matters when too many expectations start deciding your shape for you. A looser plan, a different route, or time without explanation can bring your own rhythm back.",
+      "ru": "Свобода становится важной, когда слишком много ожиданий начинают решать за тебя, какой формы тебе быть. Более свободный план, другой маршрут или время без объяснений могут вернуть собственный ритм."
+    },
+    "reflection_tags": [
+      "freedom",
+      "growth",
+      "change"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "wind",
+      "spark",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "growth_adaptability",
+    "trait": "adaptability",
+    "area": "growth",
+    "priority": 77,
+    "title": {
+      "en": "Bending Without Vanishing",
+      "ru": "Гнуться, не исчезая"
+    },
+    "short_summary": {
+      "en": "Flexibility may matter most when it keeps the self intact.",
+      "ru": "Гибкость может быть особенно важной, когда сохраняет целостность «я»."
+    },
+    "summary": {
+      "en": "You may be able to adjust to changing conditions without losing the thread of yourself. Adaptation becomes meaningful when it is responsive, not self-abandoning.",
+      "ru": "Ты можешь подстраиваться под меняющиеся условия, не теряя собственной нити. Адаптация становится значимой, когда она отзывчивая, а не самоотказная."
+    },
+    "reflection_tags": [
+      "growth",
+      "change",
+      "identity"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "horizon",
+      "green",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "growth_adventurous_drive",
+    "trait": "adventurous_drive",
+    "area": "growth",
+    "priority": 77,
+    "title": {
+      "en": "Growth Past the Familiar",
+      "ru": "Рост за пределом знакомого"
+    },
+    "short_summary": {
+      "en": "The unfamiliar may reveal parts of you routine cannot reach.",
+      "ru": "Незнакомое может раскрывать части тебя, до которых рутина не добирается."
+    },
+    "summary": {
+      "en": "Adventure does not have to be loud. It may be the new room, the honest risk, the unfamiliar conversation that shows you a self you had not needed before.",
+      "ru": "Приключение не обязано быть громким. Это может быть новая комната, честный риск, незнакомый разговор, который показывает тебе «я», не нужное раньше."
+    },
+    "reflection_tags": [
+      "growth",
+      "change",
+      "identity"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "horizon",
+      "green",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "growth_discovery_orientation",
+    "trait": "discovery_orientation",
+    "area": "growth",
+    "priority": 77,
+    "title": {
+      "en": "Learning by Encounter",
+      "ru": "Учиться через встречу"
+    },
+    "short_summary": {
+      "en": "New understanding can arrive through contact with what you did not expect.",
+      "ru": "Новое понимание может приходить через контакт с неожиданным."
+    },
+    "summary": {
+      "en": "You may grow when life interrupts your assumptions. Discovery gives the self new evidence, not as a lesson plan, but as a lived encounter with what was outside the frame.",
+      "ru": "Ты можешь расти, когда жизнь прерывает твои предположения. Открытие даёт «я» новые свидетельства — не как учебный план, а как живую встречу с тем, что было за рамкой."
+    },
+    "reflection_tags": [
+      "growth",
+      "change",
+      "identity"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "horizon",
+      "green",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "growth_experimentation",
+    "trait": "experimentation",
+    "area": "growth",
+    "priority": 77,
+    "title": {
+      "en": "Trying Before Knowing",
+      "ru": "Пробовать до знания"
+    },
+    "short_summary": {
+      "en": "Experiment may give the self permission to be unfinished.",
+      "ru": "Эксперимент может давать «я» разрешение быть незавершённым."
+    },
+    "summary": {
+      "en": "You may understand change better by testing a small version of it. A trial, variation, or temporary choice lets growth become concrete without demanding a permanent identity too soon.",
+      "ru": "Ты можешь лучше понимать изменение, проверяя его маленькую версию. Проба, вариация или временный выбор делают рост конкретным, не требуя слишком рано постоянной идентичности."
+    },
+    "reflection_tags": [
+      "growth",
+      "change",
+      "identity"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "horizon",
+      "green",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "growth_introspective_processing",
+    "trait": "introspective_processing",
+    "area": "growth",
+    "priority": 77,
+    "title": {
+      "en": "The Slow Afterimage",
+      "ru": "Медленное послесвечение"
+    },
+    "short_summary": {
+      "en": "Change becomes visible only after you have lived with it for a while.",
+      "ru": "Изменение становится видимым только после того, как ты какое-то время с ним пожил."
+    },
+    "summary": {
+      "en": "You may need time after an experience to understand what it altered. The growth is not always in the event; sometimes it is in the private re-seeing that happens later.",
+      "ru": "Тебе может быть нужно время после опыта, чтобы понять, что он изменил. Рост не всегда в самом событии; иногда он в личном пересмотре, который происходит позже."
+    },
+    "reflection_tags": [
+      "growth",
+      "change",
+      "identity"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "horizon",
+      "green",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "growth_meaning_seeking",
+    "trait": "meaning_seeking",
+    "area": "growth",
+    "priority": 77,
+    "title": {
+      "en": "The Lesson Beneath the Shift",
+      "ru": "Смысл под сдвигом"
+    },
+    "short_summary": {
+      "en": "A change may not feel complete until its meaning becomes visible.",
+      "ru": "Изменение может не ощущаться завершённым, пока его смысл не становится видимым."
+    },
+    "summary": {
+      "en": "You may look for the inner reason a transition mattered. Growth becomes easier to integrate when the experience is not only survived, but understood as part of a larger emotional pattern.",
+      "ru": "Ты можешь искать внутреннюю причину, по которой переход был важен. Рост легче интегрируется, когда опыт не только пережит, но и понят как часть большего эмоционального паттерна."
+    },
+    "reflection_tags": [
+      "growth",
+      "change",
+      "identity"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "horizon",
+      "green",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "growth_novelty_seeking",
+    "trait": "novelty_seeking",
+    "area": "growth",
+    "priority": 77,
+    "title": {
+      "en": "Fresh Air for the Self",
+      "ru": "Свежий воздух для себя"
+    },
+    "short_summary": {
+      "en": "Newness may loosen what has become too fixed.",
+      "ru": "Новизна может ослаблять то, что стало слишком зафиксированным."
+    },
+    "summary": {
+      "en": "Novelty interrupts the automatic version of you. A new place, skill, conversation, or risk can reveal reactions that routine had stopped asking for.",
+      "ru": "Новизна прерывает автоматическую версию тебя. Новое место, навык, разговор или риск могут проявить реакции, которые рутина давно перестала вызывать."
+    },
+    "reflection_tags": [
+      "growth",
+      "change",
+      "identity"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "horizon",
+      "green",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "growth_reframing_ability",
+    "trait": "reframing_ability",
+    "area": "growth",
+    "priority": 77,
+    "title": {
+      "en": "Another Angle Opens",
+      "ru": "Открывается другой угол"
+    },
+    "short_summary": {
+      "en": "A new perspective may soften the emotional grip of an old story.",
+      "ru": "Новый взгляд может смягчать эмоциональную хватку старой истории."
+    },
+    "summary": {
+      "en": "Reframing is not pretending something was easy. It is the moment another angle becomes available, and the same memory no longer has to hold the whole room.",
+      "ru": "Переосмысление не означает притворяться, что всё было легко. Это момент, когда становится доступен другой угол, и та же память больше не обязана занимать всё пространство."
+    },
+    "reflection_tags": [
+      "growth",
+      "change",
+      "identity"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "horizon",
+      "green",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "growth_self_monitoring",
+    "trait": "self_monitoring",
+    "area": "growth",
+    "priority": 77,
+    "title": {
+      "en": "Watching the Self Change",
+      "ru": "Наблюдать, как меняется «я»"
+    },
+    "short_summary": {
+      "en": "Growth becomes clearer when you notice your own micro-shifts.",
+      "ru": "Рост становится яснее, когда ты замечаешь собственные микросдвиги."
+    },
+    "summary": {
+      "en": "You may track small internal changes: the pause before reacting, the new discomfort with an old habit, the way a boundary arrives sooner. Self-observation turns becoming into something visible.",
+      "ru": "Ты можешь отслеживать маленькие внутренние изменения: паузу перед реакцией, новый дискомфорт со старой привычкой, то, как граница приходит раньше. Самонаблюдение делает становление видимым."
+    },
+    "reflection_tags": [
+      "growth",
+      "change",
+      "identity"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "horizon",
+      "green",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "growth_transformative_identity",
+    "trait": "transformative_identity",
+    "area": "growth",
+    "priority": 77,
+    "title": {
+      "en": "No Longer the Same Shape",
+      "ru": "Уже не та же форма"
+    },
+    "short_summary": {
+      "en": "Growth may change not only what you do, but who you feel yourself to be.",
+      "ru": "Рост может менять не только действия, но и то, кем ты себя чувствуешь."
+    },
+    "summary": {
+      "en": "Some changes reach identity itself. After them, old explanations feel inaccurate, old roles too narrow, and the self begins looking for language that can hold its new outline.",
+      "ru": "Некоторые изменения доходят до самой идентичности. После них старые объяснения кажутся неточными, старые роли слишком узкими, и «я» начинает искать язык, который удержит его новый контур."
+    },
+    "reflection_tags": [
+      "growth",
+      "change",
+      "identity"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "horizon",
+      "green",
+      "water"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_charismatic_engagement",
+    "trait": "charismatic_engagement",
+    "area": "communication",
+    "priority": 76,
+    "title": {
+      "en": "A Room That Wakes Up",
+      "ru": "Комната, которая просыпается"
+    },
+    "short_summary": {
+      "en": "Your arrival can change the temperature of a conversation quickly.",
+      "ru": "Твоё появление может быстро менять температуру разговора."
+    },
+    "summary": {
+      "en": "Some people communicate by adding charge to the room: warmth, timing, humor, the sense that something has started. Charisma here is less performance than ignition.",
+      "ru": "Некоторые люди общаются, добавляя комнате заряд: тепло, темп, юмор, ощущение, что что-то началось. Харизма здесь меньше про выступление и больше про зажигание."
+    },
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "clarity"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "spark",
+      "paper",
+      "glass"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_emotional_expressiveness",
+    "trait": "emotional_expressiveness",
+    "area": "communication",
+    "priority": 76,
+    "title": {
+      "en": "Feeling Near the Surface",
+      "ru": "Чувство близко к поверхности"
+    },
+    "short_summary": {
+      "en": "Emotion becomes visible before it is fully named.",
+      "ru": "Эмоция становится видимой раньше, чем полностью названа."
+    },
+    "summary": {
+      "en": "A face, pause, laugh, or sudden intensity may say what language has not caught yet. Expressiveness makes communication alive, though it can reveal more than planned.",
+      "ru": "Лицо, пауза, смех или внезапная интенсивность могут сказать то, что язык ещё не догнал. Выразительность делает общение живым, хотя иногда раскрывает больше, чем планировалось."
+    },
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "clarity"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "spark",
+      "paper",
+      "glass"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_emotional_self_protection",
+    "trait": "emotional_self_protection",
+    "area": "communication",
+    "priority": 76,
+    "title": {
+      "en": "Words With a Guardrail",
+      "ru": "Слова с защитным краем"
+    },
+    "short_summary": {
+      "en": "Some truths may be edited until the room feels safe enough.",
+      "ru": "Некоторые истины могут редактироваться, пока пространство не станет достаточно безопасным."
+    },
+    "summary": {
+      "en": "You may speak with an inner hand near the brake. The feeling is there, but the language checks distance, timing, and whether the listener can hold what is being offered.",
+      "ru": "Ты можешь говорить так, будто внутренняя рука держится возле тормоза. Чувство есть, но язык проверяет дистанцию, время и способность слушателя удержать предложенное."
+    },
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "clarity"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "spark",
+      "paper",
+      "glass"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_emotionally_engaging",
+    "trait": "emotionally_engaging",
+    "area": "communication",
+    "priority": 76,
+    "title": {
+      "en": "Conversation With a Pulse",
+      "ru": "Разговор с пульсом"
+    },
+    "short_summary": {
+      "en": "Exchange feels real when it has warmth and motion.",
+      "ru": "Обмен ощущается настоящим, когда в нём есть тепло и движение."
+    },
+    "summary": {
+      "en": "You may bring people into conversation by making it felt: a responsive expression, a question with life in it, a tone that says the exchange matters.",
+      "ru": "Ты можешь втягивать людей в разговор, делая его ощутимым: отзывчивым выражением лица, вопросом с жизнью внутри, тоном, который говорит, что обмен важен."
+    },
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "clarity"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "spark",
+      "paper",
+      "glass"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_emotionally_reserved",
+    "trait": "emotionally_reserved",
+    "area": "communication",
+    "priority": 76,
+    "title": {
+      "en": "What Is Not Immediately Said",
+      "ru": "То, что не говорится сразу"
+    },
+    "short_summary": {
+      "en": "Some feelings stay internal until they become impossible to ignore.",
+      "ru": "Некоторые чувства остаются внутри, пока их уже невозможно игнорировать."
+    },
+    "summary": {
+      "en": "Reserve can keep emotion intact while it settles. The risk is that what stays unsaid for too long may begin speaking through distance, fatigue, or sudden sharpness.",
+      "ru": "Сдержанность может сохранять эмоцию целой, пока она оседает. Риск в том, что слишком долго невысказанное начинает говорить через дистанцию, усталость или внезапную резкость."
+    },
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "clarity"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "spark",
+      "paper",
+      "glass"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_intellectually_playful",
+    "trait": "intellectually_playful",
+    "area": "communication",
+    "priority": 76,
+    "title": {
+      "en": "Ideas With a Smile",
+      "ru": "Идеи с улыбкой"
+    },
+    "short_summary": {
+      "en": "Play may make serious thoughts easier to approach.",
+      "ru": "Игра может делать серьёзные мысли доступнее."
+    },
+    "summary": {
+      "en": "A conversation may loosen when curiosity gets playful. The joke, unexpected angle, or quick association can open a door that direct seriousness would have kept closed.",
+      "ru": "Разговор может расслабляться, когда любопытство становится игривым. Шутка, неожиданный угол или быстрая ассоциация могут открыть дверь, которую прямая серьёзность оставила бы закрытой."
+    },
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "clarity"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "spark",
+      "paper",
+      "glass"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_people_pleasing",
+    "trait": "people_pleasing",
+    "area": "communication",
+    "priority": 76,
+    "title": {
+      "en": "The Sentence That Protects the Room",
+      "ru": "Предложение, защищающее комнату"
+    },
+    "short_summary": {
+      "en": "Your words may soften before your own need has fully appeared.",
+      "ru": "Твои слова могут смягчаться раньше, чем полностью появляется собственная потребность."
+    },
+    "summary": {
+      "en": "You may sense what the listener wants and adjust quickly. The skill can keep peace, but it may also leave the real message standing outside the conversation.",
+      "ru": "Ты можешь быстро чувствовать, чего хочет слушатель, и подстраиваться. Этот навык может сохранять мир, но иногда оставляет настоящее сообщение за пределами разговора."
+    },
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "clarity"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "spark",
+      "paper",
+      "glass"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_provocative_interaction",
+    "trait": "provocative_interaction",
+    "area": "communication",
+    "priority": 76,
+    "title": {
+      "en": "Testing the Edge of the Room",
+      "ru": "Проверять край комнаты"
+    },
+    "short_summary": {
+      "en": "A sharper remark may reveal where the real tension lives.",
+      "ru": "Более острое замечание может показать, где живёт настоящее напряжение."
+    },
+    "summary": {
+      "en": "Provocation may not be simple conflict-seeking. Sometimes it is a way of checking whether the conversation is alive enough to handle honesty, surprise, or a less polished truth.",
+      "ru": "Провокация не обязательно является поиском конфликта. Иногда это способ проверить, достаточно ли разговор живой, чтобы выдержать честность, неожиданность или менее отполированную правду."
+    },
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "clarity"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "spark",
+      "paper",
+      "glass"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_relational_attunement",
+    "trait": "relational_attunement",
+    "area": "communication",
+    "priority": 76,
+    "title": {
+      "en": "Speaking to the Space Between",
+      "ru": "Говорить в пространство между"
+    },
+    "short_summary": {
+      "en": "Language adjusts to the distance between people.",
+      "ru": "Язык подстраивается под дистанцию между людьми."
+    },
+    "summary": {
+      "en": "Communication may happen through tiny calibrations: less force here, more warmth there, a pause where someone needs room to answer. The words matter, and so does the distance between people while they are spoken.",
+      "ru": "Общение может происходить через маленькие настройки: здесь меньше напора, там больше тепла, пауза там, где человеку нужно место для ответа. Слова важны, как и дистанция между людьми в момент, когда они произносятся."
+    },
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "clarity"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "spark",
+      "paper",
+      "glass"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_social_awareness",
+    "trait": "social_awareness",
+    "area": "communication",
+    "priority": 76,
+    "title": {
+      "en": "Reading the Room Mid-Sentence",
+      "ru": "Считывать комнату на полуслове"
+    },
+    "short_summary": {
+      "en": "The social mood changes how you speak in real time.",
+      "ru": "Социальное настроение меняет твою речь прямо в процессе."
+    },
+    "summary": {
+      "en": "You can often tell when a room has shifted: the joke lands differently, someone stops meeting your eyes, the answer becomes too careful. Communication becomes partly about what is being avoided.",
+      "ru": "Обычно чувствуется, когда в комнате что-то меняется: шутка звучит иначе, кто-то перестаёт смотреть в глаза, ответ становится слишком осторожным. Общение частично превращается в чтение того, чего избегают."
+    },
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "clarity"
+    ],
+    "aesthetic_tags": [
+      "air",
+      "spark",
+      "paper",
+      "glass"
+    ],
+    "premium": false
+  },
+  {
+    "id": "motivation_challenge_seeking",
+    "trait": "challenge_seeking",
+    "area": "motivation",
+    "priority": 75,
+    "title": {
+      "en": "Energy at the Edge",
+      "ru": "Энергия на границе"
+    },
+    "short_summary": {
+      "en": "A chosen challenge may make the body feel awake.",
+      "ru": "Выбранный вызов может заставлять тело просыпаться."
+    },
+    "summary": {
+      "en": "Difficulty becomes motivating when it has shape: a threshold to cross, a skill to test, a problem that answers effort with motion.",
+      "ru": "Трудность начинает мотивировать, когда у неё есть форма: порог, который нужно перейти, навык для проверки, задача, отвечающая на усилие движением."
+    },
+    "reflection_tags": [
+      "motivation",
+      "purpose",
+      "discipline"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "gold",
+      "stone"
+    ],
+    "premium": false
+  },
+  {
+    "id": "motivation_competence_focus",
+    "trait": "competence_focus",
+    "area": "motivation",
+    "priority": 75,
+    "title": {
+      "en": "Capable Feels Safer",
+      "ru": "Способность ощущается безопаснее"
+    },
+    "short_summary": {
+      "en": "Being capable can feel safer than depending on someone for support.",
+      "ru": "Иногда быть компетентным ощущается безопаснее, чем зависеть от чьей-то поддержки."
+    },
+    "summary": {
+      "en": "Competence can make uncertain situations feel less exposed. Knowing what to do, where to stand, or how to fix the problem creates a steadiness that reassurance alone cannot give.",
+      "ru": "Компетентность может делать неопределённые ситуации менее уязвимыми. Знать, что делать, где стоять или как исправить проблему, даёт устойчивость, которую одни заверения не дают."
+    },
+    "reflection_tags": [
+      "motivation",
+      "purpose",
+      "discipline"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "gold",
+      "stone"
+    ],
+    "premium": false
+  },
+  {
+    "id": "motivation_courage_based",
+    "trait": "courage_based",
+    "area": "motivation",
+    "priority": 75,
+    "title": {
+      "en": "Brave Movement",
+      "ru": "Смелое движение"
+    },
+    "short_summary": {
+      "en": "Energy may appear when fear is present but no longer leading.",
+      "ru": "Энергия может появляться там, где страх присутствует, но больше не ведёт."
+    },
+    "summary": {
+      "en": "Courage here can be modest: sending the message, entering the room, beginning before the body feels fully ready. Fear is still present, but it no longer gets the final word.",
+      "ru": "Смелость здесь может быть скромной: отправить сообщение, войти в комнату, начать до того, как тело почувствует полную готовность. Страх всё ещё рядом, но последнее слово остаётся не за ним."
+    },
+    "reflection_tags": [
+      "motivation",
+      "purpose",
+      "discipline"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "gold",
+      "stone"
+    ],
+    "premium": false
+  },
+  {
+    "id": "motivation_decisive_action",
+    "trait": "decisive_action",
+    "area": "motivation",
+    "priority": 75,
+    "title": {
+      "en": "The Relief of Choosing",
+      "ru": "Облегчение выбора"
+    },
+    "short_summary": {
+      "en": "A clear decision may quiet more noise than another round of thinking.",
+      "ru": "Ясное решение может утихомирить больше шума, чем новый круг размышлений."
+    },
+    "summary": {
+      "en": "Decisive action can cut through the crowded middle. Even without perfect certainty, one choice gives the mind a real direction to respond to.",
+      "ru": "Решительное действие может прорезать тесную середину. Даже без идеальной уверенности один выбор даёт разуму реальное направление, на которое можно отвечать."
+    },
+    "reflection_tags": [
+      "motivation",
+      "purpose",
+      "discipline"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "gold",
+      "stone"
+    ],
+    "premium": false
+  },
+  {
+    "id": "motivation_discipline_orientation",
+    "trait": "discipline_orientation",
+    "area": "motivation",
+    "priority": 75,
+    "title": {
+      "en": "The Rhythm That Carries Effort",
+      "ru": "Ритм, который несёт усилие"
+    },
+    "short_summary": {
+      "en": "Practice may keep moving after emotion changes weather.",
+      "ru": "Практика может продолжать движение, когда эмоциональная погода меняется."
+    },
+    "summary": {
+      "en": "Discipline can make motivation less dependent on intensity. The repeated rhythm holds the task when inspiration leaves the room for a while.",
+      "ru": "Дисциплина может делать мотивацию менее зависимой от интенсивности. Повторяющийся ритм удерживает задачу, когда вдохновение на время выходит из комнаты."
+    },
+    "reflection_tags": [
+      "motivation",
+      "purpose",
+      "discipline"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "gold",
+      "stone"
+    ],
+    "premium": false
+  },
+  {
+    "id": "motivation_endurance",
+    "trait": "endurance",
+    "area": "motivation",
+    "priority": 75,
+    "title": {
+      "en": "Staying With the Long Thing",
+      "ru": "Оставаться с долгим"
+    },
+    "short_summary": {
+      "en": "Some goals require a quieter kind of energy.",
+      "ru": "Некоторым целям нужна более тихая энергия."
+    },
+    "summary": {
+      "en": "Endurance is the motivation that does not always glow. It keeps showing up after novelty fades, after praise is gone, after the work becomes ordinary and still matters.",
+      "ru": "Выносливость — это мотивация, которая не всегда светится. Она продолжает приходить после угасания новизны, после исчезновения похвалы, после того как работа становится обычной и всё ещё важной."
+    },
+    "reflection_tags": [
+      "motivation",
+      "purpose",
+      "discipline"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "gold",
+      "stone"
+    ],
+    "premium": false
+  },
+  {
+    "id": "motivation_initiation_energy",
+    "trait": "initiation_energy",
+    "area": "motivation",
+    "priority": 75,
+    "title": {
+      "en": "The First Spark",
+      "ru": "Первый импульс"
+    },
+    "short_summary": {
+      "en": "Beginning may change the emotional temperature of the whole task.",
+      "ru": "Начало может менять эмоциональную температуру всей задачи."
+    },
+    "summary": {
+      "en": "The first action often matters more than its size. Opening the file, sending the note, standing up, asking the question — each one tells the system that the task has entered reality.",
+      "ru": "Первое действие часто важнее своего размера. Открыть файл, отправить сообщение, встать, задать вопрос — каждое говорит системе, что задача вошла в реальность."
+    },
+    "reflection_tags": [
+      "motivation",
+      "purpose",
+      "discipline"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "gold",
+      "stone"
+    ],
+    "premium": false
+  },
+  {
+    "id": "motivation_recognition_needing",
+    "trait": "recognition_needing",
+    "area": "motivation",
+    "priority": 75,
+    "title": {
+      "en": "Seen for the Effort",
+      "ru": "Увиденным за усилие"
+    },
+    "short_summary": {
+      "en": "Being noticed may matter most when the work carried real emotional cost.",
+      "ru": "Быть замеченным может быть особенно важно, когда работа стоила настоящих внутренних усилий."
+    },
+    "summary": {
+      "en": "Recognition may not be vanity. Sometimes it is the wish for someone to see the care, discipline, risk, or loneliness behind what looked easy from outside.",
+      "ru": "Признание не обязательно тщеславие. Иногда это желание, чтобы кто-то увидел заботу, дисциплину, риск или одиночество за тем, что снаружи выглядело легко."
+    },
+    "reflection_tags": [
+      "motivation",
+      "purpose",
+      "discipline"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "gold",
+      "stone"
+    ],
+    "premium": false
+  },
+  {
+    "id": "motivation_responsibility_focus",
+    "trait": "responsibility_focus",
+    "area": "motivation",
+    "priority": 75,
+    "title": {
+      "en": "What You Have Chosen to Hold",
+      "ru": "То, что ты выбрал удерживать"
+    },
+    "short_summary": {
+      "en": "Commitment may gather energy when it feels chosen rather than imposed.",
+      "ru": "Обязательство может собирать энергию, когда ощущается выбранным, а не навязанным."
+    },
+    "summary": {
+      "en": "Responsibility may motivate you when it carries emotional weight: someone depending on you, a promise with meaning, a standard you still respect when no one is watching.",
+      "ru": "Ответственность может двигать тебя, когда в ней есть эмоциональный вес: кто-то на тебя опирается, обещание имеет значение, стандарт остаётся важным, даже когда никто не смотрит."
+    },
+    "reflection_tags": [
+      "motivation",
+      "purpose",
+      "discipline"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "gold",
+      "stone"
+    ],
+    "premium": false
+  },
+  {
+    "id": "motivation_transformative_drive",
+    "trait": "transformative_drive",
+    "area": "motivation",
+    "priority": 75,
+    "title": {
+      "en": "The Pull to Become",
+      "ru": "Тяга становиться"
+    },
+    "short_summary": {
+      "en": "Energy may return when the task touches the person you are becoming.",
+      "ru": "Энергия может возвращаться, когда задача касается того, кем ты становишься."
+    },
+    "summary": {
+      "en": "Transformation gives motivation a personal charge. The work matters because it changes the inner architecture, not only the external result.",
+      "ru": "Трансформация даёт мотивации личный заряд. Работа важна потому, что меняет внутреннюю архитектуру, а не только внешний результат."
+    },
+    "reflection_tags": [
+      "motivation",
+      "purpose",
+      "discipline"
+    ],
+    "aesthetic_tags": [
+      "flame",
+      "spark",
+      "gold",
+      "stone"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_associative_thinking",
+    "trait": "associative_thinking",
+    "area": "creativity",
+    "priority": 74,
+    "title": {
+      "en": "One Image Opens Another",
+      "ru": "Один образ открывает другой"
+    },
+    "short_summary": {
+      "en": "Ideas may connect by mood before logic joins them.",
+      "ru": "Идеи могут связываться настроением раньше логики."
+    },
+    "summary": {
+      "en": "A word becomes a color, a memory becomes a scene, a sound suggests a direction. Association lets creativity move sideways until the hidden link becomes visible.",
+      "ru": "Слово становится цветом, память — сценой, звук подсказывает направление. Ассоциация позволяет творчеству двигаться вбок, пока скрытая связь не станет видимой."
+    },
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "violet",
+      "paper",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_experimentation",
+    "trait": "experimentation",
+    "area": "creativity",
+    "priority": 74,
+    "title": {
+      "en": "The First Version Is Allowed",
+      "ru": "Первой версии можно быть первой"
+    },
+    "short_summary": {
+      "en": "Trying may matter more than knowing what the work is yet.",
+      "ru": "Проба может быть важнее знания, чем работа станет."
+    },
+    "summary": {
+      "en": "A sketch, draft, test, or strange variation gives the idea a temporary body. Once it exists outside your head, it starts answering back.",
+      "ru": "Набросок, черновик, проба или странная вариация дают идее временное тело. Когда она появляется вне головы, она начинает отвечать."
+    },
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "violet",
+      "paper",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_idea_generation",
+    "trait": "idea_generation",
+    "area": "creativity",
+    "priority": 74,
+    "title": {
+      "en": "A Bright Crowd of Possibilities",
+      "ru": "Светлая толпа возможностей"
+    },
+    "short_summary": {
+      "en": "New ideas can arrive faster than they can be sorted.",
+      "ru": "Новые идеи могут приходить быстрее, чем их удаётся разобрать."
+    },
+    "summary": {
+      "en": "The creative field fills with fragments, starts, what-ifs, combinations. The first task is not always choosing; sometimes the room needs to stay bright for a moment.",
+      "ru": "Творческое поле наполняется фрагментами, началами, «а если», сочетаниями. Первая задача не всегда выбор; иногда комнате нужно немного побыть светлой."
+    },
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "violet",
+      "paper",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_innovative_thinking",
+    "trait": "innovative_thinking",
+    "area": "creativity",
+    "priority": 74,
+    "title": {
+      "en": "A Different Door in the Wall",
+      "ru": "Другая дверь в стене"
+    },
+    "short_summary": {
+      "en": "The expected solution may start to feel too narrow.",
+      "ru": "Ожидаемое решение может начать казаться слишком узким."
+    },
+    "summary": {
+      "en": "You can sense when an existing form has gone tired. Innovation begins as irritation with the obvious, then becomes the search for a cleaner, stranger, more alive route.",
+      "ru": "Ты можешь чувствовать, когда существующая форма устала. Инновация начинается как раздражение очевидным, а потом становится поиском более чистого, странного и живого пути."
+    },
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "violet",
+      "paper",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_reframing_ability",
+    "trait": "reframing_ability",
+    "area": "creativity",
+    "priority": 74,
+    "title": {
+      "en": "Changing the Light on the Same Thing",
+      "ru": "Сменить свет на той же вещи"
+    },
+    "short_summary": {
+      "en": "A different angle may make old material usable again.",
+      "ru": "Другой угол может снова сделать старый материал живым."
+    },
+    "summary": {
+      "en": "Reframing can turn a fixed idea into a moving one. The subject does not always change; sometimes the light changes, and the emotional meaning comes loose.",
+      "ru": "Переосмысление может превращать застывшую идею в движущуюся. Тема не всегда меняется; иногда меняется свет, и эмоциональный смысл освобождается."
+    },
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "violet",
+      "paper",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_self_expression",
+    "trait": "self_expression",
+    "area": "creativity",
+    "priority": 74,
+    "title": {
+      "en": "A Personal Trace",
+      "ru": "Личный след"
+    },
+    "short_summary": {
+      "en": "The work may need to sound like someone actually lived it.",
+      "ru": "Работе может быть нужно звучать так, будто её кто-то действительно прожил."
+    },
+    "summary": {
+      "en": "Self-expression leaves fingerprints: a rhythm, a preference, a wound, a humor, a way of noticing. The piece becomes yours when it stops trying to be neutral.",
+      "ru": "Самовыражение оставляет отпечатки: ритм, предпочтение, рану, юмор, способ замечать. Вещь становится твоей, когда перестаёт пытаться быть нейтральной."
+    },
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "violet",
+      "paper",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_sensory_emotionality",
+    "trait": "sensory_emotionality",
+    "area": "creativity",
+    "priority": 74,
+    "title": {
+      "en": "Feeling Through Texture",
+      "ru": "Чувствовать через текстуру"
+    },
+    "short_summary": {
+      "en": "The senses may know what the concept has not reached yet.",
+      "ru": "Чувства тела могут знать то, до чего концепция ещё не дошла."
+    },
+    "summary": {
+      "en": "Material, sound, weight, temperature, and color can carry emotion directly. The creative choice feels right because it lands in the body before it explains itself.",
+      "ru": "Материал, звук, вес, температура и цвет могут нести эмоцию напрямую. Творческий выбор ощущается верным, потому что сначала попадает в тело, а уже потом объясняет себя."
+    },
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "violet",
+      "paper",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_symbolic_thinking",
+    "trait": "symbolic_thinking",
+    "area": "creativity",
+    "priority": 74,
+    "title": {
+      "en": "When the Image Holds the Feeling",
+      "ru": "Когда образ удерживает чувство"
+    },
+    "short_summary": {
+      "en": "Some images become powerful because they do not explain everything.",
+      "ru": "Некоторые образы становятся сильными именно потому, что не объясняют всё до конца."
+    },
+    "summary": {
+      "en": "Objects, images, and recurring motifs can hold a feeling without pinning it down. Sometimes an indirect form tells the truth more accurately than a direct sentence.",
+      "ru": "Предметы, образы и повторяющиеся мотивы могут удерживать чувство, не прибивая его к одному объяснению. Иногда непрямая форма говорит правду точнее, чем прямая фраза."
+    },
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "violet",
+      "paper",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_unconventional_thinking",
+    "trait": "unconventional_thinking",
+    "area": "creativity",
+    "priority": 74,
+    "title": {
+      "en": "Against the Expected Line",
+      "ru": "Против ожидаемой линии"
+    },
+    "short_summary": {
+      "en": "Predictable paths may lose emotional energy surprisingly quickly.",
+      "ru": "Предсказуемые пути могут удивительно быстро терять эмоциональную энергию."
+    },
+    "summary": {
+      "en": "You may instinctively move toward forms that resist predictability or easy interpretation. Unexpected variation may restore freshness where structure became too controlled.",
+      "ru": "Ты можешь инстинктивно двигаться к формам, которые сопротивляются предсказуемости и лёгкому объяснению. Неожиданная вариация может возвращать свежесть там, где структура стала слишком контролируемой."
+    },
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "aesthetic_tags": [
+      "spark",
+      "violet",
+      "paper",
+      "moonlight"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_autonomy_needing",
+    "trait": "autonomy_needing",
+    "area": "exploration",
+    "priority": 72,
+    "title": {
+      "en": "Choosing From the Inside",
+      "ru": "Выбирать изнутри"
+    },
+    "short_summary": {
+      "en": "A path feels wrong when it is too heavily directed from outside.",
+      "ru": "Путь ощущается неверным, когда им слишком сильно управляют снаружи."
+    },
+    "summary": {
+      "en": "Autonomy may show up as a need to test life in your own way. Advice can be useful, but the choice usually has to pass through an inner checkpoint before it feels real.",
+      "ru": "Автономия может проявляться как потребность проверять жизнь своим способом. Совет может быть полезен, но выбор обычно должен пройти через внутренний контрольный пункт, прежде чем станет настоящим."
+    },
+    "reflection_tags": [
+      "freedom",
+      "growth",
+      "change"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "wind",
+      "spark",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_challenge_seeking",
+    "trait": "challenge_seeking",
+    "area": "exploration",
+    "priority": 72,
+    "title": {
+      "en": "Where the Pulse Rises",
+      "ru": "Где поднимается пульс"
+    },
+    "short_summary": {
+      "en": "Difficulty may bring energy when it feels chosen.",
+      "ru": "Трудность может приносить энергию, когда ощущается выбранной."
+    },
+    "summary": {
+      "en": "A challenge may wake something focused and alive in you. The edge matters when it is not punishment, but a place where capacity can meet reality.",
+      "ru": "Вызов может будить в тебе что-то собранное и живое. Край важен, когда он не наказание, а место, где способность встречается с реальностью."
+    },
+    "reflection_tags": [
+      "freedom",
+      "growth",
+      "change"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "wind",
+      "spark",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_experiential_processing",
+    "trait": "experiential_processing",
+    "area": "exploration",
+    "priority": 72,
+    "title": {
+      "en": "Learning by Being There",
+      "ru": "Учиться, находясь внутри"
+    },
+    "short_summary": {
+      "en": "Some truths may only make sense after they are lived.",
+      "ru": "Некоторые истины становятся понятными только после проживания."
+    },
+    "summary": {
+      "en": "You may not fully trust an idea until it has passed through the body of experience: the room, the mistake, the attempt, the weather of actually being there.",
+      "ru": "Ты можешь не до конца доверять идее, пока она не прошла через тело опыта: комнату, ошибку, попытку, погоду настоящего присутствия."
+    },
+    "reflection_tags": [
+      "freedom",
+      "growth",
+      "change"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "wind",
+      "spark",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_experimentation",
+    "trait": "experimentation",
+    "area": "exploration",
+    "priority": 72,
+    "title": {
+      "en": "A Temporary Door",
+      "ru": "Временная дверь"
+    },
+    "short_summary": {
+      "en": "Trying something briefly may reveal more than thinking about it for weeks.",
+      "ru": "Короткая проба может раскрыть больше, чем недели размышлений."
+    },
+    "summary": {
+      "en": "Experimentation lets exploration stay temporary. You do not have to become the new thing forever; you only have to see what changes when it is real for a moment.",
+      "ru": "Эксперимент позволяет исследованию оставаться временным. Не нужно становиться новым навсегда; достаточно увидеть, что меняется, когда это хотя бы ненадолго становится реальностью."
+    },
+    "reflection_tags": [
+      "freedom",
+      "growth",
+      "change"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "wind",
+      "spark",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_innovative_thinking",
+    "trait": "innovative_thinking",
+    "area": "exploration",
+    "priority": 72,
+    "title": {
+      "en": "A Route No One Marked",
+      "ru": "Маршрут, который никто не отметил"
+    },
+    "short_summary": {
+      "en": "The usual map may stop feeling convincing.",
+      "ru": "Обычная карта может перестать казаться убедительной."
+    },
+    "summary": {
+      "en": "Unusual routes matter when the obvious one has gone stale. A broken rule, odd angle, or rearranged system can make the problem visible in a different way.",
+      "ru": "Необычные маршруты важны, когда очевидный уже выдохся. Нарушенное правило, странный угол или перестроенная система могут показать проблему иначе."
+    },
+    "reflection_tags": [
+      "freedom",
+      "growth",
+      "change"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "wind",
+      "spark",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_risk_taking",
+    "trait": "risk_taking",
+    "area": "exploration",
+    "priority": 72,
+    "title": {
+      "en": "The Leap With a Body",
+      "ru": "Прыжок, у которого есть тело"
+    },
+    "short_summary": {
+      "en": "Risk can clarify when staying still feels more costly.",
+      "ru": "Риск может прояснять, когда неподвижность начинает стоить дороже."
+    },
+    "summary": {
+      "en": "Risk can pull life out of rehearsal. The body notices first: sharper attention, faster breath, the strange relief of doing something before certainty arrives.",
+      "ru": "Риск может вывести жизнь из режима репетиции. Тело замечает первым: внимание становится острее, дыхание быстрее, появляется странное облегчение от действия раньше уверенности."
+    },
+    "reflection_tags": [
+      "freedom",
+      "growth",
+      "change"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "wind",
+      "spark",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_stimulation_seeking",
+    "trait": "stimulation_seeking",
+    "area": "exploration",
+    "priority": 72,
+    "title": {
+      "en": "More Signal, More Life",
+      "ru": "Больше сигнала, больше жизни"
+    },
+    "short_summary": {
+      "en": "A dull environment may lower your emotional voltage quickly.",
+      "ru": "Тусклая среда может быстро снижать внутреннее напряжение жизни."
+    },
+    "summary": {
+      "en": "Stimulation may return through sound, speed, exchange, color, or complexity. The need is not always chaos; sometimes it is simply enough signal for the self to wake up.",
+      "ru": "Стимуляция может возвращаться через звук, скорость, обмен, цвет или сложность. Это не всегда потребность в хаосе; иногда просто нужен достаточный сигнал, чтобы «я» проснулось."
+    },
+    "reflection_tags": [
+      "freedom",
+      "growth",
+      "change"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "wind",
+      "spark",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_thrill_seeking",
+    "trait": "thrill_seeking",
+    "area": "exploration",
+    "priority": 72,
+    "title": {
+      "en": "The Body Wants the Edge",
+      "ru": "Телу нужен край"
+    },
+    "short_summary": {
+      "en": "Life sharpens when the stakes can be felt.",
+      "ru": "Жизнь становится острее, когда ставки действительно ощущаются."
+    },
+    "summary": {
+      "en": "Thrill often arrives where repetition has made everything too predictable. The point is not chaos; it is the moment attention wakes up again.",
+      "ru": "Острота часто появляется там, где повторение сделало всё слишком предсказуемым. Смысл не в хаосе, а в моменте, когда внимание снова просыпается."
+    },
+    "reflection_tags": [
+      "freedom",
+      "growth",
+      "change"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "wind",
+      "spark",
+      "silver"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_unconventional_thinking",
+    "trait": "unconventional_thinking",
+    "area": "exploration",
+    "priority": 72,
+    "title": {
+      "en": "Leaving the Marked Road",
+      "ru": "Сойти с отмеченной дороги"
+    },
+    "short_summary": {
+      "en": "The expected route can feel too narrow to be honest.",
+      "ru": "Ожидаемый маршрут может казаться слишком узким, чтобы быть честным."
+    },
+    "summary": {
+      "en": "You may explore by refusing the first available frame. A strange angle can restore oxygen to a question that had become over-managed.",
+      "ru": "Ты можешь исследовать, отказываясь от первой доступной рамки. Странный угол может вернуть кислород вопросу, который стал слишком управляемым."
+    },
+    "reflection_tags": [
+      "freedom",
+      "growth",
+      "change"
+    ],
+    "aesthetic_tags": [
+      "horizon",
+      "wind",
+      "spark",
+      "silver"
+    ],
+    "premium": false
+  }
+]

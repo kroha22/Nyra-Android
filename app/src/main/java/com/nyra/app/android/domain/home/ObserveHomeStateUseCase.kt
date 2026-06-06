@@ -3,6 +3,7 @@ package com.nyra.app.android.domain.home
 import com.nyra.app.android.domain.home.model.HomeState
 import com.nyra.app.android.domain.presence.ResolvePresenceStateUseCase
 import com.nyra.app.android.domain.checkin.repository.CheckInRepository
+import com.nyra.app.android.domain.gentleaction.usecase.ResolveGentleActionsUseCase
 import com.nyra.app.android.domain.settings.PreferencesRepository
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.combine
@@ -15,6 +16,7 @@ class ObserveHomeStateUseCase @Inject constructor(
     private val timeOfDayResolver: TimeOfDayResolver,
     private val resolvePresenceState: ResolvePresenceStateUseCase,
     private val resolveHomeCards: ResolveHomeCardsUseCase,
+    private val resolveGentleActions: ResolveGentleActionsUseCase,
     private val getGreeting: GetGreetingUseCase
 ) {
     operator fun invoke(): Flow<HomeState> {
@@ -40,6 +42,12 @@ class ObserveHomeStateUseCase @Inject constructor(
                 timeOfDay = timeOfDay
             )
 
+            val gentleActions = resolveGentleActions(
+                lastCheckIn = latestCheckIn,
+                timeOfDay = timeOfDay,
+                preferences = preferences
+            )
+
             val greeting = getGreeting(
                 lastCheckIn = latestCheckIn,
                 timeOfDay = timeOfDay
@@ -50,6 +58,7 @@ class ObserveHomeStateUseCase @Inject constructor(
                 subtitle = greeting.second,
                 presenceState = presenceState,
                 cards = cards,
+                gentleActions = gentleActions,
                 lastCheckIn = latestCheckIn,
                 hasCheckedInToday = hasCheckedInToday,
                 timeOfDay = timeOfDay

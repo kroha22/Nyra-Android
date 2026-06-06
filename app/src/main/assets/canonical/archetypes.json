@@ -1,0 +1,982 @@
+[
+  {
+    "id": "quiet_seeker",
+    "priority": 96,
+    "title": {
+      "en": "Quiet Seeker",
+      "ru": "Тихий Искатель"
+    },
+    "short_summary": {
+      "en": "Meaning, depth, and quiet inward listening often shape this identity pattern.",
+      "ru": "Смысл, глубина и тихое внутреннее слушание часто формируют этот паттерн личности."
+    },
+    "required_traits": [
+      "meaning_seeking",
+      "emotional_depth",
+      "introspective_processing",
+      "symbolic_thinking"
+    ],
+    "minimum_match": 2,
+    "dimension_bias": {
+      "depth": 0.95,
+      "symbolism": 0.86,
+      "sensitivity": 0.74,
+      "autonomy": 0.55,
+      "social_energy": 0.24,
+      "transformative_energy": 0.62
+    },
+    "area_bias": {
+      "identity": 0.94,
+      "inner_world": 1,
+      "purpose": 0.82,
+      "relationships": 0.54,
+      "creativity": 0.66
+    },
+    "summary": {
+      "en": "This archetype tends to move through life by listening for what feels emotionally true underneath the visible surface. A quiet walk, a late-night note, or a pause after conversation may become the place where experience finally arranges itself into meaning.",
+      "ru": "Этот архетип склонен двигаться по жизни, прислушиваясь к тому, что эмоционально правдиво под видимой поверхностью. Тихая прогулка, ночная заметка или пауза после разговора могут становиться местом, где опыт наконец складывается в смысл."
+    },
+    "shadow": {
+      "en": "The search for meaning can become a private maze when every feeling needs depth before it can be lived. Ordinary ease may start to seem less real than inner complexity.",
+      "ru": "Поиск смысла может становиться личным лабиринтом, когда каждому чувству нужна глубина, прежде чем его можно прожить. Обычная лёгкость может начать казаться менее настоящей, чем внутренняя сложность."
+    },
+    "growth": {
+      "en": "Meaning becomes more nourishing when it is allowed to be small and lived: a choice made differently, a truth spoken simply, a moment received without over-interpreting it.",
+      "ru": "Смысл становится питательнее, когда ему можно быть маленьким и прожитым: выбор сделан иначе, правда сказана просто, момент принят без чрезмерной интерпретации."
+    },
+    "aesthetic_tags": [
+      "moonlight",
+      "fog",
+      "water",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "meaning_seeking",
+      "identity",
+      "vulnerability",
+      "inner_world"
+    ],
+    "visual_state_bias": [
+      "night_reflection",
+      "deep_focus",
+      "soft_stillness"
+    ],
+    "preferred_home_modules": [
+      "inner_world_journal",
+      "reflection_space",
+      "symbolic_patterns"
+    ],
+    "premium": false,
+    "rarity": 0.78
+  },
+  {
+    "id": "protective_romantic",
+    "priority": 91,
+    "title": {
+      "en": "Protective Romantic",
+      "ru": "Защитный Романтик"
+    },
+    "short_summary": {
+      "en": "Deep feeling, loyalty, and careful trust often make connection feel sacred but selective.",
+      "ru": "Глубокие чувства, верность и осторожное доверие часто делают близость ценной, но избирательной."
+    },
+    "required_traits": [
+      "emotional_loyalty",
+      "deep_connection_seeking",
+      "selective_trust",
+      "attachment_protectiveness"
+    ],
+    "minimum_match": 2,
+    "dimension_bias": {
+      "depth": 0.84,
+      "intensity": 0.68,
+      "sensitivity": 0.72,
+      "warmth": 0.82,
+      "harmony": 0.62,
+      "groundedness": 0.48
+    },
+    "area_bias": {
+      "relationships": 1,
+      "inner_world": 0.76,
+      "belonging": 0.68,
+      "healing": 0.62,
+      "stability": 0.54
+    },
+    "summary": {
+      "en": "This archetype tends to hold love with weight. Connection may be warm, devoted, and emotionally vivid, while trust often grows through consistency, sincerity, and a sense that closeness will be handled with care.",
+      "ru": "Этот архетип склонен воспринимать любовь с весом. Близость может быть тёплой, преданной и эмоционально живой, а доверие часто растёт через последовательность, искренность и ощущение, что с близостью будут обращаться бережно."
+    },
+    "shadow": {
+      "en": "Care can become vigilance when uncertainty feels too charged. Protection may sometimes turn into guardedness, testing, or holding on after a bond has changed shape.",
+      "ru": "Забота может становиться настороженностью, когда неопределённость слишком заряжена. Защита иногда превращается в закрытость, проверки или удерживание связи после того, как она изменила форму."
+    },
+    "growth": {
+      "en": "Love becomes steadier when protection includes self-trust, clear boundaries, and room for closeness to breathe without constant proof.",
+      "ru": "Любовь становится устойчивее, когда защита включает доверие к себе, ясные границы и место для близости, которой не нужно постоянно доказывать себя."
+    },
+    "aesthetic_tags": [
+      "velvet",
+      "moonlight",
+      "warm_glow",
+      "water"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "trust",
+      "attachment",
+      "vulnerability"
+    ],
+    "visual_state_bias": [
+      "warm_night",
+      "deep_connection",
+      "soft_guard"
+    ],
+    "preferred_home_modules": [
+      "relationship_reflection",
+      "trust_check_in",
+      "emotional_boundaries"
+    ],
+    "premium": false,
+    "rarity": 0.66
+  },
+  {
+    "id": "restless_pathfinder",
+    "priority": 89,
+    "title": {
+      "en": "Restless Pathfinder",
+      "ru": "Беспокойный Следопыт"
+    },
+    "short_summary": {
+      "en": "Movement, discovery, and identity-in-progress often guide this emotionally searching pattern.",
+      "ru": "Движение, открытие и идентичность в процессе часто направляют этот эмоционально ищущий паттерн."
+    },
+    "required_traits": [
+      "discovery_orientation",
+      "novelty_seeking",
+      "freedom_needing",
+      "transformative_identity"
+    ],
+    "minimum_match": 2,
+    "dimension_bias": {
+      "novelty": 0.95,
+      "autonomy": 0.86,
+      "intensity": 0.62,
+      "transformative_energy": 0.82,
+      "groundedness": 0.28,
+      "symbolism": 0.48
+    },
+    "area_bias": {
+      "exploration": 1,
+      "growth": 0.88,
+      "identity": 0.78,
+      "purpose": 0.58,
+      "relationships": 0.34
+    },
+    "summary": {
+      "en": "This archetype often finds clarity through motion. New contexts, ideas, and experiments can reveal parts of the self that feel unreachable inside familiar structures.",
+      "ru": "Этот архетип часто находит ясность через движение. Новые контексты, идеи и эксперименты могут раскрывать части себя, которые остаются недоступными внутри привычных структур."
+    },
+    "shadow": {
+      "en": "Restlessness can make stillness feel like limitation. When novelty becomes the only doorway to aliveness, commitments may start to feel smaller than they really are.",
+      "ru": "Беспокойство может делать неподвижность похожей на ограничение. Когда новизна становится единственной дверью к живости, обязательства могут казаться меньше и теснее, чем они есть."
+    },
+    "growth": {
+      "en": "Freedom becomes more nourishing when exploration has an anchor: a value, practice, or relationship that lets movement feel chosen rather than compulsive.",
+      "ru": "Свобода становится питательнее, когда у исследования есть опора: ценность, практика или связь, которые делают движение выбранным, а не вынужденным."
+    },
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "spark",
+      "movement"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "change",
+      "growth",
+      "identity"
+    ],
+    "visual_state_bias": [
+      "open_horizon",
+      "moving_air",
+      "threshold_light"
+    ],
+    "preferred_home_modules": [
+      "exploration_prompt",
+      "growth_map",
+      "new_context_check_in"
+    ],
+    "premium": false,
+    "rarity": 0.58
+  },
+  {
+    "id": "symbolic_dreamer",
+    "priority": 87,
+    "title": {
+      "en": "Symbolic Dreamer",
+      "ru": "Символический Мечтатель"
+    },
+    "short_summary": {
+      "en": "Imagination, beauty, and symbolic perception often turn feeling into atmosphere and form.",
+      "ru": "Воображение, красота и символическое восприятие часто превращают чувство в атмосферу и форму."
+    },
+    "required_traits": [
+      "symbolic_thinking",
+      "imaginative_processing",
+      "aesthetic_sensitivity",
+      "emotional_absorption"
+    ],
+    "minimum_match": 2,
+    "dimension_bias": {
+      "symbolism": 0.96,
+      "depth": 0.82,
+      "sensitivity": 0.86,
+      "novelty": 0.54,
+      "groundedness": 0.24,
+      "warmth": 0.46
+    },
+    "area_bias": {
+      "inner_world": 0.96,
+      "creativity": 1,
+      "identity": 0.76,
+      "purpose": 0.62,
+      "healing": 0.44
+    },
+    "summary": {
+      "en": "This archetype translates emotion through image, color, sound, texture, and mood. A room, song, object, or changing sky may say what direct language cannot, giving the inner world a form that can be felt before it is explained.",
+      "ru": "Этот архетип переводит эмоцию через образ, цвет, звук, текстуру и настроение. Комната, песня, предмет или меняющееся небо могут сказать то, чего не может прямой язык, давая внутреннему миру форму, которую можно почувствовать до объяснения."
+    },
+    "shadow": {
+      "en": "Symbolic life can become absorbing when it never touches form. The feeling may stay beautiful but suspended, more atmosphere than choice.",
+      "ru": "Символическая жизнь может становиться поглощающей, если никогда не касается формы. Чувство может оставаться красивым, но подвешенным: больше атмосферой, чем выбором."
+    },
+    "growth": {
+      "en": "The dream strengthens when it becomes something tangible: a page, a playlist, a photograph, a message, a room arranged to match the truth inside.",
+      "ru": "Мечта крепнет, когда становится чем-то осязаемым: страницей, плейлистом, фотографией, сообщением, комнатой, устроенной в согласии с внутренней правдой."
+    },
+    "aesthetic_tags": [
+      "violet",
+      "moonlight",
+      "paper",
+      "fog"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "inner_world",
+      "identity",
+      "self_expression"
+    ],
+    "visual_state_bias": [
+      "symbolic_flow",
+      "soft_image",
+      "dream_focus"
+    ],
+    "preferred_home_modules": [
+      "symbolic_patterns",
+      "creative_reflection",
+      "atmosphere_journal"
+    ],
+    "premium": false,
+    "rarity": 0.74
+  },
+  {
+    "id": "steady_builder",
+    "priority": 88,
+    "title": {
+      "en": "Steady Builder",
+      "ru": "Устойчивый Создатель"
+    },
+    "short_summary": {
+      "en": "Structure, responsibility, and grounded effort often create emotional safety and durable progress.",
+      "ru": "Структура, ответственность и заземлённое усилие часто создают эмоциональную безопасность и устойчивый прогресс."
+    },
+    "required_traits": [
+      "consistency",
+      "responsibility_focus",
+      "discipline_orientation",
+      "methodical_execution"
+    ],
+    "minimum_match": 2,
+    "dimension_bias": {
+      "groundedness": 0.94,
+      "structure": 0.92,
+      "autonomy": 0.58,
+      "warmth": 0.38,
+      "novelty": 0.18,
+      "intensity": 0.34
+    },
+    "area_bias": {
+      "stability": 1,
+      "motivation": 0.86,
+      "purpose": 0.68,
+      "relationships": 0.48,
+      "healing": 0.52
+    },
+    "summary": {
+      "en": "This archetype often creates meaning through reliability. Slow progress, clear rhythms, and practical follow-through may feel emotionally stabilizing because they turn intention into something real.",
+      "ru": "Этот архетип часто создаёт смысл через надёжность. Медленный прогресс, ясные ритмы и практическое доведение до конца могут эмоционально стабилизировать, потому что превращают намерение во что-то реальное."
+    },
+    "shadow": {
+      "en": "Structure can become a way to avoid uncertainty or tenderness. When everything must be held together, rest and emotional softness may start to feel undeserved.",
+      "ru": "Структура может становиться способом избегать неопределённости или нежности. Когда всё нужно удерживать, отдых и эмоциональная мягкость могут начать казаться незаслуженными."
+    },
+    "growth": {
+      "en": "Stability becomes more alive when structure supports feeling instead of replacing it, leaving room for rest, revision, and emotional truth.",
+      "ru": "Устойчивость становится живее, когда структура поддерживает чувства, а не заменяет их, оставляя место отдыху, пересмотру и эмоциональной правде."
+    },
+    "aesthetic_tags": [
+      "stone",
+      "earth",
+      "wood",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "stability",
+      "motivation",
+      "grounding",
+      "purpose"
+    ],
+    "visual_state_bias": [
+      "grounded_morning",
+      "steady_rhythm",
+      "quiet_structure"
+    ],
+    "preferred_home_modules": [
+      "stability_check_in",
+      "purpose_planning",
+      "gentle_action"
+    ],
+    "premium": false,
+    "rarity": 0.42
+  },
+  {
+    "id": "warm_harmonizer",
+    "priority": 90,
+    "title": {
+      "en": "Warm Harmonizer",
+      "ru": "Тёплый Гармонизатор"
+    },
+    "short_summary": {
+      "en": "Attunement, warmth, and relational awareness often make emotional harmony a central need.",
+      "ru": "Настроенность, тепло и внимательность к отношениям часто делают эмоциональную гармонию центральной потребностью."
+    },
+    "required_traits": [
+      "harmony_seeking",
+      "emotional_warmth",
+      "relational_attunement",
+      "diplomatic_communication"
+    ],
+    "minimum_match": 2,
+    "dimension_bias": {
+      "warmth": 0.94,
+      "harmony": 0.92,
+      "sensitivity": 0.72,
+      "social_energy": 0.66,
+      "autonomy": 0.32,
+      "intensity": 0.38
+    },
+    "area_bias": {
+      "relationships": 0.96,
+      "belonging": 1,
+      "communication": 0.84,
+      "healing": 0.54,
+      "identity": 0.46
+    },
+    "summary": {
+      "en": "This archetype often senses the emotional tone of a room before words make it explicit. Connection may feel healthiest when kindness, mutual consideration, and emotional ease are allowed to matter.",
+      "ru": "Этот архетип часто чувствует эмоциональный тон пространства раньше, чем слова делают его явным. Связь может ощущаться самой здоровой, когда доброта, взаимное внимание и эмоциональная лёгкость действительно важны."
+    },
+    "shadow": {
+      "en": "Harmony can become self-silencing when peace is protected at any cost. The wish to keep connection gentle may make honest tension feel more dangerous than it is.",
+      "ru": "Гармония может становиться самоумалчиванием, когда мир защищается любой ценой. Желание сохранить мягкость связи может делать честное напряжение опаснее, чем оно есть."
+    },
+    "growth": {
+      "en": "Warmth gains depth when harmony includes truth, boundaries, and the confidence that a relationship can survive careful disagreement.",
+      "ru": "Тепло становится глубже, когда гармония включает правду, границы и уверенность, что отношения могут выдержать бережное несогласие."
+    },
+    "aesthetic_tags": [
+      "warm_glow",
+      "garden",
+      "soft_light",
+      "velvet"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "belonging",
+      "communication",
+      "trust"
+    ],
+    "visual_state_bias": [
+      "soft_connection",
+      "warm_room",
+      "relational_ease"
+    ],
+    "preferred_home_modules": [
+      "relationship_reflection",
+      "belonging_check_in",
+      "communication_prompt"
+    ],
+    "premium": false,
+    "rarity": 0.38
+  },
+  {
+    "id": "emotional_alchemist",
+    "priority": 92,
+    "title": {
+      "en": "Emotional Alchemist",
+      "ru": "Эмоциональный Алхимик"
+    },
+    "short_summary": {
+      "en": "Intensity, insight, and transformation often turn difficult feeling into emotional understanding.",
+      "ru": "Интенсивность, проницательность и трансформация часто превращают трудные чувства в эмоциональное понимание."
+    },
+    "required_traits": [
+      "emotional_intensity",
+      "psychological_insight",
+      "transformative_drive",
+      "emotional_authenticity"
+    ],
+    "minimum_match": 2,
+    "dimension_bias": {
+      "depth": 0.88,
+      "intensity": 0.9,
+      "transformative_energy": 0.96,
+      "sensitivity": 0.74,
+      "symbolism": 0.64,
+      "groundedness": 0.32
+    },
+    "area_bias": {
+      "healing": 1,
+      "growth": 0.94,
+      "inner_world": 0.88,
+      "identity": 0.72,
+      "relationships": 0.58
+    },
+    "summary": {
+      "en": "This archetype often meets emotion as material for change. Strong feelings may be uncomfortable, but they can also reveal where something is ready to be understood, released, or remade.",
+      "ru": "Этот архетип часто воспринимает эмоцию как материал для изменений. Сильные чувства могут быть неудобными, но они также способны показывать, где что-то готово быть понятым, отпущенным или созданным заново."
+    },
+    "shadow": {
+      "en": "Transformation can become exhausting when every feeling must become insight. Intensity may start to feel like proof that something meaningful is happening.",
+      "ru": "Трансформация может истощать, когда каждое чувство должно стать инсайтом. Интенсивность может начать казаться доказательством того, что происходит что-то значимое."
+    },
+    "growth": {
+      "en": "Change becomes more sustainable when insight is balanced with rest, ordinary steadiness, and permission for some feelings to remain simple.",
+      "ru": "Изменения становятся устойчивее, когда инсайт уравновешен отдыхом, обычной стабильностью и разрешением некоторым чувствам оставаться простыми."
+    },
+    "aesthetic_tags": [
+      "flame",
+      "violet",
+      "water",
+      "night"
+    ],
+    "reflection_tags": [
+      "healing",
+      "growth",
+      "inner_world",
+      "vulnerability"
+    ],
+    "visual_state_bias": [
+      "deep_repair",
+      "transforming_light",
+      "emotional_heat"
+    ],
+    "preferred_home_modules": [
+      "healing_reflection",
+      "growth_map",
+      "emotional_processing"
+    ],
+    "premium": false,
+    "rarity": 0.84
+  },
+  {
+    "id": "independent_explorer",
+    "priority": 86,
+    "title": {
+      "en": "Independent Explorer",
+      "ru": "Независимый Исследователь"
+    },
+    "short_summary": {
+      "en": "Autonomy, curiosity, and self-directed movement often shape a spacious identity pattern.",
+      "ru": "Автономия, любопытство и самостоятельное движение часто формируют просторный паттерн идентичности."
+    },
+    "required_traits": [
+      "autonomy_needing",
+      "independent_attachment",
+      "experimentation",
+      "unconventional_thinking"
+    ],
+    "minimum_match": 2,
+    "dimension_bias": {
+      "autonomy": 0.96,
+      "novelty": 0.82,
+      "social_energy": 0.34,
+      "groundedness": 0.46,
+      "depth": 0.56,
+      "harmony": 0.26
+    },
+    "area_bias": {
+      "exploration": 0.96,
+      "identity": 0.84,
+      "creativity": 0.72,
+      "relationships": 0.38,
+      "stability": 0.44
+    },
+    "summary": {
+      "en": "This archetype often needs room to think, move, and choose from an internal center. Independence may feel less like distance and more like the condition that makes honest connection possible.",
+      "ru": "Этому архетипу часто нужно пространство, чтобы думать, двигаться и выбирать из внутреннего центра. Независимость может ощущаться не как дистанция, а как условие, которое делает честную связь возможной."
+    },
+    "shadow": {
+      "en": "Autonomy can harden when any need for others feels like loss of self. Freedom may become reactive if closeness is mistaken for control.",
+      "ru": "Автономия может становиться жёсткой, когда любая потребность в других кажется потерей себя. Свобода может стать реактивной, если близость ошибочно воспринимается как контроль."
+    },
+    "growth": {
+      "en": "Independence becomes more spacious when it can include chosen support, flexible commitments, and relationships that respect self-direction.",
+      "ru": "Независимость становится просторнее, когда включает выбранную поддержку, гибкие обязательства и отношения, которые уважают самостоятельность."
+    },
+    "aesthetic_tags": [
+      "horizon",
+      "wind",
+      "silver",
+      "air"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "identity",
+      "change",
+      "relationships"
+    ],
+    "visual_state_bias": [
+      "open_air",
+      "clear_distance",
+      "self_directed_path"
+    ],
+    "preferred_home_modules": [
+      "exploration_prompt",
+      "identity_reflection",
+      "autonomy_check_in"
+    ],
+    "premium": false,
+    "rarity": 0.52
+  },
+  {
+    "id": "gentle_guardian",
+    "priority": 85,
+    "title": {
+      "en": "Gentle Guardian",
+      "ru": "Мягкий Хранитель"
+    },
+    "short_summary": {
+      "en": "Care, steadiness, and protective warmth often create a deeply supportive emotional pattern.",
+      "ru": "Забота, устойчивость и защитное тепло часто создают глубоко поддерживающий эмоциональный паттерн."
+    },
+    "required_traits": [
+      "protective_care",
+      "relationship_nurturing",
+      "nurturing_identity",
+      "support_orientation"
+    ],
+    "minimum_match": 2,
+    "dimension_bias": {
+      "warmth": 0.9,
+      "groundedness": 0.76,
+      "harmony": 0.78,
+      "sensitivity": 0.66,
+      "autonomy": 0.28,
+      "social_energy": 0.58
+    },
+    "area_bias": {
+      "relationships": 0.92,
+      "belonging": 0.88,
+      "stability": 0.72,
+      "healing": 0.7,
+      "identity": 0.48
+    },
+    "summary": {
+      "en": "This archetype often expresses identity through care that is quiet, practical, and emotionally loyal. Support may be offered through presence, protection, repair, and attention to what others need before they say it.",
+      "ru": "Этот архетип часто выражает идентичность через тихую, практичную и эмоционально верную заботу. Поддержка может проявляться через присутствие, защиту, восстановление и внимание к тому, что другим нужно ещё до слов."
+    },
+    "shadow": {
+      "en": "Care can become self-erasure when being needed feels safer than being known. Giving may continue after the emotional reserves are already low.",
+      "ru": "Забота может превращаться в стирание себя, когда быть нужным безопаснее, чем быть увиденным. Отдача может продолжаться даже после того, как эмоциональные запасы уже низки."
+    },
+    "growth": {
+      "en": "Protection becomes healthier when the guardian also belongs to the circle of care, with needs, limits, and tenderness that are allowed to matter.",
+      "ru": "Защита становится здоровее, когда сам хранитель тоже входит в круг заботы, со своими потребностями, пределами и нежностью, которые имеют право быть важными."
+    },
+    "aesthetic_tags": [
+      "garden",
+      "warm_glow",
+      "earth",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "belonging",
+      "boundaries",
+      "healing"
+    ],
+    "visual_state_bias": [
+      "soft_shelter",
+      "warm_ground",
+      "care_circle"
+    ],
+    "preferred_home_modules": [
+      "belonging_check_in",
+      "boundary_reflection",
+      "relationship_nurturing"
+    ],
+    "premium": false,
+    "rarity": 0.44
+  },
+  {
+    "id": "private_visionary",
+    "priority": 84,
+    "title": {
+      "en": "Private Visionary",
+      "ru": "Закрытый Визионер"
+    },
+    "short_summary": {
+      "en": "Private insight, future sense, and careful timing often shape a quietly original direction.",
+      "ru": "Личный инсайт, чувство будущего и осторожный темп часто формируют тихо оригинальное направление."
+    },
+    "required_traits": [
+      "future_orientation",
+      "strategic_thinking",
+      "emotional_privacy",
+      "innovative_thinking"
+    ],
+    "minimum_match": 2,
+    "dimension_bias": {
+      "depth": 0.72,
+      "symbolism": 0.62,
+      "autonomy": 0.82,
+      "novelty": 0.74,
+      "structure": 0.68,
+      "social_energy": 0.22
+    },
+    "area_bias": {
+      "identity": 0.82,
+      "inner_world": 0.78,
+      "purpose": 0.84,
+      "creativity": 0.72,
+      "communication": 0.38
+    },
+    "summary": {
+      "en": "This archetype often sees a possible future before it is easy to explain. Ideas may be tested internally for a long time: in notes, plans, quiet observations, and the private pressure of knowing something is not ready yet but already real.",
+      "ru": "Этот архетип часто видит возможное будущее раньше, чем его легко объяснить. Идеи могут долго проверяться внутри: в заметках, планах, тихих наблюдениях и личном давлении знания, что что-то ещё не готово, но уже реально."
+    },
+    "shadow": {
+      "en": "Privacy can protect the signal, but it can also delay contact with reality. A vision kept too sealed may avoid distortion while also missing support, friction, and useful surprise.",
+      "ru": "Приватность может защищать сигнал, но также откладывать контакт с реальностью. Слишком закрытое видение может избегать искажения, но вместе с этим терять поддержку, трение и полезное удивление."
+    },
+    "growth": {
+      "en": "The vision becomes sturdier when one carefully chosen person, prototype, or ordinary test is allowed to meet it before it feels perfect.",
+      "ru": "Видение становится прочнее, когда один тщательно выбранный человек, прототип или обычная проверка встречают его до того, как оно почувствует себя идеальным."
+    },
+    "aesthetic_tags": [
+      "silver",
+      "night",
+      "glass",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "identity",
+      "purpose",
+      "creativity",
+      "inner_world"
+    ],
+    "visual_state_bias": [
+      "future_focus",
+      "private_signal",
+      "clear_night"
+    ],
+    "preferred_home_modules": [
+      "purpose_reflection",
+      "idea_capture",
+      "private_journal"
+    ],
+    "premium": false,
+    "rarity": 0.76
+  },
+  {
+    "id": "clear_analyst",
+    "priority": 80,
+    "title": {
+      "en": "Clear Analyst",
+      "ru": "Ясный Аналитик"
+    },
+    "short_summary": {
+      "en": "Precision, perspective, and emotional composure often create clarity in complex inner and outer systems.",
+      "ru": "Точность, перспектива и эмоциональная собранность часто создают ясность в сложных внутренних и внешних системах."
+    },
+    "required_traits": [
+      "analytical_processing",
+      "objective_analysis",
+      "pattern_sensitivity",
+      "calm_under_pressure"
+    ],
+    "minimum_match": 2,
+    "dimension_bias": {
+      "structure": 0.86,
+      "groundedness": 0.78,
+      "depth": 0.62,
+      "sensitivity": 0.42,
+      "intensity": 0.26,
+      "symbolism": 0.36
+    },
+    "area_bias": {
+      "identity": 0.7,
+      "communication": 0.72,
+      "stability": 0.78,
+      "motivation": 0.66,
+      "inner_world": 0.54
+    },
+    "summary": {
+      "en": "This archetype tends to seek emotional clarity through patterns, distinctions, and careful observation. Calm may not mean absence of feeling; it can mean feelings become easier to hold when they are understood.",
+      "ru": "Этот архетип склонен искать эмоциональную ясность через паттерны, различия и внимательное наблюдение. Спокойствие не обязательно означает отсутствие чувств; оно может означать, что чувства легче удерживать, когда они поняты."
+    },
+    "shadow": {
+      "en": "Analysis can become distance when clarity is used to avoid vulnerability. Some emotional truths may stay inaccessible if they must become logical too quickly.",
+      "ru": "Анализ может становиться дистанцией, когда ясность используется для избегания уязвимости. Некоторые эмоциональные истины могут оставаться недоступными, если должны слишком быстро стать логичными."
+    },
+    "growth": {
+      "en": "Clarity becomes more human when analysis makes room for uncertainty, softness, and feelings that are real before they are fully organized.",
+      "ru": "Ясность становится человечнее, когда анализ оставляет место неопределённости, мягкости и чувствам, которые реальны ещё до полной организации."
+    },
+    "aesthetic_tags": [
+      "glass",
+      "metal",
+      "stone",
+      "silver"
+    ],
+    "reflection_tags": [
+      "identity",
+      "communication",
+      "stability",
+      "inner_world"
+    ],
+    "visual_state_bias": [
+      "clear_focus",
+      "calm_structure",
+      "pattern_view"
+    ],
+    "preferred_home_modules": [
+      "pattern_reflection",
+      "clarity_check_in",
+      "structured_journal"
+    ],
+    "premium": false,
+    "rarity": 0.48
+  },
+  {
+    "id": "radiant_catalyst",
+    "priority": 82,
+    "title": {
+      "en": "Radiant Catalyst",
+      "ru": "Светлый Катализатор"
+    },
+    "short_summary": {
+      "en": "Expressive energy, inspiration, and social warmth often help emotion become movement.",
+      "ru": "Выразительная энергия, вдохновение и социальное тепло часто помогают эмоции превращаться в движение."
+    },
+    "required_traits": [
+      "charismatic_engagement",
+      "inspiration_orientation",
+      "emotional_vitality",
+      "encouragement_drive"
+    ],
+    "minimum_match": 2,
+    "dimension_bias": {
+      "warmth": 0.84,
+      "intensity": 0.72,
+      "social_energy": 0.9,
+      "novelty": 0.58,
+      "harmony": 0.58,
+      "groundedness": 0.34
+    },
+    "area_bias": {
+      "communication": 0.9,
+      "belonging": 0.78,
+      "motivation": 0.84,
+      "creativity": 0.74,
+      "relationships": 0.66
+    },
+    "summary": {
+      "en": "This archetype often brings emotional energy into motion. Presence, expression, humor, encouragement, or vision can make others feel that something possible has moved closer.",
+      "ru": "Этот архетип часто приводит эмоциональную энергию в движение. Присутствие, выражение, юмор, поддержка или видение могут помогать другим чувствовать, что что-то возможное стало ближе."
+    },
+    "shadow": {
+      "en": "Radiance can become overextension when being enlivening becomes a role. The visible self may receive attention while quieter needs wait behind it.",
+      "ru": "Свет может становиться перерасходом, когда оживлять других превращается в роль. Видимая часть себя может получать внимание, пока более тихие потребности ждут за ней."
+    },
+    "growth": {
+      "en": "Energy becomes more sustainable when expression includes pauses, honest needs, and the freedom not to brighten every room.",
+      "ru": "Энергия становится устойчивее, когда выражение включает паузы, честные потребности и свободу не освещать каждое пространство."
+    },
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "flame",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "communication",
+      "motivation",
+      "belonging",
+      "self_expression"
+    ],
+    "visual_state_bias": [
+      "warm_spark",
+      "social_light",
+      "creative_charge"
+    ],
+    "preferred_home_modules": [
+      "communication_prompt",
+      "motivation_check_in",
+      "creative_action"
+    ],
+    "premium": false,
+    "rarity": 0.55
+  },
+  {
+    "id": "openhearted_wanderer",
+    "priority": 79,
+    "rarity": 0.46,
+    "title": {
+      "en": "Openhearted Wanderer",
+      "ru": "Открытый Странник"
+    },
+    "short_summary": {
+      "en": "Curiosity, warmth, and freedom often make new experience feel emotionally renewing.",
+      "ru": "Любопытство, тепло и свобода часто делают новый опыт эмоционально обновляющим."
+    },
+    "required_traits": [
+      "adventurous_drive",
+      "emotional_openness",
+      "socially_adaptable",
+      "discovery_orientation"
+    ],
+    "minimum_match": 2,
+    "dimension_bias": {
+      "novelty": 0.82,
+      "warmth": 0.72,
+      "autonomy": 0.7,
+      "social_energy": 0.62,
+      "groundedness": 0.38,
+      "sensitivity": 0.52
+    },
+    "area_bias": {
+      "exploration": 0.92,
+      "relationships": 0.7,
+      "belonging": 0.62,
+      "growth": 0.76,
+      "creativity": 0.58
+    },
+    "summary": {
+      "en": "This archetype often learns through lived contact: a new street, a sincere conversation, a change of scenery, a small invitation accepted before it becomes overthought. Openness here is not naivety; it is a willingness to let life keep introducing texture.",
+      "ru": "Этот архетип часто учится через живой контакт: новую улицу, искренний разговор, смену обстановки, маленькое приглашение, принятое до чрезмерных размышлений. Открытость здесь не наивность, а готовность позволять жизни приносить новую текстуру."
+    },
+    "shadow": {
+      "en": "Openness can scatter when every possibility deserves a yes. The heart may need a few steady coordinates so wandering stays nourishing rather than diffuse.",
+      "ru": "Открытость может рассеиваться, когда каждая возможность заслуживает да. Сердцу могут быть нужны несколько устойчивых координат, чтобы странствие оставалось питательным, а не расплывчатым."
+    },
+    "growth": {
+      "en": "The path becomes richer when curiosity is paired with self-trust: choosing what feels alive, noticing what drains, and letting some invitations pass without closing the world.",
+      "ru": "Путь становится богаче, когда любопытство соединяется с доверием к себе: выбирать живое, замечать истощающее и позволять некоторым приглашениям проходить мимо, не закрывая мир."
+    },
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "warm_glow",
+      "open_sky"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "relationships",
+      "growth",
+      "trust"
+    ],
+    "visual_state_bias": [
+      "open_horizon",
+      "warm_motion",
+      "new_air"
+    ],
+    "preferred_home_modules": [
+      "exploration_prompt",
+      "relationship_reflection",
+      "daily_discovery"
+    ],
+    "premium": false
+  },
+  {
+    "id": "sensory_grounder",
+    "priority": 76,
+    "rarity": 0.4,
+    "title": {
+      "en": "Sensory Grounder",
+      "ru": "Сенсорный Заземлитель"
+    },
+    "short_summary": {
+      "en": "Presence, texture, and embodied steadiness often help emotion become manageable and real.",
+      "ru": "Присутствие, текстура и телесная устойчивость часто помогают эмоции становиться понятной и реальной."
+    },
+    "required_traits": [
+      "sensory_engagement",
+      "present_moment_attention",
+      "comfort_orientation",
+      "emotionally_grounded"
+    ],
+    "minimum_match": 2,
+    "dimension_bias": {
+      "groundedness": 0.9,
+      "sensitivity": 0.58,
+      "warmth": 0.56,
+      "depth": 0.46,
+      "novelty": 0.28,
+      "harmony": 0.62
+    },
+    "area_bias": {
+      "stability": 0.94,
+      "healing": 0.78,
+      "inner_world": 0.58,
+      "creativity": 0.54,
+      "relationships": 0.48
+    },
+    "summary": {
+      "en": "This archetype often returns to the world through the senses: clean sheets, warm food, a familiar walk, light through a window, the weight of a cup in the hand. Feeling becomes less abstract when it has texture and place.",
+      "ru": "Этот архетип часто возвращается к миру через ощущения: чистые простыни, тёплую еду, знакомую прогулку, свет в окне, вес чашки в руке. Чувство становится менее абстрактным, когда у него есть текстура и место."
+    },
+    "shadow": {
+      "en": "Comfort can become avoidance when the familiar is used to postpone needed change. Grounding may need to support movement, not only shelter from it.",
+      "ru": "Комфорт может становиться избеганием, когда привычное используется для откладывания нужных изменений. Заземление может поддерживать движение, а не только укрывать от него."
+    },
+    "growth": {
+      "en": "Presence becomes restorative when sensory steadiness creates enough safety for one honest next step, one clear feeling, or one small repair.",
+      "ru": "Присутствие становится восстановительным, когда сенсорная устойчивость создаёт достаточно безопасности для одного честного следующего шага, одного ясного чувства или одного маленького восстановления."
+    },
+    "aesthetic_tags": [
+      "earth",
+      "wood",
+      "windowlight",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "stability",
+      "healing",
+      "inner_world",
+      "grounding"
+    ],
+    "visual_state_bias": [
+      "grounded_room",
+      "warm_texture",
+      "morning_stillness"
+    ],
+    "preferred_home_modules": [
+      "stability_check_in",
+      "sensory_reset",
+      "gentle_action"
+    ],
+    "premium": false
+  }
+]

@@ -6,8 +6,10 @@ import com.nyra.app.android.core.rules.TimeOfDayResolver
 import com.nyra.app.android.domain.checkin.repository.CheckInRepository
 import com.nyra.app.android.domain.home.model.HomeState
 import com.nyra.app.android.domain.preferences.repository.PreferenceRepository
+import com.nyra.app.android.domain.home.GetGreetingUseCase
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.combine
+import java.time.LocalDate
 import javax.inject.Inject
 
 class ObserveHomeStateUseCase @Inject constructor(
@@ -23,13 +25,17 @@ class ObserveHomeStateUseCase @Inject constructor(
             preferenceRepository.observeUserPreferences()
         ) { lastCheckIn, preferences ->
             val homeRuleState = ruleEngine.resolveHomeState(lastCheckIn, preferences)
+            val greeting = getGreetingUseCase(lastCheckIn, homeRuleState.timeOfDay)
             
             HomeState(
-                greeting = getGreetingUseCase(homeRuleState.timeOfDay, lastCheckIn?.moodCode),
-                timeOfDay = homeRuleState.timeOfDay,
+                greeting = greeting.first,
+                subtitle = greeting.second,
                 presenceState = homeRuleState.presenceState,
-                homeCards = homeRuleState.homeCards,
-                gentleActions = homeRuleState.gentleActions
+                cards = homeRuleState.homeCards,
+                gentleActions = homeRuleState.gentleActions,
+                lastCheckIn = lastCheckIn,
+                hasCheckedInToday = lastCheckIn?.localDay == LocalDate.now(),
+                timeOfDay = homeRuleState.timeOfDay
             )
         }
     }

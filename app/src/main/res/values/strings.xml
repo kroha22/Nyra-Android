@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Nyra</string>
+    <string name="greeting_evening">Good evening,</string>
+    <string name="greeting_subtitle">I’m here, Nyra.</string>
+
+    <string name="home_card_feeling_title">How are you feeling?</string>
+    <string name="home_card_feeling_subtitle">Check in with yourself\nand name what’s here.</string>
+
+    <string name="home_card_reflection_title">Evening reflection</string>
+    <string name="home_card_reflection_subtitle">Look back on your day\nwith kindness.</string>
+
+    <string name="home_card_step_title">Small step for you</string>
+    <string name="home_card_step_subtitle">Choose one gentle action\nto support yourself.</string>
+
+    <string name="home_card_breathe_title">Breathe with Nyra</string>
+    <string name="home_card_breathe_subtitle">Take a moment to breathe\nand come back to now.</string>
+
+    <string name="home_card_here_title">I’m here</string>
+    <string name="home_card_here_subtitle">Tap whenever you\nneed a moment.</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_journal">Journal</string>
+    <string name="nav_insights">Insights</string>
+    <string name="nav_support">Support</string>
 </resources>

@@ -1,0 +1,221 @@
+{
+  "version": "1.0",
+  "source_weights": {
+    "mbti": 1.0,
+    "astrology": 0.95,
+    "archetype": 0.9,
+    "reflection_patterns": 0.75,
+    "manual_self_selection": 0.85
+  },
+  "planet_weights": {
+    "sun": {
+      "weight": 1.0,
+      "category": "identity_core"
+    },
+    "moon": {
+      "weight": 1.15,
+      "category": "emotional_core"
+    },
+    "mercury": {
+      "weight": 0.85,
+      "category": "cognitive_style"
+    },
+    "venus": {
+      "weight": 0.95,
+      "category": "relational_aesthetic"
+    },
+    "mars": {
+      "weight": 0.9,
+      "category": "activation_drive"
+    }
+  },
+  "area_activation": {
+    "core_areas": [
+      "identity",
+      "inner_world",
+      "relationships",
+      "communication",
+      "motivation",
+      "growth",
+      "creativity",
+      "stability"
+    ],
+    "extended_areas": [
+      "purpose",
+      "belonging",
+      "exploration",
+      "healing"
+    ],
+    "extended_activation_threshold": 0.72,
+    "strong_combo_override": true,
+    "min_active_areas": 6,
+    "max_active_areas": 10,
+    "core_area_min_score": 0.0,
+    "area_score_normalization": "soft_cap"
+  },
+  "combo_matching": {
+    "minimum_match_ratio": 0.7,
+    "minimum_match_rules": {
+      "3_traits": 2,
+      "4_traits": 3,
+      "5_traits": 4
+    },
+    "weight_priority_factor": 1.0,
+    "match_strength_factor": 1.15,
+    "trait_score_factor": 1.05,
+    "fallback_priority_factor": 0.9,
+    "max_primary_combos_per_area": 2,
+    "max_total_combos": 12,
+    "premium_combo_penalty": 0.0,
+    "tie_breaker": "weight_then_priority"
+  },
+  "trait_aggregation": {
+    "normalization": "soft_cap",
+    "max_trait_score": 100,
+    "cross_source_blend_mode": "weighted_average",
+    "duplicate_trait_decay": 0.92,
+    "noise_floor": 0.15,
+    "dominant_trait_threshold": 75,
+    "secondary_trait_threshold": 55,
+    "shadow_trait_threshold": 65,
+    "growth_trait_threshold": 50,
+    "max_dominant_traits_shown": 12,
+    "max_shadow_traits_shown": 5,
+    "max_growth_traits_shown": 5,
+    "dimension_blend_mode": "weighted_average",
+    "dimension_max_score": 1.0
+  },
+  "fallback_logic": {
+    "use_partial_matches": true,
+    "minimum_partial_match_strength": 0.55,
+    "fallback_to_single_traits": true,
+    "max_single_trait_interpretations": 3,
+    "generic_area_summary_enabled": true,
+    "empty_area_placeholder_enabled": false,
+    "fallback_aesthetic_state": "soft_dawn",
+    "fallback_emotional_tone": {
+      "warmth": "tempered",
+      "movement": "flowing",
+      "density": "light",
+      "social_texture": "selective"
+    }
+  },
+  "extended_area_rules": {
+    "purpose": {
+      "required_dimensions": [
+        "meaning_seeking",
+        "purpose_drive",
+        "future_orientation",
+        "value_centered_thinking"
+      ],
+      "activation_score": 70,
+      "min_signals_present": 2
+    },
+    "belonging": {
+      "required_dimensions": [
+        "belonging_needing",
+        "collective_orientation",
+        "people_focused",
+        "relationship_nurturing"
+      ],
+      "activation_score": 68,
+      "min_signals_present": 2
+    },
+    "exploration": {
+      "required_dimensions": [
+        "novelty_seeking",
+        "discovery_orientation",
+        "freedom_needing",
+        "adventurous_drive"
+      ],
+      "activation_score": 68,
+      "min_signals_present": 2
+    },
+    "healing": {
+      "required_dimensions": [
+        "emotional_overwhelm",
+        "emotional_exhaustion",
+        "introspective_processing",
+        "psychological_insight",
+        "protective_withdrawal"
+      ],
+      "activation_score": 65,
+      "min_signals_present": 2
+    }
+  },
+  "dynamic_adaptation": {
+    "time_of_day_bias": {
+      "morning": {
+        "motivation": 1.05,
+        "growth": 1.03,
+        "purpose": 1.02
+      },
+      "midday": {
+        "communication": 1.04,
+        "exploration": 1.02
+      },
+      "evening": {
+        "inner_world": 1.08,
+        "healing": 1.06,
+        "relationships": 1.04
+      },
+      "night": {
+        "inner_world": 1.1,
+        "healing": 1.05
+      }
+    },
+    "reflection_bias": {
+      "recent_checkin_weight": 1.15,
+      "journal_pattern_weight": 1.1,
+      "tracker_pattern_weight": 1.05,
+      "recency_decay_days": 14
+    },
+    "seasonal_bias": {
+      "enabled": false,
+      "winter": {
+        "inner_world": 1.05,
+        "healing": 1.04,
+        "stability": 1.03
+      },
+      "spring": {
+        "growth": 1.05,
+        "creativity": 1.04,
+        "exploration": 1.03
+      },
+      "summer": {
+        "motivation": 1.04,
+        "exploration": 1.05,
+        "communication": 1.03
+      },
+      "autumn": {
+        "purpose": 1.04,
+        "stability": 1.03,
+        "inner_world": 1.03
+      }
+    },
+    "user_state_bias": {
+      "low_energy": {
+        "healing": 1.1,
+        "stability": 1.05,
+        "inner_world": 1.04
+      },
+      "high_energy": {
+        "motivation": 1.05,
+        "exploration": 1.04,
+        "creativity": 1.03
+      },
+      "tender": {
+        "healing": 1.08,
+        "relationships": 1.04,
+        "inner_world": 1.04
+      },
+      "outward": {
+        "communication": 1.05,
+        "relationships": 1.04,
+        "belonging": 1.03
+      }
+    },
+    "max_bias_compound": 1.3,
+    "min_bias_compound": 0.85
+  }
+}

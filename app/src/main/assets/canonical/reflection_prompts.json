@@ -1,0 +1,8177 @@
+[
+  {
+    "id": "identity_01",
+    "tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "identity",
+      "inner_world"
+    ],
+    "depth": "light",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What feels most like you lately, even if it is quiet?",
+      "ru": "Какая часть тебя в последнее время ощущается самой настоящей, даже если она тихая?"
+    },
+    "followup_prompt": {
+      "en": "Where do you notice yourself softening into that version?",
+      "ru": "Где ты замечаешь, что мягко входишь в эту версию себя?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "windowlight",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_02",
+    "tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "identity",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Which part of your identity feels clear without needing to be explained?",
+      "ru": "Какая часть твоей идентичности ощущается ясной без необходимости объяснять её?"
+    },
+    "followup_prompt": {
+      "en": "What helps you trust that clarity?",
+      "ru": "Что помогает тебе доверять этой ясности?"
+    },
+    "aesthetic_tags": [
+      "ember",
+      "stone",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_03",
+    "tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "identity",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What do you keep returning to when you want to feel like yourself again?",
+      "ru": "К чему ты возвращаешься, когда хочешь снова почувствовать себя собой?"
+    },
+    "followup_prompt": {
+      "en": "What does that return give you emotionally?",
+      "ru": "Что это возвращение даёт тебе эмоционально?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "water",
+      "twilight"
+    ],
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_04",
+    "tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "identity",
+      "inner_world"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "Where do you feel most different from the version of you others expect?",
+      "ru": "Где ты чувствуешь наибольшее отличие от той версии тебя, которую ожидают другие?"
+    },
+    "followup_prompt": {
+      "en": "Is that difference asking to be hidden, protected, or expressed?",
+      "ru": "Эта разница просит быть скрытой, защищённой или выраженной?"
+    },
+    "aesthetic_tags": [
+      "forest",
+      "earth",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_05",
+    "tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "identity",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What name would you give the season of selfhood you are in now?",
+      "ru": "Какое имя ты дал бы сезону себя, в котором находишься сейчас?"
+    },
+    "followup_prompt": {
+      "en": "What has this season been teaching you quietly?",
+      "ru": "Чему этот сезон тихо тебя учит?"
+    },
+    "aesthetic_tags": [
+      "lantern",
+      "fog",
+      "night"
+    ],
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_06",
+    "tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "identity",
+      "inner_world"
+    ],
+    "depth": "light",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "Which small choice has been feeling unusually aligned with who you are?",
+      "ru": "Какой небольшой выбор в последнее время ощущается особенно созвучным тебе?"
+    },
+    "followup_prompt": {
+      "en": "What made it feel aligned?",
+      "ru": "Что сделало его созвучным?"
+    },
+    "aesthetic_tags": [
+      "drifting_light",
+      "air",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_07",
+    "tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "identity",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "Where do you feel yourself becoming less performative?",
+      "ru": "Где ты чувствуешь, что становишься менее внешним и показным?"
+    },
+    "followup_prompt": {
+      "en": "What kind of space allows that to happen?",
+      "ru": "Какое пространство позволяет этому происходить?"
+    },
+    "aesthetic_tags": [
+      "paper",
+      "silver",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_08",
+    "tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "identity",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What part of you still feels private, but not hidden?",
+      "ru": "Какая часть тебя всё ещё остаётся личной, но не скрытой?"
+    },
+    "followup_prompt": {
+      "en": "How do you know when privacy feels healthy?",
+      "ru": "Как ты понимаешь, что приватность ощущается здоровой?"
+    },
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "movement"
+    ],
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_09",
+    "tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "identity",
+      "inner_world"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What do you want to stop translating for other people?",
+      "ru": "Что ты хочешь перестать переводить для других людей?"
+    },
+    "followup_prompt": {
+      "en": "What might become easier if it could simply exist?",
+      "ru": "Что могло бы стать легче, если бы этому можно было просто существовать?"
+    },
+    "aesthetic_tags": [
+      "garden",
+      "wood",
+      "morning_light"
+    ],
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_10",
+    "tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "identity",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "Which version of you feels ready for more room?",
+      "ru": "Какая версия тебя готова занять больше места?"
+    },
+    "followup_prompt": {
+      "en": "What would more room look like in ordinary life?",
+      "ru": "Как больше места выглядело бы в обычной жизни?"
+    },
+    "aesthetic_tags": [
+      "velvet",
+      "deep_water",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_11",
+    "tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "identity",
+      "inner_world"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What has been quietly shaping the way you see yourself?",
+      "ru": "Что тихо формирует то, как ты видишь себя?"
+    },
+    "followup_prompt": {
+      "en": "Does that influence feel chosen, inherited, or temporary?",
+      "ru": "Это влияние ощущается выбранным, унаследованным или временным?"
+    },
+    "aesthetic_tags": [
+      "glass",
+      "metal",
+      "clear_light"
+    ],
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_12",
+    "tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "identity",
+      "inner_world"
+    ],
+    "depth": "light",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "Where does your sense of self feel simple right now?",
+      "ru": "Где твоё ощущение себя сейчас кажется простым?"
+    },
+    "followup_prompt": {
+      "en": "What makes that simplicity feel safe?",
+      "ru": "Что делает эту простоту безопасной?"
+    },
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "open_sky"
+    ],
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "identity_13",
+    "tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "identity",
+      "inner_world"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What part of your identity wants less pressure and more atmosphere?",
+      "ru": "Какая часть твоей идентичности хочет меньше давления и больше пространства?"
+    },
+    "followup_prompt": {
+      "en": "What would support it without forcing it to become clearer too soon?",
+      "ru": "Что могло бы поддержать её, не заставляя становиться яснее слишком рано?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "windowlight",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "identity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "trust_01",
+    "tags": [
+      "trust",
+      "relationships",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "relationships",
+      "inner_world"
+    ],
+    "depth": "light",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Where does trust feel natural in your life right now?",
+      "ru": "Где доверие сейчас ощущается естественным в твоей жизни?"
+    },
+    "followup_prompt": {
+      "en": "What makes that place feel emotionally steady?",
+      "ru": "Что делает это место эмоционально устойчивым?"
+    },
+    "aesthetic_tags": [
+      "ember",
+      "stone",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "trust",
+      "vulnerability",
+      "attachment"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "trust_02",
+    "tags": [
+      "trust",
+      "relationships",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "relationships",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What helps you believe someone is emotionally safe?",
+      "ru": "Что помогает тебе верить, что человек эмоционально безопасен?"
+    },
+    "followup_prompt": {
+      "en": "Which signs do you notice first?",
+      "ru": "Какие признаки ты замечаешь первыми?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "water",
+      "twilight"
+    ],
+    "reflection_tags": [
+      "trust",
+      "vulnerability",
+      "attachment"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "trust_03",
+    "tags": [
+      "trust",
+      "relationships",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "relationships",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "Where are you still waiting before opening more?",
+      "ru": "Где ты всё ещё ждёшь, прежде чем раскрыться больше?"
+    },
+    "followup_prompt": {
+      "en": "What would waiting with kindness look like?",
+      "ru": "Как выглядело бы ожидание с добротой к себе?"
+    },
+    "aesthetic_tags": [
+      "forest",
+      "earth",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "trust",
+      "vulnerability",
+      "attachment"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "trust_04",
+    "tags": [
+      "trust",
+      "relationships",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "relationships",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What kind of consistency feels most meaningful to you?",
+      "ru": "Какая последовательность ощущается для тебя самой значимой?"
+    },
+    "followup_prompt": {
+      "en": "How do you feel it in your body or mood?",
+      "ru": "Как ты чувствуешь её в теле или настроении?"
+    },
+    "aesthetic_tags": [
+      "lantern",
+      "fog",
+      "night"
+    ],
+    "reflection_tags": [
+      "trust",
+      "vulnerability",
+      "attachment"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "trust_05",
+    "tags": [
+      "trust",
+      "relationships",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "relationships",
+      "inner_world"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "When has trust grown slowly but honestly for you?",
+      "ru": "Когда доверие росло для тебя медленно, но честно?"
+    },
+    "followup_prompt": {
+      "en": "What made that pace feel right?",
+      "ru": "Что сделало этот темп правильным?"
+    },
+    "aesthetic_tags": [
+      "drifting_light",
+      "air",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "trust",
+      "vulnerability",
+      "attachment"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "trust_06",
+    "tags": [
+      "trust",
+      "relationships",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "relationships",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What do you need to know before you let someone closer?",
+      "ru": "Что тебе нужно знать, прежде чем подпустить кого-то ближе?"
+    },
+    "followup_prompt": {
+      "en": "Which need feels protective rather than closed?",
+      "ru": "Какая потребность ощущается защитной, а не закрытой?"
+    },
+    "aesthetic_tags": [
+      "paper",
+      "silver",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "trust",
+      "vulnerability",
+      "attachment"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "trust_07",
+    "tags": [
+      "trust",
+      "relationships",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "relationships",
+      "inner_world"
+    ],
+    "depth": "deep",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Where do you confuse familiarity with trust?",
+      "ru": "Где ты можешь путать привычность с доверием?"
+    },
+    "followup_prompt": {
+      "en": "What would real trust add that familiarity does not?",
+      "ru": "Что настоящее доверие добавило бы сверх привычности?"
+    },
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "movement"
+    ],
+    "reflection_tags": [
+      "trust",
+      "vulnerability",
+      "attachment"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "trust_08",
+    "tags": [
+      "trust",
+      "relationships",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "relationships",
+      "inner_world"
+    ],
+    "depth": "light",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "What small gesture has recently made you feel safer?",
+      "ru": "Какой маленький жест недавно помог тебе почувствовать больше безопасности?"
+    },
+    "followup_prompt": {
+      "en": "Why did it land that way?",
+      "ru": "Почему он так подействовал?"
+    },
+    "aesthetic_tags": [
+      "garden",
+      "wood",
+      "morning_light"
+    ],
+    "reflection_tags": [
+      "trust",
+      "vulnerability",
+      "attachment"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "trust_09",
+    "tags": [
+      "trust",
+      "relationships",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "relationships",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "Where do you trust yourself more than you used to?",
+      "ru": "Где ты доверяешь себе больше, чем раньше?"
+    },
+    "followup_prompt": {
+      "en": "What changed in the way you listen inwardly?",
+      "ru": "Что изменилось в том, как ты слушаешь себя внутри?"
+    },
+    "aesthetic_tags": [
+      "velvet",
+      "deep_water",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "trust",
+      "vulnerability",
+      "attachment"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "trust_10",
+    "tags": [
+      "trust",
+      "relationships",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "relationships",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What does emotional reliability mean to you?",
+      "ru": "Что для тебя значит эмоциональная надёжность?"
+    },
+    "followup_prompt": {
+      "en": "Where do you already have some of it?",
+      "ru": "Где у тебя уже есть её часть?"
+    },
+    "aesthetic_tags": [
+      "glass",
+      "metal",
+      "clear_light"
+    ],
+    "reflection_tags": [
+      "trust",
+      "vulnerability",
+      "attachment"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "trust_11",
+    "tags": [
+      "trust",
+      "relationships",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "relationships",
+      "inner_world"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "Which boundary actually helps trust grow?",
+      "ru": "Какая граница на самом деле помогает доверию расти?"
+    },
+    "followup_prompt": {
+      "en": "How does that boundary protect closeness instead of blocking it?",
+      "ru": "Как эта граница защищает близость, а не блокирует её?"
+    },
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "open_sky"
+    ],
+    "reflection_tags": [
+      "trust",
+      "vulnerability",
+      "attachment"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "trust_12",
+    "tags": [
+      "trust",
+      "relationships",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "relationships",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "Where are you learning to trust without rushing?",
+      "ru": "Где ты учишься доверять без спешки?"
+    },
+    "followup_prompt": {
+      "en": "What pace feels honest there?",
+      "ru": "Какой темп там ощущается честным?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "windowlight",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "trust",
+      "vulnerability",
+      "attachment"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "trust_13",
+    "tags": [
+      "trust",
+      "relationships",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "relationships",
+      "inner_world"
+    ],
+    "depth": "light",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What would it mean to let trust be gradual?",
+      "ru": "Что значило бы позволить доверию быть постепенным?"
+    },
+    "followup_prompt": {
+      "en": "What pressure would that remove?",
+      "ru": "Какое давление это сняло бы?"
+    },
+    "aesthetic_tags": [
+      "ember",
+      "stone",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "trust",
+      "vulnerability",
+      "attachment"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "vulnerability_01",
+    "tags": [
+      "vulnerability",
+      "inner_world",
+      "relationships"
+    ],
+    "life_areas": [
+      "inner_world",
+      "relationships"
+    ],
+    "depth": "light",
+    "emotional_tone": "soft",
+    "prompt": {
+      "en": "What feels tender but not unsafe to name today?",
+      "ru": "Что сегодня ощущается нежным, но не небезопасным для называния?"
+    },
+    "followup_prompt": {
+      "en": "What would make naming it feel gentle enough?",
+      "ru": "Что сделало бы это называние достаточно мягким?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "water",
+      "twilight"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "trust",
+      "inner_world"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "vulnerability_02",
+    "tags": [
+      "vulnerability",
+      "inner_world",
+      "relationships"
+    ],
+    "life_areas": [
+      "inner_world",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Where do you open naturally, and where do you stay protected?",
+      "ru": "Где ты раскрываешься естественно, а где остаёшься защищённым?"
+    },
+    "followup_prompt": {
+      "en": "What helps emotional safety feel real for you?",
+      "ru": "Что помогает эмоциональной безопасности ощущаться настоящей?"
+    },
+    "aesthetic_tags": [
+      "forest",
+      "earth",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "trust",
+      "inner_world"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "vulnerability_03",
+    "tags": [
+      "vulnerability",
+      "inner_world",
+      "relationships"
+    ],
+    "life_areas": [
+      "inner_world",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What part of you wants to be met without being analyzed?",
+      "ru": "Какая часть тебя хочет быть встреченной без анализа?"
+    },
+    "followup_prompt": {
+      "en": "Who or what gives that kind of presence?",
+      "ru": "Кто или что даёт такое присутствие?"
+    },
+    "aesthetic_tags": [
+      "lantern",
+      "fog",
+      "night"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "trust",
+      "inner_world"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "vulnerability_04",
+    "tags": [
+      "vulnerability",
+      "inner_world",
+      "relationships"
+    ],
+    "life_areas": [
+      "inner_world",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "soft",
+    "prompt": {
+      "en": "Where does softness feel brave rather than fragile?",
+      "ru": "Где мягкость ощущается смелой, а не хрупкой?"
+    },
+    "followup_prompt": {
+      "en": "What lets that softness stay intact?",
+      "ru": "Что позволяет этой мягкости оставаться целой?"
+    },
+    "aesthetic_tags": [
+      "drifting_light",
+      "air",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "trust",
+      "inner_world"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "vulnerability_05",
+    "tags": [
+      "vulnerability",
+      "inner_world",
+      "relationships"
+    ],
+    "life_areas": [
+      "inner_world",
+      "relationships"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What have you been carrying quietly because it feels hard to explain?",
+      "ru": "Что ты несёшь тихо, потому что это трудно объяснить?"
+    },
+    "followup_prompt": {
+      "en": "What would be enough to simply acknowledge it?",
+      "ru": "Чего было бы достаточно, чтобы просто признать это?"
+    },
+    "aesthetic_tags": [
+      "paper",
+      "silver",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "trust",
+      "inner_world"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "vulnerability_06",
+    "tags": [
+      "vulnerability",
+      "inner_world",
+      "relationships"
+    ],
+    "life_areas": [
+      "inner_world",
+      "relationships"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "When do you feel seen in a way that does not expose you?",
+      "ru": "Когда ты чувствуешь себя увиденным так, что это не обнажает тебя?"
+    },
+    "followup_prompt": {
+      "en": "What quality makes that kind of seeing safe?",
+      "ru": "Какое качество делает такое видение безопасным?"
+    },
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "movement"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "trust",
+      "inner_world"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "vulnerability_07",
+    "tags": [
+      "vulnerability",
+      "inner_world",
+      "relationships"
+    ],
+    "life_areas": [
+      "inner_world",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "soft",
+    "prompt": {
+      "en": "What would you share if you did not have to make it neat?",
+      "ru": "Чем бы ты поделился, если бы не нужно было делать это аккуратным?"
+    },
+    "followup_prompt": {
+      "en": "What part of the mess feels most honest?",
+      "ru": "Какая часть этой неаккуратности кажется самой честной?"
+    },
+    "aesthetic_tags": [
+      "garden",
+      "wood",
+      "morning_light"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "trust",
+      "inner_world"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "vulnerability_08",
+    "tags": [
+      "vulnerability",
+      "inner_world",
+      "relationships"
+    ],
+    "life_areas": [
+      "inner_world",
+      "relationships"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "Where are you protecting something precious, not avoiding something hard?",
+      "ru": "Где ты защищаешь что-то ценное, а не избегаешь чего-то трудного?"
+    },
+    "followup_prompt": {
+      "en": "How can you honor that distinction?",
+      "ru": "Как ты можешь уважить это различие?"
+    },
+    "aesthetic_tags": [
+      "velvet",
+      "deep_water",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "trust",
+      "inner_world"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "vulnerability_09",
+    "tags": [
+      "vulnerability",
+      "inner_world",
+      "relationships"
+    ],
+    "life_areas": [
+      "inner_world",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What does your guardedness usually try to preserve?",
+      "ru": "Что твоя закрытость обычно пытается сохранить?"
+    },
+    "followup_prompt": {
+      "en": "Is that need still present today?",
+      "ru": "Эта потребность всё ещё присутствует сегодня?"
+    },
+    "aesthetic_tags": [
+      "glass",
+      "metal",
+      "clear_light"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "trust",
+      "inner_world"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "vulnerability_10",
+    "tags": [
+      "vulnerability",
+      "inner_world",
+      "relationships"
+    ],
+    "life_areas": [
+      "inner_world",
+      "relationships"
+    ],
+    "depth": "light",
+    "emotional_tone": "soft",
+    "prompt": {
+      "en": "What kind of honesty feels possible right now?",
+      "ru": "Какая честность сейчас кажется возможной?"
+    },
+    "followup_prompt": {
+      "en": "How small could it be and still matter?",
+      "ru": "Насколько маленькой она может быть и всё равно иметь значение?"
+    },
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "open_sky"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "trust",
+      "inner_world"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "vulnerability_11",
+    "tags": [
+      "vulnerability",
+      "inner_world",
+      "relationships"
+    ],
+    "life_areas": [
+      "inner_world",
+      "relationships"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "Where do you feel emotionally porous lately?",
+      "ru": "Где ты в последнее время чувствуешь эмоциональную проницаемость?"
+    },
+    "followup_prompt": {
+      "en": "What would help you stay open without absorbing everything?",
+      "ru": "Что помогло бы оставаться открытым, не впитывая всё?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "windowlight",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "trust",
+      "inner_world"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "vulnerability_12",
+    "tags": [
+      "vulnerability",
+      "inner_world",
+      "relationships"
+    ],
+    "life_areas": [
+      "inner_world",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What feeling becomes easier when it is witnessed kindly?",
+      "ru": "Какое чувство становится легче, когда его доброжелательно замечают?"
+    },
+    "followup_prompt": {
+      "en": "What kind of witness would feel right?",
+      "ru": "Какой свидетель ощущался бы правильным?"
+    },
+    "aesthetic_tags": [
+      "ember",
+      "stone",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "trust",
+      "inner_world"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "vulnerability_13",
+    "tags": [
+      "vulnerability",
+      "inner_world",
+      "relationships"
+    ],
+    "life_areas": [
+      "inner_world",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "soft",
+    "prompt": {
+      "en": "What are you allowed to reveal only slowly?",
+      "ru": "Что тебе можно раскрывать только постепенно?"
+    },
+    "followup_prompt": {
+      "en": "What does your own pace protect?",
+      "ru": "Что защищает твой собственный темп?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "water",
+      "twilight"
+    ],
+    "reflection_tags": [
+      "vulnerability",
+      "trust",
+      "inner_world"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_01",
+    "tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "life_areas": [
+      "belonging",
+      "relationships"
+    ],
+    "depth": "light",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "Where do you feel included without having to perform?",
+      "ru": "Где ты чувствуешь включённость без необходимости играть роль?"
+    },
+    "followup_prompt": {
+      "en": "What makes that belonging feel easy?",
+      "ru": "Что делает эту принадлежность лёгкой?"
+    },
+    "aesthetic_tags": [
+      "forest",
+      "earth",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_02",
+    "tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "life_areas": [
+      "belonging",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Which spaces let you be quiet and still connected?",
+      "ru": "Какие пространства позволяют тебе быть тихим и всё равно связанным?"
+    },
+    "followup_prompt": {
+      "en": "What does that kind of connection give you?",
+      "ru": "Что даёт тебе такая связь?"
+    },
+    "aesthetic_tags": [
+      "lantern",
+      "fog",
+      "night"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_03",
+    "tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "life_areas": [
+      "belonging",
+      "relationships"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "Where do you feel like a guest in your own life?",
+      "ru": "Где ты чувствуешь себя гостем в собственной жизни?"
+    },
+    "followup_prompt": {
+      "en": "What would make that place feel more like yours?",
+      "ru": "Что сделало бы это место более твоим?"
+    },
+    "aesthetic_tags": [
+      "drifting_light",
+      "air",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_04",
+    "tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "life_areas": [
+      "belonging",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "What kind of group energy feels nourishing rather than noisy?",
+      "ru": "Какая групповая энергия ощущается питающей, а не шумной?"
+    },
+    "followup_prompt": {
+      "en": "How do you recognize it early?",
+      "ru": "Как ты узнаёшь её заранее?"
+    },
+    "aesthetic_tags": [
+      "paper",
+      "silver",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_05",
+    "tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "life_areas": [
+      "belonging",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Who makes room for your real pace?",
+      "ru": "Кто оставляет место для твоего настоящего темпа?"
+    },
+    "followup_prompt": {
+      "en": "What changes in you around that person or space?",
+      "ru": "Что меняется в тебе рядом с этим человеком или пространством?"
+    },
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "movement"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_06",
+    "tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "life_areas": [
+      "belonging",
+      "relationships"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "Where are you seeking belonging that may not fit you anymore?",
+      "ru": "Где ты ищешь принадлежность, которая может больше тебе не подходить?"
+    },
+    "followup_prompt": {
+      "en": "What part of you already knows?",
+      "ru": "Какая часть тебя уже знает это?"
+    },
+    "aesthetic_tags": [
+      "garden",
+      "wood",
+      "morning_light"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_07",
+    "tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "life_areas": [
+      "belonging",
+      "relationships"
+    ],
+    "depth": "deep",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "What does chosen belonging feel like to you?",
+      "ru": "Как для тебя ощущается выбранная принадлежность?"
+    },
+    "followup_prompt": {
+      "en": "How is it different from being accepted conditionally?",
+      "ru": "Чем она отличается от условного принятия?"
+    },
+    "aesthetic_tags": [
+      "velvet",
+      "deep_water",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_08",
+    "tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "life_areas": [
+      "belonging",
+      "relationships"
+    ],
+    "depth": "light",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "What small ritual helps you feel connected to your people?",
+      "ru": "Какой маленький ритуал помогает тебе чувствовать связь со своими людьми?"
+    },
+    "followup_prompt": {
+      "en": "Why does it matter emotionally?",
+      "ru": "Почему он эмоционально важен?"
+    },
+    "aesthetic_tags": [
+      "glass",
+      "metal",
+      "clear_light"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_09",
+    "tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "life_areas": [
+      "belonging",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "Where do you need less adaptation and more welcome?",
+      "ru": "Где тебе нужно меньше адаптации и больше принятия?"
+    },
+    "followup_prompt": {
+      "en": "What would welcome sound or feel like there?",
+      "ru": "Как там звучало бы или ощущалось принятие?"
+    },
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "open_sky"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_10",
+    "tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "life_areas": [
+      "belonging",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "How do you know when a place is emotionally breathable?",
+      "ru": "Как ты понимаешь, что место эмоционально пригодно для дыхания?"
+    },
+    "followup_prompt": {
+      "en": "Which signs are subtle but reliable?",
+      "ru": "Какие признаки тонкие, но надёжные?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "windowlight",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_11",
+    "tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "life_areas": [
+      "belonging",
+      "relationships"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What kind of community would not flatten you?",
+      "ru": "Какое сообщество не стало бы сглаживать тебя?"
+    },
+    "followup_prompt": {
+      "en": "What part of you needs to remain distinct inside belonging?",
+      "ru": "Какая часть тебя должна оставаться отдельной внутри принадлежности?"
+    },
+    "aesthetic_tags": [
+      "ember",
+      "stone",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_12",
+    "tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "life_areas": [
+      "belonging",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "Where do you already belong more than you admit?",
+      "ru": "Где ты уже принадлежишь больше, чем признаёшь?"
+    },
+    "followup_prompt": {
+      "en": "What makes it hard to receive that?",
+      "ru": "Что мешает принять это?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "water",
+      "twilight"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "belonging_13",
+    "tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "life_areas": [
+      "belonging",
+      "relationships"
+    ],
+    "depth": "light",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "What does home feel like when it is made of people?",
+      "ru": "Как ощущается дом, когда он состоит из людей?"
+    },
+    "followup_prompt": {
+      "en": "What quality makes that feeling stable?",
+      "ru": "Какое качество делает это ощущение устойчивым?"
+    },
+    "aesthetic_tags": [
+      "forest",
+      "earth",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "relationships",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_01",
+    "tags": [
+      "purpose",
+      "meaning_seeking",
+      "growth"
+    ],
+    "life_areas": [
+      "purpose",
+      "motivation"
+    ],
+    "depth": "light",
+    "emotional_tone": "expansive",
+    "prompt": {
+      "en": "What has been feeling quietly worth your energy?",
+      "ru": "Что в последнее время тихо ощущается достойным твоей энергии?"
+    },
+    "followup_prompt": {
+      "en": "What makes it feel worth returning to?",
+      "ru": "Что делает это достойным возвращения?"
+    },
+    "aesthetic_tags": [
+      "lantern",
+      "fog",
+      "night"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "motivation"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_02",
+    "tags": [
+      "purpose",
+      "meaning_seeking",
+      "growth"
+    ],
+    "life_areas": [
+      "purpose",
+      "motivation"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Where does direction feel meaningful rather than impressive?",
+      "ru": "Где направление ощущается значимым, а не впечатляющим?"
+    },
+    "followup_prompt": {
+      "en": "What changes when meaning matters more than image?",
+      "ru": "Что меняется, когда смысл важнее образа?"
+    },
+    "aesthetic_tags": [
+      "drifting_light",
+      "air",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "motivation"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_03",
+    "tags": [
+      "purpose",
+      "meaning_seeking",
+      "growth"
+    ],
+    "life_areas": [
+      "purpose",
+      "motivation"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What kind of work leaves you more yourself afterward?",
+      "ru": "Какая работа оставляет тебя более собой после неё?"
+    },
+    "followup_prompt": {
+      "en": "What quality in that work restores you?",
+      "ru": "Какое качество этой работы восстанавливает тебя?"
+    },
+    "aesthetic_tags": [
+      "paper",
+      "silver",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "motivation"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_04",
+    "tags": [
+      "purpose",
+      "meaning_seeking",
+      "growth"
+    ],
+    "life_areas": [
+      "purpose",
+      "motivation"
+    ],
+    "depth": "deep",
+    "emotional_tone": "expansive",
+    "prompt": {
+      "en": "Which longing keeps appearing beneath your goals?",
+      "ru": "Какое желание снова появляется под твоими целями?"
+    },
+    "followup_prompt": {
+      "en": "What might it be trying to orient you toward?",
+      "ru": "К чему оно может пытаться тебя направить?"
+    },
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "movement"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "motivation"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_05",
+    "tags": [
+      "purpose",
+      "meaning_seeking",
+      "growth"
+    ],
+    "life_areas": [
+      "purpose",
+      "motivation"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What feels unfinished in a way that still matters?",
+      "ru": "Что ощущается незавершённым так, что это всё ещё важно?"
+    },
+    "followup_prompt": {
+      "en": "Is it asking for action, attention, or release?",
+      "ru": "Оно просит действия, внимания или отпускания?"
+    },
+    "aesthetic_tags": [
+      "garden",
+      "wood",
+      "morning_light"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "motivation"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_06",
+    "tags": [
+      "purpose",
+      "meaning_seeking",
+      "growth"
+    ],
+    "life_areas": [
+      "purpose",
+      "motivation"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "Where does your motivation become gentler when it has meaning?",
+      "ru": "Где твоя мотивация становится мягче, когда в ней есть смысл?"
+    },
+    "followup_prompt": {
+      "en": "How does that differ from pressure?",
+      "ru": "Чем это отличается от давления?"
+    },
+    "aesthetic_tags": [
+      "velvet",
+      "deep_water",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "motivation"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_07",
+    "tags": [
+      "purpose",
+      "meaning_seeking",
+      "growth"
+    ],
+    "life_areas": [
+      "purpose",
+      "motivation"
+    ],
+    "depth": "medium",
+    "emotional_tone": "expansive",
+    "prompt": {
+      "en": "What would you keep doing even if it stayed quiet?",
+      "ru": "Что бы ты продолжал делать, даже если бы это оставалось тихим?"
+    },
+    "followup_prompt": {
+      "en": "What does that reveal about what matters?",
+      "ru": "Что это показывает о том, что важно?"
+    },
+    "aesthetic_tags": [
+      "glass",
+      "metal",
+      "clear_light"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "motivation"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_08",
+    "tags": [
+      "purpose",
+      "meaning_seeking",
+      "growth"
+    ],
+    "life_areas": [
+      "purpose",
+      "motivation"
+    ],
+    "depth": "light",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "Which value has been asking for more room in your choices?",
+      "ru": "Какая ценность просит больше места в твоих выборах?"
+    },
+    "followup_prompt": {
+      "en": "What small decision could honor it?",
+      "ru": "Какое маленькое решение могло бы её уважить?"
+    },
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "open_sky"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "motivation"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_09",
+    "tags": [
+      "purpose",
+      "meaning_seeking",
+      "growth"
+    ],
+    "life_areas": [
+      "purpose",
+      "motivation"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What kind of future feels emotionally believable?",
+      "ru": "Какое будущее ощущается эмоционально правдоподобным?"
+    },
+    "followup_prompt": {
+      "en": "What makes it feel possible without forcing it?",
+      "ru": "Что делает его возможным без принуждения?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "windowlight",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "motivation"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_10",
+    "tags": [
+      "purpose",
+      "meaning_seeking",
+      "growth"
+    ],
+    "life_areas": [
+      "purpose",
+      "motivation"
+    ],
+    "depth": "deep",
+    "emotional_tone": "expansive",
+    "prompt": {
+      "en": "Where are you outgrowing a purpose that once fit?",
+      "ru": "Где ты перерастаешь смысл, который раньше подходил?"
+    },
+    "followup_prompt": {
+      "en": "What gratitude can remain while you change direction?",
+      "ru": "Какая благодарность может остаться, пока ты меняешь направление?"
+    },
+    "aesthetic_tags": [
+      "ember",
+      "stone",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "motivation"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_11",
+    "tags": [
+      "purpose",
+      "meaning_seeking",
+      "growth"
+    ],
+    "life_areas": [
+      "purpose",
+      "motivation"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What makes your effort feel connected to something larger?",
+      "ru": "Что делает твоё усилие связанным с чем-то большим?"
+    },
+    "followup_prompt": {
+      "en": "How do you notice that connection in ordinary moments?",
+      "ru": "Как ты замечаешь эту связь в обычных моментах?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "water",
+      "twilight"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "motivation"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_12",
+    "tags": [
+      "purpose",
+      "meaning_seeking",
+      "growth"
+    ],
+    "life_areas": [
+      "purpose",
+      "motivation"
+    ],
+    "depth": "light",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What is one reason you still care?",
+      "ru": "Какая одна причина показывает, что тебе всё ещё не всё равно?"
+    },
+    "followup_prompt": {
+      "en": "How does that reason feel when you let it be simple?",
+      "ru": "Как эта причина ощущается, если позволить ей быть простой?"
+    },
+    "aesthetic_tags": [
+      "forest",
+      "earth",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "motivation"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "purpose_13",
+    "tags": [
+      "purpose",
+      "meaning_seeking",
+      "growth"
+    ],
+    "life_areas": [
+      "purpose",
+      "motivation"
+    ],
+    "depth": "deep",
+    "emotional_tone": "expansive",
+    "prompt": {
+      "en": "What part of your purpose needs rest before it can become clear?",
+      "ru": "Какой части твоего смысла нужен отдых, прежде чем она станет ясной?"
+    },
+    "followup_prompt": {
+      "en": "What would resting with purpose, not away from it, look like?",
+      "ru": "Как выглядел бы отдых вместе со смыслом, а не вдали от него?"
+    },
+    "aesthetic_tags": [
+      "lantern",
+      "fog",
+      "night"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "growth",
+      "motivation"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "change_01",
+    "tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "life_areas": [
+      "growth",
+      "exploration"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What is changing quietly before it becomes visible?",
+      "ru": "Что меняется тихо, прежде чем станет видимым?"
+    },
+    "followup_prompt": {
+      "en": "How can you notice it without rushing it?",
+      "ru": "Как ты можешь замечать это, не ускоряя?"
+    },
+    "aesthetic_tags": [
+      "drifting_light",
+      "air",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "change_02",
+    "tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "life_areas": [
+      "growth",
+      "exploration"
+    ],
+    "depth": "light",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "Where do you feel ready for a different rhythm?",
+      "ru": "Где ты чувствуешь готовность к другому ритму?"
+    },
+    "followup_prompt": {
+      "en": "What rhythm would feel more honest?",
+      "ru": "Какой ритм ощущался бы более честным?"
+    },
+    "aesthetic_tags": [
+      "paper",
+      "silver",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "change_03",
+    "tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "life_areas": [
+      "growth",
+      "exploration"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What part of change feels alive, and what part feels tender?",
+      "ru": "Какая часть изменений ощущается живой, а какая нежной?"
+    },
+    "followup_prompt": {
+      "en": "What would help both parts be present?",
+      "ru": "Что помогло бы обеим частям присутствовать?"
+    },
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "movement"
+    ],
+    "reflection_tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "change_04",
+    "tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "life_areas": [
+      "growth",
+      "exploration"
+    ],
+    "depth": "deep",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What are you leaving without needing to reject it?",
+      "ru": "Что ты оставляешь, не нуждаясь в том, чтобы отвергнуть это?"
+    },
+    "followup_prompt": {
+      "en": "What can still be honored from that chapter?",
+      "ru": "Что всё ещё можно уважить из этой главы?"
+    },
+    "aesthetic_tags": [
+      "garden",
+      "wood",
+      "morning_light"
+    ],
+    "reflection_tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "change_05",
+    "tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "life_areas": [
+      "growth",
+      "exploration"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Where does uncertainty feel spacious rather than threatening?",
+      "ru": "Где неопределённость ощущается просторной, а не угрожающей?"
+    },
+    "followup_prompt": {
+      "en": "What makes that space possible?",
+      "ru": "Что делает это пространство возможным?"
+    },
+    "aesthetic_tags": [
+      "velvet",
+      "deep_water",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "change_06",
+    "tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "life_areas": [
+      "growth",
+      "exploration"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "Which old pattern is losing its emotional charge?",
+      "ru": "Какой старый паттерн теряет эмоциональный заряд?"
+    },
+    "followup_prompt": {
+      "en": "What becomes available as it loosens?",
+      "ru": "Что становится доступным, когда он ослабевает?"
+    },
+    "aesthetic_tags": [
+      "glass",
+      "metal",
+      "clear_light"
+    ],
+    "reflection_tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "change_07",
+    "tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "life_areas": [
+      "growth",
+      "exploration"
+    ],
+    "depth": "light",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What would change look like if it moved at your pace?",
+      "ru": "Как выглядели бы изменения, если бы двигались в твоём темпе?"
+    },
+    "followup_prompt": {
+      "en": "What pressure would disappear?",
+      "ru": "Какое давление исчезло бы?"
+    },
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "open_sky"
+    ],
+    "reflection_tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "change_08",
+    "tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "life_areas": [
+      "growth",
+      "exploration"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Where are you becoming more flexible without losing yourself?",
+      "ru": "Где ты становишься гибче, не теряя себя?"
+    },
+    "followup_prompt": {
+      "en": "What keeps that flexibility grounded?",
+      "ru": "Что удерживает эту гибкость заземлённой?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "windowlight",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "change_09",
+    "tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "life_areas": [
+      "growth",
+      "exploration"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What small ending has already happened inside you?",
+      "ru": "Какое маленькое завершение уже произошло внутри тебя?"
+    },
+    "followup_prompt": {
+      "en": "What has not caught up yet on the outside?",
+      "ru": "Что снаружи ещё не успело догнать это?"
+    },
+    "aesthetic_tags": [
+      "ember",
+      "stone",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "change_10",
+    "tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "life_areas": [
+      "growth",
+      "exploration"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What kind of newness are you actually craving?",
+      "ru": "Какой новизны ты на самом деле хочешь?"
+    },
+    "followup_prompt": {
+      "en": "Is it a new place, a new pace, or a new permission?",
+      "ru": "Это новое место, новый темп или новое разрешение?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "water",
+      "twilight"
+    ],
+    "reflection_tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "change_11",
+    "tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "life_areas": [
+      "growth",
+      "exploration"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Where do you need stability while something else changes?",
+      "ru": "Где тебе нужна устойчивость, пока что-то другое меняется?"
+    },
+    "followup_prompt": {
+      "en": "What anchor would help without holding you back?",
+      "ru": "Какая опора помогла бы, не удерживая тебя назад?"
+    },
+    "aesthetic_tags": [
+      "forest",
+      "earth",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "change_12",
+    "tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "life_areas": [
+      "growth",
+      "exploration"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What has become too small for who you are becoming?",
+      "ru": "Что стало слишком маленьким для того, кем ты становишься?"
+    },
+    "followup_prompt": {
+      "en": "What would expansion look like in one ordinary choice?",
+      "ru": "Как расширение выглядело бы в одном обычном выборе?"
+    },
+    "aesthetic_tags": [
+      "lantern",
+      "fog",
+      "night"
+    ],
+    "reflection_tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "change_13",
+    "tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "life_areas": [
+      "growth",
+      "exploration"
+    ],
+    "depth": "light",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What change are you allowed to approach gently?",
+      "ru": "К какому изменению тебе можно подходить мягко?"
+    },
+    "followup_prompt": {
+      "en": "What would make that gentleness practical?",
+      "ru": "Что сделало бы эту мягкость практичной?"
+    },
+    "aesthetic_tags": [
+      "drifting_light",
+      "air",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "change",
+      "growth",
+      "identity"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_processing_01",
+    "tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "inner_world",
+      "healing"
+    ],
+    "depth": "medium",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What feeling has been asking for a slower listen?",
+      "ru": "Какое чувство просит более медленного слушания?"
+    },
+    "followup_prompt": {
+      "en": "What happens if you do not solve it immediately?",
+      "ru": "Что происходит, если не решать его сразу?"
+    },
+    "aesthetic_tags": [
+      "paper",
+      "silver",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_processing_02",
+    "tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "inner_world",
+      "healing"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What emotion feels present but not fully named?",
+      "ru": "Какая эмоция присутствует, но ещё не полностью названа?"
+    },
+    "followup_prompt": {
+      "en": "What words come close without forcing precision?",
+      "ru": "Какие слова подходят близко, не заставляя быть точным?"
+    },
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "movement"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_processing_03",
+    "tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "inner_world",
+      "healing"
+    ],
+    "depth": "light",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "Where does your mood feel layered today?",
+      "ru": "Где твоё настроение сегодня ощущается многослойным?"
+    },
+    "followup_prompt": {
+      "en": "Which layer is closest to the surface?",
+      "ru": "Какой слой ближе всего к поверхности?"
+    },
+    "aesthetic_tags": [
+      "garden",
+      "wood",
+      "morning_light"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_processing_04",
+    "tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "inner_world",
+      "healing"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What do you need to feel before you can think clearly?",
+      "ru": "Что тебе нужно почувствовать, прежде чем думать ясно?"
+    },
+    "followup_prompt": {
+      "en": "How can you give that feeling a little room?",
+      "ru": "Как ты можешь дать этому чувству немного места?"
+    },
+    "aesthetic_tags": [
+      "velvet",
+      "deep_water",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_processing_05",
+    "tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "inner_world",
+      "healing"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Which feeling has softened since you first noticed it?",
+      "ru": "Какое чувство смягчилось с тех пор, как ты впервые его заметил?"
+    },
+    "followup_prompt": {
+      "en": "What helped it shift?",
+      "ru": "Что помогло ему измениться?"
+    },
+    "aesthetic_tags": [
+      "glass",
+      "metal",
+      "clear_light"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_processing_06",
+    "tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "inner_world",
+      "healing"
+    ],
+    "depth": "light",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What part of your inner weather feels temporary?",
+      "ru": "Какая часть твоей внутренней погоды ощущается временной?"
+    },
+    "followup_prompt": {
+      "en": "What helps you remember it is moving?",
+      "ru": "Что помогает помнить, что она движется?"
+    },
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "open_sky"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_processing_07",
+    "tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "inner_world",
+      "healing"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "Where are you trying to make sense before you have fully felt?",
+      "ru": "Где ты пытаешься понять раньше, чем полностью почувствовал?"
+    },
+    "followup_prompt": {
+      "en": "What would change if feeling came first?",
+      "ru": "Что изменилось бы, если бы сначала было чувство?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "windowlight",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_processing_08",
+    "tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "inner_world",
+      "healing"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What emotion is easier to notice in others than in yourself?",
+      "ru": "Какую эмоцию легче замечать в других, чем в себе?"
+    },
+    "followup_prompt": {
+      "en": "What makes it harder to recognize inwardly?",
+      "ru": "Что делает её труднее узнаваемой внутри?"
+    },
+    "aesthetic_tags": [
+      "ember",
+      "stone",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_processing_09",
+    "tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "inner_world",
+      "healing"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What has your body been saying before your mind forms words?",
+      "ru": "Что говорит твоё тело до того, как разум формирует слова?"
+    },
+    "followup_prompt": {
+      "en": "What small response would honor that signal?",
+      "ru": "Какой маленький ответ уважил бы этот сигнал?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "water",
+      "twilight"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_processing_10",
+    "tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "inner_world",
+      "healing"
+    ],
+    "depth": "medium",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "Which emotional pattern feels familiar this week?",
+      "ru": "Какой эмоциональный паттерн на этой неделе кажется знакомым?"
+    },
+    "followup_prompt": {
+      "en": "Does it need attention, rest, or a new context?",
+      "ru": "Ему нужно внимание, отдых или новый контекст?"
+    },
+    "aesthetic_tags": [
+      "forest",
+      "earth",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_processing_11",
+    "tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "inner_world",
+      "healing"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What feeling becomes clearer when you remove urgency?",
+      "ru": "Какое чувство становится яснее, когда убираешь срочность?"
+    },
+    "followup_prompt": {
+      "en": "What does it reveal at a slower pace?",
+      "ru": "Что оно раскрывает в более медленном темпе?"
+    },
+    "aesthetic_tags": [
+      "lantern",
+      "fog",
+      "night"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_processing_12",
+    "tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "inner_world",
+      "healing"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "Where can you let an emotion be incomplete?",
+      "ru": "Где ты можешь позволить эмоции быть незавершённой?"
+    },
+    "followup_prompt": {
+      "en": "What does incompleteness make possible?",
+      "ru": "Что делает возможным эта незавершённость?"
+    },
+    "aesthetic_tags": [
+      "drifting_light",
+      "air",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_processing_13",
+    "tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "inner_world",
+      "healing"
+    ],
+    "depth": "light",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What would emotional honesty sound like in one sentence?",
+      "ru": "Как звучала бы эмоциональная честность в одном предложении?"
+    },
+    "followup_prompt": {
+      "en": "Can that sentence stay simple?",
+      "ru": "Может ли это предложение остаться простым?"
+    },
+    "aesthetic_tags": [
+      "paper",
+      "silver",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "emotional_regulation",
+      "vulnerability"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_01",
+    "tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "life_areas": [
+      "relationships",
+      "communication"
+    ],
+    "depth": "light",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "Which relationship feels emotionally steady lately?",
+      "ru": "Какие отношения в последнее время ощущаются эмоционально устойчивыми?"
+    },
+    "followup_prompt": {
+      "en": "What is quietly working there?",
+      "ru": "Что там тихо работает?"
+    },
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "movement"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_02",
+    "tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "life_areas": [
+      "relationships",
+      "communication"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Where do you feel close without losing your own shape?",
+      "ru": "Где ты чувствуешь близость, не теряя собственной формы?"
+    },
+    "followup_prompt": {
+      "en": "What makes that balance possible?",
+      "ru": "Что делает этот баланс возможным?"
+    },
+    "aesthetic_tags": [
+      "garden",
+      "wood",
+      "morning_light"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_03",
+    "tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "life_areas": [
+      "relationships",
+      "communication"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What kind of closeness gives you energy back?",
+      "ru": "Какая близость возвращает тебе энергию?"
+    },
+    "followup_prompt": {
+      "en": "What is different about that connection?",
+      "ru": "Что отличается в этой связи?"
+    },
+    "aesthetic_tags": [
+      "velvet",
+      "deep_water",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_04",
+    "tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "life_areas": [
+      "relationships",
+      "communication"
+    ],
+    "depth": "deep",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "Where do you need more honesty, but not more intensity?",
+      "ru": "Где тебе нужно больше честности, но не больше интенсивности?"
+    },
+    "followup_prompt": {
+      "en": "How could that honesty be gentle?",
+      "ru": "Как эта честность могла бы быть мягкой?"
+    },
+    "aesthetic_tags": [
+      "glass",
+      "metal",
+      "clear_light"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_05",
+    "tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "life_areas": [
+      "relationships",
+      "communication"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What are you learning about your pace in relationships?",
+      "ru": "Что ты узнаёшь о своём темпе в отношениях?"
+    },
+    "followup_prompt": {
+      "en": "Where has that pace been respected?",
+      "ru": "Где этот темп уважали?"
+    },
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "open_sky"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_06",
+    "tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "life_areas": [
+      "relationships",
+      "communication"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "Which connection feels complicated but still meaningful?",
+      "ru": "Какая связь ощущается сложной, но всё ещё значимой?"
+    },
+    "followup_prompt": {
+      "en": "What part of it asks for clarity?",
+      "ru": "Какая её часть просит ясности?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "windowlight",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_07",
+    "tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "life_areas": [
+      "relationships",
+      "communication"
+    ],
+    "depth": "light",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "What makes affection feel real to you?",
+      "ru": "Что делает нежность настоящей для тебя?"
+    },
+    "followup_prompt": {
+      "en": "How do you usually recognize it?",
+      "ru": "Как ты обычно её узнаёшь?"
+    },
+    "aesthetic_tags": [
+      "ember",
+      "stone",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_08",
+    "tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "life_areas": [
+      "relationships",
+      "communication"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "Where do you feel responsible for more than your part?",
+      "ru": "Где ты чувствуешь ответственность больше, чем за свою часть?"
+    },
+    "followup_prompt": {
+      "en": "What would returning to your part feel like?",
+      "ru": "Как ощущалось бы возвращение к своей части?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "water",
+      "twilight"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_09",
+    "tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "life_areas": [
+      "relationships",
+      "communication"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What relationship pattern are you noticing without judging it?",
+      "ru": "Какой паттерн отношений ты замечаешь без осуждения?"
+    },
+    "followup_prompt": {
+      "en": "What does noticing it make possible?",
+      "ru": "Что становится возможным благодаря этому замечанию?"
+    },
+    "aesthetic_tags": [
+      "forest",
+      "earth",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_10",
+    "tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "life_areas": [
+      "relationships",
+      "communication"
+    ],
+    "depth": "medium",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "Who allows you to be emotionally specific?",
+      "ru": "Кто позволяет тебе быть эмоционально конкретным?"
+    },
+    "followup_prompt": {
+      "en": "What happens when specificity is welcomed?",
+      "ru": "Что происходит, когда конкретность приветствуется?"
+    },
+    "aesthetic_tags": [
+      "lantern",
+      "fog",
+      "night"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_11",
+    "tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "life_areas": [
+      "relationships",
+      "communication"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "Where do you need repair more than explanation?",
+      "ru": "Где тебе нужно восстановление больше, чем объяснение?"
+    },
+    "followup_prompt": {
+      "en": "What kind of repair would feel sincere?",
+      "ru": "Какое восстановление ощущалось бы искренним?"
+    },
+    "aesthetic_tags": [
+      "drifting_light",
+      "air",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_12",
+    "tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "life_areas": [
+      "relationships",
+      "communication"
+    ],
+    "depth": "light",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What form of care lands most deeply for you?",
+      "ru": "Какая форма заботы доходит до тебя глубже всего?"
+    },
+    "followup_prompt": {
+      "en": "Why does that form matter?",
+      "ru": "Почему именно эта форма важна?"
+    },
+    "aesthetic_tags": [
+      "paper",
+      "silver",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "relationships_13",
+    "tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "life_areas": [
+      "relationships",
+      "communication"
+    ],
+    "depth": "medium",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "What does mutuality feel like in your current life?",
+      "ru": "Как взаимность ощущается в твоей текущей жизни?"
+    },
+    "followup_prompt": {
+      "en": "Where is it present, even subtly?",
+      "ru": "Где она присутствует, даже тонко?"
+    },
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "movement"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "attachment",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "boundaries_01",
+    "tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "life_areas": [
+      "healing",
+      "relationships"
+    ],
+    "depth": "light",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "Where would a small boundary create more ease?",
+      "ru": "Где маленькая граница создала бы больше лёгкости?"
+    },
+    "followup_prompt": {
+      "en": "What makes it small enough to try?",
+      "ru": "Что делает её достаточно маленькой, чтобы попробовать?"
+    },
+    "aesthetic_tags": [
+      "garden",
+      "wood",
+      "morning_light"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "boundaries_02",
+    "tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "life_areas": [
+      "healing",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What boundary helps you stay available without overextending?",
+      "ru": "Какая граница помогает тебе оставаться доступным без перерасхода?"
+    },
+    "followup_prompt": {
+      "en": "How would you know it is working?",
+      "ru": "Как ты поймёшь, что она работает?"
+    },
+    "aesthetic_tags": [
+      "velvet",
+      "deep_water",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "boundaries_03",
+    "tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "life_areas": [
+      "healing",
+      "relationships"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "Where do you say yes before checking inwardly?",
+      "ru": "Где ты говоришь да, прежде чем свериться с собой?"
+    },
+    "followup_prompt": {
+      "en": "What would a pause protect?",
+      "ru": "Что защитила бы пауза?"
+    },
+    "aesthetic_tags": [
+      "glass",
+      "metal",
+      "clear_light"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "boundaries_04",
+    "tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "life_areas": [
+      "healing",
+      "relationships"
+    ],
+    "depth": "light",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What does a kind no sound like for you?",
+      "ru": "Как для тебя звучит доброе нет?"
+    },
+    "followup_prompt": {
+      "en": "Where could that language be useful?",
+      "ru": "Где такой язык мог бы быть полезен?"
+    },
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "open_sky"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "boundaries_05",
+    "tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "life_areas": [
+      "healing",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Which part of your life needs clearer edges?",
+      "ru": "Какая часть твоей жизни нуждается в более ясных краях?"
+    },
+    "followup_prompt": {
+      "en": "What becomes calmer when the edge is named?",
+      "ru": "Что становится спокойнее, когда край назван?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "windowlight",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "boundaries_06",
+    "tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "life_areas": [
+      "healing",
+      "relationships"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "Where are your boundaries trying to become less defensive?",
+      "ru": "Где твои границы пытаются стать менее оборонительными?"
+    },
+    "followup_prompt": {
+      "en": "What would make them feel steady instead?",
+      "ru": "Что сделало бы их устойчивыми вместо защитных?"
+    },
+    "aesthetic_tags": [
+      "ember",
+      "stone",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "boundaries_07",
+    "tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "life_areas": [
+      "healing",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What do you need to stop explaining in order to protect your energy?",
+      "ru": "Что тебе нужно перестать объяснять, чтобы защитить энергию?"
+    },
+    "followup_prompt": {
+      "en": "What would be enough to simply state?",
+      "ru": "Чего было бы достаточно просто сказать?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "water",
+      "twilight"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "boundaries_08",
+    "tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "life_areas": [
+      "healing",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Where does closeness become easier with more space?",
+      "ru": "Где близость становится легче, когда появляется больше пространства?"
+    },
+    "followup_prompt": {
+      "en": "What kind of space helps rather than distances?",
+      "ru": "Какое пространство помогает, а не отдаляет?"
+    },
+    "aesthetic_tags": [
+      "forest",
+      "earth",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "boundaries_09",
+    "tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "life_areas": [
+      "healing",
+      "relationships"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What signal tells you a boundary is being crossed?",
+      "ru": "Какой сигнал говорит тебе, что граница пересекается?"
+    },
+    "followup_prompt": {
+      "en": "How early can you notice it?",
+      "ru": "Насколько рано ты можешь его заметить?"
+    },
+    "aesthetic_tags": [
+      "lantern",
+      "fog",
+      "night"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "boundaries_10",
+    "tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "life_areas": [
+      "healing",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What boundary have you already been practicing quietly?",
+      "ru": "Какую границу ты уже тихо практикуешь?"
+    },
+    "followup_prompt": {
+      "en": "What has changed because of it?",
+      "ru": "Что изменилось благодаря ей?"
+    },
+    "aesthetic_tags": [
+      "drifting_light",
+      "air",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "boundaries_11",
+    "tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "life_areas": [
+      "healing",
+      "relationships"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "Where does guilt appear when you choose yourself?",
+      "ru": "Где появляется вина, когда ты выбираешь себя?"
+    },
+    "followup_prompt": {
+      "en": "What does that guilt assume about your role?",
+      "ru": "Что эта вина предполагает о твоей роли?"
+    },
+    "aesthetic_tags": [
+      "paper",
+      "silver",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "boundaries_12",
+    "tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "life_areas": [
+      "healing",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What would it mean to protect your softness?",
+      "ru": "Что значило бы защищать свою мягкость?"
+    },
+    "followup_prompt": {
+      "en": "Which boundary would support that softness?",
+      "ru": "Какая граница поддержала бы эту мягкость?"
+    },
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "movement"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "boundaries_13",
+    "tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "life_areas": [
+      "healing",
+      "relationships"
+    ],
+    "depth": "light",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What limit would make today more breathable?",
+      "ru": "Какой предел сделал бы сегодняшний день более пригодным для дыхания?"
+    },
+    "followup_prompt": {
+      "en": "How can it be expressed simply?",
+      "ru": "Как его можно выразить просто?"
+    },
+    "aesthetic_tags": [
+      "garden",
+      "wood",
+      "morning_light"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "trust",
+      "healing"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_01",
+    "tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "creativity",
+      "identity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What wants to be made before it is understood?",
+      "ru": "Что хочет быть созданным прежде, чем будет понято?"
+    },
+    "followup_prompt": {
+      "en": "What form is it leaning toward?",
+      "ru": "К какой форме это тянется?"
+    },
+    "aesthetic_tags": [
+      "velvet",
+      "deep_water",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "afternoon",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_02",
+    "tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "creativity",
+      "identity"
+    ],
+    "depth": "light",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "Where does your imagination feel most awake lately?",
+      "ru": "Где твоё воображение в последнее время наиболее бодрствует?"
+    },
+    "followup_prompt": {
+      "en": "What atmosphere brings it forward?",
+      "ru": "Какая атмосфера выводит его наружу?"
+    },
+    "aesthetic_tags": [
+      "glass",
+      "metal",
+      "clear_light"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "afternoon",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_03",
+    "tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "creativity",
+      "identity"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What are you trying to express without saying directly?",
+      "ru": "Что ты пытаешься выразить, не говоря напрямую?"
+    },
+    "followup_prompt": {
+      "en": "Why might indirectness feel right here?",
+      "ru": "Почему непрямое выражение здесь может быть правильным?"
+    },
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "open_sky"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "afternoon",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_04",
+    "tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "creativity",
+      "identity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "Which image, texture, or sound matches your current inner world?",
+      "ru": "Какой образ, текстура или звук соответствуют твоему текущему внутреннему миру?"
+    },
+    "followup_prompt": {
+      "en": "What does it reveal that words might miss?",
+      "ru": "Что это раскрывает такого, что слова могут упустить?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "windowlight",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "afternoon",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_05",
+    "tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "creativity",
+      "identity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What creative act would feel private but alive?",
+      "ru": "Какой творческий жест ощущался бы личным, но живым?"
+    },
+    "followup_prompt": {
+      "en": "What would make it worth doing even unseen?",
+      "ru": "Что сделало бы его стоящим, даже если его никто не увидит?"
+    },
+    "aesthetic_tags": [
+      "ember",
+      "stone",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "afternoon",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_06",
+    "tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "creativity",
+      "identity"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "Where are you editing yourself before you begin?",
+      "ru": "Где ты редактируешь себя ещё до начала?"
+    },
+    "followup_prompt": {
+      "en": "What would happen if the first version could be imperfect?",
+      "ru": "Что случилось бы, если бы первая версия могла быть несовершенной?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "water",
+      "twilight"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "afternoon",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_07",
+    "tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "creativity",
+      "identity"
+    ],
+    "depth": "light",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What kind of beauty has been pulling your attention?",
+      "ru": "Какая красота в последнее время притягивает твоё внимание?"
+    },
+    "followup_prompt": {
+      "en": "What feeling lives inside that pull?",
+      "ru": "Какое чувство живёт внутри этого притяжения?"
+    },
+    "aesthetic_tags": [
+      "forest",
+      "earth",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "afternoon",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_08",
+    "tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "creativity",
+      "identity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What idea keeps returning in different forms?",
+      "ru": "Какая идея возвращается в разных формах?"
+    },
+    "followup_prompt": {
+      "en": "What might it be asking you to notice?",
+      "ru": "Что она может просить тебя заметить?"
+    },
+    "aesthetic_tags": [
+      "lantern",
+      "fog",
+      "night"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "afternoon",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_09",
+    "tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "creativity",
+      "identity"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "Where does play feel emotionally serious?",
+      "ru": "Где игра ощущается эмоционально серьёзной?"
+    },
+    "followup_prompt": {
+      "en": "What does play let you approach safely?",
+      "ru": "К чему игра позволяет подойти безопасно?"
+    },
+    "aesthetic_tags": [
+      "drifting_light",
+      "air",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "afternoon",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_10",
+    "tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "creativity",
+      "identity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What would you create if usefulness did not have to lead?",
+      "ru": "Что бы ты создал, если бы полезность не должна была быть первой?"
+    },
+    "followup_prompt": {
+      "en": "What value might appear instead?",
+      "ru": "Какая ценность могла бы появиться вместо неё?"
+    },
+    "aesthetic_tags": [
+      "paper",
+      "silver",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "afternoon",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_11",
+    "tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "creativity",
+      "identity"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "How does your creativity protect your inner world?",
+      "ru": "Как твоё творчество защищает внутренний мир?"
+    },
+    "followup_prompt": {
+      "en": "When does protection become expression?",
+      "ru": "Когда защита становится выражением?"
+    },
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "movement"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "afternoon",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_12",
+    "tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "creativity",
+      "identity"
+    ],
+    "depth": "light",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What small material or tool feels inviting right now?",
+      "ru": "Какой маленький материал или инструмент сейчас кажется приглашающим?"
+    },
+    "followup_prompt": {
+      "en": "What would ten quiet minutes with it offer?",
+      "ru": "Что дали бы десять тихих минут с ним?"
+    },
+    "aesthetic_tags": [
+      "garden",
+      "wood",
+      "morning_light"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "afternoon",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "creativity_13",
+    "tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "life_areas": [
+      "creativity",
+      "identity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What part of you speaks most clearly through atmosphere?",
+      "ru": "Какая часть тебя яснее всего говорит через атмосферу?"
+    },
+    "followup_prompt": {
+      "en": "What atmosphere would let it speak today?",
+      "ru": "Какая атмосфера позволила бы ей говорить сегодня?"
+    },
+    "aesthetic_tags": [
+      "velvet",
+      "deep_water",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "creativity",
+      "self_expression",
+      "inner_world"
+    ],
+    "time_bias": [
+      "afternoon",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_exhaustion_01",
+    "tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "life_areas": [
+      "healing",
+      "stability"
+    ],
+    "depth": "light",
+    "emotional_tone": "soft",
+    "prompt": {
+      "en": "What part of you feels most tired without needing to justify it?",
+      "ru": "Какая часть тебя чувствует самую большую усталость без необходимости оправдывать это?"
+    },
+    "followup_prompt": {
+      "en": "What would acknowledge that tiredness gently?",
+      "ru": "Что могло бы мягко признать эту усталость?"
+    },
+    "aesthetic_tags": [
+      "glass",
+      "metal",
+      "clear_light"
+    ],
+    "reflection_tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_exhaustion_02",
+    "tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "life_areas": [
+      "healing",
+      "stability"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Where has your emotional energy been leaking quietly?",
+      "ru": "Где твоя эмоциональная энергия тихо утекает?"
+    },
+    "followup_prompt": {
+      "en": "What small seal or pause might help?",
+      "ru": "Какая маленькая защита или пауза могла бы помочь?"
+    },
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "open_sky"
+    ],
+    "reflection_tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_exhaustion_03",
+    "tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "life_areas": [
+      "healing",
+      "stability"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What have you been carrying longer than you realized?",
+      "ru": "Что ты несёшь дольше, чем осознавал?"
+    },
+    "followup_prompt": {
+      "en": "What would it mean to set part of it down tonight?",
+      "ru": "Что значило бы сегодня вечером отложить часть этого?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "windowlight",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_exhaustion_04",
+    "tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "life_areas": [
+      "healing",
+      "stability"
+    ],
+    "depth": "light",
+    "emotional_tone": "soft",
+    "prompt": {
+      "en": "Where do you need less input and more quiet?",
+      "ru": "Где тебе нужно меньше входящего и больше тишины?"
+    },
+    "followup_prompt": {
+      "en": "How can quiet become practical today?",
+      "ru": "Как тишина может стать практичной сегодня?"
+    },
+    "aesthetic_tags": [
+      "ember",
+      "stone",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_exhaustion_05",
+    "tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "life_areas": [
+      "healing",
+      "stability"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What kind of rest does your mood actually want?",
+      "ru": "Какого отдыха на самом деле хочет твоё настроение?"
+    },
+    "followup_prompt": {
+      "en": "Is it solitude, softness, sleep, or simplicity?",
+      "ru": "Это одиночество, мягкость, сон или простота?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "water",
+      "twilight"
+    ],
+    "reflection_tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_exhaustion_06",
+    "tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "life_areas": [
+      "healing",
+      "stability"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What expectation has been too heavy lately?",
+      "ru": "Какое ожидание в последнее время было слишком тяжёлым?"
+    },
+    "followup_prompt": {
+      "en": "Who or what taught you to carry it?",
+      "ru": "Кто или что научило тебя его нести?"
+    },
+    "aesthetic_tags": [
+      "forest",
+      "earth",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_exhaustion_07",
+    "tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "life_areas": [
+      "healing",
+      "stability"
+    ],
+    "depth": "medium",
+    "emotional_tone": "soft",
+    "prompt": {
+      "en": "Where are you still functioning while needing care?",
+      "ru": "Где ты всё ещё функционируешь, хотя нуждаешься в заботе?"
+    },
+    "followup_prompt": {
+      "en": "What care would be small enough to receive?",
+      "ru": "Какая забота была бы достаточно маленькой, чтобы принять её?"
+    },
+    "aesthetic_tags": [
+      "lantern",
+      "fog",
+      "night"
+    ],
+    "reflection_tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_exhaustion_08",
+    "tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "life_areas": [
+      "healing",
+      "stability"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What does emotional depletion feel like before it becomes obvious?",
+      "ru": "Как ощущается эмоциональное истощение до того, как становится очевидным?"
+    },
+    "followup_prompt": {
+      "en": "Which early sign can you respect sooner?",
+      "ru": "Какой ранний признак ты можешь уважать раньше?"
+    },
+    "aesthetic_tags": [
+      "drifting_light",
+      "air",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_exhaustion_09",
+    "tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "life_areas": [
+      "healing",
+      "stability"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What can be left unfinished without betraying yourself?",
+      "ru": "Что можно оставить незавершённым, не предавая себя?"
+    },
+    "followup_prompt": {
+      "en": "What makes that permission difficult?",
+      "ru": "Что делает это разрешение трудным?"
+    },
+    "aesthetic_tags": [
+      "paper",
+      "silver",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_exhaustion_10",
+    "tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "life_areas": [
+      "healing",
+      "stability"
+    ],
+    "depth": "light",
+    "emotional_tone": "soft",
+    "prompt": {
+      "en": "Where do you need a lower emotional volume?",
+      "ru": "Где тебе нужна более низкая эмоциональная громкость?"
+    },
+    "followup_prompt": {
+      "en": "What would turn it down gently?",
+      "ru": "Что могло бы мягко её уменьшить?"
+    },
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "movement"
+    ],
+    "reflection_tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_exhaustion_11",
+    "tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "life_areas": [
+      "healing",
+      "stability"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What kind of support would not demand performance from you?",
+      "ru": "Какая поддержка не требовала бы от тебя выступления?"
+    },
+    "followup_prompt": {
+      "en": "How would you recognize it as safe?",
+      "ru": "Как ты узнал бы её как безопасную?"
+    },
+    "aesthetic_tags": [
+      "garden",
+      "wood",
+      "morning_light"
+    ],
+    "reflection_tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_exhaustion_12",
+    "tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "life_areas": [
+      "healing",
+      "stability"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What are you allowed to recover from slowly?",
+      "ru": "От чего тебе можно восстанавливаться медленно?"
+    },
+    "followup_prompt": {
+      "en": "What does slow recovery protect?",
+      "ru": "Что защищает медленное восстановление?"
+    },
+    "aesthetic_tags": [
+      "velvet",
+      "deep_water",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_exhaustion_13",
+    "tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "life_areas": [
+      "healing",
+      "stability"
+    ],
+    "depth": "light",
+    "emotional_tone": "soft",
+    "prompt": {
+      "en": "What would make this day feel less crowded inside?",
+      "ru": "Что сделало бы этот день менее тесным внутри?"
+    },
+    "followup_prompt": {
+      "en": "Which one thing can become simpler?",
+      "ru": "Какая одна вещь может стать проще?"
+    },
+    "aesthetic_tags": [
+      "glass",
+      "metal",
+      "clear_light"
+    ],
+    "reflection_tags": [
+      "healing",
+      "emotional_regulation",
+      "boundaries"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_expression_01",
+    "tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "life_areas": [
+      "communication",
+      "identity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What feels true but still hard to say plainly?",
+      "ru": "Что ощущается правдивым, но всё ещё трудно сказать прямо?"
+    },
+    "followup_prompt": {
+      "en": "What softer wording might bring it closer?",
+      "ru": "Какая более мягкая формулировка могла бы приблизить это?"
+    },
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "open_sky"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_expression_02",
+    "tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "life_areas": [
+      "communication",
+      "identity"
+    ],
+    "depth": "light",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "Where are you expressing yourself more clearly than before?",
+      "ru": "Где ты выражаешь себя яснее, чем раньше?"
+    },
+    "followup_prompt": {
+      "en": "What changed in your sense of permission?",
+      "ru": "Что изменилось в твоём ощущении разрешения?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "windowlight",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_expression_03",
+    "tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "life_areas": [
+      "communication",
+      "identity"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What part of your voice wants less editing?",
+      "ru": "Какая часть твоего голоса хочет меньше редактирования?"
+    },
+    "followup_prompt": {
+      "en": "What are you afraid would happen if it stayed intact?",
+      "ru": "Чего ты боишься, если она останется целой?"
+    },
+    "aesthetic_tags": [
+      "ember",
+      "stone",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_expression_04",
+    "tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "life_areas": [
+      "communication",
+      "identity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "How do you know when your expression feels honest?",
+      "ru": "Как ты понимаешь, что твоё выражение честное?"
+    },
+    "followup_prompt": {
+      "en": "What does honesty feel like before anyone responds?",
+      "ru": "Как честность ощущается до чужой реакции?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "water",
+      "twilight"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_expression_05",
+    "tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "life_areas": [
+      "communication",
+      "identity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What have you been showing indirectly?",
+      "ru": "Что ты показываешь непрямо?"
+    },
+    "followup_prompt": {
+      "en": "What might directness offer now?",
+      "ru": "Что сейчас могла бы дать прямота?"
+    },
+    "aesthetic_tags": [
+      "forest",
+      "earth",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_expression_06",
+    "tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "life_areas": [
+      "communication",
+      "identity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "Where does your style say something your words do not?",
+      "ru": "Где твой стиль говорит то, чего не говорят слова?"
+    },
+    "followup_prompt": {
+      "en": "What does that expression protect or reveal?",
+      "ru": "Что это выражение защищает или раскрывает?"
+    },
+    "aesthetic_tags": [
+      "lantern",
+      "fog",
+      "night"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_expression_07",
+    "tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "life_areas": [
+      "communication",
+      "identity"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What would you say if you did not need to be perfectly understood?",
+      "ru": "Что бы ты сказал, если бы не нужно было быть идеально понятым?"
+    },
+    "followup_prompt": {
+      "en": "What would be enough understanding?",
+      "ru": "Какого понимания было бы достаточно?"
+    },
+    "aesthetic_tags": [
+      "drifting_light",
+      "air",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_expression_08",
+    "tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "life_areas": [
+      "communication",
+      "identity"
+    ],
+    "depth": "light",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "Which small truth wants a little more air?",
+      "ru": "Какая маленькая правда хочет немного больше воздуха?"
+    },
+    "followup_prompt": {
+      "en": "Where could it be given room?",
+      "ru": "Где ей можно дать место?"
+    },
+    "aesthetic_tags": [
+      "paper",
+      "silver",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_expression_09",
+    "tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "life_areas": [
+      "communication",
+      "identity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What form of expression feels safest for difficult feelings?",
+      "ru": "Какая форма выражения безопаснее всего для трудных чувств?"
+    },
+    "followup_prompt": {
+      "en": "Why does that form work for you?",
+      "ru": "Почему эта форма работает для тебя?"
+    },
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "movement"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_expression_10",
+    "tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "life_areas": [
+      "communication",
+      "identity"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "Where do you soften your message to protect someone else?",
+      "ru": "Где ты смягчаешь сообщение, чтобы защитить другого?"
+    },
+    "followup_prompt": {
+      "en": "What would protect both care and clarity?",
+      "ru": "Что защитило бы и заботу, и ясность?"
+    },
+    "aesthetic_tags": [
+      "garden",
+      "wood",
+      "morning_light"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_expression_11",
+    "tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "life_areas": [
+      "communication",
+      "identity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What do you want your silence to mean?",
+      "ru": "Что ты хочешь, чтобы означало твоё молчание?"
+    },
+    "followup_prompt": {
+      "en": "Is it rest, refusal, privacy, or uncertainty?",
+      "ru": "Это отдых, отказ, приватность или неопределённость?"
+    },
+    "aesthetic_tags": [
+      "velvet",
+      "deep_water",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_expression_12",
+    "tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "life_areas": [
+      "communication",
+      "identity"
+    ],
+    "depth": "light",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What expression feels more like atmosphere than statement?",
+      "ru": "Какое выражение ощущается больше атмосферой, чем заявлением?"
+    },
+    "followup_prompt": {
+      "en": "What does that atmosphere communicate?",
+      "ru": "Что эта атмосфера сообщает?"
+    },
+    "aesthetic_tags": [
+      "glass",
+      "metal",
+      "clear_light"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_expression_13",
+    "tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "life_areas": [
+      "communication",
+      "identity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "Where are you ready to sound more like yourself?",
+      "ru": "Где ты готов звучать больше как ты сам?"
+    },
+    "followup_prompt": {
+      "en": "What would make that readiness gentle?",
+      "ru": "Что сделало бы эту готовность мягкой?"
+    },
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "open_sky"
+    ],
+    "reflection_tags": [
+      "self_expression",
+      "identity",
+      "communication"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "symbolic_thinking_01",
+    "tags": [
+      "symbolic_thinking",
+      "inner_world",
+      "creativity"
+    ],
+    "life_areas": [
+      "inner_world",
+      "creativity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What image keeps following your thoughts lately?",
+      "ru": "Какой образ в последнее время следует за твоими мыслями?"
+    },
+    "followup_prompt": {
+      "en": "What feeling might be living inside it?",
+      "ru": "Какое чувство может жить внутри него?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "windowlight",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "creativity",
+      "identity"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "symbolic_thinking_02",
+    "tags": [
+      "symbolic_thinking",
+      "inner_world",
+      "creativity"
+    ],
+    "life_areas": [
+      "inner_world",
+      "creativity"
+    ],
+    "depth": "light",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "If today had a symbol, what would it be?",
+      "ru": "Если бы у сегодняшнего дня был символ, каким бы он был?"
+    },
+    "followup_prompt": {
+      "en": "What makes that symbol fit?",
+      "ru": "Что делает этот символ подходящим?"
+    },
+    "aesthetic_tags": [
+      "ember",
+      "stone",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "creativity",
+      "identity"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "symbolic_thinking_03",
+    "tags": [
+      "symbolic_thinking",
+      "inner_world",
+      "creativity"
+    ],
+    "life_areas": [
+      "inner_world",
+      "creativity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What metaphor describes your current emotional season?",
+      "ru": "Какая метафора описывает твой текущий эмоциональный сезон?"
+    },
+    "followup_prompt": {
+      "en": "What does the metaphor reveal gently?",
+      "ru": "Что эта метафора мягко раскрывает?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "water",
+      "twilight"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "creativity",
+      "identity"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "symbolic_thinking_04",
+    "tags": [
+      "symbolic_thinking",
+      "inner_world",
+      "creativity"
+    ],
+    "life_areas": [
+      "inner_world",
+      "creativity"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "Where do you understand something better through image than explanation?",
+      "ru": "Где ты лучше понимаешь что-то через образ, чем через объяснение?"
+    },
+    "followup_prompt": {
+      "en": "What does the image hold that language does not?",
+      "ru": "Что образ удерживает такого, чего не удерживает язык?"
+    },
+    "aesthetic_tags": [
+      "forest",
+      "earth",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "creativity",
+      "identity"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "symbolic_thinking_05",
+    "tags": [
+      "symbolic_thinking",
+      "inner_world",
+      "creativity"
+    ],
+    "life_areas": [
+      "inner_world",
+      "creativity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What recurring theme has appeared in your inner world?",
+      "ru": "Какая повторяющаяся тема появляется во внутреннем мире?"
+    },
+    "followup_prompt": {
+      "en": "Does it feel like a question, memory, or invitation?",
+      "ru": "Она ощущается как вопрос, воспоминание или приглашение?"
+    },
+    "aesthetic_tags": [
+      "lantern",
+      "fog",
+      "night"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "creativity",
+      "identity"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "symbolic_thinking_06",
+    "tags": [
+      "symbolic_thinking",
+      "inner_world",
+      "creativity"
+    ],
+    "life_areas": [
+      "inner_world",
+      "creativity"
+    ],
+    "depth": "light",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What object nearby matches your mood?",
+      "ru": "Какой предмет рядом соответствует твоему настроению?"
+    },
+    "followup_prompt": {
+      "en": "What quality connects you to it?",
+      "ru": "Какое качество связывает тебя с ним?"
+    },
+    "aesthetic_tags": [
+      "drifting_light",
+      "air",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "creativity",
+      "identity"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "symbolic_thinking_07",
+    "tags": [
+      "symbolic_thinking",
+      "inner_world",
+      "creativity"
+    ],
+    "life_areas": [
+      "inner_world",
+      "creativity"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What story are you telling yourself through symbols?",
+      "ru": "Какую историю ты рассказываешь себе через символы?"
+    },
+    "followup_prompt": {
+      "en": "Which part of that story feels most alive?",
+      "ru": "Какая часть этой истории ощущается самой живой?"
+    },
+    "aesthetic_tags": [
+      "paper",
+      "silver",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "creativity",
+      "identity"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "symbolic_thinking_08",
+    "tags": [
+      "symbolic_thinking",
+      "inner_world",
+      "creativity"
+    ],
+    "life_areas": [
+      "inner_world",
+      "creativity"
+    ],
+    "depth": "light",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "What color would your inner world choose today?",
+      "ru": "Какой цвет сегодня выбрал бы твой внутренний мир?"
+    },
+    "followup_prompt": {
+      "en": "What does that color ask for?",
+      "ru": "О чём просит этот цвет?"
+    },
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "movement"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "creativity",
+      "identity"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "symbolic_thinking_09",
+    "tags": [
+      "symbolic_thinking",
+      "inner_world",
+      "creativity"
+    ],
+    "life_areas": [
+      "inner_world",
+      "creativity"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "Where does meaning appear before logic catches up?",
+      "ru": "Где смысл появляется раньше, чем логика успевает догнать?"
+    },
+    "followup_prompt": {
+      "en": "How do you know when that meaning is trustworthy?",
+      "ru": "Как ты понимаешь, что этому смыслу можно доверять?"
+    },
+    "aesthetic_tags": [
+      "garden",
+      "wood",
+      "morning_light"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "creativity",
+      "identity"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "symbolic_thinking_10",
+    "tags": [
+      "symbolic_thinking",
+      "inner_world",
+      "creativity"
+    ],
+    "life_areas": [
+      "inner_world",
+      "creativity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What dreamlike detail from ordinary life stayed with you?",
+      "ru": "Какая почти сновидческая деталь из обычной жизни осталась с тобой?"
+    },
+    "followup_prompt": {
+      "en": "Why might it have stayed?",
+      "ru": "Почему она могла остаться?"
+    },
+    "aesthetic_tags": [
+      "velvet",
+      "deep_water",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "creativity",
+      "identity"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "symbolic_thinking_11",
+    "tags": [
+      "symbolic_thinking",
+      "inner_world",
+      "creativity"
+    ],
+    "life_areas": [
+      "inner_world",
+      "creativity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What symbol would help you hold a complicated feeling?",
+      "ru": "Какой символ помог бы удержать сложное чувство?"
+    },
+    "followup_prompt": {
+      "en": "How could it make the feeling less crowded?",
+      "ru": "Как он мог бы сделать чувство менее тесным?"
+    },
+    "aesthetic_tags": [
+      "glass",
+      "metal",
+      "clear_light"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "creativity",
+      "identity"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "symbolic_thinking_12",
+    "tags": [
+      "symbolic_thinking",
+      "inner_world",
+      "creativity"
+    ],
+    "life_areas": [
+      "inner_world",
+      "creativity"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What pattern feels emotionally significant without being obvious?",
+      "ru": "Какой паттерн кажется эмоционально значимым, не будучи очевидным?"
+    },
+    "followup_prompt": {
+      "en": "What happens when you follow it softly?",
+      "ru": "Что происходит, когда ты мягко следуешь за ним?"
+    },
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "open_sky"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "creativity",
+      "identity"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "symbolic_thinking_13",
+    "tags": [
+      "symbolic_thinking",
+      "inner_world",
+      "creativity"
+    ],
+    "life_areas": [
+      "inner_world",
+      "creativity"
+    ],
+    "depth": "medium",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What atmosphere would describe the part of you that has no words yet?",
+      "ru": "Какая атмосфера описала бы часть тебя, у которой ещё нет слов?"
+    },
+    "followup_prompt": {
+      "en": "What might help those words arrive later?",
+      "ru": "Что могло бы помочь этим словам прийти позже?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "windowlight",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "creativity",
+      "identity"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "meaning_seeking_01",
+    "tags": [
+      "meaning_seeking",
+      "purpose",
+      "inner_world"
+    ],
+    "life_areas": [
+      "purpose",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "expansive",
+    "prompt": {
+      "en": "What feels meaningful even before you can justify it?",
+      "ru": "Что ощущается значимым ещё до того, как ты можешь это обосновать?"
+    },
+    "followup_prompt": {
+      "en": "What kind of attention does it ask for?",
+      "ru": "Какого внимания это просит?"
+    },
+    "aesthetic_tags": [
+      "ember",
+      "stone",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "inner_world",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "meaning_seeking_02",
+    "tags": [
+      "meaning_seeking",
+      "purpose",
+      "inner_world"
+    ],
+    "life_areas": [
+      "purpose",
+      "inner_world"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "Where have you been searching for a deeper why?",
+      "ru": "Где ты ищешь более глубокое почему?"
+    },
+    "followup_prompt": {
+      "en": "What answer feels too simple to dismiss?",
+      "ru": "Какой ответ слишком прост, чтобы его отмахнуть?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "water",
+      "twilight"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "inner_world",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "meaning_seeking_03",
+    "tags": [
+      "meaning_seeking",
+      "purpose",
+      "inner_world"
+    ],
+    "life_areas": [
+      "purpose",
+      "inner_world"
+    ],
+    "depth": "light",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What moment recently carried more meaning than expected?",
+      "ru": "Какой недавний момент нёс больше смысла, чем ожидалось?"
+    },
+    "followup_prompt": {
+      "en": "What made it stay with you?",
+      "ru": "Что заставило его остаться с тобой?"
+    },
+    "aesthetic_tags": [
+      "forest",
+      "earth",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "inner_world",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "meaning_seeking_04",
+    "tags": [
+      "meaning_seeking",
+      "purpose",
+      "inner_world"
+    ],
+    "life_areas": [
+      "purpose",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "expansive",
+    "prompt": {
+      "en": "Which question keeps returning when things get quiet?",
+      "ru": "Какой вопрос возвращается, когда становится тихо?"
+    },
+    "followup_prompt": {
+      "en": "Does it need an answer or companionship?",
+      "ru": "Ему нужен ответ или сопровождение?"
+    },
+    "aesthetic_tags": [
+      "lantern",
+      "fog",
+      "night"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "inner_world",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "meaning_seeking_05",
+    "tags": [
+      "meaning_seeking",
+      "purpose",
+      "inner_world"
+    ],
+    "life_areas": [
+      "purpose",
+      "inner_world"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What part of your life wants to feel less random?",
+      "ru": "Какая часть твоей жизни хочет ощущаться менее случайной?"
+    },
+    "followup_prompt": {
+      "en": "What connection are you trying to understand?",
+      "ru": "Какую связь ты пытаешься понять?"
+    },
+    "aesthetic_tags": [
+      "drifting_light",
+      "air",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "inner_world",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "meaning_seeking_06",
+    "tags": [
+      "meaning_seeking",
+      "purpose",
+      "inner_world"
+    ],
+    "life_areas": [
+      "purpose",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "Where does meaning come from presence rather than achievement?",
+      "ru": "Где смысл приходит из присутствия, а не достижения?"
+    },
+    "followup_prompt": {
+      "en": "How can you recognize that kind of meaning sooner?",
+      "ru": "Как можно раньше узнавать такой смысл?"
+    },
+    "aesthetic_tags": [
+      "paper",
+      "silver",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "inner_world",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "meaning_seeking_07",
+    "tags": [
+      "meaning_seeking",
+      "purpose",
+      "inner_world"
+    ],
+    "life_areas": [
+      "purpose",
+      "inner_world"
+    ],
+    "depth": "light",
+    "emotional_tone": "expansive",
+    "prompt": {
+      "en": "What has been worth remembering this week?",
+      "ru": "Что на этой неделе было достойно запоминания?"
+    },
+    "followup_prompt": {
+      "en": "Why did it matter emotionally?",
+      "ru": "Почему это было эмоционально важно?"
+    },
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "movement"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "inner_world",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "meaning_seeking_08",
+    "tags": [
+      "meaning_seeking",
+      "purpose",
+      "inner_world"
+    ],
+    "life_areas": [
+      "purpose",
+      "inner_world"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What belief has become softer but still important?",
+      "ru": "Какое убеждение стало мягче, но осталось важным?"
+    },
+    "followup_prompt": {
+      "en": "How has softness changed its meaning?",
+      "ru": "Как мягкость изменила его значение?"
+    },
+    "aesthetic_tags": [
+      "garden",
+      "wood",
+      "morning_light"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "inner_world",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "meaning_seeking_09",
+    "tags": [
+      "meaning_seeking",
+      "purpose",
+      "inner_world"
+    ],
+    "life_areas": [
+      "purpose",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "Where are you looking for coherence in your story?",
+      "ru": "Где ты ищешь связность в своей истории?"
+    },
+    "followup_prompt": {
+      "en": "What chapter still feels unnamed?",
+      "ru": "Какая глава всё ещё не названа?"
+    },
+    "aesthetic_tags": [
+      "velvet",
+      "deep_water",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "inner_world",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "meaning_seeking_10",
+    "tags": [
+      "meaning_seeking",
+      "purpose",
+      "inner_world"
+    ],
+    "life_areas": [
+      "purpose",
+      "inner_world"
+    ],
+    "depth": "light",
+    "emotional_tone": "expansive",
+    "prompt": {
+      "en": "What ordinary detail felt quietly symbolic today?",
+      "ru": "Какая обычная деталь сегодня ощущалась тихо символичной?"
+    },
+    "followup_prompt": {
+      "en": "What did it seem to point toward?",
+      "ru": "К чему она будто указывала?"
+    },
+    "aesthetic_tags": [
+      "glass",
+      "metal",
+      "clear_light"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "inner_world",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "meaning_seeking_11",
+    "tags": [
+      "meaning_seeking",
+      "purpose",
+      "inner_world"
+    ],
+    "life_areas": [
+      "purpose",
+      "inner_world"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What meaning are you allowed to outgrow?",
+      "ru": "Какой смысл тебе можно перерасти?"
+    },
+    "followup_prompt": {
+      "en": "What remains valuable after it changes shape?",
+      "ru": "Что остаётся ценным после изменения формы?"
+    },
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "open_sky"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "inner_world",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "meaning_seeking_12",
+    "tags": [
+      "meaning_seeking",
+      "purpose",
+      "inner_world"
+    ],
+    "life_areas": [
+      "purpose",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What kind of meaning feels embodied, not abstract?",
+      "ru": "Какой смысл ощущается телесным, а не абстрактным?"
+    },
+    "followup_prompt": {
+      "en": "Where do you feel it most clearly?",
+      "ru": "Где ты чувствуешь его яснее всего?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "windowlight",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "inner_world",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "meaning_seeking_13",
+    "tags": [
+      "meaning_seeking",
+      "purpose",
+      "inner_world"
+    ],
+    "life_areas": [
+      "purpose",
+      "inner_world"
+    ],
+    "depth": "medium",
+    "emotional_tone": "expansive",
+    "prompt": {
+      "en": "What would make this season feel part of a larger pattern?",
+      "ru": "Что сделало бы этот сезон частью большего паттерна?"
+    },
+    "followup_prompt": {
+      "en": "What pattern feels gentle enough to trust?",
+      "ru": "Какой паттерн ощущается достаточно мягким, чтобы доверять ему?"
+    },
+    "aesthetic_tags": [
+      "ember",
+      "stone",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "inner_world",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_01",
+    "tags": [
+      "exploration",
+      "freedom",
+      "change"
+    ],
+    "life_areas": [
+      "exploration",
+      "growth"
+    ],
+    "depth": "light",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What kind of unfamiliarity feels inviting right now?",
+      "ru": "Какая незнакомость сейчас кажется приглашающей?"
+    },
+    "followup_prompt": {
+      "en": "What makes it feel safe enough to approach?",
+      "ru": "Что делает её достаточно безопасной, чтобы приблизиться?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "water",
+      "twilight"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "change",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_02",
+    "tags": [
+      "exploration",
+      "freedom",
+      "change"
+    ],
+    "life_areas": [
+      "exploration",
+      "growth"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Where does curiosity feel stronger than fear?",
+      "ru": "Где любопытство ощущается сильнее страха?"
+    },
+    "followup_prompt": {
+      "en": "What does that curiosity want to test?",
+      "ru": "Что это любопытство хочет проверить?"
+    },
+    "aesthetic_tags": [
+      "forest",
+      "earth",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "change",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_03",
+    "tags": [
+      "exploration",
+      "freedom",
+      "change"
+    ],
+    "life_areas": [
+      "exploration",
+      "growth"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What new context might reveal a different part of you?",
+      "ru": "Какой новый контекст мог бы раскрыть другую часть тебя?"
+    },
+    "followup_prompt": {
+      "en": "What part feels ready to be surprised?",
+      "ru": "Какая часть готова удивиться?"
+    },
+    "aesthetic_tags": [
+      "lantern",
+      "fog",
+      "night"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "change",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_04",
+    "tags": [
+      "exploration",
+      "freedom",
+      "change"
+    ],
+    "life_areas": [
+      "exploration",
+      "growth"
+    ],
+    "depth": "deep",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "Where are you craving movement, not escape?",
+      "ru": "Где ты хочешь движения, а не побега?"
+    },
+    "followup_prompt": {
+      "en": "How can you tell the difference?",
+      "ru": "Как ты можешь отличить одно от другого?"
+    },
+    "aesthetic_tags": [
+      "drifting_light",
+      "air",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "change",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_05",
+    "tags": [
+      "exploration",
+      "freedom",
+      "change"
+    ],
+    "life_areas": [
+      "exploration",
+      "growth"
+    ],
+    "depth": "light",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "What small experiment would bring more aliveness?",
+      "ru": "Какой маленький эксперимент принёс бы больше живости?"
+    },
+    "followup_prompt": {
+      "en": "What would make it low-pressure?",
+      "ru": "Что сделало бы его без давления?"
+    },
+    "aesthetic_tags": [
+      "paper",
+      "silver",
+      "soft_light"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "change",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_06",
+    "tags": [
+      "exploration",
+      "freedom",
+      "change"
+    ],
+    "life_areas": [
+      "exploration",
+      "growth"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "Which routine wants a little more air?",
+      "ru": "Какая рутина хочет немного больше воздуха?"
+    },
+    "followup_prompt": {
+      "en": "What gentle variation could shift it?",
+      "ru": "Какая мягкая вариация могла бы её сдвинуть?"
+    },
+    "aesthetic_tags": [
+      "wind",
+      "horizon",
+      "movement"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "change",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_07",
+    "tags": [
+      "exploration",
+      "freedom",
+      "change"
+    ],
+    "life_areas": [
+      "exploration",
+      "growth"
+    ],
+    "depth": "deep",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "Where does freedom feel like self-respect?",
+      "ru": "Где свобода ощущается как уважение к себе?"
+    },
+    "followup_prompt": {
+      "en": "What boundary or choice supports that freedom?",
+      "ru": "Какая граница или выбор поддерживает эту свободу?"
+    },
+    "aesthetic_tags": [
+      "garden",
+      "wood",
+      "morning_light"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "change",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_08",
+    "tags": [
+      "exploration",
+      "freedom",
+      "change"
+    ],
+    "life_areas": [
+      "exploration",
+      "growth"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What have you not tried because it felt unlike you?",
+      "ru": "Что ты не пробовал, потому что это казалось не похожим на тебя?"
+    },
+    "followup_prompt": {
+      "en": "Could it still teach you something?",
+      "ru": "Может ли это всё равно чему-то тебя научить?"
+    },
+    "aesthetic_tags": [
+      "velvet",
+      "deep_water",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "change",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_09",
+    "tags": [
+      "exploration",
+      "freedom",
+      "change"
+    ],
+    "life_areas": [
+      "exploration",
+      "growth"
+    ],
+    "depth": "light",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What place, idea, or practice has been calling quietly?",
+      "ru": "Какое место, идея или практика тихо зовёт тебя?"
+    },
+    "followup_prompt": {
+      "en": "What might be the first small response?",
+      "ru": "Каким может быть первый маленький ответ?"
+    },
+    "aesthetic_tags": [
+      "glass",
+      "metal",
+      "clear_light"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "change",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_10",
+    "tags": [
+      "exploration",
+      "freedom",
+      "change"
+    ],
+    "life_areas": [
+      "exploration",
+      "growth"
+    ],
+    "depth": "deep",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "Where do you want novelty with emotional depth?",
+      "ru": "Где ты хочешь новизны с эмоциональной глубиной?"
+    },
+    "followup_prompt": {
+      "en": "What would keep it from becoming distraction?",
+      "ru": "Что удержало бы её от превращения в отвлечение?"
+    },
+    "aesthetic_tags": [
+      "spark",
+      "gold",
+      "open_sky"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "change",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_11",
+    "tags": [
+      "exploration",
+      "freedom",
+      "change"
+    ],
+    "life_areas": [
+      "exploration",
+      "growth"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What does your adventurous side need to feel trusted?",
+      "ru": "Что нужно твоей исследующей стороне, чтобы чувствовать доверие?"
+    },
+    "followup_prompt": {
+      "en": "How can you give it guidance without controlling it?",
+      "ru": "Как дать ей направление, не контролируя её?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "windowlight",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "change",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_12",
+    "tags": [
+      "exploration",
+      "freedom",
+      "change"
+    ],
+    "life_areas": [
+      "exploration",
+      "growth"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What would exploration look like from a grounded place?",
+      "ru": "Как выглядело бы исследование из заземлённого места?"
+    },
+    "followup_prompt": {
+      "en": "What anchor would let you roam?",
+      "ru": "Какая опора позволила бы тебе двигаться шире?"
+    },
+    "aesthetic_tags": [
+      "ember",
+      "stone",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "change",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "exploration_13",
+    "tags": [
+      "exploration",
+      "freedom",
+      "change"
+    ],
+    "life_areas": [
+      "exploration",
+      "growth"
+    ],
+    "depth": "medium",
+    "emotional_tone": "exploratory",
+    "prompt": {
+      "en": "What are you ready to discover without needing to define it yet?",
+      "ru": "Что ты готов открыть, ещё не определяя это?"
+    },
+    "followup_prompt": {
+      "en": "What makes not knowing feel alive?",
+      "ru": "Что делает незнание живым?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "water",
+      "twilight"
+    ],
+    "reflection_tags": [
+      "freedom",
+      "change",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_01",
+    "tags": [
+      "stability",
+      "grounding",
+      "trust"
+    ],
+    "life_areas": [
+      "stability",
+      "inner_world"
+    ],
+    "depth": "light",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What has felt quietly reliable this week?",
+      "ru": "Что на этой неделе ощущалось тихо надёжным?"
+    },
+    "followup_prompt": {
+      "en": "How did that reliability affect your mood?",
+      "ru": "Как эта надёжность повлияла на твоё настроение?"
+    },
+    "aesthetic_tags": [
+      "stone",
+      "warm_glow",
+      "wood"
+    ],
+    "reflection_tags": [
+      "stability",
+      "grounding",
+      "trust"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_02",
+    "tags": [
+      "stability",
+      "emotional_regulation",
+      "inner_world"
+    ],
+    "life_areas": [
+      "stability",
+      "healing"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Where does your nervous system seem to settle most easily?",
+      "ru": "Где твоей внутренней системе легче всего успокаиваться?"
+    },
+    "followup_prompt": {
+      "en": "What quality in that place or rhythm helps?",
+      "ru": "Какое качество этого места или ритма помогает?"
+    },
+    "aesthetic_tags": [
+      "quiet_room",
+      "soft_light",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "stability",
+      "emotional_regulation",
+      "healing"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_03",
+    "tags": [
+      "stability",
+      "boundaries",
+      "purpose"
+    ],
+    "life_areas": [
+      "stability",
+      "motivation"
+    ],
+    "depth": "medium",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What structure would make your day feel less emotionally scattered?",
+      "ru": "Какая структура сделала бы день менее эмоционально рассыпанным?"
+    },
+    "followup_prompt": {
+      "en": "How simple could that structure be?",
+      "ru": "Насколько простой может быть эта структура?"
+    },
+    "aesthetic_tags": [
+      "paper",
+      "stone",
+      "windowlight"
+    ],
+    "reflection_tags": [
+      "stability",
+      "boundaries",
+      "motivation"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "stability_04",
+    "tags": [
+      "stability",
+      "change",
+      "trust"
+    ],
+    "life_areas": [
+      "stability",
+      "growth"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What kind of stability can stay with you while something changes?",
+      "ru": "Какая устойчивость может оставаться с тобой, пока что-то меняется?"
+    },
+    "followup_prompt": {
+      "en": "What anchor feels flexible rather than fixed?",
+      "ru": "Какая опора ощущается гибкой, а не неподвижной?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "wind",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "stability",
+      "change",
+      "trust"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_01",
+    "tags": [
+      "communication",
+      "self_expression",
+      "clarity"
+    ],
+    "life_areas": [
+      "communication",
+      "identity"
+    ],
+    "depth": "light",
+    "emotional_tone": "observational",
+    "prompt": {
+      "en": "What did your tone reveal today that your words did not?",
+      "ru": "Что сегодня показал твой тон такого, чего не сказали слова?"
+    },
+    "followup_prompt": {
+      "en": "Would you want to say that more directly next time?",
+      "ru": "Хотелось бы сказать это прямее в следующий раз?"
+    },
+    "aesthetic_tags": [
+      "paper",
+      "glass",
+      "windowlight"
+    ],
+    "reflection_tags": [
+      "communication",
+      "self_expression",
+      "identity"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_02",
+    "tags": [
+      "communication",
+      "relationships",
+      "trust"
+    ],
+    "life_areas": [
+      "communication",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "Where did a conversation feel easier because it had room to breathe?",
+      "ru": "Где разговор стал легче, потому что в нём было место для дыхания?"
+    },
+    "followup_prompt": {
+      "en": "What gave it that room?",
+      "ru": "Что дало ему это пространство?"
+    },
+    "aesthetic_tags": [
+      "quiet_room",
+      "soft_light",
+      "air"
+    ],
+    "reflection_tags": [
+      "communication",
+      "relationships",
+      "trust"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_03",
+    "tags": [
+      "communication",
+      "boundaries",
+      "clarity"
+    ],
+    "life_areas": [
+      "communication",
+      "healing"
+    ],
+    "depth": "medium",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What sentence would make a current boundary clearer without making it harsher?",
+      "ru": "Какое предложение сделало бы текущую границу яснее, не делая её жёстче?"
+    },
+    "followup_prompt": {
+      "en": "What tone would help it stay kind?",
+      "ru": "Какой тон помог бы ей остаться доброй?"
+    },
+    "aesthetic_tags": [
+      "stone",
+      "paper",
+      "lantern"
+    ],
+    "reflection_tags": [
+      "communication",
+      "boundaries",
+      "clarity"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "communication_04",
+    "tags": [
+      "communication",
+      "vulnerability",
+      "self_expression"
+    ],
+    "life_areas": [
+      "communication",
+      "inner_world"
+    ],
+    "depth": "deep",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What have you been hoping someone would understand without being told?",
+      "ru": "Что ты надеешься, что кто-то поймёт без слов?"
+    },
+    "followup_prompt": {
+      "en": "What would it be like to offer one small clue?",
+      "ru": "Каково было бы дать один маленький ключ?"
+    },
+    "aesthetic_tags": [
+      "moonlight",
+      "velvet",
+      "fog"
+    ],
+    "reflection_tags": [
+      "communication",
+      "vulnerability",
+      "self_expression"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_pacing_01",
+    "tags": [
+      "emotional_pacing",
+      "inner_world",
+      "boundaries"
+    ],
+    "life_areas": [
+      "inner_world",
+      "healing"
+    ],
+    "depth": "light",
+    "emotional_tone": "soft",
+    "prompt": {
+      "en": "Where do you need a slower emotional pace today?",
+      "ru": "Где тебе сегодня нужен более медленный эмоциональный темп?"
+    },
+    "followup_prompt": {
+      "en": "What would help the day stop pulling you forward?",
+      "ru": "Что помогло бы дню перестать тянуть тебя вперёд?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "quiet_room",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "boundaries",
+      "emotional_regulation"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_pacing_02",
+    "tags": [
+      "emotional_pacing",
+      "relationships",
+      "trust"
+    ],
+    "life_areas": [
+      "relationships",
+      "healing"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Which connection feels better when it moves gradually?",
+      "ru": "Какая связь ощущается лучше, когда движется постепенно?"
+    },
+    "followup_prompt": {
+      "en": "What pace would let trust stay present?",
+      "ru": "Какой темп позволил бы доверию оставаться рядом?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "water",
+      "moonlight"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "trust",
+      "vulnerability"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_pacing_03",
+    "tags": [
+      "emotional_pacing",
+      "change",
+      "growth"
+    ],
+    "life_areas": [
+      "growth",
+      "inner_world"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "Where are you trying to arrive emotionally before you have had time to travel?",
+      "ru": "Где ты пытаешься эмоционально прибыть раньше, чем успел пройти путь?"
+    },
+    "followup_prompt": {
+      "en": "What would honoring the middle look like?",
+      "ru": "Как выглядело бы уважение к середине пути?"
+    },
+    "aesthetic_tags": [
+      "twilight",
+      "horizon",
+      "drifting_light"
+    ],
+    "reflection_tags": [
+      "change",
+      "growth",
+      "inner_world"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "rest_01",
+    "tags": [
+      "rest",
+      "healing",
+      "stability"
+    ],
+    "life_areas": [
+      "healing",
+      "stability"
+    ],
+    "depth": "light",
+    "emotional_tone": "soft",
+    "prompt": {
+      "en": "What kind of rest feels possible, not idealized?",
+      "ru": "Какой отдых кажется возможным, а не идеальным?"
+    },
+    "followup_prompt": {
+      "en": "What would make it easy to begin?",
+      "ru": "Что сделало бы начало лёгким?"
+    },
+    "aesthetic_tags": [
+      "quiet_room",
+      "soft_light",
+      "rain"
+    ],
+    "reflection_tags": [
+      "healing",
+      "stability",
+      "emotional_regulation"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "rest_02",
+    "tags": [
+      "rest",
+      "boundaries",
+      "emotional_exhaustion"
+    ],
+    "life_areas": [
+      "healing",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What invitation, task, or thought can wait without harm?",
+      "ru": "Какое приглашение, задача или мысль могут подождать без вреда?"
+    },
+    "followup_prompt": {
+      "en": "What does waiting give back to you?",
+      "ru": "Что ожидание возвращает тебе?"
+    },
+    "aesthetic_tags": [
+      "stone",
+      "ember",
+      "stillness"
+    ],
+    "reflection_tags": [
+      "boundaries",
+      "healing",
+      "stability"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "rest_03",
+    "tags": [
+      "rest",
+      "inner_world",
+      "self_compassion"
+    ],
+    "life_areas": [
+      "inner_world",
+      "healing"
+    ],
+    "depth": "deep",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "What part of you is tired from being interpreted, even by yourself?",
+      "ru": "Какая часть тебя устала от интерпретации, даже твоей собственной?"
+    },
+    "followup_prompt": {
+      "en": "What would it mean to let it simply be tired?",
+      "ru": "Что значило бы позволить ей просто быть уставшей?"
+    },
+    "aesthetic_tags": [
+      "night",
+      "velvet",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "inner_world",
+      "healing",
+      "vulnerability"
+    ],
+    "time_bias": [
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_trust_01",
+    "tags": [
+      "self_trust",
+      "identity",
+      "inner_world"
+    ],
+    "life_areas": [
+      "identity",
+      "inner_world"
+    ],
+    "depth": "light",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "Where did you quietly choose well for yourself recently?",
+      "ru": "Где недавно ты тихо выбрал для себя верно?"
+    },
+    "followup_prompt": {
+      "en": "What did that choice know before you explained it?",
+      "ru": "Что этот выбор знал до объяснений?"
+    },
+    "aesthetic_tags": [
+      "morning_light",
+      "paper",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "identity",
+      "trust",
+      "inner_world"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_trust_02",
+    "tags": [
+      "self_trust",
+      "boundaries",
+      "relationships"
+    ],
+    "life_areas": [
+      "relationships",
+      "healing"
+    ],
+    "depth": "medium",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What inner signal have you been learning to respect sooner?",
+      "ru": "Какой внутренний сигнал ты учишься уважать раньше?"
+    },
+    "followup_prompt": {
+      "en": "What changes when you believe it the first time?",
+      "ru": "Что меняется, когда ты веришь ему с первого раза?"
+    },
+    "aesthetic_tags": [
+      "stone",
+      "water",
+      "windowlight"
+    ],
+    "reflection_tags": [
+      "trust",
+      "boundaries",
+      "inner_world"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "self_trust_03",
+    "tags": [
+      "self_trust",
+      "purpose",
+      "change"
+    ],
+    "life_areas": [
+      "purpose",
+      "growth"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "Where are you waiting for outside certainty that your inner knowing may not need?",
+      "ru": "Где ты ждёшь внешней уверенности, хотя внутреннему знанию она может быть не нужна?"
+    },
+    "followup_prompt": {
+      "en": "What would one self-trusting step look like?",
+      "ru": "Как выглядел бы один шаг из доверия к себе?"
+    },
+    "aesthetic_tags": [
+      "horizon",
+      "silver",
+      "wind"
+    ],
+    "reflection_tags": [
+      "trust",
+      "purpose",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "afternoon"
+    ],
+    "premium": false
+  },
+  {
+    "id": "transitions_01",
+    "tags": [
+      "transitions",
+      "change",
+      "identity"
+    ],
+    "life_areas": [
+      "growth",
+      "identity"
+    ],
+    "depth": "light",
+    "emotional_tone": "observational",
+    "prompt": {
+      "en": "What are you between right now?",
+      "ru": "Между чем ты сейчас находишься?"
+    },
+    "followup_prompt": {
+      "en": "What helps this in-between feel less empty?",
+      "ru": "Что помогает этому промежутку ощущаться менее пустым?"
+    },
+    "aesthetic_tags": [
+      "twilight",
+      "drifting_light",
+      "horizon"
+    ],
+    "reflection_tags": [
+      "change",
+      "identity",
+      "growth"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "transitions_02",
+    "tags": [
+      "transitions",
+      "belonging",
+      "stability"
+    ],
+    "life_areas": [
+      "belonging",
+      "stability"
+    ],
+    "depth": "medium",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "Which familiar thing still feels worth carrying into the next chapter?",
+      "ru": "Какую знакомую вещь всё ещё стоит взять в следующую главу?"
+    },
+    "followup_prompt": {
+      "en": "What does it preserve for you emotionally?",
+      "ru": "Что она эмоционально сохраняет для тебя?"
+    },
+    "aesthetic_tags": [
+      "wood",
+      "garden",
+      "lantern"
+    ],
+    "reflection_tags": [
+      "belonging",
+      "stability",
+      "change"
+    ],
+    "time_bias": [
+      "afternoon",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "transitions_03",
+    "tags": [
+      "transitions",
+      "purpose",
+      "uncertainty"
+    ],
+    "life_areas": [
+      "purpose",
+      "growth"
+    ],
+    "depth": "deep",
+    "emotional_tone": "expansive",
+    "prompt": {
+      "en": "What ending has not become a beginning yet?",
+      "ru": "Какое завершение ещё не стало началом?"
+    },
+    "followup_prompt": {
+      "en": "What would help you stay with that open space?",
+      "ru": "Что помогло бы оставаться в этом открытом пространстве?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "fog",
+      "open_sky"
+    ],
+    "reflection_tags": [
+      "purpose",
+      "change",
+      "vulnerability"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_recovery_01",
+    "tags": [
+      "emotional_recovery",
+      "healing",
+      "inner_world"
+    ],
+    "life_areas": [
+      "healing",
+      "inner_world"
+    ],
+    "depth": "light",
+    "emotional_tone": "soft",
+    "prompt": {
+      "en": "What feels slightly easier than it did before?",
+      "ru": "Что ощущается немного легче, чем раньше?"
+    },
+    "followup_prompt": {
+      "en": "What helped that small shift happen?",
+      "ru": "Что помогло этому маленькому сдвигу случиться?"
+    },
+    "aesthetic_tags": [
+      "soft_light",
+      "water",
+      "garden"
+    ],
+    "reflection_tags": [
+      "healing",
+      "inner_world",
+      "growth"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_recovery_02",
+    "tags": [
+      "emotional_recovery",
+      "relationships",
+      "trust"
+    ],
+    "life_areas": [
+      "healing",
+      "relationships"
+    ],
+    "depth": "medium",
+    "emotional_tone": "warm",
+    "prompt": {
+      "en": "Where has repair begun quietly, even if nothing is fully resolved?",
+      "ru": "Где восстановление началось тихо, даже если ещё ничего полностью не решено?"
+    },
+    "followup_prompt": {
+      "en": "What sign tells you something softened?",
+      "ru": "Какой признак говорит, что что-то смягчилось?"
+    },
+    "aesthetic_tags": [
+      "lantern",
+      "velvet",
+      "warm_glow"
+    ],
+    "reflection_tags": [
+      "healing",
+      "relationships",
+      "trust"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "emotional_recovery_03",
+    "tags": [
+      "emotional_recovery",
+      "emotional_exhaustion",
+      "stability"
+    ],
+    "life_areas": [
+      "healing",
+      "stability"
+    ],
+    "depth": "deep",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What are you recovering from that others may not have seen?",
+      "ru": "От чего ты восстанавливаешься, хотя другие могли этого не видеть?"
+    },
+    "followup_prompt": {
+      "en": "What would make that recovery feel acknowledged?",
+      "ru": "Что помогло бы этому восстановлению почувствовать признание?"
+    },
+    "aesthetic_tags": [
+      "rain",
+      "night",
+      "quiet_room"
+    ],
+    "reflection_tags": [
+      "healing",
+      "stability",
+      "vulnerability"
+    ],
+    "time_bias": [
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "uncertainty_tolerance_01",
+    "tags": [
+      "uncertainty",
+      "change",
+      "grounding"
+    ],
+    "life_areas": [
+      "growth",
+      "stability"
+    ],
+    "depth": "light",
+    "emotional_tone": "grounding",
+    "prompt": {
+      "en": "What can stay simple while the answer is still forming?",
+      "ru": "Что может оставаться простым, пока ответ ещё формируется?"
+    },
+    "followup_prompt": {
+      "en": "Which small certainty is available today?",
+      "ru": "Какая маленькая определённость доступна сегодня?"
+    },
+    "aesthetic_tags": [
+      "stone",
+      "windowlight",
+      "paper"
+    ],
+    "reflection_tags": [
+      "change",
+      "stability",
+      "grounding"
+    ],
+    "time_bias": [
+      "morning",
+      "evening"
+    ],
+    "premium": false
+  },
+  {
+    "id": "uncertainty_tolerance_02",
+    "tags": [
+      "uncertainty",
+      "trust",
+      "inner_world"
+    ],
+    "life_areas": [
+      "inner_world",
+      "purpose"
+    ],
+    "depth": "medium",
+    "emotional_tone": "quiet",
+    "prompt": {
+      "en": "Where can you let not-knowing be information, not failure?",
+      "ru": "Где ты можешь позволить незнанию быть информацией, а не провалом?"
+    },
+    "followup_prompt": {
+      "en": "What does uncertainty reveal when it is not rushed?",
+      "ru": "Что раскрывает неопределённость, когда её не торопят?"
+    },
+    "aesthetic_tags": [
+      "fog",
+      "moonlight",
+      "drifting_light"
+    ],
+    "reflection_tags": [
+      "trust",
+      "inner_world",
+      "purpose"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  },
+  {
+    "id": "uncertainty_tolerance_03",
+    "tags": [
+      "uncertainty",
+      "relationships",
+      "vulnerability"
+    ],
+    "life_areas": [
+      "relationships",
+      "communication"
+    ],
+    "depth": "deep",
+    "emotional_tone": "reflective",
+    "prompt": {
+      "en": "What question are you living inside rather than answering quickly?",
+      "ru": "Внутри какого вопроса ты живёшь, вместо того чтобы быстро отвечать?"
+    },
+    "followup_prompt": {
+      "en": "Who or what helps you stay gentle there?",
+      "ru": "Кто или что помогает тебе оставаться там мягким?"
+    },
+    "aesthetic_tags": [
+      "shoreline",
+      "twilight",
+      "water"
+    ],
+    "reflection_tags": [
+      "relationships",
+      "vulnerability",
+      "trust"
+    ],
+    "time_bias": [
+      "evening",
+      "night"
+    ],
+    "premium": false
+  }
+]
