@@ -135,6 +135,10 @@ data class AstrologyPlacementDefinition(
     val aestheticTags: List<String> = emptyList(),
     @SerialName("reflection_tags")
     val reflectionTags: List<String> = emptyList(),
+    @SerialName("visual_state_bias")
+    val visualStateBias: List<String> = emptyList(),
+    @SerialName("preferred_home_modules")
+    val preferredHomeModules: List<String> = emptyList(),
     val premium: PremiumFlag = false
 )
 
