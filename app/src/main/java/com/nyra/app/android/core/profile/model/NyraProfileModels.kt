@@ -54,4 +54,34 @@ data class NyraUserProfile(
     val shadows: List<String>,
     val growths: List<String>,
     val warnings: List<String>
-)
+) {
+    companion object {
+        /**
+         * Sane fallback when the user hasn't completed onboarding (no birth data, no MBTI).
+         *
+         * With empty `visualStates`, [com.nyra.app.android.core.ui_state.resolver.NyraUiStateConfigResolverImpl]
+         * falls back to `WARM_HORIZON`. With empty `preferredHomeModules`, the screen composition
+         * resolver falls back to the visual state's default module list.
+         *
+         * The adaptive home screen will render — calmly — until a real profile arrives.
+         */
+        fun empty(): NyraUserProfile = NyraUserProfile(
+            placements = emptyList(),
+            topTraits = emptyList(),
+            shadowTraits = emptyList(),
+            growthTraits = emptyList(),
+            dimensions = NyraDimensionProfile(emptyMap()),
+            areas = emptyList(),
+            activeCombos = emptyList(),
+            activeArchetypes = emptyList(),
+            visualStates = emptyList(),
+            aestheticTags = emptyList(),
+            reflectionTags = emptyList(),
+            preferredHomeModules = emptyList(),
+            summaries = emptyList(),
+            shadows = emptyList(),
+            growths = emptyList(),
+            warnings = emptyList()
+        )
+    }
+}
