@@ -42,7 +42,7 @@ private fun String?.toImageVector(): ImageVector? = when (this) {
 private fun heartIcon() = ImageVector.Builder(
     name = "heart", defaultWidth = 24.dp, defaultHeight = 24.dp, viewportWidth = 24f, viewportHeight = 24f
 ).apply {
-    path(stroke = SolidColor(Color.White), strokeWidth = 1.5f) {
+    path(stroke = SolidColor(Color.White), strokeLineWidth = 1.5f) {
         moveTo(12f, 21.35f)
         lineTo(10.55f, 20.03f)
         curveTo(5.4f, 15.36f, 2f, 12.28f, 2f, 8.5f)
@@ -59,7 +59,7 @@ private fun heartIcon() = ImageVector.Builder(
 private fun leafIcon() = ImageVector.Builder(
     name = "leaf", defaultWidth = 24.dp, defaultHeight = 24.dp, viewportWidth = 24f, viewportHeight = 24f
 ).apply {
-    path(stroke = SolidColor(Color.White), strokeWidth = 1.5f) {
+    path(stroke = SolidColor(Color.White), strokeLineWidth = 1.5f) {
         moveTo(17f, 8f)
         curveTo(14f, 8f, 11f, 11f, 11f, 11f)
         curveTo(11f, 11f, 8f, 14f, 8f, 17f)
@@ -78,7 +78,7 @@ private fun leafIcon() = ImageVector.Builder(
 private fun waveIcon() = ImageVector.Builder(
     name = "wave", defaultWidth = 24.dp, defaultHeight = 24.dp, viewportWidth = 24f, viewportHeight = 24f
 ).apply {
-    path(stroke = SolidColor(Color.White), strokeWidth = 1.5f) {
+    path(stroke = SolidColor(Color.White), strokeLineWidth = 1.5f) {
         moveTo(2f, 12f)
         curveTo(4f, 12f, 5f, 10f, 7f, 10f)
         curveTo(9f, 10f, 10f, 14f, 12f, 14f)
@@ -90,7 +90,7 @@ private fun waveIcon() = ImageVector.Builder(
 private fun journalIcon() = ImageVector.Builder(
     name = "journal", defaultWidth = 24.dp, defaultHeight = 24.dp, viewportWidth = 24f, viewportHeight = 24f
 ).apply {
-    path(stroke = SolidColor(Color.White), strokeWidth = 1.5f) {
+    path(stroke = SolidColor(Color.White), strokeLineWidth = 1.5f) {
         moveTo(4f, 4f)
         horizontalLineTo(20f)
         verticalLineTo(20f)
@@ -108,7 +108,7 @@ private fun journalIcon() = ImageVector.Builder(
 private fun presenceIcon() = ImageVector.Builder(
     name = "presence", defaultWidth = 24.dp, defaultHeight = 24.dp, viewportWidth = 24f, viewportHeight = 24f
 ).apply {
-    path(stroke = SolidColor(Color.White), strokeWidth = 1.5f) {
+    path(stroke = SolidColor(Color.White), strokeLineWidth = 1.5f) {
         moveTo(12f, 12f)
         moveTo(12f, 2f)
         curveTo(6.48f, 2f, 2f, 6.48f, 2f, 12f)

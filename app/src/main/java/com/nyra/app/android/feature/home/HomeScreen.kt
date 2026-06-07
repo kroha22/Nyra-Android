@@ -1,53 +1,54 @@
 package com.nyra.app.android.feature.home
 
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.nyra.app.android.core.model.CardAction
 import com.nyra.app.android.core.model.CardActionType
-import com.nyra.app.android.core.model.PresenceCode
-import com.nyra.app.android.feature.home.model.AtmosphereState
 
+/**
+ * Legacy non-adaptive Home route.
+ *
+ * The previous implementation called `HomeMockup` (a hand-painted Canvas mockup
+ * with Compose API drift that no longer compiles); that file has been deleted.
+ * The adaptive Home is now reachable via `core/ui_state/runtime/AdaptiveHomeRoute`
+ * and is the one wired into `MainActivity`.
+ *
+ * This composable is kept as a thin stub so the Hilt ViewModel + action dispatch
+ * scaffolding stays validated by the compiler. It renders a minimal placeholder
+ * and is not referenced by Navigation today. Delete the file or rebuild the body
+ * when a non-adaptive variant is needed again.
+ */
 @Composable
 fun HomeRoute(
     onOpenCheckIn: () -> Unit,
     onOpenJournal: () -> Unit,
     onOpenPause: () -> Unit,
     onOpenInsights: () -> Unit,
+    modifier: Modifier = Modifier,
     viewModel: HomeViewModel = hiltViewModel()
 ) {
     val uiState by viewModel.uiState.collectAsStateWithLifecycle()
 
+    @Suppress("UNUSED_VARIABLE")
     val handleCardAction: (CardAction) -> Unit = { action ->
         when (action.type) {
             CardActionType.OpenCheckIn -> onOpenCheckIn()
             CardActionType.OpenJournal -> onOpenJournal()
             CardActionType.OpenPause -> onOpenPause()
             CardActionType.OpenInsight -> onOpenInsights()
-            CardActionType.ShowAction -> {
-                // TODO: Show bottom sheet or snackbar later
-            }
+            CardActionType.ShowAction -> Unit
             CardActionType.None -> Unit
         }
     }
 
-    // Map Domain TimeOfDay or Presence to AtmosphereState if needed, 
-    // for now using default EVENING as in system description or deriving from state
-    val atmosphere = when (uiState.presenceState?.code) {
-        PresenceCode.DrainedPresence -> AtmosphereState.TIRED
-        PresenceCode.RestlessPresence -> AtmosphereState.RESTLESS
-        PresenceCode.CalmPresence -> AtmosphereState.CALM
-        PresenceCode.GroundedPresence -> AtmosphereState.GROUNDED
-        else -> AtmosphereState.EVENING
+    Box(modifier = modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+        Text(text = uiState.greeting.ifBlank { "Home (stub)" })
     }
-
-    HomeMockup(
-        atmosphere = atmosphere,
-        presenceCode = uiState.presenceState?.code ?: PresenceCode.NeutralPresence,
-        cards = uiState.cards,
-        greeting = uiState.greeting,
-        subtitle = uiState.subtitle ?: "",
-        onCardClick = handleCardAction
-    )
 }

@@ -2,9 +2,11 @@ package com.nyra.app.android.core.ui_state
 
 import com.nyra.app.android.core.profile.model.NyraAreaScore
 import com.nyra.app.android.core.profile.model.NyraVisualState
+import com.nyra.app.android.core.rules.TimeOfDayResolver
 import com.nyra.app.android.core.ui_state.asset.NyraUiStateAssetResolver
 import com.nyra.app.android.core.ui_state.composition.NyraScreenCompositionResolver
 import com.nyra.app.android.core.ui_state.model.NyraTextTone
+import com.nyra.app.android.core.ui_state.resolver.NyraAtmosphereTimeModulator
 import com.nyra.app.android.core.ui_state.resolver.NyraUiStateBlender
 import com.nyra.app.android.core.ui_state.resolver.NyraUiStateConfigResolverImpl
 import com.nyra.app.android.core.ui_state.resolver.NyraUiStateDefinitions
@@ -20,7 +22,9 @@ class NyraUiStateResolverTest {
     private val resolver = NyraUiStateConfigResolverImpl(
         definitions = definitions,
         blender = NyraUiStateBlender(),
-        compositionResolver = NyraScreenCompositionResolver()
+        compositionResolver = NyraScreenCompositionResolver(),
+        timeOfDayResolver = TimeOfDayResolver(),
+        timeModulator = NyraAtmosphereTimeModulator()
     )
 
     @Test
