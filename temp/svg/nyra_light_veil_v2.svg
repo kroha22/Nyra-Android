@@ -1,0 +1,12 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="b"><feGaussianBlur stdDeviation="42"/></filter>
+<linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="rgba(255,255,255,0)"/>
+<stop offset="50%" stop-color="rgba(255,255,255,0.05)"/>
+<stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+</linearGradient>
+</defs>
+<path d="M-120 580 C260 480 540 520 830 420 C1110 320 1360 280 1740 180 L1740 420 C1400 470 1120 560 840 650 C560 740 280 760 -120 820 Z" fill="url(#g1)" filter="url(#b)" opacity="0.75"/>
+<path d="M-80 320 C300 260 620 300 880 250 C1120 210 1340 180 1680 220 L1680 360 C1360 340 1100 370 860 430 C600 500 320 500 -80 560 Z" fill="url(#g1)" filter="url(#b)" opacity="0.42"/>
+</svg>

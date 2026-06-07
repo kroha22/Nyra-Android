@@ -1,0 +1,36 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <filter id="wideBlur"><feGaussianBlur stdDeviation="24"/></filter>
+  <filter id="softBlur"><feGaussianBlur stdDeviation="10"/></filter>
+  <linearGradient id="clipFade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="rgba(255,255,255,0)"/>
+    <stop offset="20%" stop-color="rgba(255,255,255,0.04)"/>
+    <stop offset="55%" stop-color="rgba(255,255,255,0.16)"/>
+    <stop offset="82%" stop-color="rgba(255,255,255,0.045)"/>
+    <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+  </linearGradient>
+  <radialGradient id="core" cx="55%" cy="50%" r="40%">
+    <stop offset="0%" stop-color="rgba(255,255,255,0.16)"/>
+    <stop offset="35%" stop-color="rgba(255,255,255,0.07)"/>
+    <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+  </radialGradient>
+</defs>
+
+<g filter="url(#wideBlur)">
+  <ellipse cx="850" cy="558" rx="600" ry="28" fill="url(#core)"/>
+  <ellipse cx="760" cy="600" rx="460" ry="14" fill="rgba(255,255,255,0.055)"/>
+  <ellipse cx="1010" cy="625" rx="300" ry="9" fill="rgba(255,255,255,0.075)"/>
+</g>
+
+<g filter="url(#softBlur)">
+  <path d="M230 558 C435 538 610 568 820 555 C1060 540 1230 566 1450 545" stroke="url(#clipFade)" stroke-width="3.2" fill="none"/>
+  <path d="M390 585 C560 573 710 596 940 585 C1120 577 1260 590 1370 579" stroke="rgba(255,255,255,0.075)" stroke-width="6" fill="none"/>
+  <path d="M470 623 C620 615 760 632 965 620 C1080 614 1185 621 1300 616" stroke="rgba(255,255,255,0.055)" stroke-width="4" fill="none"/>
+</g>
+
+<g opacity="0.9">
+  <path d="M520 552 C680 546 840 558 1040 548" stroke="rgba(255,255,255,0.20)" stroke-width="0.75" fill="none"/>
+  <path d="M705 578 C810 574 935 579 1065 573" stroke="rgba(255,255,255,0.16)" stroke-width="0.55" fill="none"/>
+  <path d="M870 610 C960 606 1045 612 1135 606" stroke="rgba(255,255,255,0.12)" stroke-width="0.45" fill="none"/>
+</g>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+<g fill="none" stroke-linecap="round">
+<path d="M1240 -180 A640 640 0 0 1 1560 700" stroke="rgba(255,255,255,0.028)" stroke-width="1.1"/>
+<path d="M1190 -120 A560 560 0 0 1 1470 620" stroke="rgba(255,255,255,0.016)" stroke-width="1"/>
+<path d="M-180 820 A860 860 0 0 0 780 980" stroke="rgba(255,255,255,0.020)" stroke-width="1"/>
+<path d="M-120 760 A720 720 0 0 0 640 930" stroke="rgba(255,255,255,0.012)" stroke-width="1"/>
+</g>
+</svg>

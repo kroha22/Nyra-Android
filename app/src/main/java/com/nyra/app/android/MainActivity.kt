@@ -10,6 +10,7 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.ui.Modifier
 import com.nyra.app.android.core.designsystem.theme.NyraTheme
 import com.nyra.app.android.core.onboarding.runtime.NyraRootRoute
+import com.nyra.app.android.core.splash.runtime.NyraSplashScreen
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
@@ -20,11 +21,13 @@ class MainActivity : ComponentActivity() {
         setContent {
             NyraTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    NyraRootRoute(
+                    NyraSplashScreen(
                         modifier = Modifier
                             .fillMaxSize()
                             .padding(innerPadding)
-                    )
+                    ) {
+                        NyraRootRoute(modifier = Modifier.fillMaxSize())
+                    }
                 }
             }
         }

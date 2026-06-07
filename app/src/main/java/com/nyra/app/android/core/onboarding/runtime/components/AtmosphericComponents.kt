@@ -30,6 +30,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.nyra.app.android.core.ui_state.resolver.NyraNocturnePalette
+// NyraCalibrationPaletteV1.0 typography + glass surface colors come from NyraCalibrationPaletteV1.
+// The Calibration overlay rebalances contrast independently of Home / other surfaces.
 
 /**
  * Reusable atmospheric UI primitives for onboarding screens.
@@ -44,7 +46,7 @@ import com.nyra.app.android.core.ui_state.resolver.NyraNocturnePalette
 fun OnboardingTitle(text: String) {
     Text(
         text = text,
-        color = NyraNocturnePalette.TextPrimary.toColor(),
+        color = NyraCalibrationPaletteV1.TextPrimary.toColor(),
         fontSize = 28.sp,
         fontWeight = FontWeight.Light,
         lineHeight = 38.sp,
@@ -56,7 +58,7 @@ fun OnboardingTitle(text: String) {
 fun OnboardingSubtitle(text: String) {
     Text(
         text = text,
-        color = NyraNocturnePalette.TextSecondary.toColor(),
+        color = NyraCalibrationPaletteV1.TextSecondary.toColor(),
         fontSize = 15.sp,
         fontWeight = FontWeight.Light,
         lineHeight = 22.sp
@@ -67,7 +69,7 @@ fun OnboardingSubtitle(text: String) {
 fun OnboardingCaption(text: String) {
     Text(
         text = text,
-        color = NyraNocturnePalette.TextTertiary.toColor(),
+        color = NyraCalibrationPaletteV1.TextTertiary.toColor(),
         fontSize = 12.sp,
         fontWeight = FontWeight.Light,
         lineHeight = 18.sp
@@ -78,7 +80,7 @@ fun OnboardingCaption(text: String) {
 fun OnboardingEyebrow(text: String) {
     Text(
         text = text.uppercase(),
-        color = NyraNocturnePalette.TextSecondary.toColor(),
+        color = NyraCalibrationPaletteV1.TextSecondary.toColor(),
         fontSize = 11.sp,
         fontWeight = FontWeight.Normal,
         letterSpacing = 3.sp
@@ -98,23 +100,25 @@ fun AtmosphericPrimaryButton(
             .fillMaxWidth()
             .height(56.dp)
             .background(
-                color = NyraNocturnePalette.AuroraRose
-                    .toColor(alphaMultiplier = if (enabled) 0.20f else 0.08f),
+                // NyraCalibrationPaletteV1.0: warmer peach-rose mix at higher saturation but still
+                // restrained — strong focus hierarchy without becoming neon.
+                color = NyraCalibrationPaletteV1.AuroraRose
+                    .toColor(alphaMultiplier = if (enabled) 0.22f else 0.08f),
                 shape = RoundedCornerShape(28.dp)
             )
             .border(
-                width = 0.6.dp,
-                color = NyraNocturnePalette.HorizonLavender
-                    .toColor(alphaMultiplier = if (enabled) 0.45f else 0.15f),
+                width = 0.7.dp,
+                color = NyraCalibrationPaletteV1.WarmPeachGlow
+                    .toColor(alphaMultiplier = if (enabled) 0.55f else 0.18f),
                 shape = RoundedCornerShape(28.dp)
             )
-            .alpha(if (enabled) 1f else 0.55f)
+            .alpha(if (enabled) 1f else 0.50f)
             .clickable(enabled = enabled, onClick = onClick),
         contentAlignment = Alignment.Center
     ) {
         Text(
             text = label,
-            color = NyraNocturnePalette.TextPrimary.toColor(),
+            color = NyraCalibrationPaletteV1.TextPrimary.toColor(),
             fontSize = 15.sp,
             fontWeight = FontWeight.Normal,
             letterSpacing = 1.2.sp
@@ -136,7 +140,7 @@ fun AtmosphericGhostButton(
     ) {
         Text(
             text = label,
-            color = NyraNocturnePalette.TextSecondary.toColor(),
+            color = NyraCalibrationPaletteV1.TextSecondary.toColor(),
             fontSize = 13.sp,
             fontWeight = FontWeight.Light,
             letterSpacing = 1.sp
@@ -158,12 +162,12 @@ fun AtmosphericTextField(
             .fillMaxWidth()
             .height(64.dp)
             .background(
-                color = NyraNocturnePalette.RestingSurface.toColor(),
+                color = NyraCalibrationPaletteV1.SurfaceCard.toColor(),
                 shape = RoundedCornerShape(20.dp)
             )
             .border(
                 width = 0.6.dp,
-                color = NyraNocturnePalette.RingPrimary.toColor(),
+                color = NyraCalibrationPaletteV1.BorderCard.toColor(),
                 shape = RoundedCornerShape(20.dp)
             )
             .padding(horizontal = 22.dp),
@@ -173,9 +177,9 @@ fun AtmosphericTextField(
             value = value,
             onValueChange = onValueChange,
             singleLine = true,
-            cursorBrush = SolidColor(NyraNocturnePalette.HorizonLavender.toColor()),
+            cursorBrush = SolidColor(NyraCalibrationPaletteV1.WarmPeachGlow.toColor()),
             textStyle = TextStyle(
-                color = NyraNocturnePalette.TextPrimary.toColor(),
+                color = NyraCalibrationPaletteV1.TextPrimary.toColor(),
                 fontSize = 17.sp,
                 fontWeight = FontWeight.Light
             ),
@@ -185,7 +189,7 @@ fun AtmosphericTextField(
                     if (value.isEmpty()) {
                         Text(
                             text = placeholder,
-                            color = NyraNocturnePalette.TextTertiary.toColor(),
+                            color = NyraCalibrationPaletteV1.TextTertiary.toColor(),
                             fontSize = 17.sp,
                             fontWeight = FontWeight.Light
                         )
@@ -209,13 +213,15 @@ fun AtmosphericSurface(
     val shape = RoundedCornerShape(24.dp)
     val base = modifier
         .background(
-            color = if (isStrong) NyraNocturnePalette.WarmSurface.toColor() else NyraNocturnePalette.RestingSurface.toColor(),
+            // NyraCalibrationPaletteV1.0: cards float above atmosphere with a slightly warmer tint
+            // (subtle peach inside the strong variant), restrained inner glow.
+            color = if (isStrong) NyraCalibrationPaletteV1.SurfaceCardStrong.toColor() else NyraCalibrationPaletteV1.SurfaceCard.toColor(),
             shape = shape
         )
         .border(
             BorderStroke(
-                width = 0.6.dp,
-                color = if (isStrong) NyraNocturnePalette.RingPrimary.toColor() else NyraNocturnePalette.RingSecondary.toColor()
+                width = 0.7.dp,
+                color = if (isStrong) NyraCalibrationPaletteV1.BorderCardStrong.toColor() else NyraCalibrationPaletteV1.BorderCard.toColor()
             ),
             shape = shape
         )
@@ -245,20 +251,20 @@ fun AtmosphericToggle(
             modifier = Modifier
                 .size(18.dp)
                 .background(
-                    color = if (selected) NyraNocturnePalette.AuroraRose.toColor(0.6f)
+                    color = if (selected) NyraCalibrationPaletteV1.WarmPeachGlow.toColor(0.55f)
                     else Color.Transparent,
                     shape = CircleShape
                 )
                 .border(
                     0.8.dp,
-                    NyraNocturnePalette.HorizonLavender.toColor(0.6f),
+                    NyraCalibrationPaletteV1.BorderCard.toColor(),
                     CircleShape
                 )
         )
         Spacer(modifier = Modifier.width(12.dp))
         Text(
             text = label,
-            color = NyraNocturnePalette.TextPrimary.toColor(),
+            color = NyraCalibrationPaletteV1.TextPrimary.toColor(),
             fontSize = 14.sp,
             fontWeight = FontWeight.Light
         )
@@ -274,14 +280,14 @@ fun AtmosphericChip(
     Box(
         modifier = Modifier
             .background(
-                color = if (selected) NyraNocturnePalette.WarmSurface.toColor()
-                else NyraNocturnePalette.RestingSurface.toColor(),
+                color = if (selected) NyraCalibrationPaletteV1.SurfaceCardStrong.toColor()
+                else NyraCalibrationPaletteV1.SurfaceCard.toColor(),
                 shape = RoundedCornerShape(18.dp)
             )
             .border(
                 width = 0.6.dp,
-                color = if (selected) NyraNocturnePalette.HorizonLavender.toColor(0.5f)
-                else NyraNocturnePalette.RingSecondary.toColor(),
+                color = if (selected) NyraCalibrationPaletteV1.BorderCardStrong.toColor()
+                else NyraCalibrationPaletteV1.BorderCard.toColor(),
                 shape = RoundedCornerShape(18.dp)
             )
             .clickable(onClick = onClick)
@@ -289,7 +295,7 @@ fun AtmosphericChip(
     ) {
         Text(
             text = label,
-            color = NyraNocturnePalette.TextPrimary.toColor(),
+            color = NyraCalibrationPaletteV1.TextPrimary.toColor(),
             fontSize = 13.sp,
             fontWeight = FontWeight.Light
         )
@@ -311,8 +317,11 @@ fun StepProgressDots(currentIndex: Int, total: Int, modifier: Modifier = Modifie
                 modifier = Modifier
                     .size(if (active) 6.dp else 4.dp)
                     .background(
-                        color = NyraNocturnePalette.HorizonLavender
-                            .toColor(if (active) 0.85f else 0.25f),
+                        // Active dot uses focal warm peach; inactive cool moonstone.
+                        color = if (active)
+                            NyraCalibrationPaletteV1.WarmPeachGlow.toColor(0.85f)
+                        else
+                            NyraCalibrationPaletteV1.MoonstoneMist.toColor(0.40f),
                         shape = CircleShape
                     )
             )
@@ -341,15 +350,15 @@ fun OnboardingScaffold(
             if (onBack != null) {
                 Text(
                     text = "Back",
-                    color = NyraNocturnePalette.TextSecondary.toColor(),
+                    color = NyraCalibrationPaletteV1.TextSecondary.toColor(),
                     fontSize = 13.sp,
                     fontWeight = FontWeight.Light,
                     modifier = Modifier.clickable(onClick = onBack)
                 )
             } else {
                 Text(
-                    text = "Nyra",
-                    color = NyraNocturnePalette.TextSecondary.toColor(),
+                    text = "nyra",
+                    color = NyraCalibrationPaletteV1.TextSecondary.toColor(),
                     fontSize = 12.sp,
                     fontWeight = FontWeight.Light,
                     letterSpacing = 4.sp

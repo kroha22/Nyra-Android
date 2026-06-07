@@ -1,0 +1,9 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+<g fill="none" stroke-linecap="round">
+<circle cx="840" cy="430" r="170" stroke="rgba(255,255,255,0.028)" stroke-width="1" stroke-dasharray="380 120 90 260"/>
+<circle cx="840" cy="430" r="290" stroke="rgba(255,255,255,0.018)" stroke-width="1" stroke-dasharray="520 180 120 360"/>
+<circle cx="840" cy="430" r="520" stroke="rgba(255,255,255,0.010)" stroke-width="1" stroke-dasharray="760 260 220 520"/>
+<path d="M1210 180 A560 560 0 0 1 1500 660" stroke="rgba(255,255,255,0.022)" stroke-width="1.1"/>
+<path d="M360 690 A640 640 0 0 1 390 170" stroke="rgba(255,255,255,0.014)" stroke-width="1"/>
+</g>
+</svg>

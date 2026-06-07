@@ -38,6 +38,7 @@ import com.nyra.app.android.core.onboarding.runtime.components.OnboardingScaffol
 import com.nyra.app.android.core.onboarding.runtime.components.OnboardingSubtitle
 import com.nyra.app.android.core.onboarding.runtime.components.OnboardingTitle
 import com.nyra.app.android.core.onboarding.runtime.components.toColor
+import com.nyra.app.android.core.onboarding.runtime.components.NyraCalibrationPaletteV1
 import com.nyra.app.android.core.ui_state.resolver.NyraNocturnePalette
 import java.time.LocalDate
 import kotlinx.coroutines.delay
@@ -146,7 +147,7 @@ fun TrustLayerScreen(viewModel: NyraOnboardingViewModel) {
                 Column(verticalArrangement = Arrangement.spacedBy(12.dp)) {
                     Text(
                         text = "Nyra uses symbolic emotional patterns and emotional signals — not deterministic predictions.",
-                        color = NyraNocturnePalette.TextPrimary.toColor(),
+                        color = NyraCalibrationPaletteV1.TextPrimary.toColor(),
                         fontSize = 17.sp,
                         fontWeight = FontWeight.Light,
                         lineHeight = 26.sp
@@ -203,7 +204,7 @@ fun CalibratingScreen(viewModel: NyraOnboardingViewModel) {
                 ) { current ->
                     Text(
                         text = "${current.body}…",
-                        color = NyraNocturnePalette.TextPrimary.toColor(),
+                        color = NyraCalibrationPaletteV1.TextPrimary.toColor(),
                         fontSize = 22.sp,
                         fontWeight = FontWeight.Light,
                         lineHeight = 32.sp,
@@ -234,7 +235,7 @@ private fun StageBar(activeStage: CalibrationStage) {
                     .height(3.dp)
                     .width(28.dp)
                     .background(
-                        color = NyraNocturnePalette.HorizonLavender.toColor(0.7f),
+                        color = NyraCalibrationPaletteV1.HorizonLavenderV1.toColor(0.7f),
                         shape = RoundedCornerShape(2.dp)
                     )
             )

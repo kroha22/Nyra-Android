@@ -1,0 +1,40 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <filter id="lineSoft"><feGaussianBlur stdDeviation="0.35"/></filter>
+  <filter id="nodeSoft"><feGaussianBlur stdDeviation="1.2"/></filter>
+  <linearGradient id="fadeLineA" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="rgba(255,255,255,0)"/>
+    <stop offset="18%" stop-color="rgba(255,255,255,0.055)"/>
+    <stop offset="60%" stop-color="rgba(255,255,255,0.145)"/>
+    <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+  </linearGradient>
+  <linearGradient id="fadeLineB" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="rgba(255,255,255,0)"/>
+    <stop offset="35%" stop-color="rgba(255,255,255,0.10)"/>
+    <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+  </linearGradient>
+</defs>
+
+
+<g fill="none" stroke-linecap="round" filter="url(#lineSoft)">
+  <path d="M250 615 C430 300 850 205 1245 395" stroke="url(#fadeLineA)" stroke-width="1.15"/>
+  <path d="M340 430 C520 510 665 610 612 735" stroke="rgba(255,255,255,0.045)" stroke-width="0.8"/>
+  <path d="M640 650 C760 510 1005 500 1185 665" stroke="url(#fadeLineB)" stroke-width="0.95"/>
+  <path d="M920 220 C1140 292 1295 444 1260 640" stroke="rgba(255,255,255,0.065)" stroke-width="0.9"/>
+  <path d="M505 270 C690 226 850 285 985 405" stroke="rgba(255,255,255,0.035)" stroke-width="0.65"/>
+  <path d="M750 370 C875 320 985 335 1080 430" stroke="rgba(255,255,255,0.08)" stroke-width="0.75" stroke-dasharray="1 13"/>
+</g>
+
+<g filter="url(#nodeSoft)">
+  <circle cx="790" cy="430" r="5.2" fill="rgba(255,255,255,0.16)"/>
+  <circle cx="1075" cy="638" r="3.4" fill="rgba(255,255,255,0.115)"/>
+  <circle cx="490" cy="355" r="2.2" fill="rgba(255,255,255,0.075)"/>
+  <circle cx="1215" cy="515" r="2.4" fill="rgba(255,255,255,0.07)"/>
+  <circle cx="650" cy="610" r="1.9" fill="rgba(255,255,255,0.055)"/>
+</g>
+
+<g opacity="0.42">
+  <circle cx="795" cy="430" r="72" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+  <circle cx="795" cy="430" r="118" fill="none" stroke="rgba(255,255,255,0.018)" stroke-width="1"/>
+</g>
+</svg>

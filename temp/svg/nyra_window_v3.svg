@@ -1,0 +1,31 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <filter id="haze"><feGaussianBlur stdDeviation="18"/></filter>
+  <filter id="deepSoft"><feGaussianBlur stdDeviation="6"/></filter>
+  <linearGradient id="lightSpill" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="rgba(255,255,255,0)"/>
+    <stop offset="48%" stop-color="rgba(255,255,255,0.035)"/>
+    <stop offset="100%" stop-color="rgba(255,255,255,0.11)"/>
+  </linearGradient>
+  <linearGradient id="verticalHaze" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="rgba(255,255,255,0.02)"/>
+    <stop offset="50%" stop-color="rgba(255,255,255,0.055)"/>
+    <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+  </linearGradient>
+</defs>
+
+<rect x="0" y="0" width="330" height="900" fill="rgba(0,0,0,0.52)"/>
+<rect x="1350" y="0" width="250" height="900" fill="rgba(0,0,0,0.22)"/>
+
+<g transform="skewX(-1.2)">
+  <rect x="1015" y="115" width="430" height="650" fill="rgba(255,255,255,0.018)"/>
+  <rect x="1055" y="155" width="340" height="555" fill="url(#lightSpill)" filter="url(#haze)"/>
+  <path d="M1045 150 L1395 150 L1380 710 L1065 710 Z" fill="none" stroke="rgba(255,255,255,0.055)" stroke-width="2"/>
+  <path d="M1078 185 L1363 185 L1352 678 L1092 678 Z" fill="none" stroke="rgba(255,255,255,0.026)" stroke-width="1.4"/>
+</g>
+
+<rect x="745" y="90" width="420" height="720" fill="url(#verticalHaze)" opacity="0.38" filter="url(#haze)"/>
+<path d="M970 130 C945 330 955 545 920 780" stroke="rgba(255,255,255,0.022)" stroke-width="40" fill="none" filter="url(#deepSoft)"/>
+
+<rect x="0" y="760" width="1600" height="140" fill="rgba(0,0,0,0.28)"/>
+</svg>

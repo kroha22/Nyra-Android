@@ -1,0 +1,40 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <filter id="farBlur"><feGaussianBlur stdDeviation="34"/></filter>
+  <filter id="midBlur"><feGaussianBlur stdDeviation="16"/></filter>
+  <filter id="nearBlur"><feGaussianBlur stdDeviation="5"/></filter>
+
+  <linearGradient id="lowerFade" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="rgba(255,255,255,0.16)"/>
+    <stop offset="55%" stop-color="rgba(255,255,255,0.08)"/>
+    <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+  </linearGradient>
+
+  <radialGradient id="hiddenGlow" cx="54%" cy="64%" r="38%">
+    <stop offset="0%" stop-color="rgba(255,255,255,0.13)"/>
+    <stop offset="45%" stop-color="rgba(255,255,255,0.045)"/>
+    <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+  </radialGradient>
+
+  <linearGradient id="edgeMist" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="rgba(255,255,255,0)"/>
+    <stop offset="24%" stop-color="rgba(255,255,255,0.045)"/>
+    <stop offset="56%" stop-color="rgba(255,255,255,0.025)"/>
+    <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+  </linearGradient>
+</defs>
+
+<ellipse cx="850" cy="620" rx="720" ry="210" fill="url(#hiddenGlow)" filter="url(#farBlur)"/>
+
+<path d="M-60 528 C130 520 250 548 405 536 C585 520 720 470 900 506 C1080 542 1220 575 1420 548 C1510 536 1580 532 1660 546 L1660 900 L-60 900 Z"
+      fill="rgba(255,255,255,0.035)" filter="url(#farBlur)"/>
+
+<path d="M-40 615 C135 592 290 638 455 625 C610 612 720 570 875 600 C1025 628 1155 682 1370 650 C1505 630 1585 642 1640 655 L1640 900 L-40 900 Z"
+      fill="rgba(255,255,255,0.075)" filter="url(#midBlur)"/>
+
+<path d="M-80 704 C165 684 320 722 520 704 C690 688 800 658 960 690 C1125 723 1280 748 1490 724 C1550 718 1608 720 1680 732 L1680 900 L-80 900 Z"
+      fill="url(#lowerFade)" filter="url(#nearBlur)"/>
+
+<path d="M0 570 C220 548 450 594 680 570 C905 547 1110 610 1320 585 C1440 570 1525 575 1600 590"
+      fill="none" stroke="url(#edgeMist)" stroke-width="58" opacity="0.75" filter="url(#farBlur)"/>
+</svg>
